@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T13:35:51.156132+00:00",
+  "updated_at": "2026-09-20T13:49:47.013545+00:00",
   "news": [
     {
       "title": "‘It&apos;s awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -93,20 +93,6 @@
       "title_ko": "잭 다니엘의 얼굴에 연결된 위스키 브랜드 두 번째 챕터 7"
     },
     {
-      "title": "‘I screwed up’: Larry Fink lost $100M in a single quarter, got pushed out, and built BlackRock on top of the wreckage",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/screwed-larry-fink-lost-100m-114500926.html",
-      "pubDate": "2026-09-19T11:45:00Z",
-      "tag": "general",
-      "title_ko": "‘망쳤어’: 래리 핀크는 한 분기에 $ 100M를 잃고 밀려나 잔해 위에 블랙록을 세웠습니다."
-    },
-    {
-      "title": "5 smart things wealthy baby boomers do with their money that guarantees them a comfy lifestyle. How to copy them",
-      "link": "https://finance.yahoo.com/markets/articles/5-smart-things-wealthy-baby-114500034.html",
-      "pubDate": "2026-09-19T11:45:00Z",
-      "tag": "general",
-      "title_ko": "부유한 베이비 붐 세대가 편안한 라이프스타일을 보장하는 5가지 현명한 방법. 복사하는 방법"
-    },
-    {
       "title": "Nestlé Loses the Keys to Its Russian Business",
       "link": "https://finance.yahoo.com/markets/stocks/articles/nestl-loses-keys-russian-business-115500444.html",
       "pubDate": "2026-09-19T11:55:00Z",
@@ -114,11 +100,25 @@
       "title_ko": "러시아 사업의 열쇠를 잃은 네슬레"
     },
     {
-      "title": "A Pause on Advanced AI Is Wishful Thinking, But Adobe Stock Is a Buy Anyway",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pause-advanced-ai-wishful-thinking-120002470.html",
-      "pubDate": "2026-09-19T12:00:02Z",
+      "title": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/bitcoin-is-back-at-80000-as-rest-of-crypto-joins-the-rally-chart-of-the-day-115955499.html",
+      "pubDate": "2026-09-19T11:59:55Z",
       "tag": "general",
-      "title_ko": "고급 AI에 대한 일시 중지는 소망하는 생각이지만 Adobe Stock은 어쨌든 구매입니다."
+      "title_ko": "나머지 암호화폐가 랠리에 참여함에 따라 비트코인이 $ 80,000로 돌아왔습니다: 오늘의 차트"
+    },
+    {
+      "title": "YardFlow lands over 200-site yard automation deal",
+      "link": "https://finance.yahoo.com/technology/articles/yardflow-lands-over-200-yard-120000605.html",
+      "pubDate": "2026-09-19T12:00:00Z",
+      "tag": "general",
+      "title_ko": "YardFlow는 200개 이상의 현장 야드 자동화 거래에 착수합니다."
+    },
+    {
+      "title": "Mark Cuban spent $125,000 on a lifetime American Airlines pass after a drunk dial — here's why the math worked",
+      "link": "https://finance.yahoo.com/markets/articles/mark-cuban-spent-125-000-120000383.html",
+      "pubDate": "2026-09-19T12:00:00Z",
+      "tag": "general",
+      "title_ko": "마크 쿠반 (Mark Cuban) 은 술에 취한 후 평생 아메리칸 항공 패스에 $ 125,000를 썼습니다. 수학이 효과가 있었던 이유는 다음과 같습니다."
     },
     {
       "title": "80-year-old discount fashion chain closing 120 stores",
@@ -1808,12 +1808,12 @@
         1363.5699462890625,
         1376.5999755859375,
         1379.530029296875,
-        1385.0
+        1385.949951171875
       ],
-      "last": 1385.0,
-      "chg_pct": 0.39650972338115453,
-      "rsi14": 53.99780990596775,
-      "ma20": 1363.335498046875
+      "last": 1385.949951171875,
+      "chg_pct": 0.4653702158460541,
+      "rsi14": 54.47746986762834,
+      "ma20": 1363.3829956054688
     },
     "jpy": {
       "live": true,
