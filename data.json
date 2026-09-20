@@ -1,173 +1,221 @@
 {
-  "updated_at": "2026-09-20T19:05:31.572582+00:00",
+  "updated_at": "2026-09-20T19:10:30.648415+00:00",
   "news": [
     {
       "title": "‘It&apos;s awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
+      "description": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
       "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
       "pubDate": "Sun, 20 Sep 2026 12:47:23 GMT",
       "tag": "ndx",
-      "title_ko": "‘끔찍하다’: 관세, 급증하는 연료비 및 높은 금리가 미국 기업을 압박하는 방법"
+      "title_ko": "‘끔찍하다’: 관세, 급증하는 연료비 및 높은 금리가 미국 기업을 압박하는 방법",
+      "desc_ko": "관세, 연료 가격 및 금리는 미국 기업, 특히 제조업체, 자동차 공급 업체, 소매 업체 및 운송 사업을 압박하고 있습니다."
     },
     {
       "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+      "description": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
       "link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
       "pubDate": "Fri, 18 Sep 2026 18:28:31 GMT",
       "tag": "ndx",
-      "title_ko": "케빈 워시 (Kevin Warsh) 의 세 단어는 월스트리트가 연준이 금리 인상으로 얼마나 멀리 갈지 궁금해합니다."
+      "title_ko": "케빈 워시 (Kevin Warsh) 의 세 단어는 월스트리트가 연준이 금리 인상으로 얼마나 멀리 갈지 궁금해합니다.",
+      "desc_ko": "양 회장은 이번 주 금리인상 결정에 대해 설명하고, 앞으로의 행보에 대해 성가신 의문을 제기했다."
     },
     {
       "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: &apos;Father Time always wins&apos;",
+      "description": "Buffett's son Howard will replace him as chairman, as dictated by a long-standing succession plan, Berkshire said.",
       "link": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
       "pubDate": "Fri, 18 Sep 2026 12:04:02 GMT",
       "tag": "ndx",
-      "title_ko": "워렌 버핏은 버크셔 해서웨이 회장직에서 물러난다: '아버지 시간은 언제나 승리한다'"
+      "title_ko": "워렌 버핏은 버크셔 해서웨이 회장직에서 물러난다: '아버지 시간은 언제나 승리한다'",
+      "desc_ko": "버크셔는 버핏의 아들 하워드가 오랜 승계 계획에 따라 그를 회장으로 교체할 것이라고 말했다."
     },
     {
       "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
+      "description": "Securitize surged Thursday after federal regulators greenlit the issuing of tokenized stocks on some trading platforms in the U.S.",
       "link": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
       "pubDate": "Thu, 17 Sep 2026 17:59:51 GMT",
       "tag": "ndx",
-      "title_ko": "규제 당국이 일부 토큰화 된 미국 주식 거래를 그린 라이트 한 후 점프 유동화"
+      "title_ko": "규제 당국이 일부 토큰화 된 미국 주식 거래를 그린 라이트 한 후 점프 유동화",
+      "desc_ko": "연방 규제 당국이 미국의 일부 거래 플랫폼에서 토큰화 된 주식 발행을 녹색으로 밝힌 후 목요일에 유동화가 급증했습니다."
     },
     {
       "title": "A Chinese AI company just connected its model to Wall Street&apos;s leading data providers",
+      "description": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms",
       "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
       "pubDate": "Fri, 18 Sep 2026 08:41:11 GMT",
       "tag": "ndx",
-      "title_ko": "중국 AI 기업이 월스트리트의 선도적인 데이터 제공업체에 자사 모델을 연결했습니다."
+      "title_ko": "중국 AI 기업이 월스트리트의 선도적인 데이터 제공업체에 자사 모델을 연결했습니다.",
+      "desc_ko": "스타트업 문샷 (Moonshot) 은 투자은행 CICC에서 벤처 캐피털 회사에 이르기까지 금융 업계의 거물들과 계약을 체결했다고 밝혔다."
     },
     {
       "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
+      "description": "Rhodium Group's latest analysis of Chinese and U.S. AI companies also found that low revenue did not necessarily correspond with lower valuation.",
       "link": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
       "pubDate": "Thu, 17 Sep 2026 09:00:01 GMT",
       "tag": "ndx",
-      "title_ko": "연구 그룹 로듐은 OpenAI와 Anthropic이 중국의 모든 AI 모델을 합친 것보다 10배 더 많은 수익을 올리고 있다고 말합니다."
+      "title_ko": "연구 그룹 로듐은 OpenAI와 Anthropic이 중국의 모든 AI 모델을 합친 것보다 10배 더 많은 수익을 올리고 있다고 말합니다.",
+      "desc_ko": "중국 및 미국 AI 기업에 대한 로듐 그룹의 최신 분석에서도 낮은 수익이 반드시 낮은 가치 평가와 일치하지는 않는 것으로 나타났습니다."
     },
     {
       "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
+      "description": "The crypto platform’s market value has fallen to about $753 million, putting fresh attention on the licenses, custody infrastructure and customer relationships a buyer could inherit.",
       "link": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
       "pubDate": "Sun, 20 Sep 2026 14:54:48 +0000",
       "tag": "btc",
-      "title_ko": "암호화 플랫폼 Gemini의 주식은 IPO에서 80% 하락했습니다. 이는 인수 추측을 되살리는 것입니다."
+      "title_ko": "암호화 플랫폼 Gemini의 주식은 IPO에서 80% 하락했습니다. 이는 인수 추측을 되살리는 것입니다.",
+      "desc_ko": "암호화 플랫폼의 시장 가치는 약 7억 5,300만 $ 로 하락하여 구매자가 상속할 수 있는 라이선스, 보관 인프라 및 고객 관계에 새로운 관심을 기울이고 있습니다."
     },
     {
       "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
+      "description": "Goldman Sachs and Citizens analysts said the agency's move create new opportunities in custody, tokenization infrastructure and stablecoin settlement, while giving brokers room to expand onchain products.",
       "link": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
       "pubDate": "Sun, 20 Sep 2026 12:00:00 +0000",
       "tag": "btc",
-      "title_ko": "애널리스트들은 코인베이스, 로빈후드, 서클이 SEC의 토큰화 주식 푸시의 초기 승자가 될 수 있다고 말한다."
+      "title_ko": "애널리스트들은 코인베이스, 로빈후드, 서클이 SEC의 토큰화 주식 푸시의 초기 승자가 될 수 있다고 말한다.",
+      "desc_ko": "골드만삭스와 시티즌스 애널리스트들은 이 기관의 움직임이 위탁, 토큰화 인프라 및 스테이블코인 정산에 새로운 기회를 창출하는 동시에 브로커들에게 온체인 제품을 확장할 수 있는 여지를 제공한다고 말했다."
     },
     {
       "title": "Crypto traders braced for a total wipeout this week but Bitcoin had other plans",
+      "description": "Market experts view bitcoin’s price stability as evidence of its fundamental independence from Washington, maintaining that global liquidity and adoption cycles remain the primary growth drivers.",
       "link": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
       "pubDate": "Sun, 20 Sep 2026 12:00:00 +0000",
       "tag": "btc",
-      "title_ko": "암호화폐 거래자들은 이번 주에 총체적인 소탕에 나섰지만 비트코인은 다른 계획을 가지고 있었습니다."
+      "title_ko": "암호화폐 거래자들은 이번 주에 총체적인 소탕에 나섰지만 비트코인은 다른 계획을 가지고 있었습니다.",
+      "desc_ko": "시장 전문가들은 비트코인의 가격 안정성을 워싱턴으로부터의 근본적인 독립성의 증거로 보고 있으며, 글로벌 유동성과 채택 주기가 주요 성장 동력으로 남아 있다고 주장합니다."
     },
     {
       "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
+      "description": "U.S. agencies are racing to substitute their regulations for the law that was meant to set crypto markets in governmental bedrock, but will the stand-ins last?",
       "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
       "pubDate": "Sat, 19 Sep 2026 16:00:00 +0000",
       "tag": "btc",
-      "title_ko": "명확성 법, 우리는 당신을 거의 몰랐습니다: 우리는 법안에 무엇이 있었는지와 그것을 대체하는 것이 무엇인지 살펴 봅니다."
+      "title_ko": "명확성 법, 우리는 당신을 거의 몰랐습니다: 우리는 법안에 무엇이 있었는지와 그것을 대체하는 것이 무엇인지 살펴 봅니다.",
+      "desc_ko": "미국 기관들은 정부의 기반암에 암호화 시장을 설정하기위한 법에 대한 규정을 대체하기 위해 경쟁하고 있지만, 스탠드 인은 지속될 것인가?"
     },
     {
       "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
+      "description": "Marc van der Chijs sold much of his bitcoin to invest in AI. Now, growing concerns about the technology accompany a move to put some profits back into crypto.",
       "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
       "pubDate": "Sat, 19 Sep 2026 14:00:00 +0000",
       "tag": "btc",
-      "title_ko": "'우리는 통제력을 잃었습니다': 암호화폐 개척자는 AI가 시스템 뱅킹 및 인프라 충격을 유발할 수 있다고 경고합니다"
+      "title_ko": "'우리는 통제력을 잃었습니다': 암호화폐 개척자는 AI가 시스템 뱅킹 및 인프라 충격을 유발할 수 있다고 경고합니다",
+      "desc_ko": "Marc van der Chijs는 AI에 투자하기 위해 비트코인의 상당 부분을 매각했습니다. 이제 기술에 대한 우려가 커지면서 일부 이익을 암호화폐에 다시 투자하려는 움직임이 수반됩니다."
     },
     {
       "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
+      "description": "The upcoming Batch V1.1 can make linked asset and payment transfers succeed together or fail together, and Ripple says commercial projects are already being built around the feature after an extensive security review.",
       "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
       "pubDate": "Sat, 19 Sep 2026 13:39:15 +0000",
       "tag": "btc",
-      "title_ko": "Ripple은 자산 관리자가 XRP Ledger의 다음 결제 업그레이드를 준비하고 있다고 말합니다."
+      "title_ko": "Ripple은 자산 관리자가 XRP Ledger의 다음 결제 업그레이드를 준비하고 있다고 말합니다.",
+      "desc_ko": "곧 출시될 Batch v1.1은 연결된 자산과 결제 전송을 함께 성공하거나 함께 실패하게 만들 수 있으며, Ripple은 광범위한 보안 검토를 거친 후 이 기능을 중심으로 상업 프로젝트가 이미 구축되고 있다고 말합니다."
     },
     {
       "title": "80-year-old discount fashion chain closing 120 stores",
+      "description": "",
       "link": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html",
       "pubDate": "2026-09-19T23:02:22Z",
       "tag": "general",
-      "title_ko": "80년 전통의 할인 패션 체인점, 120개 매장 폐쇄"
+      "title_ko": "80년 전통의 할인 패션 체인점, 120개 매장 폐쇄",
+      "desc_ko": null
     },
     {
       "title": "Vera Bradley (VRA) Returns to Operating Profit. Can the Recovery Outlast Tariff Refunds?",
+      "description": "",
       "link": "https://finance.yahoo.com/markets/stocks/articles/vera-bradley-vra-returns-operating-185154105.html",
       "pubDate": "2026-09-20T18:51:54Z",
       "tag": "general",
-      "title_ko": "Vera Bradley (VRA) 가 영업 이익으로 돌아갑니다. 복구로 관세 환불이 더 오래 지속될 수 있나요?"
+      "title_ko": "Vera Bradley (VRA) 가 영업 이익으로 돌아갑니다. 복구로 관세 환불이 더 오래 지속될 수 있나요?",
+      "desc_ko": null
     },
     {
       "title": "SPX Technologies (SPXC) Buys FIS Water for $410M. Can Water Management Lift Cooling Returns?",
+      "description": "",
       "link": "https://finance.yahoo.com/markets/stocks/articles/spx-technologies-spxc-buys-fis-184511019.html",
       "pubDate": "2026-09-20T18:45:11Z",
       "tag": "general",
-      "title_ko": "SPX Technologies (SPXC) 는 FIS Water를 $ 410M에 구매합니다. 물 관리가 냉각 반환을 들어 올릴 수 있습니까?"
+      "title_ko": "SPX Technologies (SPXC) 는 FIS Water를 $ 410M에 구매합니다. 물 관리가 냉각 반환을 들어 올릴 수 있습니까?",
+      "desc_ko": null
     },
     {
       "title": "LifeMD (LFMD) Secures AT&amp;T Partnership. Can Free Memberships Produce Paying Patients?",
+      "description": "",
       "link": "https://finance.yahoo.com/healthcare/articles/lifemd-lfmd-secures-t-partnership-184302502.html",
       "pubDate": "2026-09-20T18:43:02Z",
       "tag": "general",
-      "title_ko": "LifeMD (LFMD) 는 AT&amp;T 파트너십을 확보합니다. 무료 멤버십으로 유료 환자를 만들 수 있나요?"
+      "title_ko": "LifeMD (LFMD) 는 AT&amp;T 파트너십을 확보합니다. 무료 멤버십으로 유료 환자를 만들 수 있나요?",
+      "desc_ko": null
     },
     {
       "title": "Trip.com (TCOM) Books RMB5.2 Billion Penalty. Can Overseas Growth Offset Domestic Pressure?",
+      "description": "",
       "link": "https://finance.yahoo.com/markets/stocks/articles/trip-com-tcom-books-rmb5-183136873.html",
       "pubDate": "2026-09-20T18:31:36Z",
       "tag": "general",
-      "title_ko": "Trip.com (TCOM) 은 52억 위안의 벌금을 책정합니다. 해외 증시가 국내 압력을 상쇄할 수 있을까요?"
+      "title_ko": "Trip.com (TCOM) 은 52억 위안의 벌금을 책정합니다. 해외 증시가 국내 압력을 상쇄할 수 있을까요?",
+      "desc_ko": null
     },
     {
       "title": "Chevron CEO sends a strong message on oil price and the economy",
+      "description": "",
       "link": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
       "pubDate": "2026-09-20T16:47:00Z",
       "tag": "general",
-      "title_ko": "셰브론 CEO, 유가와 경제에 강력한 메시지 전달"
+      "title_ko": "셰브론 CEO, 유가와 경제에 강력한 메시지 전달",
+      "desc_ko": null
     },
     {
       "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+      "description": "&#x201c;I racked up this debt to cover my living expenses for two years without an income stream.&#x201d;",
       "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
       "pubDate": "Sun, 20 Sep 2026 17:30:00 GMT",
       "tag": "general",
-      "title_ko": "신용카드 부채가 $ 125,000입니다. 장애를 포함하여 한 달에 $ 17,000의 소득이 파산에 영향을 미칩니까?"
+      "title_ko": "신용카드 부채가 $ 125,000입니다. 장애를 포함하여 한 달에 $ 17,000의 소득이 파산에 영향을 미칩니까?",
+      "desc_ko": "“2년 동안 소득 흐름 없이 생활비를 충당하기 위해 이 빚을 갚았습니다.”"
     },
     {
       "title": "&#x2018;My main goal is to help people&#x2019;: I&#x2019;m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "description": "&#x201c;I also own my home and an SUV outright, with no outstanding debt.&#x201d;",
       "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
       "pubDate": "Sun, 20 Sep 2026 16:30:00 GMT",
       "tag": "general",
-      "title_ko": "‘내 주요 목표는 사람들을 돕는 것입니다.’: 저는 미혼이고, 74세이며, 주머니에 구멍을 뚫고 있는 $ 1,000만 달러를 가지고 있습니다. 어떻게 해야 하나요?"
+      "title_ko": "‘내 주요 목표는 사람들을 돕는 것입니다.’: 저는 미혼이고, 74세이며, 주머니에 구멍을 뚫고 있는 $ 1,000만 달러를 가지고 있습니다. 어떻게 해야 하나요?",
+      "desc_ko": "\"저는 또한 빚 없이 집과 SUV를 소유하고 있습니다.\""
     },
     {
       "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "description": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
       "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
       "pubDate": "Sun, 20 Sep 2026 15:00:00 GMT",
       "tag": "general",
-      "title_ko": "임대 재산이 상환되었지만 현금이 필요합니다. $ 50,000 HELOC을 (를) 꺼내기에 안 좋은 시기인가요?"
+      "title_ko": "임대 재산이 상환되었지만 현금이 필요합니다. $ 50,000 HELOC을 (를) 꺼내기에 안 좋은 시기인가요?",
+      "desc_ko": "연방준비제도 (Fed) 는 수요일 금리 인상률을 3.75% -4.0% 로 분기 포인트 인상한다고 발표했다."
     },
     {
       "title": "Snoopy cups at Starbucks and McDonald&#x2019;s SpongeBob toys are commanding huge markups on eBay",
+      "description": "Adults are scooping up promotional items out of nostalgia &#x2014;&#xa0;and playing into a frenzy around collectibles .",
       "link": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
       "pubDate": "Sun, 20 Sep 2026 14:08:00 GMT",
       "tag": "general",
-      "title_ko": "Starbucks와 McDonald's SpongeBob 장난감의 스누피 컵이 eBay에서 커다란 마크업을 장악하고 있습니다."
+      "title_ko": "Starbucks와 McDonald's SpongeBob 장난감의 스누피 컵이 eBay에서 커다란 마크업을 장악하고 있습니다.",
+      "desc_ko": "어른들은 향수를 불러일으키며 판촉물을 구경하고 수집품을 둘러싸고 광란의 시간을 보내고 있습니다."
     },
     {
       "title": "&#x2018;My total balance should be $20 million&#x2019;: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "description": "&#x201c;I invested on the recommendation of an executive vice president of a major New York investment bank.&#x201d;",
       "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
       "pubDate": "Sun, 20 Sep 2026 14:00:00 GMT",
       "tag": "general",
-      "title_ko": "‘내 총 잔액은 2천만 달러 ($) 여야 합니다.’: 암호화폐 플랫폼에 $ 110만 달러를 투자했습니다. 내가 다 잃어버린 건가?"
+      "title_ko": "‘내 총 잔액은 2천만 달러 ($) 여야 합니다.’: 암호화폐 플랫폼에 $ 110만 달러를 투자했습니다. 내가 다 잃어버린 건가?",
+      "desc_ko": "\"저는 뉴욕의 주요 투자 은행의 총괄 부사장의 추천을 받아 투자했습니다.\""
     },
     {
       "title": "China is chasing SpaceX and setting its sights on the global space economy",
+      "description": "Chinese space-technology players are looking to grow their reach, experts say. They&#x2019;re closing in on Elon Musk and company.",
       "link": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
       "pubDate": "Sun, 20 Sep 2026 13:53:00 GMT",
       "tag": "general",
-      "title_ko": "중국은 스페이스X를 추격하며 세계 우주 경제를 조망하고 있습니다."
+      "title_ko": "중국은 스페이스X를 추격하며 세계 우주 경제를 조망하고 있습니다.",
+      "desc_ko": "전문가들은 중국의 우주 기술 기업들이 그들의 영역을 넓히기를 원하고 있다고 말합니다. 그들은 일론 머스크와 회사에 접근하고 있습니다."
     }
   ],
   "assets": {
