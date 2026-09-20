@@ -65,6 +65,9 @@
   .heat-tile .ht-chg{font-size:10px; color:#000; display:block;}
 
   .cme-row{display:grid; grid-template-columns:1.6fr 1fr 1fr 1fr; gap:6px; padding:5px 2px; font-size:11px; border-bottom:1px dashed #1f1f1f;}
+  .kv-row{display:flex; justify-content:space-between; align-items:center; gap:8px; padding:5px 2px; font-size:11px; border-bottom:1px dashed #1f1f1f;}
+  .kv-row span:first-child{color:var(--white); flex-shrink:0;}
+  .kv-row span:last-child{color:var(--cyan); text-align:right;}
   .cme-row:last-child{border-bottom:none;}
   .cme-row div:nth-child(1){color:var(--white);}
   .cme-row div{text-align:right; color:var(--cyan);}
@@ -463,14 +466,14 @@ async function renderFundamentals(symbolRaw){
     : '컨센서스 데이터 없음';
   box.innerHTML = `
     <div class="cme-row"><div>PER</div><div>${f.per?f.per.toFixed(1):'-'}</div><div>PBR</div><div>${f.pbr?f.pbr.toFixed(2):'-'}</div></div>
-    <div class="cme-row"><div>시가총액</div><div style="grid-column:span 3; text-align:right;">${fmtCap(f.marketCap)}</div></div>
-    <div class="cme-row"><div>52주 최고/최저</div><div style="grid-column:span 3; text-align:right;">${f.week52High?fmtPrice(f.week52High):'-'} / ${f.week52Low?fmtPrice(f.week52Low):'-'}</div></div>
-    <div class="cme-row"><div>배당수익률</div><div style="grid-column:span 3; text-align:right;">${f.divYield?(f.divYield*100).toFixed(2)+'%':'-'}</div></div>
-    <div class="cme-row"><div>배당락일</div><div style="grid-column:span 3; text-align:right;">${f.exDivDate||'-'}</div></div>
-    <div class="cme-row"><div>다음 실적발표일</div><div style="grid-column:span 3; text-align:right;">${f.earningsDate||'-'}</div></div>
-    <div class="cme-row"><div>기관/내부자 보유율</div><div style="grid-column:span 3; text-align:right;">${f.institPct?(f.institPct*100).toFixed(1)+'%':'-'} / ${f.insiderPct?(f.insiderPct*100).toFixed(1)+'%':'-'}</div></div>
-    <div class="cme-row"><div>목표주가(평균)</div><div style="grid-column:span 3; text-align:right;">${f.targetMean?fmtPrice(f.targetMean):'-'}</div></div>
-    <div class="cme-row"><div>애널리스트 의견</div><div style="grid-column:span 3; text-align:right;">${rec} · ${trendHtml}</div></div>
+    <div class="kv-row"><span>시가총액</span><span>${fmtCap(f.marketCap)}</span></div>
+    <div class="kv-row"><span>52주 최고/최저</span><span>${f.week52High?fmtPrice(f.week52High):'-'} / ${f.week52Low?fmtPrice(f.week52Low):'-'}</span></div>
+    <div class="kv-row"><span>배당수익률</span><span>${f.divYield?(f.divYield*100).toFixed(2)+'%':'-'}</span></div>
+    <div class="kv-row"><span>배당락일</span><span>${f.exDivDate||'-'}</span></div>
+    <div class="kv-row"><span>다음 실적발표일</span><span>${f.earningsDate||'-'}</span></div>
+    <div class="kv-row"><span>기관/내부자 보유율</span><span>${f.institPct?(f.institPct*100).toFixed(1)+'%':'-'} / ${f.insiderPct?(f.insiderPct*100).toFixed(1)+'%':'-'}</span></div>
+    <div class="kv-row"><span>목표주가(평균)</span><span>${f.targetMean?fmtPrice(f.targetMean):'-'}</span></div>
+    <div class="kv-row"><span>애널리스트 의견</span><span>${rec} · ${trendHtml}</span></div>
   `;
 }
 
@@ -507,12 +510,12 @@ async function renderOptions(symbolRaw){
   if(!o){ box.innerHTML = '<span style="color:var(--gray)">옵션 데이터 없음 (옵션이 없는 자산이거나 조회 제한)</span>'; return; }
   const pcColor = o.pcVolRatio==null ? 'var(--gray)' : (o.pcVolRatio>1 ? 'var(--red)' : 'var(--green)');
   box.innerHTML = `
-    <div class="cme-row"><div>최근 만기</div><div style="grid-column:span 3; text-align:right;">${o.expiry}</div></div>
-    <div class="cme-row"><div>Put/Call (거래량)</div><div style="grid-column:span 3; text-align:right; color:${pcColor}">${o.pcVolRatio!=null?o.pcVolRatio.toFixed(2):'-'}</div></div>
-    <div class="cme-row"><div>Put/Call (미결제)</div><div style="grid-column:span 3; text-align:right;">${o.pcOiRatio!=null?o.pcOiRatio.toFixed(2):'-'}</div></div>
-    <div class="cme-row"><div>ATM 내재변동성</div><div style="grid-column:span 3; text-align:right;">${o.atmIv!=null?o.atmIv.toFixed(1)+'%':'-'}</div></div>
-    <div class="cme-row"><div>Call 거래량/OI</div><div style="grid-column:span 3; text-align:right;">${o.callVol.toLocaleString()} / ${o.callOI.toLocaleString()}</div></div>
-    <div class="cme-row"><div>Put 거래량/OI</div><div style="grid-column:span 3; text-align:right;">${o.putVol.toLocaleString()} / ${o.putOI.toLocaleString()}</div></div>
+    <div class="kv-row"><span>최근 만기</span><span>${o.expiry}</span></div>
+    <div class="kv-row"><span>Put/Call (거래량)</span><span style="color:${pcColor}">${o.pcVolRatio!=null?o.pcVolRatio.toFixed(2):'-'}</span></div>
+    <div class="kv-row"><span>Put/Call (미결제)</span><span>${o.pcOiRatio!=null?o.pcOiRatio.toFixed(2):'-'}</span></div>
+    <div class="kv-row"><span>ATM 내재변동성</span><span>${o.atmIv!=null?o.atmIv.toFixed(1)+'%':'-'}</span></div>
+    <div class="kv-row"><span>Call 거래량/OI</span><span>${o.callVol.toLocaleString()} / ${o.callOI.toLocaleString()}</span></div>
+    <div class="kv-row"><span>Put 거래량/OI</span><span>${o.putVol.toLocaleString()} / ${o.putOI.toLocaleString()}</span></div>
     <div style="font-size:9px;color:var(--gray);margin-top:3px;">※ Put/Call &gt; 1 = 풋 우세(하방 헤지/약세 심리), &lt; 1 = 콜 우세(상방 베팅/강세 심리)</div>
   `;
 }
@@ -602,12 +605,12 @@ async function renderSpread(){
   const last=spread[spread.length-1];
   const z=(last-mean)/(stdev||1);
   statsEl.innerHTML = `
-    <div class="cme-row"><div>상관계수(일간수익률)</div><div style="grid-column:span 3;text-align:right;">${corr.toFixed(3)}</div></div>
-    <div class="cme-row"><div>Last 스프레드</div><div style="grid-column:span 3;text-align:right;">${last.toFixed(2)}</div></div>
-    <div class="cme-row"><div>Mean / Median</div><div style="grid-column:span 3;text-align:right;">${mean.toFixed(2)} / ${median.toFixed(2)}</div></div>
-    <div class="cme-row"><div>StDev / Z-Score</div><div style="grid-column:span 3;text-align:right;">${stdev.toFixed(2)} / ${z.toFixed(2)}</div></div>
-    <div class="cme-row"><div>Percentile</div><div style="grid-column:span 3;text-align:right;">${percentileRank(spread,last).toFixed(1)}%</div></div>
-    <div class="cme-row"><div>High / Low</div><div style="grid-column:span 3;text-align:right;">${Math.max(...spread).toFixed(2)} / ${Math.min(...spread).toFixed(2)}</div></div>
+    <div class="kv-row"><span>상관계수(일간수익률)</span><span>${corr.toFixed(3)}</span></div>
+    <div class="kv-row"><span>Last 스프레드</span><span>${last.toFixed(2)}</span></div>
+    <div class="kv-row"><span>Mean / Median</span><span>${mean.toFixed(2)} / ${median.toFixed(2)}</span></div>
+    <div class="kv-row"><span>StDev / Z-Score</span><span>${stdev.toFixed(2)} / ${z.toFixed(2)}</span></div>
+    <div class="kv-row"><span>Percentile</span><span>${percentileRank(spread,last).toFixed(1)}%</span></div>
+    <div class="kv-row"><span>High / Low</span><span>${Math.max(...spread).toFixed(2)} / ${Math.min(...spread).toFixed(2)}</span></div>
   `;
   drawHistogram(document.getElementById('spreadHistChart'), spread);
 }
@@ -625,7 +628,7 @@ function renderInsider(){
   tagEl.textContent='LIVE(서버,SEC)'; tagEl.className='tag live';
   const rows = Object.entries(ins).sort((a,b)=>b[1].form4_count_30d-a[1].form4_count_30d);
   box.innerHTML = rows.map(([t,v])=>`
-    <div class="cme-row"><div>${t}</div><div style="grid-column:span 3;text-align:right;">최근 30일 Form4 ${v.form4_count_30d}건</div></div>
+    <div class="kv-row"><span>${t}</span><span>최근 30일 Form4 ${v.form4_count_30d}건</span></div>
   `).join('') + '<div style="font-size:9px;color:var(--gray);margin-top:4px;">※ 매수/매도 구분 없이 신고 건수만 집계 — 건수가 많을수록 내부자 활동이 활발했다는 신호</div>';
 }
 
@@ -698,7 +701,7 @@ async function loadYieldCurve(){
   drawYieldCurve(points);
   const spread = (points[0].value!=null && points[2].value!=null) ? (points[2].value-points[0].value) : null;
   document.getElementById('ycTable').innerHTML = points.map(p=>`
-    <div class="cme-row"><div>${p.label}</div><div style="grid-column:span 3;text-align:right;">${p.value!=null?p.value.toFixed(2)+'%':'-'}</div></div>
+    <div class="kv-row"><span>${p.label}</span><span>${p.value!=null?p.value.toFixed(2)+'%':'-'}</span></div>
   `).join('') + (spread!=null ? `<div style="font-size:9px;color:var(--gray);margin-top:3px;">3M-10Y 스프레드: ${spread.toFixed(2)}%p ${spread<0?'(역전 — 경기침체 신호로 해석되기도 함)':''}</div>` : '');
 }
 function drawYieldCurve(points){
@@ -739,7 +742,7 @@ function renderShortVolume(){
   tagEl.textContent='LIVE(서버,FINRA)'; tagEl.className='tag live';
   const rows = Object.entries(sv).sort((a,b)=>b[1].short_vol_pct-a[1].short_vol_pct);
   box.innerHTML = rows.map(([t,v])=>`
-    <div class="cme-row"><div>${t}</div><div style="grid-column:span 3;text-align:right;">${v.short_vol_pct}% (${v.date})</div></div>
+    <div class="kv-row"><span>${t}</span><span>${v.short_vol_pct}% (${v.date})</span></div>
   `).join('') + '<div style="font-size:9px;color:var(--gray);margin-top:4px;">※ 당일 전체 거래량 중 공매도 거래량 비중 — 격주 발표 정식 숏인터레스트보다 더 자주 갱신되는 근사 지표</div>';
 }
 
