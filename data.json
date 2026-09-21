@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T09:39:09.624815+00:00",
+  "updated_at": "2026-09-21T09:51:06.022410+00:00",
   "news": [
     {
       "title": "‘It&apos;s awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -155,12 +155,12 @@
       "desc_ko": "한국에서 두 번째로 큰 은행의 1억 달러 ($) 외화 채권 블록체인 발행으로 결제 시간이 영업일 기준 3일에서 5일로 단축되었습니다."
     },
     {
-      "title": "Live updates: Bitcoin rockets above $83,500 as falling oil lifts risk assets",
+      "title": "Live updates: Bitcoin hits $85,000 as short liquidations hit $300 million in an hour",
       "description": "Crypto majors climbed alongside equity futures on Monday, with Monero's XMR up 13%, as Brent fell for a fourth straight session and traders positioned ahead of a Trump-Xi summit later this week.",
       "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
       "pubDate": "Mon, 21 Sep 2026 08:39:26 +0000",
       "tag": "btc",
-      "title_ko": "실시간 업데이트: 떨어지는 석유가 위험 자산을 들어올리면서 비트코인 로켓이 $ 83,500 이상",
+      "title_ko": "실시간 업데이트: 짧은 청산이 한 시간 만에 3억 달러를 기록하면서 비트코인은 8만 5천 달러를 기록했습니다.",
       "desc_ko": "암호화폐 전공자들은 월요일에 주식 선물과 함께 상승했으며, 브렌트가 네 번째 연속 세션으로 하락하고 거래자들이 이번 주 말 트럼프-Xi 정상 회담을 앞두고 포지셔닝함에 따라 모네로의 XMR은 13% 상승했다."
     },
     {
@@ -281,6 +281,24 @@
       "desc_ko": null
     },
     {
+      "title": "Same Conference, Same Day, Same Bet: Chevron and ExxonMobil Double Down on LNG",
+      "description": "",
+      "link": "https://finance.yahoo.com/energy/articles/same-conference-same-day-same-094121233.html",
+      "pubDate": "2026-09-21T09:41:21Z",
+      "tag": "general",
+      "title_ko": "같은 회의, 같은 날, 같은 베팅: LNG에 대한 Chevron 및 ExxonMobil 더블 다운",
+      "desc_ko": null
+    },
+    {
+      "title": "Sam Altman dropped out of Stanford to build an app almost nobody used — it still sold for $43.4 million",
+      "description": "",
+      "link": "https://finance.yahoo.com/technology/articles/sam-altman-dropped-stanford-build-093000834.html",
+      "pubDate": "2026-09-21T09:30:00Z",
+      "tag": "general",
+      "title_ko": "Sam Altman은 거의 아무도 사용하지 않는 앱을 만들기 위해 스탠포드에서 탈락했습니다. 여전히 $ 43.4 million에 판매되었습니다.",
+      "desc_ko": null
+    },
+    {
       "title": "Novo Nordisk stock gets drilled on pipeline concerns— its CEO sees this as the main problem",
       "description": "",
       "link": "https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns-its-ceo-sees-this-as-the-main-problem-091933221.html",
@@ -299,12 +317,12 @@
       "desc_ko": null
     },
     {
-      "title": "My mom opened a credit card in my name to help me build credit — then maxed it out, leaving a $40,000 balance. What now?",
+      "title": "Key Christmas retailer files for Chapter 11 bankrutpcy",
       "description": "",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/mom-opened-credit-card-name-090000564.html",
-      "pubDate": "2026-09-21T09:00:00Z",
+      "link": "https://finance.yahoo.com/small-business/articles/key-christmas-retailer-files-chapter-140700474.html",
+      "pubDate": "2026-09-20T14:07:00Z",
       "tag": "general",
-      "title_ko": "엄마가 크레딧을 쌓을 수 있도록 제 이름으로 신용카드를 개설한 다음 최대 한도로 설정하고 $ 40,000의 잔액을 남겼습니다. 이제 어떻게 해야 하나요?",
+      "title_ko": "챕터 11 bankrutpcy에 대한 주요 크리스마스 소매업체 파일",
       "desc_ko": null
     },
     {
@@ -317,12 +335,12 @@
       "desc_ko": null
     },
     {
-      "title": "Key Christmas retailer files for Chapter 11 bankrutpcy",
+      "title": "My mom opened a credit card in my name to help me build credit — then maxed it out, leaving a $40,000 balance. What now?",
       "description": "",
-      "link": "https://finance.yahoo.com/small-business/articles/key-christmas-retailer-files-chapter-140700474.html",
-      "pubDate": "2026-09-20T14:07:00Z",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/mom-opened-credit-card-name-090000564.html",
+      "pubDate": "2026-09-21T09:00:00Z",
       "tag": "general",
-      "title_ko": "챕터 11 bankrutpcy에 대한 주요 크리스마스 소매업체 파일",
+      "title_ko": "엄마가 크레딧을 쌓을 수 있도록 제 이름으로 신용카드를 개설한 다음 최대 한도로 설정하고 $ 40,000의 잔액을 남겼습니다. 이제 어떻게 해야 하나요?",
       "desc_ko": null
     },
     {
@@ -344,6 +362,15 @@
       "desc_ko": null
     },
     {
+      "title": "Dollar General CEO raises major red flag about consumers",
+      "description": "",
+      "link": "https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html",
+      "pubDate": "2026-09-20T15:17:00Z",
+      "tag": "general",
+      "title_ko": "달러 제너럴 CEO, 소비자에 대한 주요 적신호 제기",
+      "desc_ko": null
+    },
+    {
       "title": "H World (HTHT) Cleared Its $2B Promise Early, Then Topped It",
       "description": "",
       "link": "https://finance.yahoo.com/markets/stocks/articles/h-world-htht-cleared-2b-054407002.html",
@@ -362,15 +389,6 @@
       "desc_ko": null
     },
     {
-      "title": "Dollar General CEO raises major red flag about consumers",
-      "description": "",
-      "link": "https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html",
-      "pubDate": "2026-09-20T15:17:00Z",
-      "tag": "general",
-      "title_ko": "달러 제너럴 CEO, 소비자에 대한 주요 적신호 제기",
-      "desc_ko": null
-    },
-    {
       "title": "A Cyber Intelligence Veteran Now Runs Masco’s (MAS) AI Agenda",
       "description": "",
       "link": "https://finance.yahoo.com/technology/ai/articles/cyber-intelligence-veteran-now-runs-053054700.html",
@@ -386,24 +404,6 @@
       "pubDate": "2026-09-21T05:19:36Z",
       "tag": "general",
       "title_ko": "베센트가 트럼프-시 주석 회담 전에 중국과의 회담이 성공적이었다고 말한 후 주가 상승",
-      "desc_ko": null
-    },
-    {
-      "title": "Textron (TXT) Unveils a Cargo Plane Concept That Needs No Pilot",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/textron-txt-unveils-cargo-plane-051634574.html",
-      "pubDate": "2026-09-21T05:16:34Z",
-      "tag": "general",
-      "title_ko": "Textron (TXT), 파일럿이 필요 없는 화물기 개념 공개",
-      "desc_ko": null
-    },
-    {
-      "title": "Ares Capital (ARCC) Raised $750M Through 2033 Notes. Should Dividend Fans Care?",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ares-capital-arcc-raised-750m-050709960.html",
-      "pubDate": "2026-09-21T05:07:09Z",
-      "tag": "general",
-      "title_ko": "ARES Capital (ARCC) 은 2033년까지 $ 750M를 모금했습니다. 배당 팬이 관심을 가져야 할까요?",
       "desc_ko": null
     },
     {
@@ -718,12 +718,12 @@
         7556.5,
         7640.0,
         7657.35009765625,
-        7762.0
+        7761.75
       ],
-      "last": 7762.0,
-      "chg_pct": 1.3666594972036226,
-      "rsi14": 58.35442559928995,
-      "ma20": 7671.180004882813
+      "last": 7761.75,
+      "chg_pct": 1.363394660193277,
+      "rsi14": 58.33821277912188,
+      "ma20": 7671.167504882813
     },
     "nq": {
       "live": true,
@@ -827,12 +827,12 @@
         28963.5,
         29446.75,
         29613.6796875,
-        30254.0
+        30251.5
       ],
-      "last": 30254.0,
-      "chg_pct": 2.1622450139834553,
-      "rsi14": 62.91474521335633,
-      "ma20": 29383.458984375
+      "last": 30251.5,
+      "chg_pct": 2.153802969541895,
+      "rsi14": 62.888141766255856,
+      "ma20": 29383.333984375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4387.5,
         4399.7001953125,
         4424.89990234375,
-        4386.0
+        4382.10009765625
       ],
-      "last": 4386.0,
-      "chg_pct": -0.879113724655009,
-      "rsi14": 47.10197632104167,
-      "ma20": 4477.3599609375
+      "last": 4382.10009765625,
+      "chg_pct": -0.9672491046595223,
+      "rsi14": 46.8017820034196,
+      "ma20": 4477.164965820312
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         102.43000030517578,
         101.91000366210938,
         100.30000305175781,
-        94.20999908447266
+        94.0999984741211
       ],
-      "last": 94.20999908447266,
-      "chg_pct": -6.071788416738663,
-      "rsi14": 52.22763358941511,
-      "ma20": 93.19900169372559
+      "last": 94.0999984741211,
+      "chg_pct": -6.18146000896663,
+      "rsi14": 52.05730361643398,
+      "ma20": 93.19350166320801
     },
     "zn": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.30999755859375,
         100.22000122070312,
         100.22000122070312,
-        100.3239974975586
+        100.31800079345703
       ],
-      "last": 100.3239974975586,
-      "chg_pct": 0.10376798601952673,
-      "rsi14": 61.71920716268853,
-      "ma20": 99.4386993408203
+      "last": 100.31800079345703,
+      "chg_pct": 0.09778444577953349,
+      "rsi14": 61.643864370515686,
+      "ma20": 99.43839950561524
     },
     "vix": {
       "live": true,
@@ -1372,12 +1372,12 @@
         17.709999084472656,
         15.4399995803833,
         14.8100004196167,
-        14.960000038146973
+        14.970000267028809
       ],
-      "last": 14.960000038146973,
-      "chg_pct": 1.0128265650255506,
-      "rsi14": 45.850765178857046,
-      "ma20": 15.664499998092651
+      "last": 14.970000267028809,
+      "chg_pct": 1.0803500531990555,
+      "rsi14": 45.89704171894613,
+      "ma20": 15.665000009536744
     },
     "hsi": {
       "live": true,
@@ -1917,12 +1917,12 @@
         25537.75,
         25716.7109375,
         25304.060546875,
-        25559.369140625
+        25556.439453125
       ],
-      "last": 25559.369140625,
-      "chg_pct": 1.0089629420426363,
-      "rsi14": 45.46021523886449,
-      "ma20": 25854.3951171875
+      "last": 25556.439453125,
+      "chg_pct": 0.9973850077637767,
+      "rsi14": 45.39340656229377,
+      "ma20": 25854.2486328125
     },
     "ftse": {
       "live": true,
@@ -2026,12 +2026,12 @@
         10688.5,
         10816.099609375,
         10659.099609375,
-        10739.1904296875
+        10737.919921875
       ],
-      "last": 10739.1904296875,
-      "chg_pct": 0.7513844813126401,
-      "rsi14": 49.7514773728411,
-      "ma20": 10763.27939453125
+      "last": 10737.919921875,
+      "chg_pct": 0.7394650147623647,
+      "rsi14": 49.67126425872602,
+      "ma20": 10763.215869140626
     },
     "krw": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1363.5699462890625,
         1376.5999755859375,
         1379.530029296875,
-        1373.1199951171875
+        1372.0799560546875
       ],
-      "last": 1373.1199951171875,
-      "chg_pct": -0.46465347209256436,
-      "rsi14": 47.43406842240796,
-      "ma20": 1362.7414978027343
+      "last": 1372.0799560546875,
+      "chg_pct": -0.5400442965337033,
+      "rsi14": 46.89860522663192,
+      "ma20": 1362.6894958496093
     },
     "jpy": {
       "live": true,
@@ -2244,12 +2244,12 @@
         155.26600646972656,
         156.01400756835938,
         156.12899780273438,
-        157.2899932861328
+        157.26699829101562
       ],
-      "last": 157.2899932861328,
-      "chg_pct": 0.7436129737189053,
-      "rsi14": 51.422648819489595,
-      "ma20": 156.7839500427246
+      "last": 157.26699829101562,
+      "chg_pct": 0.7288847711166948,
+      "rsi14": 51.31620859210522,
+      "ma20": 156.78280029296874
     },
     "copper": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.43149995803833,
         6.58650016784668,
         6.614999771118164,
-        6.792500019073486
+        6.7855000495910645
       ],
-      "last": 6.792500019073486,
-      "chg_pct": 2.6832993816614836,
-      "rsi14": 61.295301404642174,
-      "ma20": 6.571499991416931
+      "last": 6.7855000495910645,
+      "chg_pct": 2.5774797335190223,
+      "rsi14": 61.061863297773534,
+      "ma20": 6.57114999294281
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         2.8910000324249268,
         2.9010000228881836,
         2.9119999408721924,
-        2.875
+        2.884000062942505
       ],
-      "last": 2.875,
-      "chg_pct": -1.2706023909159245,
-      "rsi14": 50.58931690937667,
-      "ma20": 2.8834500074386598
+      "last": 2.884000062942505,
+      "chg_pct": -0.9615342890872817,
+      "rsi14": 51.42805084989585,
+      "ma20": 2.883900010585785
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         64.28800201416016,
         65.47000122070312,
         66.55599975585938,
-        66.6449966430664
+        66.66000366210938
       ],
-      "last": 66.6449966430664,
-      "chg_pct": 0.1337173020215901,
-      "rsi14": 54.9210485737285,
-      "ma20": 66.14789962768555
+      "last": 66.66000366210938,
+      "chg_pct": 0.15626526027932416,
+      "rsi14": 54.964567168228164,
+      "ma20": 66.14864997863769
     },
     "qqq": {
       "live": true,
