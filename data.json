@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T20:36:16.502046+00:00",
+  "updated_at": "2026-09-21T20:49:53.675586+00:00",
   "news": [
     {
       "title": "‘It&apos;s awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -137,6 +137,15 @@
       "desc_ko": "미국과 이란 간의 긴장이 다시 고조되면서 최근 몇 주 동안 유가는 배럴당 $ 100를 상회하는 상승 행진을 보였다."
     },
     {
+      "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
+      "description": "Bitcoin has broken out to $86,000, but analysts say the next leg depends on whether spot buyers continue to show up as leverage builds.",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
+      "pubDate": "Mon, 21 Sep 2026 20:39:39 +0000",
+      "tag": "btc",
+      "title_ko": "비트코인은 반바지가 압착된 후 $ 90,000를 테스트할 수 있지만 거래자들은 레버리지가 구축되고 있다고 경고합니다",
+      "desc_ko": "비트코인은 $ 86,000까지 벌어졌지만, 분석가들은 다음 구간은 레버리지 구축으로 현물 구매자가 계속 나타나느냐에 달려 있다고 말합니다."
+    },
+    {
       "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
       "description": "TD Cowen expects limited demand for tokenized stocks despite new SEC rules opening a path for trading outside traditional markets.",
       "link": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
@@ -263,15 +272,6 @@
       "desc_ko": "9월 21일부터 일주일간 진행되는 트립을 살펴보세요."
     },
     {
-      "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
-      "description": "South Korea's second-largest bank’s $100 million foreign-currency bond blockchain issuance shortened settlement time to the same day from three to five business days.",
-      "link": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
-      "pubDate": "Mon, 21 Sep 2026 08:49:59 +0000",
-      "tag": "btc",
-      "title_ko": "하나은행은 유로클리어의 블록체인을 이용해 한국 최초의 디지털채권을 발행한다.",
-      "desc_ko": "한국에서 두 번째로 큰 은행의 1억 달러 ($) 외화 채권 블록체인 발행으로 결제 시간이 영업일 기준 3일에서 5일로 단축되었습니다."
-    },
-    {
       "title": "Jim Cramer sends strong signal to Apple stock investors",
       "description": "",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-strong-signal-163300406.html",
@@ -326,24 +326,6 @@
       "desc_ko": null
     },
     {
-      "title": "Where would you put an extra $1,000? It depends. Here are what financial advisors say are your best options",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/articles/where-put-extra-1-000-111500711.html",
-      "pubDate": "2026-09-20T11:15:00Z",
-      "tag": "general",
-      "title_ko": "$ 1,000를 어디에 추가하시겠어요? 상황에 따라 다릅니다. 재무 상담사가 말하는 최선의 선택은 다음과 같습니다.",
-      "desc_ko": null
-    },
-    {
-      "title": "Dear Meta Platforms Stock Fans, Mark Your Calendars for Sept. 23",
-      "description": "",
-      "link": "https://finance.yahoo.com/technology/ai/articles/dear-meta-platforms-stock-fans-111502706.html",
-      "pubDate": "2026-09-20T11:15:02Z",
-      "tag": "general",
-      "title_ko": "친애하는 Meta Platforms 주식 팬 여러분, 9월 23일 달력에 표시하세요.",
-      "desc_ko": null
-    },
-    {
       "title": "How Is China Changing the AI Game for Advisors?",
       "description": "",
       "link": "https://finance.yahoo.com/technology/ai/articles/china-changing-ai-game-advisors-120000815.html",
@@ -362,6 +344,24 @@
       "desc_ko": null
     },
     {
+      "title": "Where would you put an extra $1,000? It depends. Here are what financial advisors say are your best options",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/articles/where-put-extra-1-000-111500711.html",
+      "pubDate": "2026-09-20T11:15:00Z",
+      "tag": "general",
+      "title_ko": "$ 1,000를 어디에 추가하시겠어요? 상황에 따라 다릅니다. 재무 상담사가 말하는 최선의 선택은 다음과 같습니다.",
+      "desc_ko": null
+    },
+    {
+      "title": "Dear Meta Platforms Stock Fans, Mark Your Calendars for Sept. 23",
+      "description": "",
+      "link": "https://finance.yahoo.com/technology/ai/articles/dear-meta-platforms-stock-fans-111502706.html",
+      "pubDate": "2026-09-20T11:15:02Z",
+      "tag": "general",
+      "title_ko": "친애하는 Meta Platforms 주식 팬 여러분, 9월 23일 달력에 표시하세요.",
+      "desc_ko": null
+    },
+    {
       "title": "Bank of America says buy tumbling shares of aviation giant",
       "description": "",
       "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
@@ -371,21 +371,21 @@
       "desc_ko": null
     },
     {
-      "title": "‘Two timelines with one balance sheet’: Why big age-gap marriages can make retirement planning even more complicated",
-      "description": "",
-      "link": "https://finance.yahoo.com/small-business/articles/two-timelines-one-balance-sheet-110000456.html",
-      "pubDate": "2026-09-20T11:00:00Z",
-      "tag": "general",
-      "title_ko": "‘대차대조표가 하나인 두 개의 타임라인’: 나이 차이가 큰 결혼이 은퇴 계획을 더욱 복잡하게 만드는 이유",
-      "desc_ko": null
-    },
-    {
       "title": "Borderlands Mexico: Tesla plans massive Texas distribution center",
       "description": "",
       "link": "https://finance.yahoo.com/economy/articles/borderlands-mexico-tesla-plans-massive-110000895.html",
       "pubDate": "2026-09-20T11:00:00Z",
       "tag": "general",
       "title_ko": "멕시코 국경지대: 테슬라, 대규모 텍사스 유통 센터 계획",
+      "desc_ko": null
+    },
+    {
+      "title": "‘Two timelines with one balance sheet’: Why big age-gap marriages can make retirement planning even more complicated",
+      "description": "",
+      "link": "https://finance.yahoo.com/small-business/articles/two-timelines-one-balance-sheet-110000456.html",
+      "pubDate": "2026-09-20T11:00:00Z",
+      "tag": "general",
+      "title_ko": "‘대차대조표가 하나인 두 개의 타임라인’: 나이 차이가 큰 결혼이 은퇴 계획을 더욱 복잡하게 만드는 이유",
       "desc_ko": null
     },
     {
@@ -718,12 +718,12 @@
         7556.5,
         7640.0,
         7657.35009765625,
-        7830.5
+        7828.0
       ],
-      "last": 7830.5,
-      "chg_pct": 2.2612248380382587,
-      "rsi14": 62.367141721215816,
-      "ma20": 7674.605004882813
+      "last": 7828.0,
+      "chg_pct": 2.228576467934805,
+      "rsi14": 62.23433619709347,
+      "ma20": 7674.480004882813
     },
     "nq": {
       "live": true,
@@ -827,12 +827,12 @@
         28963.5,
         29446.75,
         29613.6796875,
-        30782.0
+        30764.25
       ],
-      "last": 30782.0,
-      "chg_pct": 3.945204800040944,
-      "rsi14": 67.79109730678275,
-      "ma20": 29409.858984375
+      "last": 30764.25,
+      "chg_pct": 3.8852662845058674,
+      "rsi14": 67.64809002588717,
+      "ma20": 29408.971484375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4387.5,
         4399.7001953125,
         4424.89990234375,
-        4378.7001953125
+        4379.7998046875
       ],
-      "last": 4378.7001953125,
-      "chg_pct": -1.0440847940261713,
-      "rsi14": 46.54317987230534,
-      "ma20": 4476.994970703125
+      "last": 4379.7998046875,
+      "chg_pct": -1.019234302506181,
+      "rsi14": 46.626504726369625,
+      "ma20": 4477.049951171875
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         102.43000030517578,
         101.91000366210938,
         100.30000305175781,
-        91.88999938964844
+        92.02999877929688
       ],
-      "last": 91.88999938964844,
-      "chg_pct": -8.38484885964516,
-      "rsi14": 48.85614686847267,
-      "ma20": 93.08300170898437
+      "last": 92.02999877929688,
+      "chg_pct": -8.24526821618676,
+      "rsi14": 49.04720855838185,
+      "ma20": 93.09000167846679
     },
     "zn": {
       "live": true,
@@ -1154,12 +1154,12 @@
         106.046875,
         106.40625,
         106.078125,
-        106.078125
+        106.09375
       ],
-      "last": 106.078125,
-      "chg_pct": 0.0,
-      "rsi14": 29.153343965356285,
-      "ma20": 107.3328125
+      "last": 106.09375,
+      "chg_pct": 0.014729709824716454,
+      "rsi14": 29.48759046802101,
+      "ma20": 107.33359375
     },
     "dxy": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.30999755859375,
         100.22000122070312,
         100.22000122070312,
-        100.427001953125
+        100.41699981689453
       ],
-      "last": 100.427001953125,
-      "chg_pct": 0.2065463279790037,
-      "rsi14": 62.96865948914834,
-      "ma20": 99.44384956359863
+      "last": 100.41699981689453,
+      "chg_pct": 0.19656614826573252,
+      "rsi14": 62.85091960937675,
+      "ma20": 99.4433494567871
     },
     "vix": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1376.5999755859375,
         1379.530029296875,
         1384.8599853515625,
-        1374.050048828125
+        1374.3900146484375
       ],
-      "last": 1374.050048828125,
-      "chg_pct": -0.7805797436405294,
-      "rsi14": 47.7491177680626,
-      "ma20": 1362.9929992675782
+      "last": 1374.3900146484375,
+      "chg_pct": -0.756030993304141,
+      "rsi14": 47.92171374183597,
+      "ma20": 1363.0099975585938
     },
     "jpy": {
       "live": true,
@@ -2244,12 +2244,12 @@
         156.01400756835938,
         156.12899780273438,
         157.04600524902344,
-        157.39300537109375
+        157.37100219726562
       ],
-      "last": 157.39300537109375,
-      "chg_pct": 0.22095444040113227,
-      "rsi14": 52.01441963969131,
-      "ma20": 156.68445053100587
+      "last": 157.37100219726562,
+      "chg_pct": 0.20694378550212023,
+      "rsi14": 51.907387703544806,
+      "ma20": 156.68335037231446
     },
     "copper": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.43149995803833,
         6.58650016784668,
         6.614999771118164,
-        6.778500080108643
+        6.781499862670898
       ],
-      "last": 6.778500080108643,
-      "chg_pct": 2.471660085376561,
-      "rsi14": 60.825592252807915,
-      "ma20": 6.570799994468689
+      "last": 6.781499862670898,
+      "chg_pct": 2.5170082738278023,
+      "rsi14": 60.927194557892854,
+      "ma20": 6.570949983596802
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         2.8910000324249268,
         2.9010000228881836,
         2.9119999408721924,
-        2.8340001106262207
+        2.8320000171661377
       ],
-      "last": 2.8340001106262207,
-      "chg_pct": -2.678565653494122,
-      "rsi14": 47.090699650086435,
-      "ma20": 2.8814000129699706
+      "last": 2.8320000171661377,
+      "chg_pct": -2.747250183050944,
+      "rsi14": 46.93236438346588,
+      "ma20": 2.8813000082969666
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         64.28800201416016,
         65.47000122070312,
         66.55599975585938,
-        66.48500061035156
+        66.5
       ],
-      "last": 66.48500061035156,
-      "chg_pct": -0.10667580048117596,
-      "rsi14": 54.41104419708079,
-      "ma20": 66.1398998260498
+      "last": 66.5,
+      "chg_pct": -0.08413930534406097,
+      "rsi14": 54.46370778826515,
+      "ma20": 66.14064979553223
     },
     "qqq": {
       "live": true,
@@ -3343,7 +3343,7 @@
       "form4_count_30d": 2
     },
     "TXN": {
-      "form4_count_30d": 1
+      "form4_count_30d": 3
     },
     "AMAT": {
       "form4_count_30d": 3
