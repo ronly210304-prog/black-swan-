@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T10:06:43.648704+00:00",
+  "updated_at": "2026-09-21T10:24:57.350977+00:00",
   "news": [
     {
       "title": "‘It&apos;s awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -137,6 +137,15 @@
       "desc_ko": "미국과 이란 간의 긴장이 다시 고조되면서 최근 몇 주 동안 유가는 배럴당 $ 100를 상회하는 상승 행진을 보였다."
     },
     {
+      "title": "X sues its own users for running a fake bitcoin news bot farm",
+      "description": "X has sued Vivek Kumar Sen and Zmyang Sherpa for running fake bitcoin headline accounts to fraudulently earn creator rewards from the platform.",
+      "link": "https://www.coindesk.com/markets/2026/09/21/x-sues-its-won-users-for-running-a-fake-bitcoin-news-bot-farm",
+      "pubDate": "Mon, 21 Sep 2026 10:15:44 +0000",
+      "tag": "btc",
+      "title_ko": "X는 가짜 비트코인 뉴스 봇 팜을 운영한 사용자에 대해 소송을 제기합니다",
+      "desc_ko": "X는 플랫폼에서 크리에이터 보상을 사기적으로 받기 위해 가짜 비트코인 헤드라인 계정을 운영한 혐의로 Vivek Kumar Sen과 Zmyang Sherpa를 고소했습니다."
+    },
+    {
       "title": "Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead",
       "description": "Your look at what's coming in the week starting Sept. 21.",
       "link": "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead",
@@ -263,21 +272,21 @@
       "desc_ko": "7일 평균 수수료는 82% 하락한 반면 거래 건수는 6% 감소했으며, 하루 약 15억 달러 ($) 가 여전히 변하고 있습니다."
     },
     {
-      "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
-      "description": "JPMorgan and Citi move billions in tokenized deposits, but only among their branches. A U.K. challenger bank is about to do something neither has done.",
-      "link": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
-      "pubDate": "Sat, 19 Sep 2026 12:00:00 +0000",
-      "tag": "btc",
-      "title_ko": "월스트리트 거대 기업들이 일반 소비자가 아닌 기관을 위해 토큰화 자금을 구축하는 이유",
-      "desc_ko": "JPMorgan과 Citi는 토큰화 된 예금으로 수십억 달러를 이동하지만 지점 간에만 이동합니다. 영국 도전자 은행이 하지 않은 일을 하려고 합니다."
-    },
-    {
       "title": "80-year-old discount fashion chain closing 120 stores",
       "description": "",
       "link": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html",
       "pubDate": "2026-09-19T23:02:22Z",
       "tag": "general",
       "title_ko": "80년 전통의 할인 패션 체인점, 120개 매장 폐쇄",
+      "desc_ko": null
+    },
+    {
+      "title": "Tesla faces major trial for alleged bias against Black workers, after years of lawsuits",
+      "description": "",
+      "link": "https://finance.yahoo.com/news/tesla-faces-major-trial-alleged-100649614.html",
+      "pubDate": "2026-09-21T10:06:49Z",
+      "tag": "general",
+      "title_ko": "테슬라는 수년간의 소송 끝에 흑인 노동자에 대한 편견 혐의로 주요 재판에 직면했다.",
       "desc_ko": null
     },
     {
@@ -299,15 +308,6 @@
       "desc_ko": null
     },
     {
-      "title": "HELOC and home equity loan rates today, Monday, September 21, 2026: A 33-basis-point differential",
-      "description": "",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-21-2026-a-33-basis-point-differential-100000210.html",
-      "pubDate": "2026-09-21T10:00:00Z",
-      "tag": "general",
-      "title_ko": "HELOC 및 주택 지분 대출 금리 오늘, 2026년 9월 21일 월요일: 33-기초-포인트 차액",
-      "desc_ko": null
-    },
-    {
       "title": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
       "description": "",
       "link": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html",
@@ -323,6 +323,15 @@
       "pubDate": "2026-09-20T14:07:00Z",
       "tag": "general",
       "title_ko": "챕터 11 bankrutpcy에 대한 주요 크리스마스 소매업체 파일",
+      "desc_ko": null
+    },
+    {
+      "title": "HELOC and home equity loan rates today, Monday, September 21, 2026: A 33-basis-point differential",
+      "description": "",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-21-2026-a-33-basis-point-differential-100000210.html",
+      "pubDate": "2026-09-21T10:00:00Z",
+      "tag": "general",
+      "title_ko": "HELOC 및 주택 지분 대출 금리 오늘, 2026년 9월 21일 월요일: 33-기초-포인트 차액",
       "desc_ko": null
     },
     {
@@ -353,21 +362,21 @@
       "desc_ko": null
     },
     {
-      "title": "Sam Altman dropped out of Stanford to build an app almost nobody used — it still sold for $43.4 million",
-      "description": "",
-      "link": "https://finance.yahoo.com/technology/articles/sam-altman-dropped-stanford-build-093000834.html",
-      "pubDate": "2026-09-21T09:30:00Z",
-      "tag": "general",
-      "title_ko": "Sam Altman은 거의 아무도 사용하지 않는 앱을 만들기 위해 스탠포드에서 탈락했습니다. 여전히 $ 43.4 million에 판매되었습니다.",
-      "desc_ko": null
-    },
-    {
       "title": "Dollar General CEO raises major red flag about consumers",
       "description": "",
       "link": "https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html",
       "pubDate": "2026-09-20T15:17:00Z",
       "tag": "general",
       "title_ko": "달러 제너럴 CEO, 소비자에 대한 주요 적신호 제기",
+      "desc_ko": null
+    },
+    {
+      "title": "Sam Altman dropped out of Stanford to build an app almost nobody used — it still sold for $43.4 million",
+      "description": "",
+      "link": "https://finance.yahoo.com/technology/articles/sam-altman-dropped-stanford-build-093000834.html",
+      "pubDate": "2026-09-21T09:30:00Z",
+      "tag": "general",
+      "title_ko": "Sam Altman은 거의 아무도 사용하지 않는 앱을 만들기 위해 스탠포드에서 탈락했습니다. 여전히 $ 43.4 million에 판매되었습니다.",
       "desc_ko": null
     },
     {
@@ -380,15 +389,6 @@
       "desc_ko": null
     },
     {
-      "title": "My mom opened a credit card in my name to help me build credit — then maxed it out, leaving a $40,000 balance. What now?",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/mom-opened-credit-card-name-090000564.html",
-      "pubDate": "2026-09-21T09:00:00Z",
-      "tag": "general",
-      "title_ko": "엄마가 크레딧을 쌓을 수 있도록 제 이름으로 신용카드를 개설한 다음 최대 한도로 설정하고 $ 40,000의 잔액을 남겼습니다. 이제 어떻게 해야 하나요?",
-      "desc_ko": null
-    },
-    {
       "title": "Brookfield eyes small tickets, high returns with its $5B Catalytic Transition Fund",
       "description": "",
       "link": "https://finance.yahoo.com/energy/articles/brookfield-eyes-small-tickets-high-090000623.html",
@@ -398,13 +398,31 @@
       "desc_ko": null
     },
     {
-      "title": "Jim Cramer on Hub Group (HUBG): “Got to Wait Till Oil Calms Down”",
+      "title": "My mom opened a credit card in my name to help me build credit — then maxed it out, leaving a $40,000 balance. What now?",
       "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-hub-group-hubg-080851735.html",
-      "pubDate": "2026-09-21T08:08:51Z",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/mom-opened-credit-card-name-090000564.html",
+      "pubDate": "2026-09-21T09:00:00Z",
       "tag": "general",
-      "title_ko": "Hub Group (HUBG) 의 Jim Cramer: \"석유가 진정될 때까지 기다려야 합니다\"",
+      "title_ko": "엄마가 크레딧을 쌓을 수 있도록 제 이름으로 신용카드를 개설한 다음 최대 한도로 설정하고 $ 40,000의 잔액을 남겼습니다. 이제 어떻게 해야 하나요?",
       "desc_ko": null
+    },
+    {
+      "title": "&#x2018;She says it&#x2019;s just money&#x2019;: My friend pays for everything. I should be grateful, but I can&#x2019;t stand her anymore.",
+      "description": "&#x201c;On each of these weekends away, she&#x2019;s probably spending $500.&#x201d;",
+      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "pubDate": "Mon, 21 Sep 2026 10:16:00 GMT",
+      "tag": "general",
+      "title_ko": "‘그녀는 단지 돈이라고 말합니다’: 내 친구는 모든 것을 지불합니다. 고마워해야 하는데 더 이상 참을 수가 없다.",
+      "desc_ko": "\"주말마다 $ 500를 쓰고 있을 거예요.\""
+    },
+    {
+      "title": "Corporate earnings are growing much faster than the economy. What Goldman strategists say about bubble concerns.",
+      "description": "A team at the bank, led by Ben Snider, wrote in a recent note that they see S&P 500 earnings per share growth slowing to 11% in 2027 and 2028.",
+      "link": "https://www.marketwatch.com/story/corporate-earnings-are-growing-much-faster-than-the-economy-what-goldman-strategists-say-about-bubble-concerns-1f625fb3?mod=mw_rss_topstories",
+      "pubDate": "Mon, 21 Sep 2026 10:13:00 GMT",
+      "tag": "general",
+      "title_ko": "기업 수익은 경제보다 훨씬 빠르게 성장하고 있습니다. 골드만 전략가들이 말하는 거품 문제.",
+      "desc_ko": "벤 스나이더 (Ben Snider) 가 이끄는 은행의 한 팀은 최근 메모에서 2027년과 2028년 주당 S&P 500 수익 성장이 11% 로 둔화되는 것을 목격했다고 썼다."
     },
     {
       "title": "My husband and I are in our 50s and have no kids. We have $2 million. Do we need a will?",
@@ -477,24 +495,6 @@
       "tag": "general",
       "title_ko": "임대 재산이 상환되었지만 현금이 필요합니다. $ 50,000 HELOC을 (를) 꺼내기에 안 좋은 시기인가요?",
       "desc_ko": "연방준비제도 (Fed) 는 수요일 금리 인상률을 3.75% -4.0% 로 분기 포인트 인상한다고 발표했다."
-    },
-    {
-      "title": "Snoopy cups at Starbucks and McDonald&#x2019;s SpongeBob toys are commanding huge markups on eBay",
-      "description": "Adults are scooping up promotional items out of nostalgia &#x2014;&#xa0;and playing into a frenzy around collectibles .",
-      "link": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
-      "pubDate": "Sun, 20 Sep 2026 14:08:00 GMT",
-      "tag": "general",
-      "title_ko": "Starbucks와 McDonald's SpongeBob 장난감의 스누피 컵이 eBay에서 커다란 마크업을 장악하고 있습니다.",
-      "desc_ko": "어른들은 향수를 불러일으키며 판촉물을 구경하고 수집품을 둘러싸고 광란의 시간을 보내고 있습니다."
-    },
-    {
-      "title": "China is chasing SpaceX and setting its sights on the global space economy",
-      "description": "Chinese space-technology players are looking to grow their reach, experts say. They&#x2019;re closing in on Elon Musk and company.",
-      "link": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
-      "pubDate": "Sun, 20 Sep 2026 13:53:00 GMT",
-      "tag": "general",
-      "title_ko": "중국은 스페이스X를 추격하며 세계 우주 경제를 조망하고 있습니다.",
-      "desc_ko": "전문가들은 중국의 우주 기술 기업들이 그들의 영역을 넓히기를 원하고 있다고 말합니다. 그들은 일론 머스크와 회사에 접근하고 있습니다."
     }
   ],
   "assets": {
@@ -718,12 +718,12 @@
         7556.5,
         7640.0,
         7657.35009765625,
-        7763.75
+        7765.0
       ],
-      "last": 7763.75,
-      "chg_pct": 1.3895133562760402,
-      "rsi14": 58.4675629811001,
-      "ma20": 7671.267504882812
+      "last": 7765.0,
+      "chg_pct": 1.405837541327767,
+      "rsi14": 58.54799976981953,
+      "ma20": 7671.330004882812
     },
     "nq": {
       "live": true,
@@ -827,12 +827,12 @@
         28963.5,
         29446.75,
         29613.6796875,
-        30249.25
+        30243.0
       ],
-      "last": 30249.25,
-      "chg_pct": 2.1462051295444913,
-      "rsi14": 62.86416600875542,
-      "ma20": 29383.221484375
+      "last": 30243.0,
+      "chg_pct": 2.125100018440591,
+      "rsi14": 62.79740384804449,
+      "ma20": 29382.908984375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4387.5,
         4399.7001953125,
         4424.89990234375,
-        4384.5
+        4389.89990234375
       ],
-      "last": 4384.5,
-      "chg_pct": -0.9130127965686017,
-      "rsi14": 46.98605945560265,
-      "ma20": 4477.2849609375
+      "last": 4389.89990234375,
+      "chg_pct": -0.7909783446504958,
+      "rsi14": 47.40604649034181,
+      "ma20": 4477.554956054688
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         102.43000030517578,
         101.91000366210938,
         100.30000305175781,
-        93.55000305175781
+        93.43000030517578
       ],
-      "last": 93.55000305175781,
-      "chg_pct": -6.72981036353189,
-      "rsi14": 51.22206267901262,
-      "ma20": 93.16600189208984
+      "last": 93.43000030517578,
+      "chg_pct": -6.849454175028194,
+      "rsi14": 51.04337213463239,
+      "ma20": 93.16000175476074
     },
     "zn": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.30999755859375,
         100.22000122070312,
         100.22000122070312,
-        100.31400299072266
+        100.30999755859375
       ],
-      "last": 100.31400299072266,
-      "chg_pct": 0.09379541895287132,
-      "rsi14": 61.59347086281658,
-      "ma20": 99.43819961547851
+      "last": 100.30999755859375,
+      "chg_pct": 0.08979877947959339,
+      "rsi14": 61.54284821278978,
+      "ma20": 99.43799934387206
     },
     "vix": {
       "live": true,
@@ -1372,12 +1372,12 @@
         17.709999084472656,
         15.4399995803833,
         14.8100004196167,
-        14.920000076293945
+        14.890000343322754
       ],
-      "last": 14.920000076293945,
-      "chg_pct": 0.7427390517257867,
-      "rsi14": 45.664869102522935,
-      "ma20": 15.6625
+      "last": 14.890000343322754,
+      "chg_pct": 0.5401750265995278,
+      "rsi14": 45.52460837983606,
+      "ma20": 15.66100001335144
     },
     "hsi": {
       "live": true,
@@ -1917,12 +1917,12 @@
         25537.75,
         25716.7109375,
         25304.060546875,
-        25569.349609375
+        25579.509765625
       ],
-      "last": 25569.349609375,
-      "chg_pct": 1.0484051048192844,
-      "rsi14": 45.68658817834483,
-      "ma20": 25854.894140625
+      "last": 25579.509765625,
+      "chg_pct": 1.088557380898369,
+      "rsi14": 45.915114617165436,
+      "ma20": 25855.4021484375
     },
     "ftse": {
       "live": true,
@@ -2026,12 +2026,12 @@
         10688.5,
         10816.099609375,
         10659.099609375,
-        10748.8798828125
+        10756.0498046875
       ],
-      "last": 10748.8798828125,
-      "chg_pct": 0.842287592082689,
-      "rsi14": 50.354908347562244,
-      "ma20": 10763.7638671875
+      "last": 10756.0498046875,
+      "chg_pct": 0.9095533287561117,
+      "rsi14": 50.79218225634664,
+      "ma20": 10764.12236328125
     },
     "krw": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1363.5699462890625,
         1376.5999755859375,
         1379.530029296875,
-        1371.780029296875
+        1372.0799560546875
       ],
-      "last": 1371.780029296875,
-      "chg_pct": -0.5617855237228909,
-      "rsi14": 46.74642675043068,
-      "ma20": 1362.6744995117188
+      "last": 1372.0799560546875,
+      "chg_pct": -0.5400442965337033,
+      "rsi14": 46.89860522663192,
+      "ma20": 1362.6894958496093
     },
     "jpy": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.43149995803833,
         6.58650016784668,
         6.614999771118164,
-        6.771999835968018
+        6.78000020980835
       ],
-      "last": 6.771999835968018,
-      "chg_pct": 2.373394864431191,
-      "rsi14": 60.60360638536012,
-      "ma20": 6.570474982261658
+      "last": 6.78000020980835,
+      "chg_pct": 2.4943377838136307,
+      "rsi14": 60.87646744473819,
+      "ma20": 6.5708750009536745
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         2.8910000324249268,
         2.9010000228881836,
         2.9119999408721924,
-        2.878999948501587
+        2.878000020980835
       ],
-      "last": 2.878999948501587,
-      "chg_pct": -1.1332415192536516,
-      "rsi14": 50.958678012943956,
-      "ma20": 2.883650004863739
+      "last": 2.878000020980835,
+      "chg_pct": -1.1675796903063769,
+      "rsi14": 50.86583853839739,
+      "ma20": 2.8836000084877016
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         64.28800201416016,
         65.47000122070312,
         66.55599975585938,
-        66.6500015258789
+        66.75
       ],
-      "last": 66.6500015258789,
-      "chg_pct": 0.1412371091477078,
-      "rsi14": 54.9355714911175,
-      "ma20": 66.14814987182618
+      "last": 66.75,
+      "chg_pct": 0.291484231102014,
+      "rsi14": 55.223793287352294,
+      "ma20": 66.15314979553223
     },
     "qqq": {
       "live": true,
