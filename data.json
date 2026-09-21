@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T12:07:57.625219+00:00",
+  "updated_at": "2026-09-21T12:28:02.149187+00:00",
   "news": [
     {
       "title": "‘It&apos;s awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -137,6 +137,15 @@
       "desc_ko": "미국과 이란 간의 긴장이 다시 고조되면서 최근 몇 주 동안 유가는 배럴당 $ 100를 상회하는 상승 행진을 보였다."
     },
     {
+      "title": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
+      "description": "The tech giants’ job listings could indicate that they are separately pursuing experts in stablecoins and tokenized deposits for future projects.",
+      "link": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
+      "pubDate": "Mon, 21 Sep 2026 12:17:48 +0000",
+      "tag": "btc",
+      "title_ko": "Google과 Apple은 Big Tech의 눈으로 스테이블 코인 및 토큰화 레일로 암호화 재능을 추구합니다.",
+      "desc_ko": "기술 대기업의 구인 목록은 향후 프로젝트를 위해 스테이블 코인과 토큰화 된 예금에 대한 전문가를 별도로 추구하고 있음을 나타낼 수 있습니다."
+    },
+    {
       "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week",
       "description": "It's the first week of bitcoin purchases for Strategy in about three weeks.",
       "link": "https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week",
@@ -263,21 +272,30 @@
       "desc_ko": "골드만삭스와 시티즌스 애널리스트들은 이 기관의 움직임이 위탁, 토큰화 인프라 및 스테이블코인 정산에 새로운 기회를 창출하는 동시에 브로커들에게 온체인 제품을 확장할 수 있는 여지를 제공한다고 말했다."
     },
     {
-      "title": "Crypto traders braced for a total wipeout this week but Bitcoin had other plans",
-      "description": "Market experts view bitcoin’s price stability as evidence of its fundamental independence from Washington, maintaining that global liquidity and adoption cycles remain the primary growth drivers.",
-      "link": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
-      "pubDate": "Sun, 20 Sep 2026 12:00:00 +0000",
-      "tag": "btc",
-      "title_ko": "암호화폐 거래자들은 이번 주에 총체적인 소탕에 나섰지만 비트코인은 다른 계획을 가지고 있었습니다.",
-      "desc_ko": "시장 전문가들은 비트코인의 가격 안정성을 워싱턴으로부터의 근본적인 독립성의 증거로 보고 있으며, 글로벌 유동성과 채택 주기가 주요 성장 동력으로 남아 있다고 주장합니다."
+      "title": "Saudi Central Bank leaves China-led digital currency initiative",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/saudi-central-bank-leaves-china-121900552.html",
+      "pubDate": "2026-09-21T12:19:00Z",
+      "tag": "general",
+      "title_ko": "사우디 중앙은행, 중국 주도의 디지털 통화 이니셔티브 탈퇴",
+      "desc_ko": null
     },
     {
-      "title": "Legend launches sale of Banque Internationale à Luxembourg – report",
+      "title": "Stock Market Today: Dow Rallies 450 Points As Oil Prices, Treasury Yields Fall; Nvidia Extends Gains (Live Coverage)",
       "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/legend-launches-sale-banque-internationale-120035482.html",
-      "pubDate": "2026-09-21T12:00:35Z",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&amp;yptr=yahoo",
+      "pubDate": "2026-09-21T11:59:26Z",
       "tag": "general",
-      "title_ko": "레전드, 룩셈부르크 국제은행 (Banque Internationale à Luxembourg) 판매 개시 – 보고서",
+      "title_ko": "오늘의 주식 시장: 다우 지수는 유가로 450포인트 상승, 국채 수익률은 하락, 엔비디아는 이득 연장 (실시간 범위)",
+      "desc_ko": null
+    },
+    {
+      "title": "Kevin O'Leary sold his software company for $4.2 billion, so why did he only walk away with about $11 million?",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kevin-oleary-sold-software-company-115500725.html",
+      "pubDate": "2026-09-21T11:55:00Z",
+      "tag": "general",
+      "title_ko": "케빈 오리어리 (Kevin O'Leary) 는 자신의 소프트웨어 회사를 42억 달러에 매각했는데, 왜 약 1100만 달러만 가지고 떠났을까요?",
       "desc_ko": null
     },
     {
@@ -287,6 +305,24 @@
       "pubDate": "2026-09-21T08:02:14Z",
       "tag": "general",
       "title_ko": "오늘의 주식 시장: 다우, S&amp;P 500, 나스닥 선물은 원유 하락에 따라 상승, 트럼프-Xi 정상 회담에 대한 기대감 형성",
+      "desc_ko": null
+    },
+    {
+      "title": "Nscale, Rival Of CoreWeave And Nebius, Files For IPO",
+      "description": "",
+      "link": "https://www.investors.com/news/technology/nscale-rival-of-coreweave-nebius-files-for-ipo/?src=A00220&amp;yptr=yahoo",
+      "pubDate": "2026-09-21T11:53:06Z",
+      "tag": "general",
+      "title_ko": "Nscale, Rival Of CoreWeave And Nebius, IPO용 파일",
+      "desc_ko": null
+    },
+    {
+      "title": "Worried About Hugging Face? Microsoft and Amazon Got Exposed Most Among Hyperscalers",
+      "description": "",
+      "link": "https://finance.yahoo.com/technology/ai/articles/worried-hugging-face-microsoft-amazon-121222004.html",
+      "pubDate": "2026-09-21T12:12:22Z",
+      "tag": "general",
+      "title_ko": "얼굴 포옹이 걱정되시나요? Microsoft와 Amazon은 하이퍼스케일러 중 가장 많이 노출되었습니다.",
       "desc_ko": null
     },
     {
@@ -305,24 +341,6 @@
       "pubDate": "2026-09-21T11:46:54Z",
       "tag": "general",
       "title_ko": "보잉과 록히드 마틴 모두 펜타곤의 계약 달력에서 현금화",
-      "desc_ko": null
-    },
-    {
-      "title": "Nscale, Rival Of CoreWeave And Nebius, Files For IPO",
-      "description": "",
-      "link": "https://www.investors.com/news/technology/nscale-rival-of-coreweave-nebius-files-for-ipo/?src=A00220&amp;yptr=yahoo",
-      "pubDate": "2026-09-21T11:42:26Z",
-      "tag": "general",
-      "title_ko": "Nscale, Rival Of CoreWeave And Nebius, IPO용 파일",
-      "desc_ko": null
-    },
-    {
-      "title": "Wealth manager Allspring considers sale – report",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wealth-manager-allspring-considers-sale-115442819.html",
-      "pubDate": "2026-09-21T11:54:42Z",
-      "tag": "general",
-      "title_ko": "자산 관리자 Allspring은 판매를 고려합니다 – 보고서",
       "desc_ko": null
     },
     {
@@ -380,31 +398,22 @@
       "desc_ko": null
     },
     {
-      "title": "Forget the growth-stage funding gap, Europe is facing an early-stage crisis",
+      "title": "Supertanker shortage sends oil shipping rates to records",
       "description": "",
-      "link": "https://finance.yahoo.com/small-business/articles/forget-growth-stage-funding-gap-104940880.html",
-      "pubDate": "2026-09-21T10:49:40Z",
+      "link": "https://finance.yahoo.com/energy/articles/supertanker-shortage-sends-oil-shipping-120626653.html",
+      "pubDate": "2026-09-21T12:06:26Z",
       "tag": "general",
-      "title_ko": "성장 단계의 자금 조달 격차는 잊어 버리십시오. 유럽은 초기 단계의 위기에 직면 해 있습니다.",
+      "title_ko": "Supertanker 부족은 석유 운송 요금을 기록으로 보냅니다",
       "desc_ko": null
     },
     {
-      "title": "Morning Bid: Summiteering",
-      "description": "",
-      "link": "https://finance.yahoo.com/economy/policy/articles/morning-bid-summiteering-104146934.html",
-      "pubDate": "2026-09-21T10:41:46Z",
+      "title": "&#x2018;I&#x2019;m burned out&#x2019;: I&#x2019;m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "description": "&#x201c;I spend a lot of time away from my family and spend money on gas, taking him out to eat.&#x201d;",
+      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "pubDate": "Mon, 21 Sep 2026 12:15:00 GMT",
       "tag": "general",
-      "title_ko": "오전 입찰: Summiteering",
-      "desc_ko": null
-    },
-    {
-      "title": "Credo Technology Crashed for 3 Months: This Wall Street Pro Says It’s About to Double",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-crashed-3-months-115135647.html",
-      "pubDate": "2026-09-21T11:51:35Z",
-      "tag": "general",
-      "title_ko": "크레도 테크놀로지 3개월간 추락: 이 월스트리트 프로는 곧 두 배가 될 것이라고 말합니다",
-      "desc_ko": null
+      "title_ko": "‘지쳤어’: 돈이 떨어지는 사촌을 끊임없이 돕고 있어요. 누이가 도와주길 바라는 건 무리인가?",
+      "desc_ko": "“저는 가족과 떨어져 많은 시간을 보내며 기름값을 지출하고, 가족을 데리고 나가 식사를 합니다.”"
     },
     {
       "title": "Novo Nordisk&#x2019;s stock tumbles as doubts persist about Ozempic maker&#x2019;s goals for 2030",
@@ -486,15 +495,6 @@
       "tag": "general",
       "title_ko": "스티븐 스필버그 (Steven Spielberg) 는 오랫동안 LA 승마 목장을 3천만 달러 ($) 에 등록했습니다.",
       "desc_ko": "영화 제작자 스티븐 스필버그 (Steven Spielberg) 는 거대한 5층 승마 시설로 부동산을 변화시키려는 논란의 여지가 있는 계획을 포기한 후 거의 3천만 달러 ($) 에 달하는 기간 동안 말을 수용했던 로스앤젤레스의 거대한 목장을 열거했습니다."
-    },
-    {
-      "title": "&#x2018;My total balance should be $20 million&#x2019;: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "description": "&#x201c;I invested on the recommendation of an executive vice president of a major New York investment bank.&#x201d;",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "pubDate": "Mon, 21 Sep 2026 02:40:00 GMT",
-      "tag": "general",
-      "title_ko": "‘내 총 잔액은 2천만 달러 ($) 여야 합니다.’: 암호화폐 플랫폼에 $ 110만 달러를 투자했습니다. 내가 다 잃어버린 건가?",
-      "desc_ko": "\"저는 뉴욕의 주요 투자 은행의 총괄 부사장의 추천을 받아 투자했습니다.\""
     }
   ],
   "assets": {
@@ -718,12 +718,12 @@
         7556.5,
         7640.0,
         7657.35009765625,
-        7768.25
+        7765.0
       ],
-      "last": 7768.25,
-      "chg_pct": 1.4482804224622572,
-      "rsi14": 58.755684590618166,
-      "ma20": 7671.492504882813
+      "last": 7765.0,
+      "chg_pct": 1.405837541327767,
+      "rsi14": 58.54799976981953,
+      "ma20": 7671.330004882812
     },
     "nq": {
       "live": true,
@@ -827,12 +827,12 @@
         28963.5,
         29446.75,
         29613.6796875,
-        30247.0
+        30246.75
       ],
-      "last": 30247.0,
-      "chg_pct": 2.138607289547087,
-      "rsi14": 62.84015925261558,
-      "ma20": 29383.108984375
+      "last": 30246.75,
+      "chg_pct": 2.137763085102931,
+      "rsi14": 62.83748991915882,
+      "ma20": 29383.096484375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4387.5,
         4399.7001953125,
         4424.89990234375,
-        4405.2998046875
+        4408.0
       ],
-      "last": 4405.2998046875,
-      "chg_pct": -0.4429500799751054,
-      "rsi14": 48.64611911331654,
-      "ma20": 4478.324951171875
+      "last": 4408.0,
+      "chg_pct": -0.38192733658898315,
+      "rsi14": 48.87026734063981,
+      "ma20": 4478.4599609375
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         102.43000030517578,
         101.91000366210938,
         100.30000305175781,
-        93.52999877929688
+        93.23999786376953
       ],
-      "last": 93.52999877929688,
-      "chg_pct": -6.749754802068562,
-      "rsi14": 51.19218839645438,
-      "ma20": 93.1650016784668
+      "last": 93.23999786376953,
+      "chg_pct": -7.038888308253696,
+      "rsi14": 50.76298398982071,
+      "ma20": 93.15050163269044
     },
     "zn": {
       "live": true,
@@ -1154,12 +1154,12 @@
         106.046875,
         106.40625,
         106.078125,
-        106.15625
+        106.140625
       ],
-      "last": 106.15625,
-      "chg_pct": 0.07364854912358226,
-      "rsi14": 30.793621896345712,
-      "ma20": 107.33671875
+      "last": 106.140625,
+      "chg_pct": 0.058918839298865815,
+      "rsi14": 30.471670825379334,
+      "ma20": 107.3359375
     },
     "dxy": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.30999755859375,
         100.22000122070312,
         100.22000122070312,
-        100.22899627685547
+        100.2300033569336
       ],
-      "last": 100.22899627685547,
-      "chg_pct": 0.008975310359989878,
-      "rsi14": 60.489692124081444,
-      "ma20": 99.43394927978515
+      "last": 100.2300033569336,
+      "chg_pct": 0.009980179713271187,
+      "rsi14": 60.503139895303455,
+      "ma20": 99.43399963378906
     },
     "vix": {
       "live": true,
@@ -1372,12 +1372,12 @@
         17.709999084472656,
         15.4399995803833,
         14.8100004196167,
-        14.8100004196167
+        14.829999923706055
       ],
-      "last": 14.8100004196167,
-      "chg_pct": 0.0,
-      "rsi14": 45.14701199449742,
-      "ma20": 15.657000017166137
+      "last": 14.829999923706055,
+      "chg_pct": 0.1350405369527537,
+      "rsi14": 45.241898729255965,
+      "ma20": 15.657999992370605
     },
     "hsi": {
       "live": true,
@@ -1917,12 +1917,12 @@
         25537.75,
         25716.7109375,
         25304.060546875,
-        25591.4609375
+        25603.26953125
       ],
-      "last": 25591.4609375,
-      "chg_pct": 1.1357876341332631,
-      "rsi14": 46.18147599658672,
-      "ma20": 25855.99970703125
+      "last": 25603.26953125,
+      "chg_pct": 1.1824544278999194,
+      "rsi14": 46.44209531777993,
+      "ma20": 25856.59013671875
     },
     "ftse": {
       "live": true,
@@ -2026,12 +2026,12 @@
         10688.5,
         10816.099609375,
         10659.099609375,
-        10771.6904296875
+        10768.7001953125
       ],
-      "last": 10771.6904296875,
-      "chg_pct": 1.056288283613308,
-      "rsi14": 51.71983550317398,
-      "ma20": 10764.90439453125
+      "last": 10768.7001953125,
+      "chg_pct": 1.0282349349761493,
+      "rsi14": 51.54519719308628,
+      "ma20": 10764.7548828125
     },
     "krw": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1363.5699462890625,
         1376.5999755859375,
         1379.530029296875,
-        1371.280029296875
+        1372.8800048828125
       ],
-      "last": 1371.280029296875,
-      "chg_pct": -0.5980297510598517,
-      "rsi14": 46.494917722213316,
-      "ma20": 1362.6494995117187
+      "last": 1372.8800048828125,
+      "chg_pct": -0.4820499933192403,
+      "rsi14": 47.309427312304514,
+      "ma20": 1362.7294982910157
     },
     "jpy": {
       "live": true,
@@ -2244,12 +2244,12 @@
         155.26600646972656,
         156.01400756835938,
         156.12899780273438,
-        157.21200561523438
+        157.3459930419922
       ],
-      "last": 157.21200561523438,
-      "chg_pct": 0.6936621817481702,
-      "rsi14": 51.05975449763078,
-      "ma20": 156.7800506591797
+      "last": 157.3459930419922,
+      "chg_pct": 0.7794805938583297,
+      "rsi14": 51.67992631564431,
+      "ma20": 156.78675003051757
     },
     "copper": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.43149995803833,
         6.58650016784668,
         6.614999771118164,
-        6.822000026702881
+        6.8354997634887695
       ],
-      "last": 6.822000026702881,
-      "chg_pct": 3.1292556726683998,
-      "rsi14": 62.249085434098724,
-      "ma20": 6.572974991798401
+      "last": 6.8354997634887695,
+      "chg_pct": 3.3333333333333335,
+      "rsi14": 62.67005133790834,
+      "ma20": 6.573649978637695
     },
     "natgas": {
       "live": true,
@@ -2571,12 +2571,12 @@
         64.28800201416016,
         65.47000122070312,
         66.55599975585938,
-        67.1050033569336
+        67.19999694824219
       ],
-      "last": 67.1050033569336,
-      "chg_pct": 0.8248746966285128,
-      "rsi14": 56.217890199964366,
-      "ma20": 66.1708999633789
+      "last": 67.19999694824219,
+      "chg_pct": 0.9676020114567012,
+      "rsi14": 56.47645389513553,
+      "ma20": 66.17564964294434
     },
     "qqq": {
       "live": true,
@@ -2793,7 +2793,7 @@
       ],
       "last": 3.9779999256134033,
       "chg_pct": 0.3278691481842155,
-      "rsi14": 80.92190184196262,
+      "rsi14": 80.92142839951077,
       "ma20": 3.8067500233650207
     },
     "fvx": {
@@ -2902,7 +2902,7 @@
       ],
       "last": 4.855999946594238,
       "chg_pct": 1.145591064026188,
-      "rsi14": 74.40840418893168,
+      "rsi14": 74.40728256485998,
       "ma20": 4.597949981689453
     },
     "tnx": {
@@ -3011,7 +3011,7 @@
       ],
       "last": 4.998000144958496,
       "chg_pct": 1.030930219937885,
-      "rsi14": 68.75158243198338,
+      "rsi14": 68.7503088617732,
       "ma20": 4.825149965286255
     },
     "tyx": {
@@ -3120,7 +3120,7 @@
       ],
       "last": 5.330999851226807,
       "chg_pct": 0.6608732512631997,
-      "rsi14": 58.05500626098297,
+      "rsi14": 58.054506801800954,
       "ma20": 5.273549962043762
     }
   },
