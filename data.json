@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T01:06:40.445567+00:00",
+  "updated_at": "2026-09-21T01:24:45.333067+00:00",
   "news": [
     {
       "title": "‘It&apos;s awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -281,6 +281,15 @@
       "desc_ko": null
     },
     {
+      "title": "1 Year Into the Microsoft Deal, IREN Is Delivering and a Rally May Follow Soon",
+      "description": "",
+      "link": "https://finance.yahoo.com/technology/ai/articles/1-microsoft-deal-iren-delivering-142734921.html",
+      "pubDate": "2026-09-19T14:27:34Z",
+      "tag": "general",
+      "title_ko": "Microsoft 거래 시작 1년, Iren이 배달 중이며 곧 랠리가 이어질 수 있습니다.",
+      "desc_ko": null
+    },
+    {
       "title": "Is This A $20 Million Reason to Buy Infleqtion Stock Now?",
       "description": "",
       "link": "https://finance.yahoo.com/markets/stocks/articles/20-million-reason-buy-infleqtion-140725770.html",
@@ -296,15 +305,6 @@
       "pubDate": "2026-09-19T14:00:02Z",
       "tag": "general",
       "title_ko": "2026년 과거 성과에 기반한 투자는 거의 나쁜 결과를 보장합니다. 대신 이렇게 하십시오.",
-      "desc_ko": null
-    },
-    {
-      "title": "1 Year Into the Microsoft Deal, IREN Is Delivering and a Rally May Follow Soon",
-      "description": "",
-      "link": "https://finance.yahoo.com/technology/ai/articles/1-microsoft-deal-iren-delivering-142734921.html",
-      "pubDate": "2026-09-19T14:27:34Z",
-      "tag": "general",
-      "title_ko": "Microsoft 거래 시작 1년, Iren이 배달 중이며 곧 랠리가 이어질 수 있습니다.",
       "desc_ko": null
     },
     {
@@ -335,15 +335,6 @@
       "desc_ko": null
     },
     {
-      "title": "The Bond Market is Back. Here’s What TLT Bagholders Need to Know.",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/options/articles/bond-market-back-tlt-bagholders-131502737.html",
-      "pubDate": "2026-09-19T13:15:02Z",
-      "tag": "general",
-      "title_ko": "채권 시장이 돌아왔습니다. TLT 가방 소지자가 알아야 할 사항은 다음과 같습니다.",
-      "desc_ko": null
-    },
-    {
       "title": "Before You Conclude the AI Era Won’t End Like the Dot-Com Era Did, Check Out These 2 Charts",
       "description": "",
       "link": "https://finance.yahoo.com/markets/stocks/articles/conclude-ai-era-won-t-150002323.html",
@@ -362,21 +353,21 @@
       "desc_ko": null
     },
     {
-      "title": "Dollar General CEO raises major red flag about consumers",
-      "description": "",
-      "link": "https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html",
-      "pubDate": "2026-09-20T15:17:00Z",
-      "tag": "general",
-      "title_ko": "달러 제너럴 CEO, 소비자에 대한 주요 적신호 제기",
-      "desc_ko": null
-    },
-    {
       "title": "Netflix (NFLX) Gets a Bullish $110 Target: What’s Driving the Outlook?",
       "description": "",
       "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-gets-bullish-110-155252131.html",
       "pubDate": "2026-09-19T15:52:52Z",
       "tag": "general",
       "title_ko": "Netflix (NFLX), 낙관적인 $ 110 목표 달성: 전망을 이끄는 요인은?",
+      "desc_ko": null
+    },
+    {
+      "title": "Dollar General CEO raises major red flag about consumers",
+      "description": "",
+      "link": "https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html",
+      "pubDate": "2026-09-20T15:17:00Z",
+      "tag": "general",
+      "title_ko": "달러 제너럴 CEO, 소비자에 대한 주요 적신호 제기",
       "desc_ko": null
     },
     {
@@ -404,6 +395,15 @@
       "pubDate": "2026-09-19T15:58:11Z",
       "tag": "general",
       "title_ko": "IonQ의 옵션은 일 년 내내 가장 저렴합니다. 여기 이득을 취하는 거래가 있습니다.",
+      "desc_ko": null
+    },
+    {
+      "title": "‘Don't quit. Keep your job': Expert says Social Security will 'go away' — and the thing to protect isn't your 401(k)",
+      "description": "",
+      "link": "https://finance.yahoo.com/economy/policy/articles/dont-quit-keep-job-expert-161500293.html",
+      "pubDate": "2026-09-19T16:15:00Z",
+      "tag": "general",
+      "title_ko": "‘그만두지 말고 직장을 유지하세요': 전문가는 사회 보장이 '사라질 것' 이라고 말합니다. 그리고 보호해야 할 것은 여러분의 401 (k) 가 아닙니다.",
       "desc_ko": null
     },
     {
@@ -718,12 +718,12 @@
         7556.5,
         7640.0,
         7657.35009765625,
-        7738.0
+        7741.5
       ],
-      "last": 7738.0,
-      "chg_pct": 1.0532351442104653,
-      "rsi14": 56.738744305616855,
-      "ma20": 7669.980004882813
+      "last": 7741.5,
+      "chg_pct": 1.0989428623553006,
+      "rsi14": 56.982209032376865,
+      "ma20": 7670.155004882812
     },
     "nq": {
       "live": true,
@@ -827,12 +827,12 @@
         28963.5,
         29446.75,
         29613.6796875,
-        30076.25
+        30110.0
       ],
-      "last": 30076.25,
-      "chg_pct": 1.5620156541885335,
-      "rsi14": 60.92340996045557,
-      "ma20": 29374.571484375
+      "last": 30110.0,
+      "chg_pct": 1.6759832541495947,
+      "rsi14": 61.31786179086761,
+      "ma20": 29376.258984375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4387.5,
         4399.7001953125,
         4424.89990234375,
-        4402.39990234375
+        4417.0
       ],
-      "last": 4402.39990234375,
-      "chg_pct": -0.5084860787038902,
-      "rsi14": 48.40359478245892,
-      "ma20": 4478.179956054688
+      "last": 4417.0,
+      "chg_pct": -0.17853290510742706,
+      "rsi14": 49.628298414432464,
+      "ma20": 4478.9099609375
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         102.43000030517578,
         101.91000366210938,
         100.30000305175781,
-        94.66999816894531
+        93.97000122070312
       ],
-      "last": 94.66999816894531,
-      "chg_pct": -5.613165215864698,
-      "rsi14": 52.94797273230746,
-      "ma20": 93.22200164794921
+      "last": 93.97000122070312,
+      "chg_pct": -6.311068433156694,
+      "rsi14": 51.853381003054174,
+      "ma20": 93.1870018005371
     },
     "zn": {
       "live": true,
@@ -1154,12 +1154,12 @@
         106.046875,
         106.40625,
         106.078125,
-        105.9375
+        106.0
       ],
-      "last": 105.9375,
-      "chg_pct": -0.13256738842244808,
-      "rsi14": 27.960666517899398,
-      "ma20": 107.32578125
+      "last": 106.0,
+      "chg_pct": -0.07364854912358226,
+      "rsi14": 28.478559575953923,
+      "ma20": 107.32890625
     },
     "dxy": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.30999755859375,
         100.22000122070312,
         100.22000122070312,
-        100.23799896240234
+        100.23400115966797
       ],
-      "last": 100.23799896240234,
-      "chg_pct": 0.017958233366595522,
-      "rsi14": 60.606411997268715,
-      "ma20": 99.4343994140625
+      "last": 100.23400115966797,
+      "chg_pct": 0.013969206539933356,
+      "rsi14": 60.55325962957507,
+      "ma20": 99.43419952392578
     },
     "vix": {
       "live": true,
@@ -1699,12 +1699,12 @@
         6717.97021484375,
         6715.41015625,
         6894.22998046875,
-        6962.16015625
+        6978.77001953125
       ],
-      "last": 6962.16015625,
-      "chg_pct": 0.9853192593472391,
-      "rsi14": 54.447102870459,
-      "ma20": 6814.210546875
+      "last": 6978.77001953125,
+      "chg_pct": 1.2262433847144738,
+      "rsi14": 54.84767339831614,
+      "ma20": 6815.041040039063
     },
     "sse": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1363.5699462890625,
         1376.5999755859375,
         1379.530029296875,
-        1385.97998046875
+        1383.8800048828125
       ],
-      "last": 1385.97998046875,
-      "chg_pct": 0.4675469931714672,
-      "rsi14": 54.490894779475084,
-      "ma20": 1363.3844970703126
+      "last": 1383.8800048828125,
+      "chg_pct": 0.3153230080938952,
+      "rsi14": 53.417481433944126,
+      "ma20": 1363.2794982910157
     },
     "jpy": {
       "live": true,
@@ -2244,12 +2244,12 @@
         155.26600646972656,
         156.01400756835938,
         156.12899780273438,
-        156.81199645996094
+        156.60899353027344
       ],
-      "last": 156.81199645996094,
-      "chg_pct": 0.4374579141854971,
-      "rsi14": 49.109799978764855,
-      "ma20": 156.76005020141602
+      "last": 156.60899353027344,
+      "chg_pct": 0.3074353478817092,
+      "rsi14": 48.059540771431735,
+      "ma20": 156.74990005493163
     },
     "copper": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.43149995803833,
         6.58650016784668,
         6.614999771118164,
-        6.726500034332275
+        6.729000091552734
       ],
-      "last": 6.726500034332275,
-      "chg_pct": 1.6855671515051907,
-      "rsi14": 58.977080530089346,
-      "ma20": 6.568199992179871
+      "last": 6.729000091552734,
+      "chg_pct": 1.7233609127593412,
+      "rsi14": 59.06996844606923,
+      "ma20": 6.568324995040894
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         2.8910000324249268,
         2.9010000228881836,
         2.9119999408721924,
-        2.878000020980835
+        2.86899995803833
       ],
-      "last": 2.878000020980835,
-      "chg_pct": -1.1675796903063769,
-      "rsi14": 50.8615877642549,
-      "ma20": 2.8836000084877016
+      "last": 2.86899995803833,
+      "chg_pct": -1.4766477921350196,
+      "rsi14": 50.04106628541934,
+      "ma20": 2.883150005340576
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         64.28800201416016,
         65.47000122070312,
         66.55599975585938,
-        66.88999938964844
+        67.45500183105469
       ],
-      "last": 66.88999938964844,
-      "chg_pct": 0.5018324944621664,
-      "rsi14": 55.62062446806457,
-      "ma20": 66.16014976501465
+      "last": 67.45500183105469,
+      "chg_pct": 1.350745355028894,
+      "rsi14": 57.15519727633247,
+      "ma20": 66.18839988708496
     },
     "qqq": {
       "live": true,
