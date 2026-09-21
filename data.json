@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T06:09:01.656218+00:00",
+  "updated_at": "2026-09-21T06:32:22.227908+00:00",
   "news": [
     {
       "title": "‘It&apos;s awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -137,6 +137,15 @@
       "desc_ko": "미국과 이란 간의 긴장이 다시 고조되면서 최근 몇 주 동안 유가는 배럴당 $ 100를 상회하는 상승 행진을 보였다."
     },
     {
+      "title": "Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades",
+      "description": "Kalshi clarified that its inflated headline volume stems from an industry-wide convention tracking maximum potential payouts rather than actual cash spent, emphasizing its public regulatory filings ensure absolute transparency.",
+      "link": "https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades",
+      "pubDate": "Mon, 21 Sep 2026 06:20:47 +0000",
+      "tag": "btc",
+      "title_ko": "Kalshi는 동일한 $ 5,500 거래를 비판하는 플래그로 ‘가짜 암호화폐 거래량’ 혐의에 직면해 있습니다.",
+      "desc_ko": "Kalshi는 부풀려진 헤드라인 볼륨이 실제 현금이 아닌 최대 잠재적 지급액을 추적하는 업계 차원의 협약에서 비롯된 것임을 명확히 하고, 공개 규제 서류가 절대적인 투명성을 보장한다고 강조했습니다."
+    },
+    {
       "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
       "description": "Bitcoin extended a slow climb through the Asian session while regional equities and U.S. stock futures rose on progress in trade talks between Washington and Beijing.",
       "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
@@ -263,111 +272,12 @@
       "desc_ko": "코인 센터의 라즈 피퍼 (Laz Pieper) 는 지출 습관이 그들의 정치에 대해 우리에게 말해줄 수 있는 것을 기반으로 미국인을 타겟팅하는 것은 우리의 금융 시스템을 남용하는 것이라고 말합니다."
     },
     {
-      "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
-      "description": "Although the ECB holds no formal licensing authority under MiCA, high-level intervention led Greece to stall an application that regulators had previously deemed complete, the Journal said.",
-      "link": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
-      "pubDate": "Fri, 18 Sep 2026 12:57:06 +0000",
-      "tag": "btc",
-      "title_ko": "Christine Lagarde ECB 회장이 Binance의 EU MiCA 라이선스인 WSJ를 차단하기 위해 개입했습니다.",
-      "desc_ko": "저널은 ECB가 MiCA에 따라 정식 라이선스 권한을 보유하지는 않지만, 높은 수준의 개입으로 인해 그리스는 규제 당국이 이전에 완료한 것으로 간주한 신청서를 중단하게 되었다고 말했다."
-    },
-    {
       "title": "80-year-old discount fashion chain closing 120 stores",
       "description": "",
       "link": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html",
       "pubDate": "2026-09-19T23:02:22Z",
       "tag": "general",
       "title_ko": "80년 전통의 할인 패션 체인점, 120개 매장 폐쇄",
-      "desc_ko": null
-    },
-    {
-      "title": "Corteva (CTVA) Bets On A Belgian Partner For Crop Protection’s Next Act",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/corteva-ctva-bets-belgian-partner-183747198.html",
-      "pubDate": "2026-09-19T18:37:47Z",
-      "tag": "general",
-      "title_ko": "Corteva (CTVA) 가 벨기에 파트너에게 농작물 보호법 (Crop Protection's Next Act) 에 대해 베팅합니다.",
-      "desc_ko": null
-    },
-    {
-      "title": "Garmin’s (GRMN) New Autopilot Signals Where Growth Is Headed",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/garmin-grmn-autopilot-signals-where-184731033.html",
-      "pubDate": "2026-09-19T18:47:31Z",
-      "tag": "general",
-      "title_ko": "Garmin (GRMN) 의 성장이 향하는 새로운 자동 조종 신호",
-      "desc_ko": null
-    },
-    {
-      "title": "Jim Cramer Suggests Avoiding Redwire (RDW) In A Rate Tightening Cycle",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-avoiding-redwire-183604424.html",
-      "pubDate": "2026-09-19T18:36:04Z",
-      "tag": "general",
-      "title_ko": "짐 크레이머 (Jim Cramer) 는 속도 강화 사이클에서 Redwire (RDW) 를 피할 것을 제안합니다.",
-      "desc_ko": null
-    },
-    {
-      "title": "Nasdaq (NDAQ) Just Made It Harder For Crypto Criminals To Hide",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-ndaq-just-made-harder-185116666.html",
-      "pubDate": "2026-09-19T18:51:16Z",
-      "tag": "general",
-      "title_ko": "Nasdaq (NDAQ) 은 암호 범죄자가 숨기는 것을 더 어렵게 만들었습니다",
-      "desc_ko": null
-    },
-    {
-      "title": "Key Christmas retailer files for Chapter 11 bankrutpcy",
-      "description": "",
-      "link": "https://finance.yahoo.com/small-business/articles/key-christmas-retailer-files-chapter-140700474.html",
-      "pubDate": "2026-09-20T14:07:00Z",
-      "tag": "general",
-      "title_ko": "챕터 11 bankrutpcy에 대한 주요 크리스마스 소매업체 파일",
-      "desc_ko": null
-    },
-    {
-      "title": "Sempra (SRE) Just Locked In Two Decades of LNG Demand",
-      "description": "",
-      "link": "https://finance.yahoo.com/energy/articles/sempra-sre-just-locked-two-183448167.html",
-      "pubDate": "2026-09-19T18:34:48Z",
-      "tag": "general",
-      "title_ko": "Sempra (SRE), 20년간 LNG 수요 잠김",
-      "desc_ko": null
-    },
-    {
-      "title": "Franco-Nevada’s (FNV) Record Quarter Hides A Two-Year Question Mark",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/franco-nevada-fnv-record-quarter-185639565.html",
-      "pubDate": "2026-09-19T18:56:39Z",
-      "tag": "general",
-      "title_ko": "Franco-Nevada (FNV) 의 레코드 쿼터, 2년 물음표 숨김",
-      "desc_ko": null
-    },
-    {
-      "title": "AMETEK’s (AME) $5B Deal Bets Big On A Hot Streak",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ametek-ame-5b-deal-bets-183135450.html",
-      "pubDate": "2026-09-19T18:31:35Z",
-      "tag": "general",
-      "title_ko": "AMETEK (AME) 의 $ 50B 딜은 뜨거운 연승에서 큰 베팅을 합니다",
-      "desc_ko": null
-    },
-    {
-      "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mediatek-stepping-competition-against-qualcomm-183002481.html",
-      "pubDate": "2026-09-19T18:30:02Z",
-      "tag": "general",
-      "title_ko": "MediaTek은 새로운 2나노미터 칩으로 Qualcomm과의 경쟁을 강화하고 있습니다. QCOM 주식에 대한 의미.",
-      "desc_ko": null
-    },
-    {
-      "title": "Dollar General CEO raises major red flag about consumers",
-      "description": "",
-      "link": "https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html",
-      "pubDate": "2026-09-20T15:17:00Z",
-      "tag": "general",
-      "title_ko": "달러 제너럴 CEO, 소비자에 대한 주요 적신호 제기",
       "desc_ko": null
     },
     {
@@ -389,12 +299,12 @@
       "desc_ko": null
     },
     {
-      "title": "PureCycle (PCT) Expands PureFive Use as Regulatory Tailwinds Meet Execution Risk",
+      "title": "Franco-Nevada’s (FNV) Record Quarter Hides A Two-Year Question Mark",
       "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-expands-purefive-regulatory-182105336.html",
-      "pubDate": "2026-09-19T18:21:05Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/franco-nevada-fnv-record-quarter-185639565.html",
+      "pubDate": "2026-09-19T18:56:39Z",
       "tag": "general",
-      "title_ko": "PureCycle (PCT), 규제 후폭풍이 실행 위험에 부합함에 따라 PureFive 사용 확대",
+      "title_ko": "Franco-Nevada (FNV) 의 레코드 쿼터, 2년 물음표 숨김",
       "desc_ko": null
     },
     {
@@ -404,6 +314,96 @@
       "pubDate": "2026-09-19T19:25:15Z",
       "tag": "general",
       "title_ko": "Cerebras (CBRS) 는 핀란드에서 165MW 국기를 설치하면서도 여전히 돈을 잃고 있습니다.",
+      "desc_ko": null
+    },
+    {
+      "title": "Key Christmas retailer files for Chapter 11 bankrutpcy",
+      "description": "",
+      "link": "https://finance.yahoo.com/small-business/articles/key-christmas-retailer-files-chapter-140700474.html",
+      "pubDate": "2026-09-20T14:07:00Z",
+      "tag": "general",
+      "title_ko": "챕터 11 bankrutpcy에 대한 주요 크리스마스 소매업체 파일",
+      "desc_ko": null
+    },
+    {
+      "title": "STMicroelectronics (STM) Wants Every Car Watching Its Driver, and Cheaply",
+      "description": "",
+      "link": "https://finance.yahoo.com/technology/articles/stmicroelectronics-stm-wants-every-car-192912047.html",
+      "pubDate": "2026-09-19T19:29:12Z",
+      "tag": "general",
+      "title_ko": "STMicroelectronics (STM) 는 모든 차량이 운전자를 감시하고 저렴하게 운전하기를 원합니다.",
+      "desc_ko": null
+    },
+    {
+      "title": "Nasdaq (NDAQ) Just Made It Harder For Crypto Criminals To Hide",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-ndaq-just-made-harder-185116666.html",
+      "pubDate": "2026-09-19T18:51:16Z",
+      "tag": "general",
+      "title_ko": "Nasdaq (NDAQ) 은 암호 범죄자가 숨기는 것을 더 어렵게 만들었습니다",
+      "desc_ko": null
+    },
+    {
+      "title": "Here’s Another Little-Known Firm Jensen Huang’s Nvidia Is Quietly Backing",
+      "description": "",
+      "link": "https://finance.yahoo.com/technology/ai/articles/another-little-known-firm-jensen-193002873.html",
+      "pubDate": "2026-09-19T19:30:02Z",
+      "tag": "general",
+      "title_ko": "잘 알려지지 않은 젠슨 황 (Jensen Huang) 의 엔비디아 (Nvidia) 가 조용히 지원하고 있는 또 다른 회사를 소개합니다.",
+      "desc_ko": null
+    },
+    {
+      "title": "Jim Cramer Suggests Against Holding Dominion (D) Through the NextEra (NEE) Share Conversion",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-against-holding-192955385.html",
+      "pubDate": "2026-09-19T19:29:55Z",
+      "tag": "general",
+      "title_ko": "짐 크레이머 (Jim Cramer) 가 NextEra (NEE) 주식 전환을 통해 지배 (D) 보유에 반대하는 제안",
+      "desc_ko": null
+    },
+    {
+      "title": "Dollar General CEO raises major red flag about consumers",
+      "description": "",
+      "link": "https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html",
+      "pubDate": "2026-09-20T15:17:00Z",
+      "tag": "general",
+      "title_ko": "달러 제너럴 CEO, 소비자에 대한 주요 적신호 제기",
+      "desc_ko": null
+    },
+    {
+      "title": "CoreWeave (CRWV) Is Charging More for AI Compute, and Customers Keep Paying",
+      "description": "",
+      "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-charging-more-ai-193252050.html",
+      "pubDate": "2026-09-19T19:32:52Z",
+      "tag": "general",
+      "title_ko": "CoreWeave (CRWV) 는 AI 컴퓨팅에 더 많은 비용을 부과하고 있으며, 고객은 계속해서 비용을 지불합니다.",
+      "desc_ko": null
+    },
+    {
+      "title": "Jim Cramer Says “Buy Reddit” (RDDT)",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-reddit-193324887.html",
+      "pubDate": "2026-09-19T19:33:24Z",
+      "tag": "general",
+      "title_ko": "짐 크레이머가 말하는 \"레딧 구매\" (RDDT)",
+      "desc_ko": null
+    },
+    {
+      "title": "Jim Cramer Notes Oil Is Behind Pressure on Casey’s (CASY) and Texas Roadhouse (TXRH)",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-oil-behind-193509467.html",
+      "pubDate": "2026-09-19T19:35:09Z",
+      "tag": "general",
+      "title_ko": "짐 크레이머는 기름이 케이시 (CASY) 와 텍사스 로드하우스 (TXRH) 에 가해지는 압력의 배후에 있다고 말합니다.",
+      "desc_ko": null
+    },
+    {
+      "title": "Garmin’s (GRMN) New Autopilot Signals Where Growth Is Headed",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/garmin-grmn-autopilot-signals-where-184731033.html",
+      "pubDate": "2026-09-19T18:47:31Z",
+      "tag": "general",
+      "title_ko": "Garmin (GRMN) 의 성장이 향하는 새로운 자동 조종 신호",
       "desc_ko": null
     },
     {
@@ -718,12 +718,12 @@
         7556.5,
         7640.0,
         7657.35009765625,
-        7745.75
+        7746.75
       ],
-      "last": 7745.75,
-      "chg_pct": 1.1544450915311721,
-      "rsi14": 57.27366458253551,
-      "ma20": 7670.367504882813
+      "last": 7746.75,
+      "chg_pct": 1.1675044395725538,
+      "rsi14": 57.341790141057196,
+      "ma20": 7670.417504882813
     },
     "nq": {
       "live": true,
@@ -827,12 +827,12 @@
         28963.5,
         29446.75,
         29613.6796875,
-        30092.0
+        30113.75
       ],
-      "last": 30092.0,
-      "chg_pct": 1.6152005341703621,
-      "rsi14": 61.10815887537058,
-      "ma20": 29375.358984375
+      "last": 30113.75,
+      "chg_pct": 1.6886463208119349,
+      "rsi14": 61.36087270560284,
+      "ma20": 29376.446484375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4387.5,
         4399.7001953125,
         4424.89990234375,
-        4391.10009765625
+        4386.2998046875
       ],
-      "last": 4391.10009765625,
-      "chg_pct": -0.7638546731779663,
-      "rsi14": 47.500415694071904,
-      "ma20": 4477.614965820312
+      "last": 4386.2998046875,
+      "chg_pct": -0.8723383242139459,
+      "rsi14": 47.12521321588928,
+      "ma20": 4477.374951171875
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         102.43000030517578,
         101.91000366210938,
         100.30000305175781,
-        94.66000366210938
+        94.05999755859375
       ],
-      "last": 94.66000366210938,
-      "chg_pct": -5.623129828558458,
-      "rsi14": 52.93620569924184,
-      "ma20": 93.22150192260742
+      "last": 94.05999755859375,
+      "chg_pct": -6.221341279465397,
+      "rsi14": 51.99563950333854,
+      "ma20": 93.19150161743164
     },
     "zn": {
       "live": true,
@@ -1154,12 +1154,12 @@
         106.046875,
         106.40625,
         106.078125,
-        105.96875
+        106.015625
       ],
-      "last": 105.96875,
-      "chg_pct": -0.10310796877301517,
-      "rsi14": 28.217052629729565,
-      "ma20": 107.32734375
+      "last": 106.015625,
+      "chg_pct": -0.058918839298865815,
+      "rsi14": 28.610853485774214,
+      "ma20": 107.3296875
     },
     "dxy": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.30999755859375,
         100.22000122070312,
         100.22000122070312,
-        100.33499908447266
+        100.35099792480469
       ],
-      "last": 100.33499908447266,
-      "chg_pct": 0.11474542243946348,
-      "rsi14": 61.85666460110683,
-      "ma20": 99.43924942016602
+      "last": 100.35099792480469,
+      "chg_pct": 0.1307091423927279,
+      "rsi14": 62.05480692828846,
+      "ma20": 99.44004936218262
     },
     "vix": {
       "live": true,
@@ -1481,12 +1481,12 @@
         24713.779296875,
         24604.2890625,
         24750.779296875,
-        24918.25
+        24906.619140625
       ],
-      "last": 24918.25,
-      "chg_pct": 0.6766280007439791,
-      "rsi14": 45.063977366915715,
-      "ma20": 25186.20048828125
+      "last": 24906.619140625,
+      "chg_pct": 0.6296361091534445,
+      "rsi14": 44.78421850497053,
+      "ma20": 25185.6189453125
     },
     "n225": {
       "live": true,
@@ -1699,12 +1699,12 @@
         6717.97021484375,
         6715.41015625,
         6894.22998046875,
-        6994.1298828125
+        6993.5
       ],
-      "last": 6994.1298828125,
-      "chg_pct": 1.4490364061942367,
-      "rsi14": 55.21187941901353,
-      "ma20": 6815.809033203125
+      "last": 6993.5,
+      "chg_pct": 1.4399000296259405,
+      "rsi14": 55.197059497151415,
+      "ma20": 6815.7775390625
     },
     "sse": {
       "live": true,
@@ -1808,12 +1808,12 @@
         3891.60107421875,
         3875.60400390625,
         3911.87109375,
-        3938.036376953125
+        3940.136474609375
       ],
-      "last": 3938.036376953125,
-      "chg_pct": 0.6688687478718125,
-      "rsi14": 53.41455087778522,
-      "ma20": 3925.2245361328123
+      "last": 3940.136474609375,
+      "chg_pct": 0.7225539948014806,
+      "rsi14": 53.72129312163547,
+      "ma20": 3925.329541015625
     },
     "dax": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1363.5699462890625,
         1376.5999755859375,
         1379.530029296875,
-        1383.530029296875
+        1380.97998046875
       ],
-      "last": 1383.530029296875,
-      "chg_pct": 0.28995381869568565,
-      "rsi14": 53.233647493516045,
-      "ma20": 1363.2619995117188
+      "last": 1380.97998046875,
+      "chg_pct": 0.10510471980186017,
+      "rsi14": 51.84906708060787,
+      "ma20": 1363.1344970703126
     },
     "jpy": {
       "live": true,
@@ -2244,12 +2244,12 @@
         155.26600646972656,
         156.01400756835938,
         156.12899780273438,
-        157.05599975585938
+        156.9949951171875
       ],
-      "last": 157.05599975585938,
-      "chg_pct": 0.5937410514197029,
-      "rsi14": 50.31730581414991,
-      "ma20": 156.77225036621093
+      "last": 156.9949951171875,
+      "chg_pct": 0.5546678238127769,
+      "rsi14": 50.02081488042284,
+      "ma20": 156.76920013427736
     },
     "copper": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.43149995803833,
         6.58650016784668,
         6.614999771118164,
-        6.723999977111816
+        6.726500034332275
       ],
-      "last": 6.723999977111816,
-      "chg_pct": 1.6477733902510405,
-      "rsi14": 58.88311135480501,
-      "ma20": 6.5680749893188475
+      "last": 6.726500034332275,
+      "chg_pct": 1.6855671515051907,
+      "rsi14": 58.97642399080936,
+      "ma20": 6.568199992179871
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         2.8910000324249268,
         2.9010000228881836,
         2.9119999408721924,
-        2.884999990463257
+        2.875999927520752
       ],
-      "last": 2.884999990463257,
-      "chg_pct": -0.9271961180345565,
-      "rsi14": 51.52295586172373,
-      "ma20": 2.8839500069618227
+      "last": 2.875999927520752,
+      "chg_pct": -1.236264219863199,
+      "rsi14": 50.681148811187605,
+      "ma20": 2.883500003814697
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         64.28800201416016,
         65.47000122070312,
         66.55599975585938,
-        66.58999633789062
+        66.51000213623047
       ],
-      "last": 66.58999633789062,
-      "chg_pct": 0.05107966547862884,
-      "rsi14": 54.760832609241405,
-      "ma20": 66.14514961242676
+      "last": 66.51000213623047,
+      "chg_pct": -0.06911115421244464,
+      "rsi14": 54.498882470714605,
+      "ma20": 66.14114990234376
     },
     "qqq": {
       "live": true,
