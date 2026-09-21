@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T11:06:24.085510+00:00",
+  "updated_at": "2026-09-21T11:24:57.810049+00:00",
   "news": [
     {
       "title": "‘It&apos;s awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -137,6 +137,15 @@
       "desc_ko": "미국과 이란 간의 긴장이 다시 고조되면서 최근 몇 주 동안 유가는 배럴당 $ 100를 상회하는 상승 행진을 보였다."
     },
     {
+      "title": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
+      "description": "The EU central bank's new wholesale platform connects DLT market infrastructure to its payment rails, separate from the retail digital euro pilot planned for 2027.",
+      "link": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
+      "pubDate": "Mon, 21 Sep 2026 11:18:55 +0000",
+      "tag": "btc",
+      "title_ko": "ECB는 Pontes 플랫폼을 배포하여 토큰화된 도매 자산을 중앙 은행 자금으로 정산합니다.",
+      "desc_ko": "EU 중앙은행의 새로운 도매 플랫폼은 2027년에 계획된 소매 디지털 유로 파일럿과는 별도로 DLT 시장 인프라를 결제 레일에 연결합니다."
+    },
+    {
       "title": "Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets",
       "description": "Open interest climbed 7.59% to $156 billion even as positions were closed out, a sign traders are chasing the move rather than stepping back.",
       "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets",
@@ -263,21 +272,39 @@
       "desc_ko": "곧 출시될 Batch v1.1은 연결된 자산과 결제 전송을 함께 성공하거나 함께 실패하게 만들 수 있으며, Ripple은 광범위한 보안 검토를 거친 후 이 기능을 중심으로 상업 프로젝트가 이미 구축되고 있다고 말합니다."
     },
     {
-      "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
-      "description": "\"Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix,\" wrote Jason Calacanis.",
-      "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
-      "pubDate": "Sat, 19 Sep 2026 12:13:57 +0000",
-      "tag": "btc",
-      "title_ko": "'주황색 넥타이가 남는다': 마이클 세일러가 벤처 캐피털리스트의 비트코인 부고에 응답하다",
-      "desc_ko": "제이슨 칼라카니스 (Jason Calacanis) 는 \"비트코인은 넷플릭스 (Netflix) 시대의 DVD인 스포티파이 (Spotify) 시대의 CD처럼 느껴진다\" 고 말했다."
+      "title": "Key Christmas retailer files for Chapter 11 bankrutpcy",
+      "description": "",
+      "link": "https://finance.yahoo.com/small-business/articles/key-christmas-retailer-files-chapter-140700474.html",
+      "pubDate": "2026-09-20T14:07:00Z",
+      "tag": "general",
+      "title_ko": "챕터 11 bankrutpcy에 대한 주요 크리스마스 소매업체 파일",
+      "desc_ko": null
     },
     {
-      "title": "80-year-old discount fashion chain closing 120 stores",
+      "title": "5 easy ways US boomers become poor in retirement (after having a fairly fat nest egg) — are you making these mistakes?",
       "description": "",
-      "link": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html",
-      "pubDate": "2026-09-19T23:02:22Z",
+      "link": "https://finance.yahoo.com/markets/articles/5-easy-ways-us-boomers-110500674.html",
+      "pubDate": "2026-09-21T11:05:00Z",
       "tag": "general",
-      "title_ko": "80년 전통의 할인 패션 체인점, 120개 매장 폐쇄",
+      "title_ko": "미국 붐 세대가 은퇴 후 가난해지는 5가지 쉬운 방법 (상당히 뚱뚱한 둥지 알을 낳은 후) — 이러한 실수를 하고 있습니까?",
+      "desc_ko": null
+    },
+    {
+      "title": "Peter Schiff's father sold $4.2 million in books claiming income tax is illegal. He died in federal prison",
+      "description": "",
+      "link": "https://finance.yahoo.com/economy/policy/articles/peter-schiffs-father-sold-4-110000968.html",
+      "pubDate": "2026-09-21T11:00:00Z",
+      "tag": "general",
+      "title_ko": "피터 쉬프의 아버지는 소득세가 불법이라고 주장하는 책으로 420만 달러 ($) 를 판매했습니다. 그는 연방 교도소에서 사망했다.",
+      "desc_ko": null
+    },
+    {
+      "title": "Another aspect of Montgomery: it might make human brokers more valuable",
+      "description": "",
+      "link": "https://finance.yahoo.com/small-business/articles/another-aspect-montgomery-might-human-110000308.html",
+      "pubDate": "2026-09-21T11:00:00Z",
+      "tag": "general",
+      "title_ko": "몽고메리의 또 다른 측면: 인간 브로커를 더 가치있게 만들 수 있습니다.",
       "desc_ko": null
     },
     {
@@ -287,6 +314,15 @@
       "pubDate": "2026-09-21T10:49:40Z",
       "tag": "general",
       "title_ko": "성장 단계의 자금 조달 격차는 잊어 버리십시오. 유럽은 초기 단계의 위기에 직면 해 있습니다.",
+      "desc_ko": null
+    },
+    {
+      "title": "Dollar General CEO raises major red flag about consumers",
+      "description": "",
+      "link": "https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html",
+      "pubDate": "2026-09-20T15:17:00Z",
+      "tag": "general",
+      "title_ko": "달러 제너럴 CEO, 소비자에 대한 주요 적신호 제기",
       "desc_ko": null
     },
     {
@@ -317,21 +353,21 @@
       "desc_ko": null
     },
     {
-      "title": "Key Christmas retailer files for Chapter 11 bankrutpcy",
-      "description": "",
-      "link": "https://finance.yahoo.com/small-business/articles/key-christmas-retailer-files-chapter-140700474.html",
-      "pubDate": "2026-09-20T14:07:00Z",
-      "tag": "general",
-      "title_ko": "챕터 11 bankrutpcy에 대한 주요 크리스마스 소매업체 파일",
-      "desc_ko": null
-    },
-    {
       "title": "Best CD rates today, Monday, September 21, 2026: Lock in up to 4.40% APY",
       "description": "",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-21-2026-lock-in-up-to-440-apy-100000956.html",
       "pubDate": "2026-09-21T10:00:00Z",
       "tag": "general",
       "title_ko": "2026년 9월 21일 월요일, 오늘 최고 CD 가격: 최대 4.40% APY 고정",
+      "desc_ko": null
+    },
+    {
+      "title": "Chevron CEO sends a strong message on oil price and the economy",
+      "description": "",
+      "link": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
+      "pubDate": "2026-09-20T16:47:00Z",
+      "tag": "general",
+      "title_ko": "셰브론 CEO, 유가와 경제에 강력한 메시지 전달",
       "desc_ko": null
     },
     {
@@ -362,15 +398,6 @@
       "desc_ko": null
     },
     {
-      "title": "Dollar General CEO raises major red flag about consumers",
-      "description": "",
-      "link": "https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html",
-      "pubDate": "2026-09-20T15:17:00Z",
-      "tag": "general",
-      "title_ko": "달러 제너럴 CEO, 소비자에 대한 주요 적신호 제기",
-      "desc_ko": null
-    },
-    {
       "title": "Mortgage and refinance interest rates today, Monday, September 21, 2026: Refinance rates mostly lower",
       "description": "",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-21-2026-refinance-rates-mostly-lower-100000495.html",
@@ -380,31 +407,13 @@
       "desc_ko": null
     },
     {
-      "title": "Same Conference, Same Day, Same Bet: Chevron and ExxonMobil Double Down on LNG",
-      "description": "",
-      "link": "https://finance.yahoo.com/energy/articles/same-conference-same-day-same-094121233.html",
-      "pubDate": "2026-09-21T09:41:21Z",
+      "title": "I&#x2019;m in my 50s. My mother died from Alzheimer&#x2019;s. Do I need long-term-care insurance?",
+      "description": "&#x201c;By the time my mother died, the insurance company had paid out almost $600,000.&#x201d;",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "pubDate": "Mon, 21 Sep 2026 11:15:00 GMT",
       "tag": "general",
-      "title_ko": "같은 회의, 같은 날, 같은 베팅: LNG에 대한 Chevron 및 ExxonMobil 더블 다운",
-      "desc_ko": null
-    },
-    {
-      "title": "Sam Altman dropped out of Stanford to build an app almost nobody used — it still sold for $43.4 million",
-      "description": "",
-      "link": "https://finance.yahoo.com/technology/articles/sam-altman-dropped-stanford-build-093000834.html",
-      "pubDate": "2026-09-21T09:30:00Z",
-      "tag": "general",
-      "title_ko": "Sam Altman은 거의 아무도 사용하지 않는 앱을 만들기 위해 스탠포드에서 탈락했습니다. 여전히 $ 43.4 million에 판매되었습니다.",
-      "desc_ko": null
-    },
-    {
-      "title": "Novo Nordisk stock gets drilled on pipeline concerns— its CEO sees this as the main problem",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns-its-ceo-sees-this-as-the-main-problem-091933221.html",
-      "pubDate": "2026-09-21T09:19:33Z",
-      "tag": "general",
-      "title_ko": "Novo Nordisk 주가는 파이프라인 문제로 시추됩니다. CEO는 이를 주요 문제로 보고 있습니다.",
-      "desc_ko": null
+      "title_ko": "저는 50대입니다. 어머니가 알츠하이머로 돌아가셨습니다. 장기요양보험이 필요한가요?",
+      "desc_ko": "“어머니가 돌아가실 무렵, 보험회사는 거의 $ 600,000를 지불했습니다.”"
     },
     {
       "title": "Why one Buffett-inspired fund manager is betting big on Chinese stocks",
@@ -486,15 +495,6 @@
       "tag": "general",
       "title_ko": "신용카드 부채가 $ 125,000입니다. 장애를 포함하여 한 달에 $ 17,000의 소득이 파산에 영향을 미칩니까?",
       "desc_ko": "“2년 동안 소득 흐름 없이 생활비를 충당하기 위해 이 빚을 갚았습니다.”"
-    },
-    {
-      "title": "&#x2018;My main goal is to help people&#x2019;: I&#x2019;m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-      "description": "&#x201c;I also own my home and an SUV outright, with no outstanding debt.&#x201d;",
-      "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-      "pubDate": "Sun, 20 Sep 2026 16:30:00 GMT",
-      "tag": "general",
-      "title_ko": "‘내 주요 목표는 사람들을 돕는 것입니다.’: 저는 미혼이고, 74세이며, 주머니에 구멍을 뚫고 있는 $ 1,000만 달러를 가지고 있습니다. 어떻게 해야 하나요?",
-      "desc_ko": "\"저는 또한 빚 없이 집과 SUV를 소유하고 있습니다.\""
     }
   ],
   "assets": {
@@ -718,12 +718,12 @@
         7556.5,
         7640.0,
         7657.35009765625,
-        7767.75
+        7764.5
       ],
-      "last": 7767.75,
-      "chg_pct": 1.4417507484415664,
-      "rsi14": 58.72386864076328,
-      "ma20": 7671.467504882812
+      "last": 7764.5,
+      "chg_pct": 1.3993078673070762,
+      "rsi14": 58.515862471407914,
+      "ma20": 7671.305004882813
     },
     "nq": {
       "live": true,
@@ -827,12 +827,12 @@
         28963.5,
         29446.75,
         29613.6796875,
-        30248.25
+        30233.25
       ],
-      "last": 30248.25,
-      "chg_pct": 2.142828311767867,
-      "rsi14": 62.853500169924715,
-      "ma20": 29383.171484375
+      "last": 30233.25,
+      "chg_pct": 2.0921760451185065,
+      "rsi14": 62.69277420197836,
+      "ma20": 29382.421484375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4387.5,
         4399.7001953125,
         4424.89990234375,
-        4385.89990234375
+        4385.60009765625
       ],
-      "last": 4385.89990234375,
-      "chg_pct": -0.8813758697534096,
-      "rsi14": 47.09422317629581,
-      "ma20": 4477.354956054687
+      "last": 4385.60009765625,
+      "chg_pct": -0.8881512701944727,
+      "rsi14": 47.07101682553105,
+      "ma20": 4477.3399658203125
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         102.43000030517578,
         101.91000366210938,
         100.30000305175781,
-        93.0199966430664
+        93.61000061035156
       ],
-      "last": 93.0199966430664,
-      "chg_pct": -7.258231492709631,
-      "rsi14": 50.442150429051985,
-      "ma20": 93.13950157165527
+      "last": 93.61000061035156,
+      "chg_pct": -6.669992261071027,
+      "rsi14": 51.311872218075436,
+      "ma20": 93.16900177001953
     },
     "zn": {
       "live": true,
@@ -1154,12 +1154,12 @@
         106.046875,
         106.40625,
         106.078125,
-        106.109375
+        106.09375
       ],
-      "last": 106.109375,
-      "chg_pct": 0.029459419649432907,
-      "rsi14": 29.81869790611752,
-      "ma20": 107.334375
+      "last": 106.09375,
+      "chg_pct": 0.014729709824716454,
+      "rsi14": 29.48759046802101,
+      "ma20": 107.33359375
     },
     "dxy": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.30999755859375,
         100.22000122070312,
         100.22000122070312,
-        100.2969970703125
+        100.30699920654297
       ],
-      "last": 100.2969970703125,
-      "chg_pct": 0.07682682964632558,
-      "rsi14": 61.37761811654764,
-      "ma20": 99.43734931945801
+      "last": 100.30699920654297,
+      "chg_pct": 0.08680700935959676,
+      "rsi14": 61.504866119469845,
+      "ma20": 99.43784942626954
     },
     "vix": {
       "live": true,
@@ -1372,12 +1372,12 @@
         17.709999084472656,
         15.4399995803833,
         14.8100004196167,
-        14.880000114440918
+        14.890000343322754
       ],
-      "last": 14.880000114440918,
-      "chg_pct": 0.47265153842602275,
-      "rsi14": 45.47769225476139,
-      "ma20": 15.660500001907348
+      "last": 14.890000343322754,
+      "chg_pct": 0.5401750265995278,
+      "rsi14": 45.52460837983606,
+      "ma20": 15.66100001335144
     },
     "hsi": {
       "live": true,
@@ -1917,12 +1917,12 @@
         25537.75,
         25716.7109375,
         25304.060546875,
-        25592.169921875
+        25577.240234375
       ],
-      "last": 25592.169921875,
-      "chg_pct": 1.1385894942287471,
-      "rsi14": 46.197195051502604,
-      "ma20": 25856.03515625
+      "last": 25577.240234375,
+      "chg_pct": 1.079588341143679,
+      "rsi14": 45.864234344406874,
+      "ma20": 25855.288671875
     },
     "ftse": {
       "live": true,
@@ -2026,12 +2026,12 @@
         10688.5,
         10816.099609375,
         10659.099609375,
-        10760.080078125
+        10762.1904296875
       ],
-      "last": 10760.080078125,
-      "chg_pct": 0.9473639655378081,
-      "rsi14": 51.03461235244892,
-      "ma20": 10764.323876953125
+      "last": 10762.1904296875,
+      "chg_pct": 0.967162556786959,
+      "rsi14": 51.160604363274054,
+      "ma20": 10764.42939453125
     },
     "krw": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1363.5699462890625,
         1376.5999755859375,
         1379.530029296875,
-        1371.9100341796875
+        1372.3800048828125
       ],
-      "last": 1371.9100341796875,
-      "chg_pct": -0.5523616706677485,
-      "rsi14": 46.81226790490599,
-      "ma20": 1362.6809997558594
+      "last": 1372.3800048828125,
+      "chg_pct": -0.518294220656201,
+      "rsi14": 47.05184028846037,
+      "ma20": 1362.7044982910156
     },
     "jpy": {
       "live": true,
@@ -2244,12 +2244,12 @@
         155.26600646972656,
         156.01400756835938,
         156.12899780273438,
-        157.2760009765625
+        157.24099731445312
       ],
-      "last": 157.2760009765625,
-      "chg_pct": 0.7346509552807985,
-      "rsi14": 51.35793612581976,
-      "ma20": 156.7832504272461
+      "last": 157.24099731445312,
+      "chg_pct": 0.7122312493952837,
+      "rsi14": 51.19529084951241,
+      "ma20": 156.78150024414063
     },
     "copper": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.43149995803833,
         6.58650016784668,
         6.614999771118164,
-        6.7804999351501465
+        6.788000106811523
       ],
-      "last": 6.7804999351501465,
-      "chg_pct": 2.5018922110107216,
-      "rsi14": 60.893385732334224,
-      "ma20": 6.5708999872207645
+      "last": 6.788000106811523,
+      "chg_pct": 2.615273494773173,
+      "rsi14": 61.14555887931523,
+      "ma20": 6.571274995803833
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         2.8910000324249268,
         2.9010000228881836,
         2.9119999408721924,
-        2.865000009536743
+        2.861999988555908
       ],
-      "last": 2.865000009536743,
-      "chg_pct": -1.6140086637972926,
-      "rsi14": 49.6889123557331,
-      "ma20": 2.882950007915497
+      "last": 2.861999988555908,
+      "chg_pct": -1.7170313644068398,
+      "rsi14": 49.425005725171424,
+      "ma20": 2.882800006866455
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         64.28800201416016,
         65.47000122070312,
         66.55599975585938,
-        66.5
+        66.42500305175781
       ],
-      "last": 66.5,
-      "chg_pct": -0.08413930534406097,
-      "rsi14": 54.46370778826515,
-      "ma20": 66.14064979553223
+      "last": 66.42500305175781,
+      "chg_pct": -0.19682178102963582,
+      "rsi14": 54.201404367758926,
+      "ma20": 66.13689994812012
     },
     "qqq": {
       "live": true,
