@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T03:25:42.837984+00:00",
+  "updated_at": "2026-09-21T03:40:54.734656+00:00",
   "news": [
     {
       "title": "‘It&apos;s awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -290,6 +290,15 @@
       "desc_ko": null
     },
     {
+      "title": "Lucid (LCID) Rises After Bolt Partnership, But Cash Burn Remains a Concern",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-lcid-rises-bolt-partnership-165233221.html",
+      "pubDate": "2026-09-19T16:52:33Z",
+      "tag": "general",
+      "title_ko": "Lucid (LCID) 는 Bolt 파트너십 후 상승하지만 현금 소진은 여전히 우려 사항입니다.",
+      "desc_ko": null
+    },
+    {
       "title": "IonQ's Options Are the Cheapest They've Been All Year. Here's the Trade That Takes Advantage.",
       "description": "",
       "link": "https://finance.yahoo.com/markets/options/articles/ionqs-options-cheapest-theyve-heres-155811959.html",
@@ -308,21 +317,21 @@
       "desc_ko": null
     },
     {
-      "title": "PicS N.V. (PICS) Delivers Credit Portfolio Momentum and Q2 Outperformance Across the Board",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pics-n-v-pics-delivers-155428079.html",
-      "pubDate": "2026-09-19T15:54:28Z",
-      "tag": "general",
-      "title_ko": "PicS N.V. (PICS), 전반적으로 신용 포트폴리오 모멘텀 및 Q2 성과 제공",
-      "desc_ko": null
-    },
-    {
       "title": "Key Christmas retailer files for Chapter 11 bankrutpcy",
       "description": "",
       "link": "https://finance.yahoo.com/small-business/articles/key-christmas-retailer-files-chapter-140700474.html",
       "pubDate": "2026-09-20T14:07:00Z",
       "tag": "general",
       "title_ko": "챕터 11 bankrutpcy에 대한 주요 크리스마스 소매업체 파일",
+      "desc_ko": null
+    },
+    {
+      "title": "PicS N.V. (PICS) Delivers Credit Portfolio Momentum and Q2 Outperformance Across the Board",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pics-n-v-pics-delivers-155428079.html",
+      "pubDate": "2026-09-19T15:54:28Z",
+      "tag": "general",
+      "title_ko": "PicS N.V. (PICS), 전반적으로 신용 포트폴리오 모멘텀 및 Q2 성과 제공",
       "desc_ko": null
     },
     {
@@ -335,39 +344,12 @@
       "desc_ko": null
     },
     {
-      "title": "Lucid (LCID) Rises After Bolt Partnership, But Cash Burn Remains a Concern",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-lcid-rises-bolt-partnership-165233221.html",
-      "pubDate": "2026-09-19T16:52:33Z",
-      "tag": "general",
-      "title_ko": "Lucid (LCID) 는 Bolt 파트너십 후 상승하지만 현금 소진은 여전히 우려 사항입니다.",
-      "desc_ko": null
-    },
-    {
-      "title": "No Degree, No Problem: Why the Job Market Is Booming for Americans Without College Degrees",
-      "description": "",
-      "link": "https://finance.yahoo.com/economy/articles/no-degree-no-problem-why-153002314.html",
-      "pubDate": "2026-09-19T15:30:02Z",
-      "tag": "general",
-      "title_ko": "학위 없음, 문제 없음: 대학 학위가 없는 미국인에게 취업 시장이 호황을 누리는 이유",
-      "desc_ko": null
-    },
-    {
       "title": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
       "description": "",
       "link": "https://finance.yahoo.com/technology/articles/micron-mu-unveils-breakthrough-memory-171152232.html",
       "pubDate": "2026-09-19T17:11:52Z",
       "tag": "general",
       "title_ko": "마이크론 (MU), 획기적인 메모리 제품 공개. 메모리 시장에 대해 많은 것을 말해줍니다.",
-      "desc_ko": null
-    },
-    {
-      "title": "Dollar General CEO raises major red flag about consumers",
-      "description": "",
-      "link": "https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html",
-      "pubDate": "2026-09-20T15:17:00Z",
-      "tag": "general",
-      "title_ko": "달러 제너럴 CEO, 소비자에 대한 주요 적신호 제기",
       "desc_ko": null
     },
     {
@@ -380,12 +362,21 @@
       "desc_ko": null
     },
     {
+      "title": "Dollar General CEO raises major red flag about consumers",
+      "description": "",
+      "link": "https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html",
+      "pubDate": "2026-09-20T15:17:00Z",
+      "tag": "general",
+      "title_ko": "달러 제너럴 CEO, 소비자에 대한 주요 적신호 제기",
+      "desc_ko": null
+    },
+    {
       "title": "Delivery Outlook Shows Tesla (TSLA)’s Core Business Under Pressure. Its Next Growth Engine Must Deliver",
       "description": "",
       "link": "https://finance.yahoo.com/markets/stocks/articles/delivery-outlook-shows-tesla-tsla-171443015.html",
       "pubDate": "2026-09-19T17:14:43Z",
       "tag": "general",
-      "title_ko": null,
+      "title_ko": "납품 전망은 테슬라 (TSLA) 의 핵심 비즈니스가 압박을 받고 있음을 보여줍니다. 차세대 성장 엔진이 제공해야 합니다",
       "desc_ko": null
     },
     {
@@ -394,7 +385,7 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/amodei-altman-musk-called-ai-173002836.html",
       "pubDate": "2026-09-19T17:30:02Z",
       "tag": "general",
-      "title_ko": null,
+      "title_ko": "Amodei, Altman, Musk는 AI 감속을 촉구했습니다. 이것이 ASML 주주를 위한 경고 신호인 이유는 다음과 같습니다.",
       "desc_ko": null
     },
     {
@@ -403,7 +394,16 @@
       "link": "https://finance.yahoo.com/real-estate/articles/does-40-3-million-birwood-173911914.html",
       "pubDate": "2026-09-19T17:39:11Z",
       "tag": "general",
-      "title_ko": null,
+      "title_ko": "이 $ 40.3 Million Birwood Heights 자금 조달은 어떻게 Marcus &amp; Millichap's (MMI) 에 이익이 됩니까?",
+      "desc_ko": null
+    },
+    {
+      "title": "Willis Lease Finance (WLFC) Expands Fleet with New Aircraft and Engine Acquisition",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-expands-174813287.html",
+      "pubDate": "2026-09-19T17:48:13Z",
+      "tag": "general",
+      "title_ko": "윌리스 리스 파이낸스 (WLFC), 신규 항공기 및 엔진 확보로 법인택시 확장",
       "desc_ko": null
     },
     {
@@ -412,8 +412,8 @@
       "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
       "pubDate": "Mon, 21 Sep 2026 02:40:00 GMT",
       "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
+      "title_ko": "‘내 총 잔액은 2천만 달러 ($) 여야 합니다.’: 암호화폐 플랫폼에 $ 110만 달러를 투자했습니다. 내가 다 잃어버린 건가?",
+      "desc_ko": "\"저는 뉴욕의 주요 투자 은행의 총괄 부사장의 추천을 받아 투자했습니다.\""
     },
     {
       "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
@@ -421,8 +421,8 @@
       "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
       "pubDate": "Sun, 20 Sep 2026 17:30:00 GMT",
       "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
+      "title_ko": "신용카드 부채가 $ 125,000입니다. 장애를 포함하여 한 달에 $ 17,000의 소득이 파산에 영향을 미칩니까?",
+      "desc_ko": "“2년 동안 소득 흐름 없이 생활비를 충당하기 위해 이 빚을 갚았습니다.”"
     },
     {
       "title": "&#x2018;My main goal is to help people&#x2019;: I&#x2019;m single, 74, with $10 million burning a hole in my pocket. What should I do?",
@@ -430,8 +430,8 @@
       "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
       "pubDate": "Sun, 20 Sep 2026 16:30:00 GMT",
       "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
+      "title_ko": "‘내 주요 목표는 사람들을 돕는 것입니다.’: 저는 미혼이고, 74세이며, 주머니에 구멍을 뚫고 있는 $ 1,000만 달러를 가지고 있습니다. 어떻게 해야 하나요?",
+      "desc_ko": "\"저는 또한 빚 없이 집과 SUV를 소유하고 있습니다.\""
     },
     {
       "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
@@ -439,8 +439,8 @@
       "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
       "pubDate": "Sun, 20 Sep 2026 15:00:00 GMT",
       "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
+      "title_ko": "임대 재산이 상환되었지만 현금이 필요합니다. $ 50,000 HELOC을 (를) 꺼내기에 안 좋은 시기인가요?",
+      "desc_ko": "연방준비제도 (Fed) 는 수요일 금리 인상률을 3.75% -4.0% 로 분기 포인트 인상한다고 발표했다."
     },
     {
       "title": "Snoopy cups at Starbucks and McDonald&#x2019;s SpongeBob toys are commanding huge markups on eBay",
@@ -448,8 +448,8 @@
       "link": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
       "pubDate": "Sun, 20 Sep 2026 14:08:00 GMT",
       "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
+      "title_ko": "Starbucks와 McDonald's SpongeBob 장난감의 스누피 컵이 eBay에서 커다란 마크업을 장악하고 있습니다.",
+      "desc_ko": "어른들은 향수를 불러일으키며 판촉물을 구경하고 수집품을 둘러싸고 광란의 시간을 보내고 있습니다."
     },
     {
       "title": "China is chasing SpaceX and setting its sights on the global space economy",
@@ -457,8 +457,8 @@
       "link": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
       "pubDate": "Sun, 20 Sep 2026 13:53:00 GMT",
       "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
+      "title_ko": "중국은 스페이스X를 추격하며 세계 우주 경제를 조망하고 있습니다.",
+      "desc_ko": "전문가들은 중국의 우주 기술 기업들이 그들의 영역을 넓히기를 원하고 있다고 말합니다. 그들은 일론 머스크와 회사에 접근하고 있습니다."
     },
     {
       "title": "&#x2018;There might be a silver lining&#x2019;: My friend&#x2019;s wife died at 60 after a high-earning career. Can he claim her Social Security?",
@@ -466,8 +466,8 @@
       "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
       "pubDate": "Sun, 20 Sep 2026 13:16:00 GMT",
       "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
+      "title_ko": "‘은색 안감이 있을지도 몰라’: 내 친구의 아내는 고소득 경력을 쌓은 후 60 세에 사망했습니다. 그는 그녀의 사회 보장을 청구 할 수 있습니까?",
+      "desc_ko": "“결혼한 지 30년이 넘었다.”"
     },
     {
       "title": "Record diesel prices are exposing pain points in the stock market and economy",
@@ -475,8 +475,8 @@
       "link": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories",
       "pubDate": "Sun, 20 Sep 2026 13:00:00 GMT",
       "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
+      "title_ko": "기록적인 디젤 가격이 주식 시장과 경제의 어려움을 드러내고 있습니다.",
+      "desc_ko": "현재 주요 위험은 디젤 가격이 여전히 높고 인플레이션에 계속 상승 압력을 가하는 것입니다."
     },
     {
       "title": "&#x2018;I&#x2019;m burned out&#x2019;: I&#x2019;m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
@@ -484,8 +484,8 @@
       "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
       "pubDate": "Sun, 20 Sep 2026 12:46:00 GMT",
       "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
+      "title_ko": "‘지쳤어’: 돈이 떨어지는 사촌을 끊임없이 돕고 있어요. 누이가 도와주길 바라는 건 무리인가?",
+      "desc_ko": "“저는 가족과 떨어져 많은 시간을 보내며 기름값을 지출하고, 가족을 데리고 나가 식사를 합니다.”"
     },
     {
       "title": "Midterm voters are overwhelmingly worried about the national debt. But only small fixes are expected this year.",
@@ -493,8 +493,8 @@
       "link": "https://www.marketwatch.com/story/midterm-voters-are-overwhelmingly-worried-about-the-national-debt-but-only-small-fixes-are-expected-this-year-758d364e?mod=mw_rss_topstories",
       "pubDate": "Sun, 20 Sep 2026 12:31:00 GMT",
       "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
+      "title_ko": "중간 유권자들은 국가 부채에 대해 압도적으로 걱정하고 있습니다. 하지만 올해는 작은 보완 사항만 있을 것으로 예상됩니다.",
+      "desc_ko": "워치독 그룹은 중간 유권자들이 \"뭔가 잘못됐다\" 고 느낀다고 말합니다."
     }
   ],
   "assets": {
@@ -718,12 +718,12 @@
         7556.5,
         7640.0,
         7657.35009765625,
-        7743.75
+        7744.25
       ],
-      "last": 7743.75,
-      "chg_pct": 1.128326395448409,
-      "rsi14": 57.13728022502511,
-      "ma20": 7670.267504882812
+      "last": 7744.25,
+      "chg_pct": 1.1348560694691,
+      "rsi14": 57.17158878360655,
+      "ma20": 7670.292504882813
     },
     "nq": {
       "live": true,
@@ -827,12 +827,12 @@
         28963.5,
         29446.75,
         29613.6796875,
-        30095.75
+        30093.25
       ],
-      "last": 30095.75,
-      "chg_pct": 1.6278636008327023,
-      "rsi14": 61.15229096444884,
-      "ma20": 29375.546484375
+      "last": 30093.25,
+      "chg_pct": 1.6194215563911423,
+      "rsi14": 61.12309719679087,
+      "ma20": 29375.421484375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4387.5,
         4399.7001953125,
         4424.89990234375,
-        4400.60009765625
+        4398.7001953125
       ],
-      "last": 4400.60009765625,
-      "chg_pct": -0.549160551058546,
-      "rsi14": 48.256793550464366,
-      "ma20": 4478.0899658203125
+      "last": 4398.7001953125,
+      "chg_pct": -0.5920971685116023,
+      "rsi14": 48.10279087772115,
+      "ma20": 4477.994970703125
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         102.43000030517578,
         101.91000366210938,
         100.30000305175781,
-        93.9000015258789
+        94.02999877929688
       ],
-      "last": 93.9000015258789,
-      "chg_pct": -6.380858754885893,
-      "rsi14": 51.746405825512326,
-      "ma20": 93.18350181579589
+      "last": 94.02999877929688,
+      "chg_pct": -6.2512503306958305,
+      "rsi14": 51.945423321065476,
+      "ma20": 93.1900016784668
     },
     "zn": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.30999755859375,
         100.22000122070312,
         100.22000122070312,
-        100.29399871826172
+        100.3030014038086
       ],
-      "last": 100.29399871826172,
-      "chg_pct": 0.07383505952632895,
-      "rsi14": 61.33617374812896,
-      "ma20": 99.43719940185547
+      "last": 100.3030014038086,
+      "chg_pct": 0.0828179825329346,
+      "rsi14": 61.45097718223776,
+      "ma20": 99.43764953613281
     },
     "vix": {
       "live": true,
@@ -1481,12 +1481,12 @@
         24713.779296875,
         24604.2890625,
         24750.779296875,
-        24900.66015625
+        24910.76953125
       ],
-      "last": 24900.66015625,
-      "chg_pct": 0.605560162681115,
-      "rsi14": 44.63977936514487,
-      "ma20": 25185.32099609375
+      "last": 24910.76953125,
+      "chg_pct": 0.6464048362113598,
+      "rsi14": 44.88437486796252,
+      "ma20": 25185.82646484375
     },
     "n225": {
       "live": true,
@@ -1699,12 +1699,12 @@
         6717.97021484375,
         6715.41015625,
         6894.22998046875,
-        7007.9599609375
+        7023.4599609375
       ],
-      "last": 7007.9599609375,
-      "chg_pct": 1.649640072799215,
-      "rsi14": 55.53482125737316,
-      "ma20": 6816.500537109375
+      "last": 7023.4599609375,
+      "chg_pct": 1.8744657610038624,
+      "rsi14": 55.89126674790947,
+      "ma20": 6817.275537109375
     },
     "sse": {
       "live": true,
@@ -1808,12 +1808,12 @@
         3891.60107421875,
         3875.60400390625,
         3911.87109375,
-        3932.764892578125
+        3935.8291015625
       ],
-      "last": 3932.764892578125,
-      "chg_pct": 0.5341126618795553,
-      "rsi14": 52.62637631595684,
-      "ma20": 3924.9609619140624
+      "last": 3935.8291015625,
+      "chg_pct": 0.6124436935250175,
+      "rsi14": 53.0877405622982,
+      "ma20": 3925.1141723632813
     },
     "dax": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1363.5699462890625,
         1376.5999755859375,
         1379.530029296875,
-        1382.8800048828125
+        1383.3800048828125
       ],
-      "last": 1382.8800048828125,
-      "chg_pct": 0.2428345534199738,
-      "rsi14": 52.88832634021433,
-      "ma20": 1363.2294982910157
+      "last": 1383.3800048828125,
+      "chg_pct": 0.2790787807569345,
+      "rsi14": 53.154398137184636,
+      "ma20": 1363.2544982910156
     },
     "jpy": {
       "live": true,
@@ -2244,12 +2244,12 @@
         155.26600646972656,
         156.01400756835938,
         156.12899780273438,
-        156.90899658203125
+        156.88600158691406
       ],
-      "last": 156.90899658203125,
-      "chg_pct": 0.49958610525533936,
-      "rsi14": 49.59678869100195,
-      "ma20": 156.76490020751953
+      "last": 156.88600158691406,
+      "chg_pct": 0.4848579026531288,
+      "rsi14": 49.4821871869739,
+      "ma20": 156.76375045776368
     },
     "copper": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.43149995803833,
         6.58650016784668,
         6.614999771118164,
-        6.730000019073486
+        6.7245001792907715
       ],
-      "last": 6.730000019073486,
-      "chg_pct": 1.7384769755764216,
-      "rsi14": 59.10700240788364,
-      "ma20": 6.568374991416931
+      "last": 6.7245001792907715,
+      "chg_pct": 1.6553350258710298,
+      "rsi14": 58.9024732177283,
+      "ma20": 6.568099999427796
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         2.8910000324249268,
         2.9010000228881836,
         2.9119999408721924,
-        2.869999885559082
+        2.872999906539917
       ],
-      "last": 2.869999885559082,
-      "chg_pct": -1.4423096210822943,
-      "rsi14": 50.1309184775241,
-      "ma20": 2.883200001716614
+      "last": 2.872999906539917,
+      "chg_pct": -1.3392869204727467,
+      "rsi14": 50.402443264544864,
+      "ma20": 2.8833500027656553
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         64.28800201416016,
         65.47000122070312,
         66.55599975585938,
-        66.82499694824219
+        66.79000091552734
       ],
-      "last": 66.82499694824219,
-      "chg_pct": 0.40416670678758887,
-      "rsi14": 55.43699466558562,
-      "ma20": 66.15689964294434
+      "last": 66.79000091552734,
+      "chg_pct": 0.35158537250786026,
+      "rsi14": 55.33750129541124,
+      "ma20": 66.1551498413086
     },
     "qqq": {
       "live": true,
