@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T11:51:00.427825+00:00",
+  "updated_at": "2026-09-21T12:07:57.625219+00:00",
   "news": [
     {
       "title": "‘It&apos;s awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -137,6 +137,15 @@
       "desc_ko": "미국과 이란 간의 긴장이 다시 고조되면서 최근 몇 주 동안 유가는 배럴당 $ 100를 상회하는 상승 행진을 보였다."
     },
     {
+      "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week",
+      "description": "It's the first week of bitcoin purchases for Strategy in about three weeks.",
+      "link": "https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week",
+      "pubDate": "Mon, 21 Sep 2026 12:08:02 +0000",
+      "tag": "btc",
+      "title_ko": "전략이 비트코인 구매로 돌아와 지난 주에 7,500만 달러의 BTC를 추가했습니다 ($ 7,500만).",
+      "desc_ko": "약 3주 만에 전략을 위한 비트코인 구매 첫 주입니다."
+    },
+    {
       "title": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
       "description": "Your day-ahead look for Sept. 21, 2026",
       "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
@@ -263,21 +272,57 @@
       "desc_ko": "시장 전문가들은 비트코인의 가격 안정성을 워싱턴으로부터의 근본적인 독립성의 증거로 보고 있으며, 글로벌 유동성과 채택 주기가 주요 성장 동력으로 남아 있다고 주장합니다."
     },
     {
-      "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
-      "description": "U.S. agencies are racing to substitute their regulations for the law that was meant to set crypto markets in governmental bedrock, but will the stand-ins last?",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
-      "pubDate": "Sat, 19 Sep 2026 16:00:00 +0000",
-      "tag": "btc",
-      "title_ko": "명확성 법, 우리는 당신을 거의 몰랐습니다: 우리는 법안에 무엇이 있었는지와 그것을 대체하는 것이 무엇인지 살펴 봅니다.",
-      "desc_ko": "미국 기관들은 정부의 기반암에 암호화 시장을 설정하기위한 법에 대한 규정을 대체하기 위해 경쟁하고 있지만, 스탠드 인은 지속될 것인가?"
+      "title": "Legend launches sale of Banque Internationale à Luxembourg – report",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/legend-launches-sale-banque-internationale-120035482.html",
+      "pubDate": "2026-09-21T12:00:35Z",
+      "tag": "general",
+      "title_ko": "레전드, 룩셈부르크 국제은행 (Banque Internationale à Luxembourg) 판매 개시 – 보고서",
+      "desc_ko": null
     },
     {
-      "title": "Key Christmas retailer files for Chapter 11 bankrutpcy",
+      "title": "Stock market today: Dow, S&amp;P 500, Nasdaq futures rise as oil falls, anticipation builds for Trump-Xi summit",
       "description": "",
-      "link": "https://finance.yahoo.com/small-business/articles/key-christmas-retailer-files-chapter-140700474.html",
-      "pubDate": "2026-09-20T14:07:00Z",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+      "pubDate": "2026-09-21T08:02:14Z",
       "tag": "general",
-      "title_ko": "챕터 11 bankrutpcy에 대한 주요 크리스마스 소매업체 파일",
+      "title_ko": "오늘의 주식 시장: 다우, S&amp;P 500, 나스닥 선물은 원유 하락에 따라 상승, 트럼프-Xi 정상 회담에 대한 기대감 형성",
+      "desc_ko": null
+    },
+    {
+      "title": "Four Launches From 100: Rocket Lab Gets a Bullish New Call, With Iridium and Mynaric Along for the Ride",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/four-launches-100-rocket-lab-115117949.html",
+      "pubDate": "2026-09-21T11:51:17Z",
+      "tag": "general",
+      "title_ko": "100년부터 4번의 발사: Rocket Lab이 이리듐과 미나릭과 함께 새로운 부름을 받음",
+      "desc_ko": null
+    },
+    {
+      "title": "Boeing and Lockheed Martin Both Cash In on the Pentagon’s Contract Calendar",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-lockheed-martin-both-cash-114654499.html",
+      "pubDate": "2026-09-21T11:46:54Z",
+      "tag": "general",
+      "title_ko": "보잉과 록히드 마틴 모두 펜타곤의 계약 달력에서 현금화",
+      "desc_ko": null
+    },
+    {
+      "title": "Nscale, Rival Of CoreWeave And Nebius, Files For IPO",
+      "description": "",
+      "link": "https://www.investors.com/news/technology/nscale-rival-of-coreweave-nebius-files-for-ipo/?src=A00220&amp;yptr=yahoo",
+      "pubDate": "2026-09-21T11:42:26Z",
+      "tag": "general",
+      "title_ko": "Nscale, Rival Of CoreWeave And Nebius, IPO용 파일",
+      "desc_ko": null
+    },
+    {
+      "title": "Wealth manager Allspring considers sale – report",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wealth-manager-allspring-considers-sale-115442819.html",
+      "pubDate": "2026-09-21T11:54:42Z",
+      "tag": "general",
+      "title_ko": "자산 관리자 Allspring은 판매를 고려합니다 – 보고서",
       "desc_ko": null
     },
     {
@@ -317,15 +362,6 @@
       "desc_ko": null
     },
     {
-      "title": "Dollar General CEO raises major red flag about consumers",
-      "description": "",
-      "link": "https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html",
-      "pubDate": "2026-09-20T15:17:00Z",
-      "tag": "general",
-      "title_ko": "달러 제너럴 CEO, 소비자에 대한 주요 적신호 제기",
-      "desc_ko": null
-    },
-    {
       "title": "Peter Schiff's father sold $4.2 million in books claiming income tax is illegal. He died in federal prison",
       "description": "",
       "link": "https://finance.yahoo.com/economy/policy/articles/peter-schiffs-father-sold-4-110000968.html",
@@ -362,49 +398,22 @@
       "desc_ko": null
     },
     {
-      "title": "Chevron CEO sends a strong message on oil price and the economy",
+      "title": "Credo Technology Crashed for 3 Months: This Wall Street Pro Says It’s About to Double",
       "description": "",
-      "link": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
-      "pubDate": "2026-09-20T16:47:00Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-crashed-3-months-115135647.html",
+      "pubDate": "2026-09-21T11:51:35Z",
       "tag": "general",
-      "title_ko": "셰브론 CEO, 유가와 경제에 강력한 메시지 전달",
+      "title_ko": "크레도 테크놀로지 3개월간 추락: 이 월스트리트 프로는 곧 두 배가 될 것이라고 말합니다",
       "desc_ko": null
     },
     {
-      "title": "‘Bull crap’: Why Dave Ramsey says moving to conservative bond investments in old age is mathematically stupid",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bull-crap-why-dave-ramsey-103500321.html",
-      "pubDate": "2026-09-21T10:35:00Z",
+      "title": "Novo Nordisk&#x2019;s stock tumbles as doubts persist about Ozempic maker&#x2019;s goals for 2030",
+      "description": "The weight-loss-drug manufacturer failed to excite investors hoping for a turnaround.",
+      "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
+      "pubDate": "Mon, 21 Sep 2026 12:06:00 GMT",
       "tag": "general",
-      "title_ko": "‘불 크랩’: 데이브 램지가 노년기에 보수적인 채권 투자로 전환하는 것이 수학적으로 어리석다고 말하는 이유",
-      "desc_ko": null
-    },
-    {
-      "title": "Stock market today: Dow, S&amp;P 500, Nasdaq futures rise as oil falls, anticipation builds for Trump-Xi summit",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
-      "pubDate": "2026-09-21T08:02:14Z",
-      "tag": "general",
-      "title_ko": "오늘의 주식 시장: 다우, S&amp;P 500, 나스닥 선물은 원유 하락에 따라 상승, 트럼프-Xi 정상 회담에 대한 기대감 형성",
-      "desc_ko": null
-    },
-    {
-      "title": "HELOC and home equity loan rates today, Monday, September 21, 2026: A 33-basis-point differential",
-      "description": "",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-21-2026-a-33-basis-point-differential-100000210.html",
-      "pubDate": "2026-09-21T10:00:00Z",
-      "tag": "general",
-      "title_ko": "HELOC 및 주택 지분 대출 금리 오늘, 2026년 9월 21일 월요일: 33-기초-포인트 차액",
-      "desc_ko": null
-    },
-    {
-      "title": "Best CD rates today, Monday, September 21, 2026: Lock in up to 4.40% APY",
-      "description": "",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-21-2026-lock-in-up-to-440-apy-100000956.html",
-      "pubDate": "2026-09-21T10:00:00Z",
-      "tag": "general",
-      "title_ko": "2026년 9월 21일 월요일, 오늘 최고 CD 가격: 최대 4.40% APY 고정",
-      "desc_ko": null
+      "title_ko": "2030년 Ozempic 메이커의 목표에 대한 의구심이 계속되면서 Novo Nordisk의 재고가 바닥을 치고 있습니다.",
+      "desc_ko": "체중 감량 약물 제조업체는 턴어라운드를 기대하는 투자자들을 흥분시키지 못했습니다."
     },
     {
       "title": "A sudden end to the Iran war would strike a blow against oil prices and energy stocks. Yet company insiders are buying.",
@@ -477,15 +486,6 @@
       "tag": "general",
       "title_ko": "스티븐 스필버그 (Steven Spielberg) 는 오랫동안 LA 승마 목장을 3천만 달러 ($) 에 등록했습니다.",
       "desc_ko": "영화 제작자 스티븐 스필버그 (Steven Spielberg) 는 거대한 5층 승마 시설로 부동산을 변화시키려는 논란의 여지가 있는 계획을 포기한 후 거의 3천만 달러 ($) 에 달하는 기간 동안 말을 수용했던 로스앤젤레스의 거대한 목장을 열거했습니다."
-    },
-    {
-      "title": "Novo Nordisk stock tumbles as Ozempic maker sets out 2030 goals",
-      "description": "",
-      "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
-      "pubDate": "Mon, 21 Sep 2026 08:58:00 GMT",
-      "tag": "general",
-      "title_ko": "Ozempic 메이커가 2030년 목표를 설정함에 따라 Novo Nordisk 재고가 하락합니다",
-      "desc_ko": null
     },
     {
       "title": "&#x2018;My total balance should be $20 million&#x2019;: I invested $1.1 million in a crypto platform. Have I lost it all?",
@@ -718,12 +718,12 @@
         7556.5,
         7640.0,
         7657.35009765625,
-        7767.25
+        7768.25
       ],
-      "last": 7767.25,
-      "chg_pct": 1.4352210744208755,
-      "rsi14": 58.692003567235794,
-      "ma20": 7671.4425048828125
+      "last": 7768.25,
+      "chg_pct": 1.4482804224622572,
+      "rsi14": 58.755684590618166,
+      "ma20": 7671.492504882813
     },
     "nq": {
       "live": true,
@@ -827,12 +827,12 @@
         28963.5,
         29446.75,
         29613.6796875,
-        30232.75
+        30247.0
       ],
-      "last": 30232.75,
-      "chg_pct": 2.0904876362301943,
-      "rsi14": 62.68739271251518,
-      "ma20": 29382.396484375
+      "last": 30247.0,
+      "chg_pct": 2.138607289547087,
+      "rsi14": 62.84015925261558,
+      "ma20": 29383.108984375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4387.5,
         4399.7001953125,
         4424.89990234375,
-        4398.89990234375
+        4405.2998046875
       ],
-      "last": 4398.89990234375,
-      "chg_pct": -0.5875839131689398,
-      "rsi14": 48.12297513458557,
-      "ma20": 4478.004956054688
+      "last": 4405.2998046875,
+      "chg_pct": -0.4429500799751054,
+      "rsi14": 48.64611911331654,
+      "ma20": 4478.324951171875
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         102.43000030517578,
         101.91000366210938,
         100.30000305175781,
-        93.33000183105469
+        93.52999877929688
       ],
-      "last": 93.33000183105469,
-      "chg_pct": -6.949153547987826,
-      "rsi14": 50.89541858595483,
-      "ma20": 93.15500183105469
+      "last": 93.52999877929688,
+      "chg_pct": -6.749754802068562,
+      "rsi14": 51.19218839645438,
+      "ma20": 93.1650016784668
     },
     "zn": {
       "live": true,
@@ -1154,12 +1154,12 @@
         106.046875,
         106.40625,
         106.078125,
-        106.125
+        106.15625
       ],
-      "last": 106.125,
-      "chg_pct": 0.04418912947414936,
-      "rsi14": 30.146710293593983,
-      "ma20": 107.33515625
+      "last": 106.15625,
+      "chg_pct": 0.07364854912358226,
+      "rsi14": 30.793621896345712,
+      "ma20": 107.33671875
     },
     "dxy": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.30999755859375,
         100.22000122070312,
         100.22000122070312,
-        100.27400207519531
+        100.22899627685547
       ],
-      "last": 100.27400207519531,
-      "chg_pct": 0.05388231274640234,
-      "rsi14": 61.08185924438664,
-      "ma20": 99.43619956970215
+      "last": 100.22899627685547,
+      "chg_pct": 0.008975310359989878,
+      "rsi14": 60.489692124081444,
+      "ma20": 99.43394927978515
     },
     "vix": {
       "live": true,
@@ -1372,12 +1372,12 @@
         17.709999084472656,
         15.4399995803833,
         14.8100004196167,
-        14.84000015258789
+        14.8100004196167
       ],
-      "last": 14.84000015258789,
-      "chg_pct": 0.2025640251262588,
-      "rsi14": 45.28922135358813,
-      "ma20": 15.658500003814698
+      "last": 14.8100004196167,
+      "chg_pct": 0.0,
+      "rsi14": 45.14701199449742,
+      "ma20": 15.657000017166137
     },
     "hsi": {
       "live": true,
@@ -1917,12 +1917,12 @@
         25537.75,
         25716.7109375,
         25304.060546875,
-        25607.2890625
+        25591.4609375
       ],
-      "last": 25607.2890625,
-      "chg_pct": 1.1983393537305147,
-      "rsi14": 46.53023274067013,
-      "ma20": 25856.79111328125
+      "last": 25591.4609375,
+      "chg_pct": 1.1357876341332631,
+      "rsi14": 46.18147599658672,
+      "ma20": 25855.99970703125
     },
     "ftse": {
       "live": true,
@@ -2026,12 +2026,12 @@
         10688.5,
         10816.099609375,
         10659.099609375,
-        10772.2001953125
+        10771.6904296875
       ],
-      "last": 10772.2001953125,
-      "chg_pct": 1.0610707290700672,
-      "rsi14": 51.74948176832707,
-      "ma20": 10764.9298828125
+      "last": 10771.6904296875,
+      "chg_pct": 1.056288283613308,
+      "rsi14": 51.71983550317398,
+      "ma20": 10764.90439453125
     },
     "krw": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1363.5699462890625,
         1376.5999755859375,
         1379.530029296875,
-        1372.1300048828125
+        1371.280029296875
       ],
-      "last": 1372.1300048828125,
-      "chg_pct": -0.5364163343246814,
-      "rsi14": 46.92409578944973,
-      "ma20": 1362.6919982910156
+      "last": 1371.280029296875,
+      "chg_pct": -0.5980297510598517,
+      "rsi14": 46.494917722213316,
+      "ma20": 1362.6494995117187
     },
     "jpy": {
       "live": true,
@@ -2244,12 +2244,12 @@
         155.26600646972656,
         156.01400756835938,
         156.12899780273438,
-        157.18899536132812
+        157.21200561523438
       ],
-      "last": 157.18899536132812,
-      "chg_pct": 0.6789242059524613,
-      "rsi14": 50.95164440105805,
-      "ma20": 156.77890014648438
+      "last": 157.21200561523438,
+      "chg_pct": 0.6936621817481702,
+      "rsi14": 51.05975449763078,
+      "ma20": 156.7800506591797
     },
     "copper": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.43149995803833,
         6.58650016784668,
         6.614999771118164,
-        6.811999797821045
+        6.822000026702881
       ],
-      "last": 6.811999797821045,
-      "chg_pct": 2.9780806276517984,
-      "rsi14": 61.931072480713915,
-      "ma20": 6.572474980354309
+      "last": 6.822000026702881,
+      "chg_pct": 3.1292556726683998,
+      "rsi14": 62.249085434098724,
+      "ma20": 6.572974991798401
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         2.8910000324249268,
         2.9010000228881836,
         2.9119999408721924,
-        2.8340001106262207
+        2.8480000495910645
       ],
-      "last": 2.8340001106262207,
-      "chg_pct": -2.678565653494122,
-      "rsi14": 47.090699650086435,
-      "ma20": 2.8814000129699706
+      "last": 2.8480000495910645,
+      "chg_pct": -2.197798508950481,
+      "rsi14": 48.229624199679776,
+      "ma20": 2.882100009918213
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         64.28800201416016,
         65.47000122070312,
         66.55599975585938,
-        66.87999725341797
+        67.1050033569336
       ],
-      "last": 66.87999725341797,
-      "chg_pct": 0.48680434333055006,
-      "rsi14": 55.59301315473027,
-      "ma20": 66.15964965820312
+      "last": 67.1050033569336,
+      "chg_pct": 0.8248746966285128,
+      "rsi14": 56.217890199964366,
+      "ma20": 66.1708999633789
     },
     "qqq": {
       "live": true,
