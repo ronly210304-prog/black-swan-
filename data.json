@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T08:40:45.373274+00:00",
+  "updated_at": "2026-09-21T08:52:04.932516+00:00",
   "news": [
     {
       "title": "‘It&apos;s awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -137,12 +137,21 @@
       "desc_ko": "미국과 이란 간의 긴장이 다시 고조되면서 최근 몇 주 동안 유가는 배럴당 $ 100를 상회하는 상승 행진을 보였다."
     },
     {
-      "title": "Live updates: Bitcoin jumps toward $83,000 as falling oil lifts risk assets",
+      "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
+      "description": "South Korea's second-largest bank’s $100 million foreign-currency bond blockchain issuance shortened settlement time to the same day from three to five business days.",
+      "link": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
+      "pubDate": "Mon, 21 Sep 2026 08:49:59 +0000",
+      "tag": "btc",
+      "title_ko": "하나은행은 유로클리어의 블록체인을 이용해 한국 최초의 디지털채권을 발행한다.",
+      "desc_ko": "한국에서 두 번째로 큰 은행의 1억 달러 ($) 외화 채권 블록체인 발행으로 결제 시간이 영업일 기준 3일에서 5일로 단축되었습니다."
+    },
+    {
+      "title": "Live updates: Bitcoin rockets above $83,500 as falling oil lifts risk assets",
       "description": "Crypto majors climbed alongside equity futures on Monday, with Monero's XMR up 13%, as Brent fell for a fourth straight session and traders positioned ahead of a Trump-Xi summit later this week.",
       "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
       "pubDate": "Mon, 21 Sep 2026 08:39:26 +0000",
       "tag": "btc",
-      "title_ko": "실시간 업데이트: 하락하는 석유가 위험 자산을 들어올리면서 비트코인은 $ 83,000로 점프합니다",
+      "title_ko": "실시간 업데이트: 떨어지는 석유가 위험 자산을 들어올리면서 비트코인 로켓이 $ 83,500 이상",
       "desc_ko": "암호화폐 전공자들은 월요일에 주식 선물과 함께 상승했으며, 브렌트가 네 번째 연속 세션으로 하락하고 거래자들이 이번 주 말 트럼프-Xi 정상 회담을 앞두고 포지셔닝함에 따라 모네로의 XMR은 13% 상승했다."
     },
     {
@@ -263,15 +272,6 @@
       "desc_ko": "SEC가 토큰화된 주식 거래를 위한 새로운 길을 열면서 규제 기관은 암호화폐 시장 규칙을 앞당기고 있습니다."
     },
     {
-      "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
-      "description": "Some smaller hedge funds with weaker security controls may have lost funds in the targeted attack, sources said.",
-      "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
-      "pubDate": "Fri, 18 Sep 2026 15:06:31 +0000",
-      "tag": "btc",
-      "title_ko": "암호화 기술 제공업체 하루코 (Haruko) 가 15명의 고객에게 영향을 미치는 사이버 공격을 받고 일부 자금이 손실되었습니다.",
-      "desc_ko": "소식통은 보안 통제가 약한 일부 소규모 헤지 펀드가 표적 공격으로 자금을 잃었을 수 있다고 말했다."
-    },
-    {
       "title": "80-year-old discount fashion chain closing 120 stores",
       "description": "",
       "link": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html",
@@ -335,21 +335,21 @@
       "desc_ko": null
     },
     {
-      "title": "Mortgage and refinance interest rates today, Saturday, September 19, 2026: Mortgage rates move lower to start the weekend",
-      "description": "",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-19-2026-mortgage-rates-move-lower-to-start-the-weekend-100000254.html",
-      "pubDate": "2026-09-19T10:00:00Z",
-      "tag": "general",
-      "title_ko": "2026년 9월 19일 토요일 주택담보대출 및 재융자 금리: 주택담보대출 금리가 주말을 시작으로 낮아집니다.",
-      "desc_ko": null
-    },
-    {
       "title": "Best CD rates today, Saturday, September 19, 2026: Lock in up to 4.40% APY with a 2-year CD",
       "description": "",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-19-2026-lock-in-up-to-440-apy-with-a-2-year-cd-100000984.html",
       "pubDate": "2026-09-19T10:00:00Z",
       "tag": "general",
       "title_ko": "2026년 9월 19일 토요일, 오늘 최고 CD 가격: 2년 CD로 최대 4.40% APY 잠금",
+      "desc_ko": null
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, Saturday, September 19, 2026: Mortgage rates move lower to start the weekend",
+      "description": "",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-19-2026-mortgage-rates-move-lower-to-start-the-weekend-100000254.html",
+      "pubDate": "2026-09-19T10:00:00Z",
+      "tag": "general",
+      "title_ko": "2026년 9월 19일 토요일 주택담보대출 및 재융자 금리: 주택담보대출 금리가 주말을 시작으로 낮아집니다.",
       "desc_ko": null
     },
     {
@@ -718,12 +718,12 @@
         7556.5,
         7640.0,
         7657.35009765625,
-        7760.25
+        7763.5
       ],
-      "last": 7760.25,
-      "chg_pct": 1.343805638131205,
-      "rsi14": 58.24067014487716,
-      "ma20": 7671.092504882812
+      "last": 7763.5,
+      "chg_pct": 1.3862485192656948,
+      "rsi14": 58.45143814817183,
+      "ma20": 7671.2550048828125
     },
     "nq": {
       "live": true,
@@ -827,12 +827,12 @@
         28963.5,
         29446.75,
         29613.6796875,
-        30204.25
+        30233.0
       ],
-      "last": 30204.25,
-      "chg_pct": 1.9942483295964097,
-      "rsi14": 62.3780601932933,
-      "ma20": 29380.971484375
+      "last": 30233.0,
+      "chg_pct": 2.0913318406743504,
+      "rsi14": 62.69008365129993,
+      "ma20": 29382.408984375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4387.5,
         4399.7001953125,
         4424.89990234375,
-        4389.60009765625
+        4393.89990234375
       ],
-      "last": 4389.60009765625,
-      "chg_pct": -0.7977537450915589,
-      "rsi14": 47.38253188812681,
-      "ma20": 4477.539965820312
+      "last": 4393.89990234375,
+      "chg_pct": -0.700580819547582,
+      "rsi14": 47.72202665736967,
+      "ma20": 4477.754956054688
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         102.43000030517578,
         101.91000366210938,
         100.30000305175781,
-        93.93000030517578
+        93.87999725341797
       ],
-      "last": 93.93000030517578,
-      "chg_pct": -6.35094970365546,
-      "rsi14": 51.79624492697902,
-      "ma20": 93.18500175476075
+      "last": 93.87999725341797,
+      "chg_pct": -6.400803193422565,
+      "rsi14": 51.71995505432058,
+      "ma20": 93.18250160217285
     },
     "zn": {
       "live": true,
@@ -1154,12 +1154,12 @@
         106.046875,
         106.40625,
         106.078125,
-        106.0625
+        106.078125
       ],
-      "last": 106.0625,
-      "chg_pct": -0.014729709824716454,
-      "rsi14": 29.015801788960033,
-      "ma20": 107.33203125
+      "last": 106.078125,
+      "chg_pct": 0.0,
+      "rsi14": 29.153343965356285,
+      "ma20": 107.3328125
     },
     "dxy": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.30999755859375,
         100.22000122070312,
         100.22000122070312,
-        100.29100036621094
+        100.27200317382812
       ],
-      "last": 100.29100036621094,
-      "chg_pct": 0.07084328940633232,
-      "rsi14": 61.3009233733199,
-      "ma20": 99.43704948425292
+      "last": 100.27200317382812,
+      "chg_pct": 0.051887799333071256,
+      "rsi14": 61.055935481102345,
+      "ma20": 99.43609962463378
     },
     "vix": {
       "live": true,
@@ -1372,12 +1372,12 @@
         17.709999084472656,
         15.4399995803833,
         14.8100004196167,
-        14.9399995803833
+        14.920000076293945
       ],
-      "last": 14.9399995803833,
-      "chg_pct": 0.8777795886785403,
-      "rsi14": 45.75797419805718,
-      "ma20": 15.663499975204468
+      "last": 14.920000076293945,
+      "chg_pct": 0.7427390517257867,
+      "rsi14": 45.664869102522935,
+      "ma20": 15.6625
     },
     "hsi": {
       "live": true,
@@ -1917,12 +1917,12 @@
         25537.75,
         25716.7109375,
         25304.060546875,
-        25543.169921875
+        25549.9609375
       ],
-      "last": 25543.169921875,
-      "chg_pct": 0.9449446841033959,
-      "rsi14": 45.08874680768665,
-      "ma20": 25853.58515625
+      "last": 25549.9609375,
+      "chg_pct": 0.9717823357617922,
+      "rsi14": 45.24508757542231,
+      "ma20": 25853.92470703125
     },
     "ftse": {
       "live": true,
@@ -2026,12 +2026,12 @@
         10688.5,
         10816.099609375,
         10659.099609375,
-        10718.5703125
+        10729.4404296875
       ],
-      "last": 10718.5703125,
-      "chg_pct": 0.557933646409437,
-      "rsi14": 48.41719389112579,
-      "ma20": 10762.248388671875
+      "last": 10729.4404296875,
+      "chg_pct": 0.6599133406224399,
+      "rsi14": 49.12928530341191,
+      "ma20": 10762.79189453125
     },
     "krw": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1363.5699462890625,
         1376.5999755859375,
         1379.530029296875,
-        1371.8699951171875
+        1371.5400390625
       ],
-      "last": 1371.8699951171875,
-      "chg_pct": -0.5552640404349661,
-      "rsi14": 46.791970309726395,
-      "ma20": 1362.6789978027343
+      "last": 1371.5400390625,
+      "chg_pct": -0.5791820449495668,
+      "rsi14": 46.625368626397055,
+      "ma20": 1362.6625
     },
     "jpy": {
       "live": true,
@@ -2244,12 +2244,12 @@
         155.26600646972656,
         156.01400756835938,
         156.12899780273438,
-        157.1719970703125
+        157.2169952392578
       ],
-      "last": 157.1719970703125,
-      "chg_pct": 0.6680368683951536,
-      "rsi14": 50.87147332713804,
-      "ma20": 156.7780502319336
+      "last": 157.2169952392578,
+      "chg_pct": 0.6968580160221735,
+      "rsi14": 51.083134622916894,
+      "ma20": 156.78030014038086
     },
     "copper": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.43149995803833,
         6.58650016784668,
         6.614999771118164,
-        6.7754998207092285
+        6.778500080108643
       ],
-      "last": 6.7754998207092285,
-      "chg_pct": 2.4263046885024213,
-      "rsi14": 60.72344389350751,
-      "ma20": 6.570649981498718
+      "last": 6.778500080108643,
+      "chg_pct": 2.471660085376561,
+      "rsi14": 60.825592252807915,
+      "ma20": 6.570799994468689
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         2.8910000324249268,
         2.9010000228881836,
         2.9119999408721924,
-        2.882999897003174
+        2.88700008392334
       ],
-      "last": 2.882999897003174,
-      "chg_pct": -0.9958806475913786,
-      "rsi14": 51.33347232021044,
-      "ma20": 2.8838500022888183
+      "last": 2.88700008392334,
+      "chg_pct": -0.8585115884777342,
+      "rsi14": 51.71384343969808,
+      "ma20": 2.8840500116348267
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         64.28800201416016,
         65.47000122070312,
         66.55599975585938,
-        66.70999908447266
+        66.72000122070312
       ],
-      "last": 66.70999908447266,
-      "chg_pct": 0.2313830896961677,
-      "rsi14": 55.10894372749235,
-      "ma20": 66.15114974975586
+      "last": 66.72000122070312,
+      "chg_pct": 0.24641124082778404,
+      "rsi14": 55.1377168001829,
+      "ma20": 66.15164985656739
     },
     "qqq": {
       "live": true,
