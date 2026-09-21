@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T11:24:57.810049+00:00",
+  "updated_at": "2026-09-21T11:39:12.289811+00:00",
   "news": [
     {
       "title": "‘It&apos;s awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -137,6 +137,24 @@
       "desc_ko": "미국과 이란 간의 긴장이 다시 고조되면서 최근 몇 주 동안 유가는 배럴당 $ 100를 상회하는 상승 행진을 보였다."
     },
     {
+      "title": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
+      "description": "Your day-ahead look for Sept. 21, 2026",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
+      "pubDate": "Mon, 21 Sep 2026 11:36:11 +0000",
+      "tag": "btc",
+      "title_ko": "3분기 비트코인의 44% 이득은 본격적인 암호화폐 불런을 조롱합니다",
+      "desc_ko": "2026년 9월 21일을 하루 앞당겨 보실 수 있습니다."
+    },
+    {
+      "title": "Perp futures linked to 'bitcoin VIX' debut on Hyperliquid",
+      "description": "Deployed via Kinetiq's Markets frontend and led by Volmex CEO Cole Kennelly, Hyperliquid's new BVIV perpetuals let traders easily go long or short on 30-day bitcoin volatility.",
+      "link": "https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid",
+      "pubDate": "Mon, 21 Sep 2026 11:30:00 +0000",
+      "tag": "btc",
+      "title_ko": "하이퍼리퀴드의 '비트코인 VIX' 데뷔와 연결된 PERP 선물",
+      "desc_ko": "Kinetiq의 Markets 프론트엔드를 통해 배포되고 Volmex CEO인 Cole Kennelly가 이끄는 하이퍼리퀴드의 새로운 BVIV 퍼페추얼은 거래자가 30일 비트코인 변동성에 대해 길거나 짧게 쉽게 이동할 수 있도록 합니다."
+    },
+    {
       "title": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
       "description": "The EU central bank's new wholesale platform connects DLT market infrastructure to its payment rails, separate from the retail digital euro pilot planned for 2027.",
       "link": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
@@ -254,30 +272,30 @@
       "desc_ko": "미국 기관들은 정부의 기반암에 암호화 시장을 설정하기위한 법에 대한 규정을 대체하기 위해 경쟁하고 있지만, 스탠드 인은 지속될 것인가?"
     },
     {
-      "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
-      "description": "Marc van der Chijs sold much of his bitcoin to invest in AI. Now, growing concerns about the technology accompany a move to put some profits back into crypto.",
-      "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
-      "pubDate": "Sat, 19 Sep 2026 14:00:00 +0000",
-      "tag": "btc",
-      "title_ko": "'우리는 통제력을 잃었습니다': 암호화폐 개척자는 AI가 시스템 뱅킹 및 인프라 충격을 유발할 수 있다고 경고합니다",
-      "desc_ko": "Marc van der Chijs는 AI에 투자하기 위해 비트코인의 상당 부분을 매각했습니다. 이제 기술에 대한 우려가 커지면서 일부 이익을 암호화폐에 다시 투자하려는 움직임이 수반됩니다."
-    },
-    {
-      "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
-      "description": "The upcoming Batch V1.1 can make linked asset and payment transfers succeed together or fail together, and Ripple says commercial projects are already being built around the feature after an extensive security review.",
-      "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
-      "pubDate": "Sat, 19 Sep 2026 13:39:15 +0000",
-      "tag": "btc",
-      "title_ko": "Ripple은 자산 관리자가 XRP Ledger의 다음 결제 업그레이드를 준비하고 있다고 말합니다.",
-      "desc_ko": "곧 출시될 Batch v1.1은 연결된 자산과 결제 전송을 함께 성공하거나 함께 실패하게 만들 수 있으며, Ripple은 광범위한 보안 검토를 거친 후 이 기능을 중심으로 상업 프로젝트가 이미 구축되고 있다고 말합니다."
-    },
-    {
       "title": "Key Christmas retailer files for Chapter 11 bankrutpcy",
       "description": "",
       "link": "https://finance.yahoo.com/small-business/articles/key-christmas-retailer-files-chapter-140700474.html",
       "pubDate": "2026-09-20T14:07:00Z",
       "tag": "general",
       "title_ko": "챕터 11 bankrutpcy에 대한 주요 크리스마스 소매업체 파일",
+      "desc_ko": null
+    },
+    {
+      "title": "‘I just want out’: Billionaire Jeffrey Gundlach says you should have ‘almost nothing’ in AI stocks — what to buy instead",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/just-want-billionaire-jeffrey-gundlach-113000010.html",
+      "pubDate": "2026-09-21T11:30:00Z",
+      "tag": "general",
+      "title_ko": "‘그냥 나가고 싶어요’: 억만장자 제프리 건들락 (Jeffrey Gundlach) 은 AI 주식에 ‘거의 아무것도 없어야 한다’ 고 말합니다. 대신 무엇을 사야 할까요?",
+      "desc_ko": null
+    },
+    {
+      "title": "“Our Targets Haven’t Changed”: Broadcom’s CEO Pushes Back on the AI Slowdown Scare",
+      "description": "",
+      "link": "https://finance.yahoo.com/technology/ai/articles/targets-haven-t-changed-broadcom-112507800.html",
+      "pubDate": "2026-09-21T11:25:07Z",
+      "tag": "general",
+      "title_ko": "\"우리의 목표는 변하지 않았다\": 브로드컴 CEO, AI 속도 저하에 대한 우려 반발",
       "desc_ko": null
     },
     {
@@ -299,6 +317,15 @@
       "desc_ko": null
     },
     {
+      "title": "Dollar General CEO raises major red flag about consumers",
+      "description": "",
+      "link": "https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html",
+      "pubDate": "2026-09-20T15:17:00Z",
+      "tag": "general",
+      "title_ko": "달러 제너럴 CEO, 소비자에 대한 주요 적신호 제기",
+      "desc_ko": null
+    },
+    {
       "title": "Another aspect of Montgomery: it might make human brokers more valuable",
       "description": "",
       "link": "https://finance.yahoo.com/small-business/articles/another-aspect-montgomery-might-human-110000308.html",
@@ -314,15 +341,6 @@
       "pubDate": "2026-09-21T10:49:40Z",
       "tag": "general",
       "title_ko": "성장 단계의 자금 조달 격차는 잊어 버리십시오. 유럽은 초기 단계의 위기에 직면 해 있습니다.",
-      "desc_ko": null
-    },
-    {
-      "title": "Dollar General CEO raises major red flag about consumers",
-      "description": "",
-      "link": "https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html",
-      "pubDate": "2026-09-20T15:17:00Z",
-      "tag": "general",
-      "title_ko": "달러 제너럴 CEO, 소비자에 대한 주요 적신호 제기",
       "desc_ko": null
     },
     {
@@ -344,6 +362,15 @@
       "desc_ko": null
     },
     {
+      "title": "Chevron CEO sends a strong message on oil price and the economy",
+      "description": "",
+      "link": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
+      "pubDate": "2026-09-20T16:47:00Z",
+      "tag": "general",
+      "title_ko": "셰브론 CEO, 유가와 경제에 강력한 메시지 전달",
+      "desc_ko": null
+    },
+    {
       "title": "Stock market today: Dow, S&amp;P 500, Nasdaq futures rise as oil falls, anticipation builds for Trump-Xi summit",
       "description": "",
       "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
@@ -359,15 +386,6 @@
       "pubDate": "2026-09-21T10:00:00Z",
       "tag": "general",
       "title_ko": "2026년 9월 21일 월요일, 오늘 최고 CD 가격: 최대 4.40% APY 고정",
-      "desc_ko": null
-    },
-    {
-      "title": "Chevron CEO sends a strong message on oil price and the economy",
-      "description": "",
-      "link": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
-      "pubDate": "2026-09-20T16:47:00Z",
-      "tag": "general",
-      "title_ko": "셰브론 CEO, 유가와 경제에 강력한 메시지 전달",
       "desc_ko": null
     },
     {
@@ -389,22 +407,13 @@
       "desc_ko": null
     },
     {
-      "title": "Best high-yield savings interest rates today, Monday, September 21, 2026: Earn up to 4.10% APY",
-      "description": "",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-21-2026-earn-up-to-410-apy-100000921.html",
-      "pubDate": "2026-09-21T10:00:00Z",
+      "title": "Why one Warren Buffett&#x2013;inspired fund manager is betting big on Chinese stocks",
+      "description": "Low valuations and founder management are attractive to RV Capital&#x2019;s Rob Vinall.",
+      "link": "https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories",
+      "pubDate": "Mon, 21 Sep 2026 11:30:00 GMT",
       "tag": "general",
-      "title_ko": "2026년 9월 21일 월요일, 오늘 최고의 고수익 저축 금리: 최대 4.10% 의 APY를 적립하세요",
-      "desc_ko": null
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, Monday, September 21, 2026: Refinance rates mostly lower",
-      "description": "",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-21-2026-refinance-rates-mostly-lower-100000495.html",
-      "pubDate": "2026-09-21T10:00:00Z",
-      "tag": "general",
-      "title_ko": "2026년 9월 21일 월요일 모기지 및 재융자 금리: 재융자 금리는 대부분 더 낮습니다.",
-      "desc_ko": null
+      "title_ko": "워렌 버핏의 영향을 받은 펀드 매니저가 중국 주식에 큰 베팅을 하는 이유",
+      "desc_ko": "낮은 밸류에이션과 창업자 관리는 RV Capital의 Rob Vinall에게 매력적입니다."
     },
     {
       "title": "I&#x2019;m in my 50s. My mother died from Alzheimer&#x2019;s. Do I need long-term-care insurance?",
@@ -414,15 +423,6 @@
       "tag": "general",
       "title_ko": "저는 50대입니다. 어머니가 알츠하이머로 돌아가셨습니다. 장기요양보험이 필요한가요?",
       "desc_ko": "“어머니가 돌아가실 무렵, 보험회사는 거의 $ 600,000를 지불했습니다.”"
-    },
-    {
-      "title": "Why one Buffett-inspired fund manager is betting big on Chinese stocks",
-      "description": "Low valuations and founder management are attractive to RV Capital&#x2019;s Rob Vinall.",
-      "link": "https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories",
-      "pubDate": "Mon, 21 Sep 2026 10:57:00 GMT",
-      "tag": "general",
-      "title_ko": "버핏에서 영감을 받은 펀드 매니저가 중국 주식에 크게 베팅하는 이유",
-      "desc_ko": "낮은 밸류에이션과 창업자 관리는 RV Capital의 Rob Vinall에게 매력적입니다."
     },
     {
       "title": "&#x2018;She says it&#x2019;s just money&#x2019;: My friend pays for everything. I should be grateful, but I can&#x2019;t stand her anymore.",
@@ -827,12 +827,12 @@
         28963.5,
         29446.75,
         29613.6796875,
-        30233.25
+        30228.75
       ],
-      "last": 30233.25,
-      "chg_pct": 2.0921760451185065,
-      "rsi14": 62.69277420197836,
-      "ma20": 29382.421484375
+      "last": 30228.75,
+      "chg_pct": 2.076980365123698,
+      "rsi14": 62.64428484089663,
+      "ma20": 29382.196484375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4387.5,
         4399.7001953125,
         4424.89990234375,
-        4385.60009765625
+        4391.39990234375
       ],
-      "last": 4385.60009765625,
-      "chg_pct": -0.8881512701944727,
-      "rsi14": 47.07101682553105,
-      "ma20": 4477.3399658203125
+      "last": 4391.39990234375,
+      "chg_pct": -0.7570792727369031,
+      "rsi14": 47.52404747577026,
+      "ma20": 4477.629956054688
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         102.43000030517578,
         101.91000366210938,
         100.30000305175781,
-        93.61000061035156
+        93.48999786376953
       ],
-      "last": 93.61000061035156,
-      "chg_pct": -6.669992261071027,
-      "rsi14": 51.311872218075436,
-      "ma20": 93.16900177001953
+      "last": 93.48999786376953,
+      "chg_pct": -6.789636072567331,
+      "rsi14": 51.132555611678484,
+      "ma20": 93.16300163269042
     },
     "zn": {
       "live": true,
@@ -1154,12 +1154,12 @@
         106.046875,
         106.40625,
         106.078125,
-        106.09375
+        106.140625
       ],
-      "last": 106.09375,
-      "chg_pct": 0.014729709824716454,
-      "rsi14": 29.48759046802101,
-      "ma20": 107.33359375
+      "last": 106.140625,
+      "chg_pct": 0.058918839298865815,
+      "rsi14": 30.471670825379334,
+      "ma20": 107.3359375
     },
     "dxy": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.30999755859375,
         100.22000122070312,
         100.22000122070312,
-        100.30699920654297
+        100.26699829101562
       ],
-      "last": 100.30699920654297,
-      "chg_pct": 0.08680700935959676,
-      "rsi14": 61.504866119469845,
-      "ma20": 99.43784942626954
+      "last": 100.26699829101562,
+      "chg_pct": 0.046893903153127775,
+      "rsi14": 60.99087538275908,
+      "ma20": 99.43584938049317
     },
     "vix": {
       "live": true,
@@ -1917,12 +1917,12 @@
         25537.75,
         25716.7109375,
         25304.060546875,
-        25577.240234375
+        25594.9296875
       ],
-      "last": 25577.240234375,
-      "chg_pct": 1.079588341143679,
-      "rsi14": 45.864234344406874,
-      "ma20": 25855.288671875
+      "last": 25594.9296875,
+      "chg_pct": 1.1494959083194327,
+      "rsi14": 46.25829510984195,
+      "ma20": 25856.17314453125
     },
     "ftse": {
       "live": true,
@@ -2026,12 +2026,12 @@
         10688.5,
         10816.099609375,
         10659.099609375,
-        10762.1904296875
+        10767.16015625
       ],
-      "last": 10762.1904296875,
-      "chg_pct": 0.967162556786959,
-      "rsi14": 51.160604363274054,
-      "ma20": 10764.42939453125
+      "last": 10767.16015625,
+      "chg_pct": 1.013786819103909,
+      "rsi14": 51.45476065426593,
+      "ma20": 10764.677880859375
     },
     "krw": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1363.5699462890625,
         1376.5999755859375,
         1379.530029296875,
-        1372.3800048828125
+        1372.5999755859375
       ],
-      "last": 1372.3800048828125,
-      "chg_pct": -0.518294220656201,
-      "rsi14": 47.05184028846037,
-      "ma20": 1362.7044982910156
+      "last": 1372.5999755859375,
+      "chg_pct": -0.5023488843131338,
+      "rsi14": 47.16481709215713,
+      "ma20": 1362.7154968261718
     },
     "jpy": {
       "live": true,
@@ -2244,12 +2244,12 @@
         155.26600646972656,
         156.01400756835938,
         156.12899780273438,
-        157.24099731445312
+        157.22799682617188
       ],
-      "last": 157.24099731445312,
-      "chg_pct": 0.7122312493952837,
-      "rsi14": 51.19529084951241,
-      "ma20": 156.78150024414063
+      "last": 157.22799682617188,
+      "chg_pct": 0.7039044885345781,
+      "rsi14": 51.13460645222296,
+      "ma20": 156.78085021972657
     },
     "copper": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.43149995803833,
         6.58650016784668,
         6.614999771118164,
-        6.788000106811523
+        6.796999931335449
       ],
-      "last": 6.788000106811523,
-      "chg_pct": 2.615273494773173,
-      "rsi14": 61.14555887931523,
-      "ma20": 6.571274995803833
+      "last": 6.796999931335449,
+      "chg_pct": 2.7513252685497953,
+      "rsi14": 61.443894164903156,
+      "ma20": 6.571724987030029
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         2.8910000324249268,
         2.9010000228881836,
         2.9119999408721924,
-        2.861999988555908
+        2.8570001125335693
       ],
-      "last": 2.861999988555908,
-      "chg_pct": -1.7170313644068398,
-      "rsi14": 49.425005725171424,
-      "ma20": 2.882800006866455
+      "last": 2.8570001125335693,
+      "chg_pct": -1.8887304071218383,
+      "rsi14": 48.99134992322032,
+      "ma20": 2.8825500130653383
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         64.28800201416016,
         65.47000122070312,
         66.55599975585938,
-        66.42500305175781
+        66.6500015258789
       ],
-      "last": 66.42500305175781,
-      "chg_pct": -0.19682178102963582,
-      "rsi14": 54.201404367758926,
-      "ma20": 66.13689994812012
+      "last": 66.6500015258789,
+      "chg_pct": 0.1412371091477078,
+      "rsi14": 54.9355714911175,
+      "ma20": 66.14814987182618
     },
     "qqq": {
       "live": true,
