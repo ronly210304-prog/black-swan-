@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T04:51:02.914649+00:00",
+  "updated_at": "2026-09-22T05:06:15.538613+00:00",
   "news": [
     {
       "title": "Here&apos;s who we know is going to the Trump-Xi dinner so far",
@@ -7,7 +7,7 @@
       "link": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
       "pubDate": "Tue, 22 Sep 2026 02:41:10 GMT",
       "tag": "ndx",
-      "title_ko": "지금까지 트럼프-시 주석 만찬에 참석하신 분을 소개합니다.",
+      "title_ko": null,
       "desc_ko": "어떤 중국 기업 임원이 참석할 것으로 예상되는지에 대해서는 거의 알려져 있지 않습니다."
     },
     {
@@ -44,7 +44,7 @@
       "pubDate": "Fri, 18 Sep 2026 12:04:02 GMT",
       "tag": "ndx",
       "title_ko": "워렌 버핏은 버크셔 해서웨이 회장직에서 물러난다: '아버지 시간은 언제나 승리한다'",
-      "desc_ko": null
+      "desc_ko": "버크셔는 버핏의 아들 하워드가 오랜 승계 계획에 따라 그를 회장으로 교체할 것이라고 말했다."
     },
     {
       "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
@@ -62,7 +62,7 @@
       "pubDate": "Fri, 18 Sep 2026 08:41:11 GMT",
       "tag": "ndx",
       "title_ko": "중국 AI 기업이 월스트리트의 선도적인 데이터 제공업체에 자사 모델을 연결했습니다.",
-      "desc_ko": null
+      "desc_ko": "스타트업 문샷 (Moonshot) 은 투자은행 CICC에서 벤처 캐피털 회사에 이르기까지 금융 업계의 거물들과 계약을 체결했다고 밝혔다."
     },
     {
       "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
@@ -133,7 +133,7 @@
       "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
       "pubDate": "Mon, 14 Sep 2026 20:34:23 GMT",
       "tag": "ndx",
-      "title_ko": null,
+      "title_ko": "뱅크 오브 아메리카는 3분기 투자 은행 수수료가 10% 이상 하락할 것으로 예상합니다. 주식 슬라이드",
       "desc_ko": "자산 기준 2위 은행의 전망이 무산된 것은 월스트리트의 AI 호황이 격변에 부딪쳤을 수 있다는 초기 신호일 수 있다."
     },
     {
@@ -151,7 +151,7 @@
       "link": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
       "pubDate": "Tue, 22 Sep 2026 04:15:45 +0000",
       "tag": "btc",
-      "title_ko": null,
+      "title_ko": "Cardano가 XRP 원장인 Solana와 함께 AI 에이전트 결제를 강화하기 위한 경쟁에 참여합니다.",
       "desc_ko": "공식 x402 키트에는 이제 앱 및 AI 에이전트가 ADA 및 기타 네트워크 토큰으로 결제할 수 있는 Cardano 도구가 포함되어 있지만, 진행자는 지금까지 사전 프로덕션에서만 테스트되었습니다."
     },
     {
@@ -224,7 +224,7 @@
       "pubDate": "Mon, 21 Sep 2026 12:17:48 +0000",
       "tag": "btc",
       "title_ko": "Google과 Apple은 Big Tech의 눈으로 스테이블 코인 및 토큰화 레일로 암호화 재능을 추구합니다.",
-      "desc_ko": null
+      "desc_ko": "기술 대기업의 구인 목록은 향후 프로젝트를 위해 스테이블 코인과 토큰화 된 예금에 대한 전문가를 별도로 추구하고 있음을 나타낼 수 있습니다."
     },
     {
       "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week",
@@ -299,12 +299,12 @@
       "desc_ko": null
     },
     {
-      "title": "U.S.-China Summit, PMI and Other Can't Miss Items this Week",
+      "title": "Forgent Power (FPS) Reports $3B Backlog. Can Manufacturing Keep Up?",
       "description": "",
-      "link": "https://finance.yahoo.com/economy/policy/articles/u-china-summit-pmi-other-170002981.html",
-      "pubDate": "2026-09-20T17:00:02Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/forgent-power-fps-reports-3b-183008960.html",
+      "pubDate": "2026-09-20T18:30:08Z",
       "tag": "general",
-      "title_ko": "이번 주 미중 정상회담, PMI 및 기타 놓칠 수 없는 품목",
+      "title_ko": "Forgent Power (FPS) 가 $ 30억 백로그를 보고합니다. 제조업이 따라잡을 수 있을까요?",
       "desc_ko": null
     },
     {
@@ -323,15 +323,6 @@
       "pubDate": "2026-09-21T14:37:00Z",
       "tag": "general",
       "title_ko": "뱅크 오브 아메리카는 항공 대기업의 텀블링 주식을 사라고 말합니다",
-      "desc_ko": null
-    },
-    {
-      "title": "Forgent Power (FPS) Reports $3B Backlog. Can Manufacturing Keep Up?",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/forgent-power-fps-reports-3b-183008960.html",
-      "pubDate": "2026-09-20T18:30:08Z",
-      "tag": "general",
-      "title_ko": "Forgent Power (FPS) 가 $ 30억 백로그를 보고합니다. 제조업이 따라잡을 수 있을까요?",
       "desc_ko": null
     },
     {
@@ -358,16 +349,7 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/spx-technologies-spxc-buys-fis-184511019.html",
       "pubDate": "2026-09-20T18:45:11Z",
       "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
-    },
-    {
-      "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
-      "description": "",
-      "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
-      "pubDate": "2026-09-21T18:17:21Z",
-      "tag": "general",
-      "title_ko": "2027년까지 지속될 우크라이나 이란의 글로벌 디젤 부족",
+      "title_ko": "SPX Technologies (SPXC) 는 FIS Water를 $ 410M에 구매합니다. 물 관리가 냉각 반환을 들어 올릴 수 있습니까?",
       "desc_ko": null
     },
     {
@@ -377,6 +359,15 @@
       "pubDate": "2026-09-20T18:51:54Z",
       "tag": "general",
       "title_ko": "Vera Bradley (VRA) 가 영업 이익으로 돌아갑니다. 복구로 관세 환불이 더 오래 지속될 수 있나요?",
+      "desc_ko": null
+    },
+    {
+      "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
+      "description": "",
+      "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
+      "pubDate": "2026-09-21T18:17:21Z",
+      "tag": "general",
+      "title_ko": "2027년까지 지속될 우크라이나 이란의 글로벌 디젤 부족",
       "desc_ko": null
     },
     {
@@ -407,6 +398,15 @@
       "desc_ko": null
     },
     {
+      "title": "A Longtime Bear on FuelCell Energy Stock Just Turned Bullish. Here’s What Changed.",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/longtime-bear-fuelcell-energy-stock-193002761.html",
+      "pubDate": "2026-09-20T19:30:02Z",
+      "tag": "general",
+      "title_ko": "FuelCell Energy Stock의 오랜 곰이 방금 강세를 보였습니다. 변경된 사항은 다음과 같습니다.",
+      "desc_ko": null
+    },
+    {
       "title": "Princeton&#x2019;s 15-year run as the nation&#x2019;s top college is over. MIT is now No. 1.",
       "description": "A change in methodology in the U.S. News rankings helped boost schools where students have high earnings",
       "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
@@ -430,7 +430,7 @@
       "link": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
       "pubDate": "Mon, 21 Sep 2026 21:57:00 GMT",
       "tag": "general",
-      "title_ko": "AT&amp;T의 주식은 무선 부문에서 가장 현명한 베팅처럼 보인다고 애널리스트는 말합니다.",
+      "title_ko": null,
       "desc_ko": "BNP의 애널리스트는 AT&T의 주식에 대해 긍정적인 견해를 가지고 있으며, 투자자들은 \"모바일 측면에서 의심할 여지가 거의 없다\" 고 썼다."
     },
     {
@@ -457,7 +457,7 @@
       "link": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories",
       "pubDate": "Mon, 21 Sep 2026 21:17:00 GMT",
       "tag": "general",
-      "title_ko": "S&amp;P 500이 사상 최고치를 경신함에 따라 표면 아래 약세 징후가 나타나고 있습니다.",
+      "title_ko": null,
       "desc_ko": "S&P 500의 주식 중 약 60% 는 사상 최고치보다 20% 이상 하락했습니다."
     },
     {
@@ -493,7 +493,7 @@
       "link": "https://www.marketwatch.com/story/amazon-and-shopify-make-starkly-different-moves-in-the-brewing-battle-over-ai-shopping-4e00618b?mod=mw_rss_topstories",
       "pubDate": "Mon, 21 Sep 2026 20:22:00 GMT",
       "tag": "general",
-      "title_ko": null,
+      "title_ko": "아마존과 쇼피파이 (Shopify) 는 인공지능 (AI) 쇼핑을 둘러싼 양조 전쟁에서 확연히 다른 움직임을 보이고 있다.",
       "desc_ko": "Amazon이 Meta의 Muse를 종료하는 동안 Shopify는 윙윙거리는 AI 어시스턴트와 결제 기술을 제휴하고 있습니다."
     }
   ],
@@ -718,12 +718,12 @@
         7640.0,
         7657.35009765625,
         7833.5,
-        7834.75
+        7834.0
       ],
-      "last": 7834.75,
-      "chg_pct": 0.015957107295589457,
-      "rsi14": 62.59580918148235,
-      "ma20": 7683.0050048828125
+      "last": 7834.0,
+      "chg_pct": 0.006382842918235782,
+      "rsi14": 62.55352392502507,
+      "ma20": 7682.967504882812
     },
     "nq": {
       "live": true,
@@ -827,12 +827,12 @@
         29446.75,
         29613.6796875,
         30784.75,
-        30825.25
+        30814.75
       ],
-      "last": 30825.25,
-      "chg_pct": 0.13155864510837348,
-      "rsi14": 68.15875509668956,
-      "ma20": 29495.971484375
+      "last": 30814.75,
+      "chg_pct": 0.09745084822842479,
+      "rsi14": 68.06986595754111,
+      "ma20": 29495.446484375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4399.7001953125,
         4424.89990234375,
         4383.89990234375,
-        4376.7998046875
+        4379.2001953125
       ],
-      "last": 4376.7998046875,
-      "chg_pct": -0.16195848022109488,
-      "rsi14": 46.35885226297734,
-      "ma20": 4461.2049560546875
+      "last": 4379.2001953125,
+      "chg_pct": -0.1072037942457904,
+      "rsi14": 46.55365735388607,
+      "ma20": 4461.324975585938
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         101.91000366210938,
         100.30000305175781,
         95.77999877929688,
-        93.2699966430664
+        93.4000015258789
       ],
-      "last": 93.2699966430664,
-      "chg_pct": -2.6205911131970208,
-      "rsi14": 50.5247730643188,
-      "ma20": 93.6905014038086
+      "last": 93.4000015258789,
+      "chg_pct": -2.484858304187421,
+      "rsi14": 50.729144512394875,
+      "ma20": 93.69700164794922
     },
     "zn": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.22000122070312,
         100.22000122070312,
         100.43000030517578,
-        100.34200286865234
+        100.33599853515625
       ],
-      "last": 100.34200286865234,
-      "chg_pct": -0.08762066738627944,
-      "rsi14": 61.16873133477932,
-      "ma20": 99.51109962463379
+      "last": 100.33599853515625,
+      "chg_pct": -0.09359929277495656,
+      "rsi14": 61.04740650111262,
+      "ma20": 99.51079940795898
     },
     "vix": {
       "live": true,
@@ -1699,12 +1699,12 @@
         6715.41015625,
         6894.22998046875,
         7007.72021484375,
-        7086.580078125
+        7067.31982421875
       ],
-      "last": 7086.580078125,
-      "chg_pct": 1.1253283644830607,
-      "rsi14": 57.415030311329566,
-      "ma20": 6833.6805419921875
+      "last": 7067.31982421875,
+      "chg_pct": 0.8504850015095655,
+      "rsi14": 56.96937665932938,
+      "ma20": 6832.717529296875
     },
     "sse": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1376.5999755859375,
         1379.530029296875,
         1384.8599853515625,
-        1358.1600341796875
+        1354.0799560546875
       ],
-      "last": 1358.1600341796875,
-      "chg_pct": -1.9279892158265306,
-      "rsi14": 40.86919659846031,
-      "ma20": 1362.1984985351562
+      "last": 1354.0799560546875,
+      "chg_pct": -2.2226094783915027,
+      "rsi14": 39.41111763993829,
+      "ma20": 1361.9944946289063
     },
     "jpy": {
       "live": true,
@@ -2244,12 +2244,12 @@
         156.01400756835938,
         156.12899780273438,
         157.04600524902344,
-        157.468994140625
+        157.48399353027344
       ],
-      "last": 157.468994140625,
-      "chg_pct": 0.2693407520495927,
-      "rsi14": 52.38042262938726,
-      "ma20": 156.68824996948243
+      "last": 157.48399353027344,
+      "chg_pct": 0.27889170473040326,
+      "rsi14": 52.45200898084431,
+      "ma20": 156.68899993896486
     },
     "copper": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.58650016784668,
         6.614999771118164,
         6.686500072479248,
-        6.833000183105469
+        6.829500198364258
       ],
-      "last": 6.833000183105469,
-      "chg_pct": 2.190983459780339,
-      "rsi14": 62.93852368509283,
-      "ma20": 6.577900004386902
+      "last": 6.829500198364258,
+      "chg_pct": 2.138639412771106,
+      "rsi14": 62.82360847024142,
+      "ma20": 6.5777250051498415
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         2.9010000228881836,
         2.9119999408721924,
         2.8359999656677246,
-        2.8410000801086426
+        2.8440001010894775
       ],
-      "last": 2.8410000801086426,
-      "chg_pct": 0.17630869187054846,
-      "rsi14": 47.72648451797647,
-      "ma20": 2.884450006484985
+      "last": 2.8440001010894775,
+      "chg_pct": 0.2820922256206491,
+      "rsi14": 48.0082099952847,
+      "ma20": 2.884600007534027
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         65.47000122070312,
         66.55599975585938,
         65.82499694824219,
-        66.51499938964844
+        66.48500061035156
       ],
-      "last": 66.51499938964844,
-      "chg_pct": 1.048237711197761,
-      "rsi14": 54.29072219288845,
-      "ma20": 66.0055995941162
+      "last": 66.48500061035156,
+      "chg_pct": 1.0026641742624491,
+      "rsi14": 54.20325475069612,
+      "ma20": 66.00409965515136
     },
     "qqq": {
       "live": true,
@@ -2789,12 +2789,12 @@
         3.9700000286102295,
         3.9649999141693115,
         3.9779999256134033,
-        3.9819998741149902
+        3.9820001125335693
       ],
-      "last": 3.9819998741149902,
-      "chg_pct": 0.10055174902925937,
-      "rsi14": 81.20997993634057,
-      "ma20": 3.8203500151634215
+      "last": 3.9820001125335693,
+      "chg_pct": 0.10055774245770484,
+      "rsi14": 81.20999687543087,
+      "ma20": 3.8203500270843507
     },
     "fvx": {
       "live": true,
@@ -3007,12 +3007,12 @@
         5.00600004196167,
         4.947000026702881,
         4.998000144958496,
-        4.963000297546387
+        4.9629998207092285
       ],
-      "last": 4.963000297546387,
-      "chg_pct": -0.7002770387554684,
-      "rsi14": 64.00580331166935,
-      "ma20": 4.836399984359741
+      "last": 4.9629998207092285,
+      "chg_pct": -0.7002865793145795,
+      "rsi14": 64.00574313346985,
+      "ma20": 4.836399960517883
     },
     "tyx": {
       "live": true,
@@ -3431,84 +3431,84 @@
   },
   "short_vol": {
     "AAPL": {
-      "short_vol_pct": 54.6,
-      "date": "2026-09-18"
+      "short_vol_pct": 44.7,
+      "date": "2026-09-21"
     },
     "MSFT": {
-      "short_vol_pct": 46.3,
-      "date": "2026-09-18"
+      "short_vol_pct": 35.0,
+      "date": "2026-09-21"
     },
     "NVDA": {
-      "short_vol_pct": 37.2,
-      "date": "2026-09-18"
+      "short_vol_pct": 34.3,
+      "date": "2026-09-21"
     },
     "GOOGL": {
-      "short_vol_pct": 45.0,
-      "date": "2026-09-18"
+      "short_vol_pct": 35.8,
+      "date": "2026-09-21"
     },
     "AMZN": {
-      "short_vol_pct": 41.4,
-      "date": "2026-09-18"
+      "short_vol_pct": 33.9,
+      "date": "2026-09-21"
     },
     "META": {
-      "short_vol_pct": 62.7,
-      "date": "2026-09-18"
+      "short_vol_pct": 48.0,
+      "date": "2026-09-21"
     },
     "TSLA": {
-      "short_vol_pct": 59.3,
-      "date": "2026-09-18"
+      "short_vol_pct": 56.2,
+      "date": "2026-09-21"
     },
     "AVGO": {
-      "short_vol_pct": 46.3,
-      "date": "2026-09-18"
+      "short_vol_pct": 46.2,
+      "date": "2026-09-21"
     },
     "COST": {
-      "short_vol_pct": 56.3,
-      "date": "2026-09-18"
+      "short_vol_pct": 46.6,
+      "date": "2026-09-21"
     },
     "NFLX": {
-      "short_vol_pct": 54.5,
-      "date": "2026-09-18"
+      "short_vol_pct": 30.9,
+      "date": "2026-09-21"
     },
     "AMD": {
-      "short_vol_pct": 67.7,
-      "date": "2026-09-18"
+      "short_vol_pct": 54.2,
+      "date": "2026-09-21"
     },
     "ADBE": {
-      "short_vol_pct": 59.1,
-      "date": "2026-09-18"
+      "short_vol_pct": 56.9,
+      "date": "2026-09-21"
     },
     "PEP": {
-      "short_vol_pct": 44.2,
-      "date": "2026-09-18"
+      "short_vol_pct": 46.4,
+      "date": "2026-09-21"
     },
     "CSCO": {
-      "short_vol_pct": 36.8,
-      "date": "2026-09-18"
+      "short_vol_pct": 26.4,
+      "date": "2026-09-21"
     },
     "INTC": {
-      "short_vol_pct": 61.5,
-      "date": "2026-09-18"
+      "short_vol_pct": 49.0,
+      "date": "2026-09-21"
     },
     "QCOM": {
-      "short_vol_pct": 61.3,
-      "date": "2026-09-18"
+      "short_vol_pct": 47.4,
+      "date": "2026-09-21"
     },
     "TXN": {
-      "short_vol_pct": 47.7,
-      "date": "2026-09-18"
+      "short_vol_pct": 58.1,
+      "date": "2026-09-21"
     },
     "AMAT": {
-      "short_vol_pct": 36.8,
-      "date": "2026-09-18"
+      "short_vol_pct": 47.3,
+      "date": "2026-09-21"
     },
     "INTU": {
-      "short_vol_pct": 39.5,
-      "date": "2026-09-18"
+      "short_vol_pct": 49.4,
+      "date": "2026-09-21"
     },
     "BKNG": {
-      "short_vol_pct": 46.3,
-      "date": "2026-09-18"
+      "short_vol_pct": 36.7,
+      "date": "2026-09-21"
     }
   }
 }
