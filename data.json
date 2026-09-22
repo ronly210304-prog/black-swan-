@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T12:08:10.495087+00:00",
+  "updated_at": "2026-09-22T12:29:36.166558+00:00",
   "news": [
     {
       "title": "Here&apos;s who we know is going to the Trump-Xi dinner so far",
@@ -281,12 +281,111 @@
       "desc_ko": null
     },
     {
+      "title": "Why AMD's new $1 trillion valuation makes perfect sense",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/article/why-amds-new-1-trillion-valuation-makes-perfect-sense-093453726.html",
+      "pubDate": "2026-09-22T09:34:53Z",
+      "tag": "general",
+      "title_ko": "AMD의 새로운 1조 달러 가치 평가 ($ 1 trillion valuation) 가 완벽한 이해가 되는 이유",
+      "desc_ko": null
+    },
+    {
+      "title": "Viking Therapeutics Skyrockets On Obesity Drug Data. Eli Lilly, Novo Fall.",
+      "description": "",
+      "link": "https://www.investors.com/news/technology/viking-therapeutics-stock-skyrockets-obesity-drug-data-roche-eli-lilly-novo-fall/?src=A00220&amp;yptr=yahoo",
+      "pubDate": "2026-09-22T12:20:29Z",
+      "tag": "general",
+      "title_ko": "Viking Therapeutics Skyrockets On Obesity Drug Data. 일라이 릴리, 노보 폴.",
+      "desc_ko": null
+    },
+    {
+      "title": "5 really bad reasons to file for Social Security at 70 — are you waiting way too long to get your checks?",
+      "description": "",
+      "link": "https://finance.yahoo.com/small-business/articles/5-really-bad-reasons-file-121500906.html",
+      "pubDate": "2026-09-22T12:15:00Z",
+      "tag": "general",
+      "title_ko": "70세에 사회 보장을 신청해야 하는 5가지 정말 나쁜 이유 — 수표를 받기 위해 너무 오래 기다리십니까?",
+      "desc_ko": null
+    },
+    {
+      "title": "Jim Cramer Praises OKTA for Tackling AI Security Threats",
+      "description": "",
+      "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-praises-okta-tackling-121305938.html",
+      "pubDate": "2026-09-22T12:13:05Z",
+      "tag": "general",
+      "title_ko": "짐 크레이머, AI 보안 위협에 대처한 Okta를 칭찬하다",
+      "desc_ko": null
+    },
+    {
+      "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
+      "description": "",
+      "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
+      "pubDate": "2026-09-21T18:17:21Z",
+      "tag": "general",
+      "title_ko": "2027년까지 지속될 우크라이나 이란의 글로벌 디젤 부족",
+      "desc_ko": null
+    },
+    {
       "title": "Stock market today: Nasdaq, Dow and S&amp;P 500 little changed as AI trade powers market",
       "description": "",
       "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
       "pubDate": "2026-09-22T08:06:25Z",
       "tag": "general",
       "title_ko": "오늘날의 주식 시장: 나스닥, 다우 및 S&amp;P 500은 AI 거래가 시장을 주도함에 따라 거의 변하지 않았습니다.",
+      "desc_ko": null
+    },
+    {
+      "title": "Netskope (NTSK): Eight Analysts Raised Targets on the AI Security Opportunity, But the Cash Burn Is Real",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/netskope-ntsk-eight-analysts-raised-120822344.html",
+      "pubDate": "2026-09-22T12:08:22Z",
+      "tag": "general",
+      "title_ko": "Netskope (NTSK): 8명의 분석가가 AI 보안 기회에 대한 목표를 높였지만 현금 소진은 현실입니다.",
+      "desc_ko": null
+    },
+    {
+      "title": "Favorable Supply/Demand Backdrop Positions Essex Property Trust (ESS) For Growth",
+      "description": "",
+      "link": "https://finance.yahoo.com/real-estate/articles/favorable-supply-demand-backdrop-positions-120256791.html",
+      "pubDate": "2026-09-22T12:02:56Z",
+      "tag": "general",
+      "title_ko": "우호적인 공급/수요 배경은 성장을 위해 에식스 부동산 신탁 (ESS) 을 포지셔닝합니다",
+      "desc_ko": null
+    },
+    {
+      "title": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Oil Prices, Treasury Yields Extend Losses (Live Coverage)",
+      "description": "",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&amp;yptr=yahoo",
+      "pubDate": "2026-09-22T12:01:55Z",
+      "tag": "general",
+      "title_ko": "오늘의 주식 시장: 미국-이란 평화 희망에 대한 다우 상승; 유가, 국채 수익률 손실 연장 (실시간 범위)",
+      "desc_ko": null
+    },
+    {
+      "title": "Burger chain cancels breakfast at hundreds of restaurants",
+      "description": "",
+      "link": "https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html",
+      "pubDate": "2026-09-21T04:15:19Z",
+      "tag": "general",
+      "title_ko": "햄버거 체인은 수백 개의 레스토랑에서 아침 식사를 취소합니다",
+      "desc_ko": null
+    },
+    {
+      "title": "Okta Stock Rides AI Security Boom Ahead Of Investor Day",
+      "description": "",
+      "link": "https://www.investors.com/news/technology/okta-stock-rides-ai-security-boom-ahead-of-investor-day/?src=A00220&amp;yptr=yahoo",
+      "pubDate": "2026-09-22T12:00:20Z",
+      "tag": "general",
+      "title_ko": "Okta 주식, 투자자의 날을 앞두고 AI 보안 붐을 타다",
+      "desc_ko": null
+    },
+    {
+      "title": "How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge",
+      "description": "",
+      "link": "https://www.investors.com/news/technology/google-stock-tpu-blackstone-cloud-growth-nvidia/?src=A00220&amp;yptr=yahoo",
+      "pubDate": "2026-09-22T12:00:20Z",
+      "tag": "general",
+      "title_ko": "Google의 Nvidia AI 칩 챌린지를 위해 더 많은 조각이 떨어지는 방법",
       "desc_ko": null
     },
     {
@@ -308,103 +407,13 @@
       "desc_ko": null
     },
     {
-      "title": "MiniMed (MMED): Nine Analysts Raised Targets, But Cash Flow Still Has a Catch",
-      "description": "",
-      "link": "https://finance.yahoo.com/healthcare/articles/minimed-mmed-nine-analysts-raised-115543360.html",
-      "pubDate": "2026-09-22T11:55:43Z",
+      "title": "Wall Street and AI ruined your &#x2018;diversified&#x2019; portfolio",
+      "description": "AI is everywhere, leaving investors exposed if the technology doesn&#x2019;t pan out as expected.",
+      "link": "https://www.marketwatch.com/story/wall-street-and-ai-ruined-your-diversified-portfolio-f1255373?mod=mw_rss_topstories",
+      "pubDate": "Tue, 22 Sep 2026 12:24:00 GMT",
       "tag": "general",
-      "title_ko": "MiniMed (MMED): 9명의 애널리스트가 목표를 높였지만 현금 흐름에는 여전히 문제가 있습니다.",
-      "desc_ko": null
-    },
-    {
-      "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
-      "description": "",
-      "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
-      "pubDate": "2026-09-21T18:17:21Z",
-      "tag": "general",
-      "title_ko": "2027년까지 지속될 우크라이나 이란의 글로벌 디젤 부족",
-      "desc_ko": null
-    },
-    {
-      "title": "Viking Therapeutics Skyrockets On Obesity Drug Data. Eli Lilly, Novo Fall.",
-      "description": "",
-      "link": "https://www.investors.com/news/technology/viking-therapeutics-stock-skyrockets-obesity-drug-data-roche-eli-lilly-novo-fall/?src=A00220&amp;yptr=yahoo",
-      "pubDate": "2026-09-22T11:48:01Z",
-      "tag": "general",
-      "title_ko": "Viking Therapeutics Skyrockets On Obesity Drug Data. 일라이 릴리, 노보 폴.",
-      "desc_ko": null
-    },
-    {
-      "title": "Jim Cramer Prefers Brinker (EAT) Over Darden (DRI) Ahead of Earnings",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-brinker-eat-114756062.html",
-      "pubDate": "2026-09-22T11:47:56Z",
-      "tag": "general",
-      "title_ko": "Jim Cramer는 수입보다 Darden (DRI) 보다 Brinker (EAT) 를 선호합니다.",
-      "desc_ko": null
-    },
-    {
-      "title": "Bitcoin and ethereum prices today, Tuesday, September 22, 2026: Crypto prices continue to surge to prices last seen in January",
-      "description": "",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-22-2026-crypto-prices-continue-to-surge-to-prices-last-seen-in-january-114724449.html",
-      "pubDate": "2026-09-22T11:47:24Z",
-      "tag": "general",
-      "title_ko": "2026년 9월 22일 화요일, 오늘 비트코인과 이더리움 가격: 암호화폐 가격이 지난 1월 마지막 가격까지 계속 급등하고 있습니다",
-      "desc_ko": null
-    },
-    {
-      "title": "Oil and gas PE deals tumble as new platform buyouts dry up",
-      "description": "",
-      "link": "https://finance.yahoo.com/energy/articles/oil-gas-pe-deals-tumble-113950178.html",
-      "pubDate": "2026-09-22T11:39:50Z",
-      "tag": "general",
-      "title_ko": "석유 및 가스 PE 거래는 새로운 플랫폼 구매가 건조됨에 따라 하락합니다.",
-      "desc_ko": null
-    },
-    {
-      "title": "Burger chain cancels breakfast at hundreds of restaurants",
-      "description": "",
-      "link": "https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html",
-      "pubDate": "2026-09-21T04:15:19Z",
-      "tag": "general",
-      "title_ko": "햄버거 체인은 수백 개의 레스토랑에서 아침 식사를 취소합니다",
-      "desc_ko": null
-    },
-    {
-      "title": "Saudi Arabia restarts East-West oil pipeline, sources say",
-      "description": "",
-      "link": "https://finance.yahoo.com/news/saudi-arabia-restarts-east-west-100845429.html",
-      "pubDate": "2026-09-22T11:39:10Z",
-      "tag": "general",
-      "title_ko": "사우디아라비아, 동서 석유 파이프라인 재가동 소식통에 따르면",
-      "desc_ko": null
-    },
-    {
-      "title": "AARP: Social Security proposal could ‘erode’ checks for 80% of recipients. 3 moves to protect your retirement income now",
-      "description": "",
-      "link": "https://finance.yahoo.com/economy/policy/articles/aarp-social-security-proposal-could-113000944.html",
-      "pubDate": "2026-09-22T11:30:00Z",
-      "tag": "general",
-      "title_ko": "AARP: 사회 보장 제안은 수급자의 80% 에 대한 수표를 ‘침식’ 할 수 있습니다. 지금 퇴직 소득을 보호하기위한 3 가지 움직임",
-      "desc_ko": null
-    },
-    {
-      "title": "Samsara (IOT): 12 Analysts Raised Price Targets, But Some Still Want a Better Entry Point",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/samsara-iot-12-analysts-raised-112941232.html",
-      "pubDate": "2026-09-22T11:29:41Z",
-      "tag": "general",
-      "title_ko": "삼사라 (IOT): 12명의 애널리스트가 가격 목표를 올렸지만, 일부는 여전히 더 나은 진입점을 원합니다.",
-      "desc_ko": null
-    },
-    {
-      "title": "12 S&amp;P 500 Stocks Hit Trillion-Dollar Club — What Could Go Wrong?",
-      "description": "",
-      "link": "https://www.investors.com/etfs-and-funds/sectors/sp-500-stocks-hit-trillion-dollar-club-what-could-go-wrong/?src=A00220&amp;yptr=yahoo",
-      "pubDate": "2026-09-22T11:28:11Z",
-      "tag": "general",
-      "title_ko": "12 S&amp;P 500 주식이 1조 달러 클럽을 강타함 — 무엇이 잘못될 수 있습니까?",
-      "desc_ko": null
+      "title_ko": "월스트리트와 AI가 ‘다각화된‘ 포트폴리오를 망쳤습니다",
+      "desc_ko": "AI는 모든 곳에 존재하며, 기술이 예상대로 발전하지 않으면 투자자가 노출됩니다."
     },
     {
       "title": "Meta&#x2019;s stock is enjoying its best month in 13 years thanks to the company&#x2019;s hot new AI assistant",
@@ -486,15 +495,6 @@
       "tag": "general",
       "title_ko": "‘그녀는 이웃에게 $ 2,000를 주었습니다’: 사회 보장 제 어머니 (82) 에게 $ 20,000를 초과 지급했습니다. 그녀의 재정에는 또 무엇이 숨겨져 있을까요?",
       "desc_ko": "\"저희 어머니는 연금, 사회보장, 투자, 그리고 100만 $ 이상의 주택을 갖고 계십니다.\""
-    },
-    {
-      "title": "Amanda Seyfried splits with husband Thomas Sadoski, weeks after listing L.A. home for $3.2 million",
-      "description": "&#x201c;Mamma Mia!&#x201d; star Amanda Seyfried and her husband, Thomas Sadoski, have split after nine years of marriage&#x2014;just weeks after the actress put her longtime Los Angeles home on the market.",
-      "link": "https://www.marketwatch.com/story/amanda-seyfried-splits-with-husband-thomas-sadoski-weeks-after-listing-l-a-home-for-3-2-million-2ed9b8ab?mod=mw_rss_topstories",
-      "pubDate": "Tue, 22 Sep 2026 09:02:00 GMT",
-      "tag": "general",
-      "title_ko": "아만다 세이프리드 (Amanda Seyfried) 는 남편 토마스 사도스키 (Thomas Sadoski) 와 $ 320만 달러에 LA 숙소를 등록한 지 몇 주 만에 헤어졌습니다.",
-      "desc_ko": "\"맘마 미아!\" 스타 아만다 세이프리드와 그녀의 남편 토마스 사도스키가 결혼 9년 만에 헤어졌습니다. 여배우가 오랜 로스앤젤레스를 시장에 내놓은 지 불과 몇 주 만에 헤어졌습니다."
     }
   ],
   "assets": {
@@ -827,12 +827,12 @@
         29446.75,
         29613.6796875,
         30784.75,
-        30780.75
+        30762.0
       ],
-      "last": 30780.75,
-      "chg_pct": -0.012993446430456638,
-      "rsi14": 67.74052041363362,
-      "ma20": 29493.746484375
+      "last": 30762.0,
+      "chg_pct": -0.07390022657322212,
+      "rsi14": 67.40217748946897,
+      "ma20": 29492.808984375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4399.7001953125,
         4424.89990234375,
         4383.89990234375,
-        4359.60009765625
+        4363.5
       ],
-      "last": 4359.60009765625,
-      "chg_pct": -0.5542965220193252,
-      "rsi14": 45.00930550603116,
-      "ma20": 4460.344970703125
+      "last": 4363.5,
+      "chg_pct": -0.46533686439427296,
+      "rsi14": 45.30837105823285,
+      "ma20": 4460.539965820312
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         101.91000366210938,
         100.30000305175781,
         95.77999877929688,
-        89.9000015258789
+        90.4800033569336
       ],
-      "last": 89.9000015258789,
-      "chg_pct": -6.139065909749152,
-      "rsi14": 45.747304869584276,
-      "ma20": 93.52200164794922
+      "last": 90.4800033569336,
+      "chg_pct": -5.533509594812076,
+      "rsi14": 46.504111409503054,
+      "ma20": 93.55100173950196
     },
     "zn": {
       "live": true,
@@ -1154,12 +1154,12 @@
         106.40625,
         106.078125,
         106.328125,
-        106.296875
+        106.265625
       ],
-      "last": 106.296875,
-      "chg_pct": -0.029390154298310066,
-      "rsi14": 33.82681940117311,
-      "ma20": 107.2375
+      "last": 106.265625,
+      "chg_pct": -0.05878030859662013,
+      "rsi14": 33.51178195069424,
+      "ma20": 107.2359375
     },
     "dxy": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.22000122070312,
         100.22000122070312,
         100.43000030517578,
-        100.40699768066406
+        100.38999938964844
       ],
-      "last": 100.40699768066406,
-      "chg_pct": -0.022904136654207777,
-      "rsi14": 62.51357153890328,
-      "ma20": 99.51434936523438
+      "last": 100.38999938964844,
+      "chg_pct": -0.03982964791973844,
+      "rsi14": 62.156173594778586,
+      "ma20": 99.5134994506836
     },
     "vix": {
       "live": true,
@@ -1372,12 +1372,12 @@
         15.4399995803833,
         14.8100004196167,
         14.869999885559082,
-        14.699999809265137
+        14.65999984741211
       ],
-      "last": 14.699999809265137,
-      "chg_pct": -1.143241947560739,
-      "rsi14": 44.724915242561856,
-      "ma20": 15.622499990463258
+      "last": 14.65999984741211,
+      "chg_pct": -1.412239675609635,
+      "rsi14": 44.56202489659615,
+      "ma20": 15.620499992370606
     },
     "hsi": {
       "live": true,
@@ -1917,12 +1917,12 @@
         25716.7109375,
         25304.060546875,
         25575.009765625,
-        25697.060546875
+        25696.310546875
       ],
-      "last": 25697.060546875,
-      "chg_pct": 0.47722672393285526,
-      "rsi14": 48.61627678744684,
-      "ma20": 25826.72314453125
+      "last": 25696.310546875,
+      "chg_pct": 0.47429417373297983,
+      "rsi14": 48.599942951702545,
+      "ma20": 25826.68564453125
     },
     "ftse": {
       "live": true,
@@ -2026,12 +2026,12 @@
         10816.099609375,
         10659.099609375,
         10739.0,
-        10749.5400390625
+        10749.2802734375
       ],
-      "last": 10749.5400390625,
-      "chg_pct": 0.09814730480026074,
-      "rsi14": 50.44524872377981,
-      "ma20": 10758.031884765625
+      "last": 10749.2802734375,
+      "chg_pct": 0.09572840522860601,
+      "rsi14": 50.42809272480621,
+      "ma20": 10758.018896484375
     },
     "krw": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1376.5999755859375,
         1379.530029296875,
         1384.8599853515625,
-        1355.52001953125
+        1357.1800537109375
       ],
-      "last": 1355.52001953125,
-      "chg_pct": -2.1186232637709015,
-      "rsi14": 39.91371505611999,
-      "ma20": 1362.0664978027344
+      "last": 1357.1800537109375,
+      "chg_pct": -1.9987530821462887,
+      "rsi14": 40.50922752140946,
+      "ma20": 1362.1494995117187
     },
     "jpy": {
       "live": true,
@@ -2244,12 +2244,12 @@
         156.01400756835938,
         156.12899780273438,
         157.04600524902344,
-        157.12100219726562
+        157.1699981689453
       ],
-      "last": 157.12100219726562,
-      "chg_pct": 0.04775476340405281,
-      "rsi14": 50.656887255353105,
-      "ma20": 156.67085037231445
+      "last": 157.1699981689453,
+      "chg_pct": 0.07895324667778904,
+      "rsi14": 50.9070628073116,
+      "ma20": 156.67330017089844
     },
     "copper": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.58650016784668,
         6.614999771118164,
         6.686500072479248,
-        6.8414998054504395
+        6.84499979019165
       ],
-      "last": 6.8414998054504395,
-      "chg_pct": 2.3180996229873663,
-      "rsi14": 63.21465686244632,
-      "ma20": 6.578324985504151
+      "last": 6.84499979019165,
+      "chg_pct": 2.370443669996599,
+      "rsi14": 63.32717092621308,
+      "ma20": 6.578499984741211
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         2.9010000228881836,
         2.9119999408721924,
         2.8359999656677246,
-        2.986999988555908
+        3.013000011444092
       ],
-      "last": 2.986999988555908,
-      "chg_pct": 5.324401435690119,
-      "rsi14": 58.634742035155455,
-      "ma20": 2.8917500019073485
+      "last": 3.013000011444092,
+      "chg_pct": 6.2411864569502296,
+      "rsi14": 60.11686458131352,
+      "ma20": 2.8930500030517576
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         65.47000122070312,
         66.55599975585938,
         65.82499694824219,
-        66.12999725341797
+        66.07499694824219
       ],
-      "last": 66.12999725341797,
-      "chg_pct": 0.46335027621133235,
-      "rsi14": 53.14216239238699,
-      "ma20": 65.9863494873047
+      "last": 66.07499694824219,
+      "chg_pct": 0.3797949283561282,
+      "rsi14": 52.97335353822483,
+      "ma20": 65.9835994720459
     },
     "qqq": {
       "live": true,
