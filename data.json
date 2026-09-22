@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-22T12:29:36.166558+00:00",
+  "updated_at": "2026-09-22T12:47:26.455587+00:00",
   "news": [
+    {
+      "title": "Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds",
+      "description": "It's the latest move by the company as it and other event contract exchanges seek to gain greater participation by institutional traders.",
+      "link": "https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html",
+      "pubDate": "Tue, 22 Sep 2026 12:28:51 GMT",
+      "tag": "ndx",
+      "title_ko": "Kalshi는 CFTC에 플랫폼에서 마진 거래를 허용하도록 요청하여 사용자가 빌린 자금으로 구매할 수 있도록 합니다.",
+      "desc_ko": "회사와 다른 이벤트 계약 거래소가 기관 트레이더의 참여를 늘리려고 하기 때문에 회사의 최신 움직임입니다."
+    },
     {
       "title": "Here&apos;s who we know is going to the Trump-Xi dinner so far",
       "description": "Very little is known about which Chinese business executives, if any, are expected to attend.",
@@ -128,13 +137,13 @@
       "desc_ko": "중국의 투자 부진은 심화되었고, 8월에 중국이 수급 불균형을 경고함에 따라 산업 생산은 과거의 추정치를 날려버리면서 소매 판매 성장이 더욱 둔화되었다."
     },
     {
-      "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
-      "description": "The muted outlook from the country's second-largest bank by assets could be an early signal that Wall Street's AI boom might have hit turbulence.",
-      "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
-      "pubDate": "Mon, 14 Sep 2026 20:34:23 GMT",
-      "tag": "ndx",
-      "title_ko": "뱅크 오브 아메리카는 3분기 투자 은행 수수료가 10% 이상 하락할 것으로 예상합니다. 주식 슬라이드",
-      "desc_ko": "자산 기준 2위 은행의 전망이 무산된 것은 월스트리트의 AI 호황이 격변에 부딪쳤을 수 있다는 초기 신호일 수 있다."
+      "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
+      "description": "CoinDesk found one $5,499 trade size accounting for 57% of sampled ether-perpetual volume, while recurring $2,500 and $5,000 trade sizes made up 54% of sampled bitcoin-perpetual volume.",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
+      "pubDate": "Tue, 22 Sep 2026 12:32:15 +0000",
+      "tag": "btc",
+      "title_ko": "비트코인, 칼시의 에테르 영구 거래량은 비정상적이고 반복적인 거래에 의해 지배됩니다. 데이터는",
+      "desc_ko": "CoinDesk는 샘플링된 에테르-영구 거래량의 57% 를 차지하는 하나의 $ 5,499 거래 규모를 발견했으며, 반복되는 $ 2,500 및 $ 5,000 거래 규모는 샘플링된 비트코인-영구 거래량의 54% 를 차지했습니다."
     },
     {
       "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
@@ -263,15 +272,6 @@
       "desc_ko": "TD Cowen은 새로운 SEC 규칙이 전통 시장 외부에서 거래할 수 있는 길을 열어 주었음에도 불구하고 토큰화된 주식에 대한 수요가 제한적일 것으로 예상합니다."
     },
     {
-      "title": "Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid",
-      "description": "It's the biggest spending from the industry's campaign arm in 2026, much like Fairshake's $40 million against Brown two years ago was its largest-ever outlay.",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
-      "pubDate": "Mon, 21 Sep 2026 16:01:36 +0000",
-      "tag": "btc",
-      "title_ko": "Crypto 정치 그룹은 Sherrod Brown의 상원 입찰에 대해 $ 3 천만 달러를 지출 할 계획입니다.",
-      "desc_ko": "이는 2026년 업계 캠페인 부문에서 지출한 가장 큰 지출입니다. 2년 전 Fairshake가 Brown을 상대로 $ 40M를 지출한 것이 사상 최대의 지출이었던 것과 비슷합니다."
-    },
-    {
       "title": "Bank of America says buy tumbling shares of aviation giant",
       "description": "",
       "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
@@ -281,12 +281,93 @@
       "desc_ko": null
     },
     {
+      "title": "'Crypto winter is over,' says analyst as bitcoin tops $86,000: Chart of the Day",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/article/crypto-winter-is-over-says-analyst-as-bitcoin-tops-86000-chart-of-the-day-124006079.html",
+      "pubDate": "2026-09-22T12:40:06Z",
+      "tag": "general",
+      "title_ko": "비트코인이 $ 86,000를 상회함에 따라 애널리스트는 '암호화폐 겨울이 끝났다' 고 말합니다: 오늘의 차트",
+      "desc_ko": null
+    },
+    {
+      "title": "Xpeng’s Tech-Licensing Expansion Meets a Core Auto Business Still Losing Money",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/xpeng-tech-licensing-expansion-meets-123610355.html",
+      "pubDate": "2026-09-22T12:36:10Z",
+      "tag": "general",
+      "title_ko": "Xpeng의 기술 라이선싱 확장은 여전히 돈을 잃고 있는 핵심 자동차 비즈니스를 충족시킵니다.",
+      "desc_ko": null
+    },
+    {
+      "title": "'SICK conspiracy': Trump dismisses calls to rein in AI as his sons cash in on AI-linked defence and tech investments",
+      "description": "",
+      "link": "https://finance.yahoo.com/technology/ai/articles/sick-conspiracy-trump-dismisses-calls-123000393.html",
+      "pubDate": "2026-09-22T12:30:00Z",
+      "tag": "general",
+      "title_ko": "'병든 음모': 트럼프는 아들들이 AI 연계 방위 및 기술 투자에 현금화하면서 AI를 고집하라는 요구를 일축합니다.",
+      "desc_ko": null
+    },
+    {
+      "title": "Oil falls to two-week low as Gulf supply outlook improves",
+      "description": "",
+      "link": "https://finance.yahoo.com/energy/articles/oil-rises-slightly-ahead-potential-003404571.html",
+      "pubDate": "2026-09-22T12:28:03Z",
+      "tag": "general",
+      "title_ko": "걸프만 공급 전망이 개선됨에 따라 석유가 2주 최저치로 떨어짐",
+      "desc_ko": null
+    },
+    {
+      "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
+      "description": "",
+      "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
+      "pubDate": "2026-09-21T18:17:21Z",
+      "tag": "general",
+      "title_ko": "2027년까지 지속될 우크라이나 이란의 글로벌 디젤 부족",
+      "desc_ko": null
+    },
+    {
       "title": "Why AMD's new $1 trillion valuation makes perfect sense",
       "description": "",
       "link": "https://finance.yahoo.com/markets/stocks/article/why-amds-new-1-trillion-valuation-makes-perfect-sense-093453726.html",
       "pubDate": "2026-09-22T09:34:53Z",
       "tag": "general",
       "title_ko": "AMD의 새로운 1조 달러 가치 평가 ($ 1 trillion valuation) 가 완벽한 이해가 되는 이유",
+      "desc_ko": null
+    },
+    {
+      "title": "3M’s CEO Says the Turnaround Is Ahead of Schedule, But PFAS Litigation Keeps Resurfacing",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3m-ceo-says-turnaround-ahead-122451020.html",
+      "pubDate": "2026-09-22T12:24:51Z",
+      "tag": "general",
+      "title_ko": "3M의 CEO는 시간이 촉박하다고 말하지만, PFAS 소송은 계속 재발하고 있습니다.",
+      "desc_ko": null
+    },
+    {
+      "title": "Multifamily REITs Are Finally Showing Signs of Recovery — Why Baron Increased UDR (UDR)",
+      "description": "",
+      "link": "https://finance.yahoo.com/real-estate/articles/multifamily-reits-finally-showing-signs-122342590.html",
+      "pubDate": "2026-09-22T12:23:42Z",
+      "tag": "general",
+      "title_ko": "다가구 REIT가 마침내 회복의 징후를 보이고 있습니다 — Baron이 UDR (UDR) 을 증가시킨 이유",
+      "desc_ko": null
+    },
+    {
+      "title": "Saudi Arabia Reportedly Restarts East-West Pipeline",
+      "description": "",
+      "link": "https://finance.yahoo.com/energy/articles/saudi-arabia-reportedly-restarts-east-122302773.html",
+      "pubDate": "2026-09-22T12:23:02Z",
+      "tag": "general",
+      "title_ko": "사우디아라비아, 동서 파이프라인 재가동 보고",
+      "desc_ko": null
+    },
+    {
+      "title": "Burger chain cancels breakfast at hundreds of restaurants",
+      "description": "",
+      "link": "https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html",
+      "pubDate": "2026-09-21T04:15:19Z",
+      "tag": "general",
+      "title_ko": "햄버거 체인은 수백 개의 레스토랑에서 아침 식사를 취소합니다",
       "desc_ko": null
     },
     {
@@ -317,15 +398,6 @@
       "desc_ko": null
     },
     {
-      "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
-      "description": "",
-      "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
-      "pubDate": "2026-09-21T18:17:21Z",
-      "tag": "general",
-      "title_ko": "2027년까지 지속될 우크라이나 이란의 글로벌 디젤 부족",
-      "desc_ko": null
-    },
-    {
       "title": "Stock market today: Nasdaq, Dow and S&amp;P 500 little changed as AI trade powers market",
       "description": "",
       "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
@@ -335,76 +407,13 @@
       "desc_ko": null
     },
     {
-      "title": "Netskope (NTSK): Eight Analysts Raised Targets on the AI Security Opportunity, But the Cash Burn Is Real",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/netskope-ntsk-eight-analysts-raised-120822344.html",
-      "pubDate": "2026-09-22T12:08:22Z",
+      "title": "Princeton&#x2019;s 15-year run as the nation&#x2019;s top-ranked university is over. MIT is now No. 1.",
+      "description": "A change in methodology in the U.S. News rankings helped boost schools where students have high earnings",
+      "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
+      "pubDate": "Tue, 22 Sep 2026 12:43:00 GMT",
       "tag": "general",
-      "title_ko": "Netskope (NTSK): 8명의 분석가가 AI 보안 기회에 대한 목표를 높였지만 현금 소진은 현실입니다.",
-      "desc_ko": null
-    },
-    {
-      "title": "Favorable Supply/Demand Backdrop Positions Essex Property Trust (ESS) For Growth",
-      "description": "",
-      "link": "https://finance.yahoo.com/real-estate/articles/favorable-supply-demand-backdrop-positions-120256791.html",
-      "pubDate": "2026-09-22T12:02:56Z",
-      "tag": "general",
-      "title_ko": "우호적인 공급/수요 배경은 성장을 위해 에식스 부동산 신탁 (ESS) 을 포지셔닝합니다",
-      "desc_ko": null
-    },
-    {
-      "title": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Oil Prices, Treasury Yields Extend Losses (Live Coverage)",
-      "description": "",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&amp;yptr=yahoo",
-      "pubDate": "2026-09-22T12:01:55Z",
-      "tag": "general",
-      "title_ko": "오늘의 주식 시장: 미국-이란 평화 희망에 대한 다우 상승; 유가, 국채 수익률 손실 연장 (실시간 범위)",
-      "desc_ko": null
-    },
-    {
-      "title": "Burger chain cancels breakfast at hundreds of restaurants",
-      "description": "",
-      "link": "https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html",
-      "pubDate": "2026-09-21T04:15:19Z",
-      "tag": "general",
-      "title_ko": "햄버거 체인은 수백 개의 레스토랑에서 아침 식사를 취소합니다",
-      "desc_ko": null
-    },
-    {
-      "title": "Okta Stock Rides AI Security Boom Ahead Of Investor Day",
-      "description": "",
-      "link": "https://www.investors.com/news/technology/okta-stock-rides-ai-security-boom-ahead-of-investor-day/?src=A00220&amp;yptr=yahoo",
-      "pubDate": "2026-09-22T12:00:20Z",
-      "tag": "general",
-      "title_ko": "Okta 주식, 투자자의 날을 앞두고 AI 보안 붐을 타다",
-      "desc_ko": null
-    },
-    {
-      "title": "How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge",
-      "description": "",
-      "link": "https://www.investors.com/news/technology/google-stock-tpu-blackstone-cloud-growth-nvidia/?src=A00220&amp;yptr=yahoo",
-      "pubDate": "2026-09-22T12:00:20Z",
-      "tag": "general",
-      "title_ko": "Google의 Nvidia AI 칩 챌린지를 위해 더 많은 조각이 떨어지는 방법",
-      "desc_ko": null
-    },
-    {
-      "title": "'We simply don't know': JPMorgan waves the white flag forecasting where oil prices will go due to Iran War",
-      "description": "",
-      "link": "https://finance.yahoo.com/energy/articles/simply-dont-know-jpmorgan-waves-120000153.html",
-      "pubDate": "2026-09-22T12:00:00Z",
-      "tag": "general",
-      "title_ko": "'우리는 단순히 모른다': JP모건은 이란 전쟁으로 인해 유가가 어디로 갈지 예측하는 백기를 흔들었다.",
-      "desc_ko": null
-    },
-    {
-      "title": "VS&amp;Co (VSXY): Wall Street Debates Whether the Turnaround Is Already Priced In",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vs-co-vsxy-wall-street-115740561.html",
-      "pubDate": "2026-09-22T11:57:40Z",
-      "tag": "general",
-      "title_ko": "VS&amp;Co (VSXY): 월스트리트는 턴어라운드가 이미 가격이 책정되었는지 여부를 논의합니다.",
-      "desc_ko": null
+      "title_ko": "미국 최고의 대학으로서의 프린스턴의 15년 경영은 끝났습니다. MIT는 이제 1위입니다.",
+      "desc_ko": "미국 뉴스 순위의 방법론 변경은 학생들이 높은 수입을 올리는 학교를 향상시키는 데 도움이 되었습니다."
     },
     {
       "title": "Wall Street and AI ruined your &#x2018;diversified&#x2019; portfolio",
@@ -486,15 +495,6 @@
       "tag": "general",
       "title_ko": "65% 의 정확도를 갖춘 이 기계 학습 모델이 말하는 것은 10년 재무부의 다음 단계입니다.",
       "desc_ko": "HSBC는 글로벌 시장에서 가장 중요한 금융 상품의 방향을 예측하기 위해 기계 학습 모델을 설계했다고 밝혔습니다."
-    },
-    {
-      "title": "&#x2018;She gave a neighbor $2,000&#x2019;: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
-      "description": "&#x201c;My mother has a pension, Social Security, investments and a house probably worth over $1 million.&#x201d;",
-      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "pubDate": "Tue, 22 Sep 2026 09:15:00 GMT",
-      "tag": "general",
-      "title_ko": "‘그녀는 이웃에게 $ 2,000를 주었습니다’: 사회 보장 제 어머니 (82) 에게 $ 20,000를 초과 지급했습니다. 그녀의 재정에는 또 무엇이 숨겨져 있을까요?",
-      "desc_ko": "\"저희 어머니는 연금, 사회보장, 투자, 그리고 100만 $ 이상의 주택을 갖고 계십니다.\""
     }
   ],
   "assets": {
@@ -718,12 +718,12 @@
         7640.0,
         7657.35009765625,
         7833.5,
-        7837.0
+        7838.75
       ],
-      "last": 7837.0,
-      "chg_pct": 0.04467990042765048,
-      "rsi14": 62.722093893832906,
-      "ma20": 7683.117504882813
+      "last": 7838.75,
+      "chg_pct": 0.06701985064147571,
+      "rsi14": 62.819727339435744,
+      "ma20": 7683.205004882812
     },
     "nq": {
       "live": true,
@@ -827,12 +827,12 @@
         29446.75,
         29613.6796875,
         30784.75,
-        30762.0
+        30769.0
       ],
-      "last": 30762.0,
-      "chg_pct": -0.07390022657322212,
-      "rsi14": 67.40217748946897,
-      "ma20": 29492.808984375
+      "last": 30769.0,
+      "chg_pct": -0.05116169531992302,
+      "rsi14": 67.52809607680996,
+      "ma20": 29493.158984375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4399.7001953125,
         4424.89990234375,
         4383.89990234375,
-        4363.5
+        4376.60009765625
       ],
-      "last": 4363.5,
-      "chg_pct": -0.46533686439427296,
-      "rsi14": 45.30837105823285,
-      "ma20": 4460.539965820312
+      "last": 4376.60009765625,
+      "chg_pct": -0.1665139453480069,
+      "rsi14": 46.34271836021183,
+      "ma20": 4461.194970703125
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         101.91000366210938,
         100.30000305175781,
         95.77999877929688,
-        90.4800033569336
+        90.36000061035156
       ],
-      "last": 90.4800033569336,
-      "chg_pct": -5.533509594812076,
-      "rsi14": 46.504111409503054,
-      "ma20": 93.55100173950196
+      "last": 90.36000061035156,
+      "chg_pct": -5.658799580311605,
+      "rsi14": 46.34548022355387,
+      "ma20": 93.54500160217285
     },
     "zn": {
       "live": true,
@@ -1154,12 +1154,12 @@
         106.40625,
         106.078125,
         106.328125,
-        106.265625
+        106.25
       ],
-      "last": 106.265625,
-      "chg_pct": -0.05878030859662013,
-      "rsi14": 33.51178195069424,
-      "ma20": 107.2359375
+      "last": 106.25,
+      "chg_pct": -0.07347538574577515,
+      "rsi14": 33.356453541656535,
+      "ma20": 107.23515625
     },
     "dxy": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.22000122070312,
         100.22000122070312,
         100.43000030517578,
-        100.38999938964844
+        100.4020004272461
       ],
-      "last": 100.38999938964844,
-      "chg_pct": -0.03982964791973844,
-      "rsi14": 62.156173594778586,
-      "ma20": 99.5134994506836
+      "last": 100.4020004272461,
+      "chg_pct": -0.027879993870959387,
+      "rsi14": 62.40807585660892,
+      "ma20": 99.51409950256348
     },
     "vix": {
       "live": true,
@@ -1372,12 +1372,12 @@
         15.4399995803833,
         14.8100004196167,
         14.869999885559082,
-        14.65999984741211
+        14.649999618530273
       ],
-      "last": 14.65999984741211,
-      "chg_pct": -1.412239675609635,
-      "rsi14": 44.56202489659615,
-      "ma20": 15.620499992370606
+      "last": 14.649999618530273,
+      "chg_pct": -1.4794907109747906,
+      "rsi14": 44.52148656793296,
+      "ma20": 15.619999980926513
     },
     "hsi": {
       "live": true,
@@ -1917,12 +1917,12 @@
         25716.7109375,
         25304.060546875,
         25575.009765625,
-        25696.310546875
+        25739.359375
       ],
-      "last": 25696.310546875,
-      "chg_pct": 0.47429417373297983,
-      "rsi14": 48.599942951702545,
-      "ma20": 25826.68564453125
+      "last": 25739.359375,
+      "chg_pct": 0.642617973096143,
+      "rsi14": 49.520972709524536,
+      "ma20": 25828.8380859375
     },
     "ftse": {
       "live": true,
@@ -2026,12 +2026,12 @@
         10816.099609375,
         10659.099609375,
         10739.0,
-        10749.2802734375
+        10753.3203125
       ],
-      "last": 10749.2802734375,
-      "chg_pct": 0.09572840522860601,
-      "rsi14": 50.42809272480621,
-      "ma20": 10758.018896484375
+      "last": 10753.3203125,
+      "chg_pct": 0.13334865909302543,
+      "rsi14": 50.693576568141694,
+      "ma20": 10758.2208984375
     },
     "krw": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1376.5999755859375,
         1379.530029296875,
         1384.8599853515625,
-        1357.1800537109375
+        1358.010009765625
       ],
-      "last": 1357.1800537109375,
-      "chg_pct": -1.9987530821462887,
-      "rsi14": 40.50922752140946,
-      "ma20": 1362.1494995117187
+      "last": 1358.010009765625,
+      "chg_pct": -1.9388223986500215,
+      "rsi14": 40.81367506473562,
+      "ma20": 1362.1909973144532
     },
     "jpy": {
       "live": true,
@@ -2244,12 +2244,12 @@
         156.01400756835938,
         156.12899780273438,
         157.04600524902344,
-        157.1699981689453
+        157.27000427246094
       ],
-      "last": 157.1699981689453,
-      "chg_pct": 0.07895324667778904,
-      "rsi14": 50.9070628073116,
-      "ma20": 156.67330017089844
+      "last": 157.27000427246094,
+      "chg_pct": 0.1426327419677508,
+      "rsi14": 51.40990556367443,
+      "ma20": 156.6783004760742
     },
     "copper": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.58650016784668,
         6.614999771118164,
         6.686500072479248,
-        6.84499979019165
+        6.853499889373779
       ],
-      "last": 6.84499979019165,
-      "chg_pct": 2.370443669996599,
-      "rsi14": 63.32717092621308,
-      "ma20": 6.578499984741211
+      "last": 6.853499889373779,
+      "chg_pct": 2.4975669645451806,
+      "rsi14": 63.59757928120639,
+      "ma20": 6.578924989700317
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         2.9010000228881836,
         2.9119999408721924,
         2.8359999656677246,
-        3.013000011444092
+        2.996999979019165
       ],
-      "last": 3.013000011444092,
-      "chg_pct": 6.2411864569502296,
-      "rsi14": 60.11686458131352,
-      "ma20": 2.8930500030517576
+      "last": 2.996999979019165,
+      "chg_pct": 5.677010412570073,
+      "rsi14": 59.21764065006311,
+      "ma20": 2.8922500014305115
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         65.47000122070312,
         66.55599975585938,
         65.82499694824219,
-        66.07499694824219
+        66.36000061035156
       ],
-      "last": 66.07499694824219,
-      "chg_pct": 0.3797949283561282,
-      "rsi14": 52.97335353822483,
-      "ma20": 65.9835994720459
+      "last": 66.36000061035156,
+      "chg_pct": 0.8127667100843852,
+      "rsi14": 53.83515982251088,
+      "ma20": 65.99784965515137
     },
     "qqq": {
       "live": true,
@@ -2690,7 +2690,6 @@
     "irx": {
       "live": true,
       "closes": [
-        3.5899999141693115,
         3.5850000381469727,
         3.575000047683716,
         3.5899999141693115,
@@ -2789,17 +2788,17 @@
         3.9700000286102295,
         3.9649999141693115,
         3.9779999256134033,
-        3.9820001125335693
+        3.9820001125335693,
+        4.005000114440918
       ],
-      "last": 3.9820001125335693,
-      "chg_pct": 0.10055774245770484,
-      "rsi14": 81.20999687543087,
-      "ma20": 3.8203500270843507
+      "last": 4.005000114440918,
+      "chg_pct": 0.5775992279597089,
+      "rsi14": 82.81909095908802,
+      "ma20": 3.835450029373169
     },
     "fvx": {
       "live": true,
       "closes": [
-        4.065000057220459,
         4.0229997634887695,
         4.020999908447266,
         4.0929999351501465,
@@ -2898,17 +2897,17 @@
         4.859000205993652,
         4.801000118255615,
         4.855999946594238,
-        4.834000110626221
+        4.834000110626221,
+        4.797999858856201
       ],
-      "last": 4.834000110626221,
-      "chg_pct": -0.4530444030059595,
-      "rsi14": 71.4724724228438,
-      "ma20": 4.618449997901917
+      "last": 4.797999858856201,
+      "chg_pct": -0.7447300568091191,
+      "rsi14": 66.82742579029014,
+      "ma20": 4.637949991226196
     },
     "tnx": {
       "live": true,
       "closes": [
-        4.418000221252441,
         4.389999866485596,
         4.377999782562256,
         4.446000099182129,
@@ -3007,17 +3006,17 @@
         5.00600004196167,
         4.947000026702881,
         4.998000144958496,
-        4.9629998207092285
+        4.9629998207092285,
+        4.925999641418457
       ],
-      "last": 4.9629998207092285,
-      "chg_pct": -0.7002865793145795,
-      "rsi14": 64.00574313346985,
-      "ma20": 4.836399960517883
+      "last": 4.925999641418457,
+      "chg_pct": -0.7455204639818834,
+      "rsi14": 59.343335799932994,
+      "ma20": 4.847499942779541
     },
     "tyx": {
       "live": true,
       "closes": [
-        4.986999988555908,
         4.986999988555908,
         4.966000080108643,
         5.025000095367432,
@@ -3116,12 +3115,13 @@
         5.348999977111816,
         5.296000003814697,
         5.330999851226807,
-        5.296000003814697
+        5.296000003814697,
+        5.263000011444092
       ],
-      "last": 5.296000003814697,
-      "chg_pct": -0.656534391087161,
-      "rsi14": 53.244408006940446,
-      "ma20": 5.274549961090088
+      "last": 5.263000011444092,
+      "chg_pct": -0.623111637968951,
+      "rsi14": 49.11257172835192,
+      "ma20": 5.27614996433258
     }
   },
   "bias": {
