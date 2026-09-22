@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T10:51:37.071048+00:00",
+  "updated_at": "2026-09-22T11:06:26.155248+00:00",
   "news": [
     {
       "title": "Here&apos;s who we know is going to the Trump-Xi dinner so far",
@@ -137,6 +137,15 @@
       "desc_ko": "자산 기준 2위 은행의 전망이 무산된 것은 월스트리트의 AI 호황이 격변에 부딪쳤을 수 있다는 초기 신호일 수 있다."
     },
     {
+      "title": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
+      "description": "Bitcoin traded near $86,000 as WTI crude dropped below $90 and strong stock markets supported risk appetite.",
+      "link": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
+      "pubDate": "Tue, 22 Sep 2026 10:59:03 +0000",
+      "tag": "btc",
+      "title_ko": "비트코인은 하락하는 유가가 위험 식욕을 뒷받침하기 때문에 아시아 세션 최저치에서 회복합니다",
+      "desc_ko": "비트코인은 WTI 원유가 $ 90 아래로 떨어지고 강한 주식 시장이 위험 욕구를 뒷받침함에 따라 $ 86,000 근처에서 거래되었습니다."
+    },
+    {
       "title": "Live updates: Oil falls as Iran signals possible hormuz reopening, bitcoin holds near $86,000",
       "description": "WTI crude oil drops to $89 as reports suggest Iran could reopen the Strait of Hormuz within seven days.",
       "link": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
@@ -263,21 +272,66 @@
       "desc_ko": "가장 큰 이더리움 중심의 재무 회사는 계속 매수했고, 의장은 ETH의 강력한 3분기는 기관이 암호화폐 노출을 늘릴 수 있다고 주장했다."
     },
     {
-      "title": "Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins",
-      "description": "Bessent pushed back against a bearish assessment of the U.S. economy highlighting strong growth, foreign demand for American assets and continued dollar dominance.",
-      "link": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
-      "pubDate": "Mon, 21 Sep 2026 12:44:33 +0000",
-      "tag": "btc",
-      "title_ko": "스콧 베슨트 재무장관은 글로벌 시장과 스테이블코인 전반에서 달러 지배력을 옹호합니다",
-      "desc_ko": "Bessent는 강력한 성장, 미국 자산에 대한 해외 수요 및 지속적인 달러 지배력을 강조하는 미국 경제에 대한 약세 평가에 반대했다."
-    },
-    {
       "title": "Bank of America says buy tumbling shares of aviation giant",
       "description": "",
       "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
       "pubDate": "2026-09-21T14:37:00Z",
       "tag": "general",
       "title_ko": "뱅크 오브 아메리카는 항공 대기업의 텀블링 주식을 사라고 말합니다",
+      "desc_ko": null
+    },
+    {
+      "title": "Stock market today: Nasdaq, Dow and S&amp;P 500 little changed as AI trade powers market",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+      "pubDate": "2026-09-22T08:06:25Z",
+      "tag": "general",
+      "title_ko": "오늘날의 주식 시장: 나스닥, 다우 및 S&amp;P 500은 AI 거래가 시장을 주도함에 따라 거의 변하지 않았습니다.",
+      "desc_ko": null
+    },
+    {
+      "title": "Home Depot CFO issues chilling alarm over ‘frozen’ US housing market — crucial metric plunges to historic low",
+      "description": "",
+      "link": "https://finance.yahoo.com/real-estate/articles/home-depot-cfo-issues-chilling-104500209.html",
+      "pubDate": "2026-09-22T10:45:00Z",
+      "tag": "general",
+      "title_ko": "Home Depot CFO, ‘얼어붙은‘ 미국 주택 시장에 대한 냉각 경보 문제 — 역사적인 최저 수준으로의 중요한 메트릭 급락",
+      "desc_ko": null
+    },
+    {
+      "title": "BWX Technologies (BWXT) Wins $4 Million Y-12 Design Contract. Could Construction Follow?",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-bwxt-wins-4-104356882.html",
+      "pubDate": "2026-09-22T10:43:56Z",
+      "tag": "general",
+      "title_ko": "BWX Technologies (BWXT), $ 4 백만 Y-12 설계 계약 수주. 공사가 뒤따를 수 있습니까?",
+      "desc_ko": null
+    },
+    {
+      "title": "Gold price today, Tuesday, September 22, 2026: Gold prices holding as Chinese gold imports set record",
+      "description": "",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-september-22-2026-gold-prices-holding-as-chinese-gold-imports-set-record-104326063.html",
+      "pubDate": "2026-09-22T10:43:26Z",
+      "tag": "general",
+      "title_ko": "2026년 9월 22일 화요일 금 가격: 중국 금 수입으로 보유한 금 가격 기록",
+      "desc_ko": null
+    },
+    {
+      "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
+      "description": "",
+      "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
+      "pubDate": "2026-09-21T18:17:21Z",
+      "tag": "general",
+      "title_ko": "2027년까지 지속될 우크라이나 이란의 글로벌 디젤 부족",
+      "desc_ko": null
+    },
+    {
+      "title": "Morning Bid: As oil swoons, AI recharges",
+      "description": "",
+      "link": "https://finance.yahoo.com/news/morning-bid-oil-swoons-ai-103925671.html",
+      "pubDate": "2026-09-22T10:39:25Z",
+      "tag": "general",
+      "title_ko": "오전 입찰: 석유가 유입됨에 따라 AI가 재충전됨",
       "desc_ko": null
     },
     {
@@ -308,21 +362,21 @@
       "desc_ko": null
     },
     {
-      "title": "1 in 5 Americans thinks sports betting is an ‘investment’ — but the data says something different",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-5-americans-thinks-sports-101500032.html",
-      "pubDate": "2026-09-22T10:15:00Z",
-      "tag": "general",
-      "title_ko": "미국인 5명 중 1명은 스포츠 베팅을 ‘투자’ 라고 생각하지만, 데이터에 따르면",
-      "desc_ko": null
-    },
-    {
       "title": "Burger chain cancels breakfast at hundreds of restaurants",
       "description": "",
       "link": "https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html",
       "pubDate": "2026-09-21T04:15:19Z",
       "tag": "general",
       "title_ko": "햄버거 체인은 수백 개의 레스토랑에서 아침 식사를 취소합니다",
+      "desc_ko": null
+    },
+    {
+      "title": "1 in 5 Americans thinks sports betting is an ‘investment’ — but the data says something different",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-5-americans-thinks-sports-101500032.html",
+      "pubDate": "2026-09-22T10:15:00Z",
+      "tag": "general",
+      "title_ko": "미국인 5명 중 1명은 스포츠 베팅을 ‘투자’ 라고 생각하지만, 데이터에 따르면",
       "desc_ko": null
     },
     {
@@ -353,58 +407,13 @@
       "desc_ko": null
     },
     {
-      "title": "Stellantis (STLA) Reportedly Eyes $1.16 Billion France Van Investment",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-stla-reportedly-eyes-1-100646836.html",
-      "pubDate": "2026-09-22T10:06:46Z",
+      "title": "How this market-beating fund is constantly shifting to keep up with the AI trade",
+      "description": "An exchange-traded fund that is rebalanced quarterly is doing a better job of keeping up with the artificial-intelligence trade than the broader index.",
+      "link": "https://www.marketwatch.com/story/how-this-market-beating-fund-is-constantly-shifting-to-keep-up-with-the-ai-trade-cf8536e0?mod=mw_rss_topstories",
+      "pubDate": "Tue, 22 Sep 2026 10:59:00 GMT",
       "tag": "general",
-      "title_ko": "Stellantis (STLA), $ 11억 6천만 프랑스 밴 투자 유치",
-      "desc_ko": null
-    },
-    {
-      "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
-      "description": "",
-      "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
-      "pubDate": "2026-09-21T18:17:21Z",
-      "tag": "general",
-      "title_ko": "2027년까지 지속될 우크라이나 이란의 글로벌 디젤 부족",
-      "desc_ko": null
-    },
-    {
-      "title": "HELOC and home equity loan rates today, Tuesday, September 22, 2026: Besides rates, how to choose between a HELOC or home equity loan",
-      "description": "",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-tuesday-september-22-2026-besides-rates-how-to-choose-between-a-heloc-or-home-equity-loan-100000210.html",
-      "pubDate": "2026-09-21T10:00:00Z",
-      "tag": "general",
-      "title_ko": "2026년 9월 22일 화요일 HELOC 및 주택 담보 대출 금리: 금리 외에도 HELOC 또는 주택 담보 대출 중 하나를 선택하는 방법",
-      "desc_ko": null
-    },
-    {
-      "title": "Best high-yield savings interest rates today, Tuesday, September 22, 2026: Earn up to 4.10% APY",
-      "description": "",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-september-22-2026-earn-up-to-410-apy-100000921.html",
-      "pubDate": "2026-09-21T10:00:00Z",
-      "tag": "general",
-      "title_ko": "오늘 2026년 9월 22일 화요일 최고의 고수익 저축 금리: 최대 4.10% APY의 수익을 올리세요",
-      "desc_ko": null
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, Tuesday, September 22, 2026: Rates move lower, but 30-year still over 7%",
-      "description": "",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-september-22-2026-rates-move-lower-but-30-year-still-over-7-100000503.html",
-      "pubDate": "2026-09-22T10:00:00Z",
-      "tag": "general",
-      "title_ko": "2026년 9월 22일 화요일 모기지 및 재융자 금리: 금리는 낮아졌지만 30년은 여전히 7% 이상",
-      "desc_ko": null
-    },
-    {
-      "title": "Mark Cuban says healthcare companies are sued daily, usually lose and are 'too big to care.' He has a better solution",
-      "description": "",
-      "link": "https://finance.yahoo.com/healthcare/articles/mark-cuban-says-healthcare-companies-100000881.html",
-      "pubDate": "2026-09-22T10:00:00Z",
-      "tag": "general",
-      "title_ko": "마크 쿠반 (Mark Cuban) 은 의료 회사가 매일 소송을 당하고 대개 손실을 입으며 '너무 커서 신경 쓸 수 없다' 고 말합니다. '그는 더 나은 해결책을 가지고 있습니다.",
-      "desc_ko": null
+      "title_ko": "AI 거래를 따라잡기 위해 이 시장을 공략하는 펀드가 끊임없이 변화하는 방식",
+      "desc_ko": "분기별로 재조정되는 거래소 거래 펀드는 광범위한 지수보다 인공지능 거래를 더 잘 따라잡고 있습니다."
     },
     {
       "title": "Bitcoin hits an 8-month high &#x2014; and sends a clear message about risk appetite right now",
@@ -486,15 +495,6 @@
       "tag": "general",
       "title_ko": "AT&amp;T의 주식은 무선 부문에서 가장 현명한 베팅처럼 보인다고 애널리스트는 말합니다.",
       "desc_ko": "BNP의 애널리스트는 AT&T의 주식에 대해 긍정적인 견해를 가지고 있으며, 투자자들은 \"모바일 측면에서 의심할 여지가 거의 없다\" 고 썼다."
-    },
-    {
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "description": "&#x201c;We have no debt and own our primary home, a vacation home, as well as my mother&#x2019;s home in another state.&#x201d;",
-      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "pubDate": "Mon, 21 Sep 2026 21:30:00 GMT",
-      "tag": "general",
-      "title_ko": "남편과 저는 50대이고 아이가 없습니다. 우리는 IRA에 $ 2 백만과 401 (k) s를 가지고 있습니다. 유언장이 꼭 필요한가요?",
-      "desc_ko": "\"우리는 빚이 없으며 주 주택, 별장, 다른 주에 있는 어머니의 집을 소유하고 있습니다.\""
     }
   ],
   "assets": {
@@ -718,12 +718,12 @@
         7640.0,
         7657.35009765625,
         7833.5,
-        7839.25
+        7840.75
       ],
-      "last": 7839.25,
-      "chg_pct": 0.0734026935597115,
-      "rsi14": 62.84752874599128,
-      "ma20": 7683.230004882813
+      "last": 7840.75,
+      "chg_pct": 0.09255122231441884,
+      "rsi14": 62.93068406326142,
+      "ma20": 7683.305004882813
     },
     "nq": {
       "live": true,
@@ -827,12 +827,12 @@
         29446.75,
         29613.6796875,
         30784.75,
-        30815.75
+        30819.75
       ],
-      "last": 30815.75,
-      "chg_pct": 0.10069920983603894,
-      "rsi14": 68.07835296635666,
-      "ma20": 29495.496484375
+      "last": 30819.75,
+      "chg_pct": 0.11369265626649558,
+      "rsi14": 68.11225593270778,
+      "ma20": 29495.696484375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4399.7001953125,
         4424.89990234375,
         4383.89990234375,
-        4370.10009765625
+        4362.7998046875
       ],
-      "last": 4370.10009765625,
-      "chg_pct": -0.31478375407527565,
-      "rsi14": 45.82365959295927,
-      "ma20": 4460.869970703125
+      "last": 4362.7998046875,
+      "chg_pct": -0.48130883747982756,
+      "rsi14": 45.25438393279789,
+      "ma20": 4460.504956054688
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         101.91000366210938,
         100.30000305175781,
         95.77999877929688,
-        89.44999694824219
+        89.38999938964844
       ],
-      "last": 89.44999694824219,
-      "chg_pct": -6.608897381217065,
-      "rsi14": 45.17688145840852,
-      "ma20": 93.49950141906739
+      "last": 89.38999938964844,
+      "chg_pct": -6.671538391196612,
+      "rsi14": 45.101901821983645,
+      "ma20": 93.49650154113769
     },
     "zn": {
       "live": true,
@@ -1154,12 +1154,12 @@
         106.40625,
         106.078125,
         106.328125,
-        106.265625
+        106.28125
       ],
-      "last": 106.265625,
-      "chg_pct": -0.05878030859662013,
-      "rsi14": 33.51178195069424,
-      "ma20": 107.2359375
+      "last": 106.28125,
+      "chg_pct": -0.0440852314474651,
+      "rsi14": 33.66856373907123,
+      "ma20": 107.23671875
     },
     "dxy": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.22000122070312,
         100.22000122070312,
         100.43000030517578,
-        100.3550033569336
+        100.34200286865234
       ],
-      "last": 100.3550033569336,
-      "chg_pct": -0.07467584189415007,
-      "rsi14": 61.43308153563048,
-      "ma20": 99.51174964904786
+      "last": 100.34200286865234,
+      "chg_pct": -0.08762066738627944,
+      "rsi14": 61.16873133477932,
+      "ma20": 99.51109962463379
     },
     "vix": {
       "live": true,
@@ -1372,12 +1372,12 @@
         15.4399995803833,
         14.8100004196167,
         14.869999885559082,
-        14.84000015258789
+        14.800000190734863
       ],
-      "last": 14.84000015258789,
-      "chg_pct": -0.20174669268374024,
-      "rsi14": 45.30453290281839,
-      "ma20": 15.629500007629394
+      "last": 14.800000190734863,
+      "chg_pct": -0.47074442073263606,
+      "rsi14": 45.13740109552385,
+      "ma20": 15.627500009536742
     },
     "hsi": {
       "live": true,
@@ -1917,12 +1917,12 @@
         25716.7109375,
         25304.060546875,
         25575.009765625,
-        25693.0390625
+        25707.830078125
       ],
-      "last": 25693.0390625,
-      "chg_pct": 0.461502450855919,
-      "rsi14": 48.52857349248389,
-      "ma20": 25826.5220703125
+      "last": 25707.830078125,
+      "chg_pct": 0.5193363119591917,
+      "rsi14": 48.84968088059296,
+      "ma20": 25827.26162109375
     },
     "ftse": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1376.5999755859375,
         1379.530029296875,
         1384.8599853515625,
-        1354.9000244140625
+        1355.47998046875
       ],
-      "last": 1354.9000244140625,
-      "chg_pct": -2.1633927800935284,
-      "rsi14": 39.695767333448515,
-      "ma20": 1362.035498046875
+      "last": 1355.47998046875,
+      "chg_pct": -2.1215144630923866,
+      "rsi14": 39.89956780845869,
+      "ma20": 1362.0644958496093
     },
     "jpy": {
       "live": true,
@@ -2244,12 +2244,12 @@
         156.01400756835938,
         156.12899780273438,
         157.04600524902344,
-        156.97500610351562
+        157.09500122070312
       ],
-      "last": 156.97500610351562,
-      "chg_pct": -0.04520913817274826,
-      "rsi14": 49.89760881510456,
-      "ma20": 156.66355056762694
+      "last": 157.09500122070312,
+      "chg_pct": 0.03119848327373623,
+      "rsi14": 50.52308675662186,
+      "ma20": 156.66955032348633
     },
     "copper": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.58650016784668,
         6.614999771118164,
         6.686500072479248,
-        6.8520002365112305
+        6.857500076293945
       ],
-      "last": 6.8520002365112305,
-      "chg_pct": 2.4751388953566194,
-      "rsi14": 63.55016184771272,
-      "ma20": 6.57885000705719
+      "last": 6.857500076293945,
+      "chg_pct": 2.55739178884497,
+      "rsi14": 63.72345960370094,
+      "ma20": 6.579124999046326
     },
     "natgas": {
       "live": true,
@@ -2571,12 +2571,12 @@
         65.47000122070312,
         66.55599975585938,
         65.82499694824219,
-        66.13999938964844
+        66.18000030517578
       ],
-      "last": 66.13999938964844,
-      "chg_pct": 0.4785453186635688,
-      "rsi14": 53.17273114429604,
-      "ma20": 65.98684959411621
+      "last": 66.18000030517578,
+      "chg_pct": 0.539313898051117,
+      "rsi14": 53.29458516511886,
+      "ma20": 65.98884963989258
     },
     "qqq": {
       "live": true,
