@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T05:23:44.631280+00:00",
+  "updated_at": "2026-09-22T05:37:29.230537+00:00",
   "news": [
     {
       "title": "Here&apos;s who we know is going to the Trump-Xi dinner so far",
@@ -97,7 +97,7 @@
       "link": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
       "pubDate": "Wed, 16 Sep 2026 21:07:51 GMT",
       "tag": "ndx",
-      "title_ko": null,
+      "title_ko": "연준, 금리 인상 승인, 올해 한 차례 더 시그널",
       "desc_ko": "연방준비제도는 수요일에 2023년 이후 첫 금리 인상을 승인하고 또 다른 금리가 인상될 것이라고 밝혔습니다."
     },
     {
@@ -107,7 +107,7 @@
       "pubDate": "Wed, 16 Sep 2026 16:26:41 GMT",
       "tag": "ndx",
       "title_ko": "상원은 여전히 토스 업이지만 민주당은 이제 약간의 우위를 점하고 있습니다. 예측 시장 거래자들은",
-      "desc_ko": "Kalshi와 Polymarket의 거래자들은 선거에 대한 계약이 시작된 이후 미국 상원을 뒤집을 수있는 가장 좋은 기회 중 하나 인 민주당을 봅니다."
+      "desc_ko": null
     },
     {
       "title": "China&apos;s AI leaders keep quiet despite U.S. &apos;publicity&apos; on tech risks",
@@ -115,7 +115,7 @@
       "link": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
       "pubDate": "Wed, 16 Sep 2026 04:01:59 GMT",
       "tag": "ndx",
-      "title_ko": "중국의 인공지능 (AI) 리더들은 기술 위험에 대한 미국의 '홍보' 에도 불구하고 침묵을 지킨다.",
+      "title_ko": null,
       "desc_ko": "Z.ai, Moonshot, MiniMax, Alibaba 및 Tencent는 CNBC가 실리콘 밸리의 AI에 대한 경고에 대해 연락했을 때 어떠한 진술도 제공하지 않았습니다."
     },
     {
@@ -133,8 +133,17 @@
       "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
       "pubDate": "Mon, 14 Sep 2026 20:34:23 GMT",
       "tag": "ndx",
-      "title_ko": null,
+      "title_ko": "뱅크 오브 아메리카는 3분기 투자 은행 수수료가 10% 이상 하락할 것으로 예상합니다. 주식 슬라이드",
       "desc_ko": "자산 기준 2위 은행의 전망이 무산된 것은 월스트리트의 AI 호황이 격변에 부딪쳤을 수 있다는 초기 신호일 수 있다."
+    },
+    {
+      "title": "Elon Musk's X brings bitcoin and stock trading closer to the timeline",
+      "description": "Elon Musk’s X lets U.S. users tap cashtags such as $BTC to view live charts and access Coinbase, Kraken and other trading platforms.",
+      "link": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
+      "pubDate": "Tue, 22 Sep 2026 05:26:00 +0000",
+      "tag": "btc",
+      "title_ko": "일론 머스크의 X는 비트코인과 주식 거래를 타임라인에 가깝게 합니다",
+      "desc_ko": "Elon Musk의 X를 사용하면 미국 사용자가 $ BTC와 같은 캐시태그를 탭하여 실시간 차트를 보고 Coinbase, Kraken 및 기타 거래 플랫폼에 액세스할 수 있습니다."
     },
     {
       "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
@@ -188,7 +197,7 @@
       "pubDate": "Mon, 21 Sep 2026 15:00:47 +0000",
       "tag": "btc",
       "title_ko": "ECB는 자체 자금으로 토큰화된 채권을 매입할 계획입니다.",
-      "desc_ko": null
+      "desc_ko": "유럽 중앙 은행은 결제 시스템을 블록체인 기반 금융 시장에 연결하는 새로운 시스템을 출시했습니다."
     },
     {
       "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
@@ -196,8 +205,8 @@
       "link": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
       "pubDate": "Mon, 21 Sep 2026 14:53:52 +0000",
       "tag": "btc",
-      "title_ko": "두바이와 같은 은행과 해양 허브가 명확성 법을 죽이는 상원의 승자가 된 이유",
-      "desc_ko": "한 전문가는 이 법안을 통과시키지 못한 것이 스테이블코인 수익률에 완강히 반대하는 은행들의 승리라고 믿는 반면, 글로벌 암호화폐 변호사는 해외 관할권이 이익이라고 믿습니다."
+      "title_ko": null,
+      "desc_ko": null
     },
     {
       "title": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
@@ -260,16 +269,7 @@
       "pubDate": "Mon, 21 Sep 2026 11:18:55 +0000",
       "tag": "btc",
       "title_ko": "ECB는 Pontes 플랫폼을 배포하여 토큰화된 도매 자산을 중앙 은행 자금으로 정산합니다.",
-      "desc_ko": "EU 중앙은행의 새로운 도매 플랫폼은 2027년에 계획된 소매 디지털 유로 파일럿과는 별도로 DLT 시장 인프라를 결제 레일에 연결합니다."
-    },
-    {
-      "title": "Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets",
-      "description": "Open interest climbed 7.59% to $156 billion even as positions were closed out, a sign traders are chasing the move rather than stepping back.",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets",
-      "pubDate": "Mon, 21 Sep 2026 10:30:00 +0000",
-      "tag": "btc",
-      "title_ko": "비트코인은 짧은 스퀴즈로 $ 85,000에 도달하여 약 6억 4,800만 $ 의 베팅이 이루어집니다.",
-      "desc_ko": "포지션이 마감되었음에도 오픈 이자는 7.59% 상승한 1,560억 달러 ($) 를 기록했으며, 사인 트레이더들은 뒤로 물러나기보다는 움직임을 쫓고 있습니다."
+      "desc_ko": null
     },
     {
       "title": "Burger chain cancels breakfast at hundreds of restaurants",
@@ -278,33 +278,6 @@
       "pubDate": "2026-09-21T04:15:19Z",
       "tag": "general",
       "title_ko": "햄버거 체인은 수백 개의 레스토랑에서 아침 식사를 취소합니다",
-      "desc_ko": null
-    },
-    {
-      "title": "RF Industries (RFIL) Reports Stronger Profits. Can New Orders Sustain the Improved Product Mix?",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rf-industries-rfil-reports-stronger-174049668.html",
-      "pubDate": "2026-09-20T17:40:49Z",
-      "tag": "general",
-      "title_ko": "RF 산업 (RFIL) 은 더 강력한 이익을 보고합니다. 신규 주문은 개선된 제품 믹스를 유지할 수 있습니까?",
-      "desc_ko": null
-    },
-    {
-      "title": "Sempra (SRE) Adds a 20-Year LNG Agreement. How Much Commercial Risk Does it Remove?",
-      "description": "",
-      "link": "https://finance.yahoo.com/energy/articles/sempra-sre-adds-20-lng-173718056.html",
-      "pubDate": "2026-09-20T17:37:18Z",
-      "tag": "general",
-      "title_ko": "Sempra (SRE) 20년 LNG 계약을 추가합니다. 얼마나 많은 상업적 위험을 제거합니까?",
-      "desc_ko": null
-    },
-    {
-      "title": "Forgent Power (FPS) Reports $3B Backlog. Can Manufacturing Keep Up?",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/forgent-power-fps-reports-3b-183008960.html",
-      "pubDate": "2026-09-20T18:30:08Z",
-      "tag": "general",
-      "title_ko": "Forgent Power (FPS) 가 $ 30억 백로그를 보고합니다. 제조업이 따라잡을 수 있을까요?",
       "desc_ko": null
     },
     {
@@ -317,12 +290,12 @@
       "desc_ko": null
     },
     {
-      "title": "Bank of America says buy tumbling shares of aviation giant",
+      "title": "Forgent Power (FPS) Reports $3B Backlog. Can Manufacturing Keep Up?",
       "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
-      "pubDate": "2026-09-21T14:37:00Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/forgent-power-fps-reports-3b-183008960.html",
+      "pubDate": "2026-09-20T18:30:08Z",
       "tag": "general",
-      "title_ko": "뱅크 오브 아메리카는 항공 대기업의 텀블링 주식을 사라고 말합니다",
+      "title_ko": "Forgent Power (FPS) 가 $ 30억 백로그를 보고합니다. 제조업이 따라잡을 수 있을까요?",
       "desc_ko": null
     },
     {
@@ -335,12 +308,39 @@
       "desc_ko": null
     },
     {
+      "title": "RF Industries (RFIL) Reports Stronger Profits. Can New Orders Sustain the Improved Product Mix?",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rf-industries-rfil-reports-stronger-174049668.html",
+      "pubDate": "2026-09-20T17:40:49Z",
+      "tag": "general",
+      "title_ko": null,
+      "desc_ko": null
+    },
+    {
+      "title": "Bank of America says buy tumbling shares of aviation giant",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
+      "pubDate": "2026-09-21T14:37:00Z",
+      "tag": "general",
+      "title_ko": "뱅크 오브 아메리카는 항공 대기업의 텀블링 주식을 사라고 말합니다",
+      "desc_ko": null
+    },
+    {
       "title": "LifeMD (LFMD) Secures AT&amp;T Partnership. Can Free Memberships Produce Paying Patients?",
       "description": "",
       "link": "https://finance.yahoo.com/healthcare/articles/lifemd-lfmd-secures-t-partnership-184302502.html",
       "pubDate": "2026-09-20T18:43:02Z",
       "tag": "general",
       "title_ko": "LifeMD (LFMD) 는 AT&amp;T 파트너십을 확보합니다. 무료 멤버십으로 유료 환자를 만들 수 있나요?",
+      "desc_ko": null
+    },
+    {
+      "title": "Sempra (SRE) Adds a 20-Year LNG Agreement. How Much Commercial Risk Does it Remove?",
+      "description": "",
+      "link": "https://finance.yahoo.com/energy/articles/sempra-sre-adds-20-lng-173718056.html",
+      "pubDate": "2026-09-20T17:37:18Z",
+      "tag": "general",
+      "title_ko": "Sempra (SRE) 20년 LNG 계약을 추가합니다. 얼마나 많은 상업적 위험을 제거합니까?",
       "desc_ko": null
     },
     {
@@ -358,7 +358,7 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/vera-bradley-vra-returns-operating-185154105.html",
       "pubDate": "2026-09-20T18:51:54Z",
       "tag": "general",
-      "title_ko": null,
+      "title_ko": "Vera Bradley (VRA) 가 영업 이익으로 돌아갑니다. 복구로 관세 환불이 더 오래 지속될 수 있나요?",
       "desc_ko": null
     },
     {
@@ -376,7 +376,7 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/lindblad-expeditions-lind-buys-white-185653752.html",
       "pubDate": "2026-09-20T18:56:53Z",
       "tag": "general",
-      "title_ko": null,
+      "title_ko": "린드블래드 원정대 (린드) 가 백색 사막을 조종합니다. 남극 육상 여행 리프트가 재방문할 수 있나요?",
       "desc_ko": null
     },
     {
@@ -431,7 +431,7 @@
       "pubDate": "Mon, 21 Sep 2026 21:57:00 GMT",
       "tag": "general",
       "title_ko": "AT&amp;T의 주식은 무선 부문에서 가장 현명한 베팅처럼 보인다고 애널리스트는 말합니다.",
-      "desc_ko": null
+      "desc_ko": "BNP의 애널리스트는 AT&T의 주식에 대해 긍정적인 견해를 가지고 있으며, 투자자들은 \"모바일 측면에서 의심할 여지가 거의 없다\" 고 썼다."
     },
     {
       "title": "Bitcoin hits an 8-month high &#x2014; and sends a clear message about risk appetite right now",
@@ -466,7 +466,7 @@
       "link": "https://www.marketwatch.com/story/these-beaten-down-stocks-could-bounce-back-in-january-if-history-is-any-guide-865a3f6b?mod=mw_rss_topstories",
       "pubDate": "Mon, 21 Sep 2026 21:06:00 GMT",
       "tag": "general",
-      "title_ko": "역사가 지침이 된다면 이 두들겨 맞은 주식은 1월에 다시 반등할 수 있습니다.",
+      "title_ko": null,
       "desc_ko": "탈세 판매는 이 20개의 주식을 4분기에 인위적으로 침체시킬 가능성이 높습니다. 따라서 새해에 다시 반등할 수 있는 좋은 베팅을 할 수 있습니다."
     },
     {
@@ -718,12 +718,12 @@
         7640.0,
         7657.35009765625,
         7833.5,
-        7833.75
+        7833.25
       ],
-      "last": 7833.75,
-      "chg_pct": 0.003191421459117891,
-      "rsi14": 62.53940758562904,
-      "ma20": 7682.955004882812
+      "last": 7833.25,
+      "chg_pct": -0.003191421459117891,
+      "rsi14": 62.50171020826365,
+      "ma20": 7682.930004882813
     },
     "nq": {
       "live": true,
@@ -827,12 +827,12 @@
         29446.75,
         29613.6796875,
         30784.75,
-        30809.75
+        30789.25
       ],
-      "last": 30809.75,
-      "chg_pct": 0.08120904019035399,
-      "rsi14": 68.02736313012042,
-      "ma20": 29495.196484375
+      "last": 30789.25,
+      "chg_pct": 0.014617627234263719,
+      "rsi14": 67.85191203446139,
+      "ma20": 29494.171484375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4399.7001953125,
         4424.89990234375,
         4383.89990234375,
-        4382.89990234375
+        4365.60009765625
       ],
-      "last": 4382.89990234375,
-      "chg_pct": -0.022810739804195193,
-      "rsi14": 46.85713645169817,
-      "ma20": 4461.5099609375
+      "last": 4365.60009765625,
+      "chg_pct": -0.41743208319415404,
+      "rsi14": 45.47107010670519,
+      "ma20": 4460.644970703125
     },
     "wti": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.22000122070312,
         100.22000122070312,
         100.43000030517578,
-        100.33699798583984
+        100.34100341796875
       ],
-      "last": 100.33699798583984,
-      "chg_pct": -0.09260412133160624,
-      "rsi14": 61.06756821377006,
-      "ma20": 99.51084938049317
+      "last": 100.34100341796875,
+      "chg_pct": -0.08861583882962976,
+      "rsi14": 61.14850277900298,
+      "ma20": 99.51104965209962
     },
     "vix": {
       "live": true,
@@ -1481,12 +1481,12 @@
         24604.2890625,
         24750.779296875,
         25042.7109375,
-        25123.919921875
+        25103.970703125
       ],
-      "last": 25123.919921875,
-      "chg_pct": 0.32428192210370593,
-      "rsi14": 49.70681292123552,
-      "ma20": 25173.06455078125
+      "last": 25103.970703125,
+      "chg_pct": 0.2446211425667461,
+      "rsi14": 49.27218512272166,
+      "ma20": 25172.06708984375
     },
     "n225": {
       "live": true,
@@ -1699,12 +1699,12 @@
         6715.41015625,
         6894.22998046875,
         7007.72021484375,
-        7052.77001953125
+        7026.669921875
       ],
-      "last": 7052.77001953125,
-      "chg_pct": 0.6428596363204616,
-      "rsi14": 56.62648183225932,
-      "ma20": 6831.9900390625
+      "last": 7026.669921875,
+      "chg_pct": 0.2704118664884871,
+      "rsi14": 55.99748895798796,
+      "ma20": 6830.685034179687
     },
     "sse": {
       "live": true,
@@ -1808,12 +1808,12 @@
         3875.60400390625,
         3911.87109375,
         3949.906982421875,
-        3953.171142578125
+        3952.3837890625
       ],
-      "last": 3953.171142578125,
-      "chg_pct": 0.08263891202441909,
-      "rsi14": 55.57195601806257,
-      "ma20": 3929.0043701171876
+      "last": 3952.3837890625,
+      "chg_pct": 0.06270544222047357,
+      "rsi14": 55.458276752161154,
+      "ma20": 3928.9650024414063
     },
     "dax": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1376.5999755859375,
         1379.530029296875,
         1384.8599853515625,
-        1355.3800048828125
+        1356.47998046875
       ],
-      "last": 1355.3800048828125,
-      "chg_pct": -2.128733646764021,
-      "rsi14": 39.864286567042065,
-      "ma20": 1362.0594970703125
+      "last": 1356.47998046875,
+      "chg_pct": -2.0493049971118857,
+      "rsi14": 40.25593343313135,
+      "ma20": 1362.1144958496093
     },
     "jpy": {
       "live": true,
@@ -2244,12 +2244,12 @@
         156.01400756835938,
         156.12899780273438,
         157.04600524902344,
-        157.45399475097656
+        157.45899963378906
       ],
-      "last": 157.45399475097656,
-      "chg_pct": 0.2597897993687821,
-      "rsi14": 52.30862039782088,
-      "ma20": 156.6875
+      "last": 157.45899963378906,
+      "chg_pct": 0.2629766889713313,
+      "rsi14": 52.33260288213766,
+      "ma20": 156.68775024414063
     },
     "copper": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.58650016784668,
         6.614999771118164,
         6.686500072479248,
-        6.834000110626221
+        6.817500114440918
       ],
-      "last": 6.834000110626221,
-      "chg_pct": 2.2059378830198977,
-      "rsi14": 62.97122400693032,
-      "ma20": 6.5779500007629395
+      "last": 6.817500114440918,
+      "chg_pct": 1.9591720712132914,
+      "rsi14": 62.42414058268327,
+      "ma20": 6.577125000953674
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         2.9010000228881836,
         2.9119999408721924,
         2.8359999656677246,
-        2.8440001010894775
+        2.8450000286102295
       ],
-      "last": 2.8440001010894775,
-      "chg_pct": 0.2820922256206491,
-      "rsi14": 48.0082099952847,
-      "ma20": 2.884600007534027
+      "last": 2.8450000286102295,
+      "chg_pct": 0.317350601250302,
+      "rsi14": 48.10143748142869,
+      "ma20": 2.884650003910065
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         65.47000122070312,
         66.55599975585938,
         65.82499694824219,
-        66.56999969482422
+        66.05999755859375
       ],
-      "last": 66.56999969482422,
-      "chg_pct": 1.1317930590529652,
-      "rsi14": 54.450221791926865,
-      "ma20": 66.008349609375
+      "last": 66.05999755859375,
+      "chg_pct": 0.35700815988847234,
+      "rsi14": 52.92710560067952,
+      "ma20": 65.98284950256348
     },
     "qqq": {
       "live": true,
