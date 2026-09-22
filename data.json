@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-22T01:22:37.753283+00:00",
+  "updated_at": "2026-09-22T01:49:23.741151+00:00",
   "news": [
+    {
+      "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+      "description": "JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.",
+      "link": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
+      "pubDate": "Tue, 22 Sep 2026 01:30:01 GMT",
+      "tag": "ndx",
+      "title_ko": null,
+      "desc_ko": null
+    },
     {
       "title": "‘It&apos;s awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
       "description": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
@@ -123,15 +132,6 @@
       "description": "With inflation above target and no visibility on lower oil prices or stability of tariffs, the Fed chairman needs to pass the test that has faced his predecessors",
       "link": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
       "pubDate": "Mon, 14 Sep 2026 20:49:03 GMT",
-      "tag": "ndx",
-      "title_ko": null,
-      "desc_ko": null
-    },
-    {
-      "title": "Prediction market traders think gas prices will hit new highs for the year",
-      "description": "Oil prices have marched higher in recent weeks, above $100 per barrel, as tensions between the U.S. and Iran have escalated again.",
-      "link": "https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html",
-      "pubDate": "Mon, 14 Sep 2026 15:49:39 GMT",
       "tag": "ndx",
       "title_ko": null,
       "desc_ko": null
@@ -281,10 +281,10 @@
       "desc_ko": null
     },
     {
-      "title": "Like father, like son: David Ellison considers Nashville alongside Austin as future home for Paramount",
+      "title": "The 11 S&amp;P 500 Sectors Are Fading Quickly. Protect Yourself Against a Stock Market Crash Now.",
       "description": "",
-      "link": "https://finance.yahoo.com/media-advertising/articles/father-son-david-ellison-considers-140000496.html",
-      "pubDate": "2026-09-20T14:00:00Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/11-p-500-sectors-fading-140003554.html",
+      "pubDate": "2026-09-20T14:00:03Z",
       "tag": "general",
       "title_ko": null,
       "desc_ko": null
@@ -299,10 +299,10 @@
       "desc_ko": null
     },
     {
-      "title": "The 11 S&amp;P 500 Sectors Are Fading Quickly. Protect Yourself Against a Stock Market Crash Now.",
+      "title": "Like father, like son: David Ellison considers Nashville alongside Austin as future home for Paramount",
       "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/11-p-500-sectors-fading-140003554.html",
-      "pubDate": "2026-09-20T14:00:03Z",
+      "link": "https://finance.yahoo.com/media-advertising/articles/father-son-david-ellison-considers-140000496.html",
+      "pubDate": "2026-09-20T14:00:00Z",
       "tag": "general",
       "title_ko": null,
       "desc_ko": null
@@ -718,12 +718,12 @@
         7556.5,
         7640.0,
         7657.35009765625,
-        7832.75
+        7835.75
       ],
-      "last": 7832.75,
-      "chg_pct": 2.2906083711313676,
-      "rsi14": 62.4858706088532,
-      "ma20": 7674.717504882812
+      "last": 7835.75,
+      "chg_pct": 2.329786415255512,
+      "rsi14": 62.643015311308616,
+      "ma20": 7674.867504882813
     },
     "nq": {
       "live": true,
@@ -827,12 +827,12 @@
         28963.5,
         29446.75,
         29613.6796875,
-        30882.25
+        30891.25
       ],
-      "last": 30882.25,
-      "chg_pct": 4.2837307821475035,
-      "rsi14": 68.57562961402104,
-      "ma20": 29414.871484375
+      "last": 30891.25,
+      "chg_pct": 4.314122142137119,
+      "rsi14": 68.64419595485208,
+      "ma20": 29415.321484375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4387.5,
         4399.7001953125,
         4424.89990234375,
-        4394.7998046875
+        4393.39990234375
       ],
-      "last": 4394.7998046875,
-      "chg_pct": -0.6802435833702541,
-      "rsi14": 47.793695780789804,
-      "ma20": 4477.799951171875
+      "last": 4393.39990234375,
+      "chg_pct": -0.7118805101854462,
+      "rsi14": 47.682298969900906,
+      "ma20": 4477.729956054687
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         102.43000030517578,
         101.91000366210938,
         100.30000305175781,
-        92.79000091552734
+        92.80000305175781
       ],
-      "last": 92.79000091552734,
-      "chg_pct": -7.487539289859326,
-      "rsi14": 50.111049177967914,
-      "ma20": 93.12800178527831
+      "last": 92.80000305175781,
+      "chg_pct": -7.4775670705909905,
+      "rsi14": 50.12535779669078,
+      "ma20": 93.12850189208984
     },
     "zn": {
       "live": true,
@@ -1164,7 +1164,6 @@
     "dxy": {
       "live": true,
       "closes": [
-        98.91999816894531,
         98.08000183105469,
         98.20999908447266,
         98.47000122070312,
@@ -1263,12 +1262,13 @@
         100.30999755859375,
         100.22000122070312,
         100.22000122070312,
-        100.41000366210938
+        100.43000030517578,
+        100.4209976196289
       ],
-      "last": 100.41000366210938,
-      "chg_pct": 0.18958535131907372,
-      "rsi14": 62.7681185713466,
-      "ma20": 99.44299964904785
+      "last": 100.4209976196289,
+      "chg_pct": -0.008964139718728085,
+      "rsi14": 62.81102879534805,
+      "ma20": 99.51504936218262
     },
     "vix": {
       "live": true,
@@ -1382,8 +1382,6 @@
     "hsi": {
       "live": true,
       "closes": [
-        25679.779296875,
-        26111.83984375,
         25776.529296875,
         26095.880859375,
         25898.609375,
@@ -1481,12 +1479,14 @@
         24667.240234375,
         24713.779296875,
         24604.2890625,
-        24750.779296875
+        24750.779296875,
+        25042.7109375,
+        25079.0703125
       ],
-      "last": 24750.779296875,
-      "chg_pct": 0.5953849509851084,
-      "rsi14": 40.74079571928339,
-      "ma20": 25216.1544921875
+      "last": 25079.0703125,
+      "chg_pct": 0.14518945289407129,
+      "rsi14": 48.71903270046085,
+      "ma20": 25170.8220703125
     },
     "n225": {
       "live": true,
@@ -1600,7 +1600,6 @@
     "kospi": {
       "live": true,
       "closes": [
-        6615.02978515625,
         6641.02001953125,
         6690.89990234375,
         6598.8701171875,
@@ -1699,18 +1698,17 @@
         6717.97021484375,
         6715.41015625,
         6894.22998046875,
-        7137.5498046875
+        7007.72021484375,
+        7125.5498046875
       ],
-      "last": 7137.5498046875,
-      "chg_pct": 3.5293256086331817,
-      "rsi14": 58.34888808684095,
-      "ma20": 6822.980029296875
+      "last": 7125.5498046875,
+      "chg_pct": 1.681425431257421,
+      "rsi14": 58.28907769251576,
+      "ma20": 6835.6290283203125
     },
     "sse": {
       "live": true,
       "closes": [
-        4078.636962890625,
-        4107.51416015625,
         4112.1591796875,
         4160.173828125,
         4180.091796875,
@@ -1808,17 +1806,18 @@
         3864.279052734375,
         3891.60107421875,
         3875.60400390625,
-        3911.87109375
+        3911.87109375,
+        3949.906982421875,
+        3956.76611328125
       ],
-      "last": 3911.87109375,
-      "chg_pct": 0.9357790374660603,
-      "rsi14": 49.221204690864084,
-      "ma20": 3922.4231201171874
+      "last": 3956.76611328125,
+      "chg_pct": 0.17365297182693,
+      "rsi14": 56.08371494268854,
+      "ma20": 3929.184118652344
     },
     "dax": {
       "live": true,
       "closes": [
-        23991.26953125,
         24401.69921875,
         24918.689453125,
         24663.609375,
@@ -1917,17 +1916,17 @@
         25402.279296875,
         25537.75,
         25716.7109375,
-        25304.060546875
+        25304.060546875,
+        25575.009765625
       ],
-      "last": 25304.060546875,
-      "chg_pct": -1.6046001824567502,
-      "rsi14": 38.95130463026289,
-      "ma20": 25881.756640625
+      "last": 25575.009765625,
+      "chg_pct": 1.0707736738460407,
+      "rsi14": 45.81413644780963,
+      "ma20": 25855.1771484375
     },
     "ftse": {
       "live": true,
       "closes": [
-        10213.099609375,
         10378.7998046875,
         10363.900390625,
         10219.099609375,
@@ -2026,12 +2025,13 @@
         10658.099609375,
         10688.5,
         10816.099609375,
-        10659.099609375
+        10659.099609375,
+        10739.0
       ],
-      "last": 10659.099609375,
-      "chg_pct": -1.4515398865587197,
-      "rsi14": 44.139160027116105,
-      "ma20": 10767.149853515624
+      "last": 10739.0,
+      "chg_pct": 0.7495979355960347,
+      "rsi14": 49.73947094744107,
+      "ma20": 10763.269873046875
     },
     "krw": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1376.5999755859375,
         1379.530029296875,
         1384.8599853515625,
-        1362.3800048828125
+        1361.97998046875
       ],
-      "last": 1362.3800048828125,
-      "chg_pct": -1.6232673849005175,
-      "rsi14": 42.49528438787209,
-      "ma20": 1362.4094970703125
+      "last": 1361.97998046875,
+      "chg_pct": -1.6521529342191335,
+      "rsi14": 42.33561164393264,
+      "ma20": 1362.3894958496094
     },
     "jpy": {
       "live": true,
@@ -2244,12 +2244,12 @@
         156.01400756835938,
         156.12899780273438,
         157.04600524902344,
-        157.4510040283203
+        157.49899291992188
       ],
-      "last": 157.4510040283203,
-      "chg_pct": 0.25788543850872225,
-      "rsi14": 52.29427787884857,
-      "ma20": 156.68735046386718
+      "last": 157.49899291992188,
+      "chg_pct": 0.2884426574112138,
+      "rsi14": 52.523380424326184,
+      "ma20": 156.68974990844725
     },
     "copper": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.43149995803833,
         6.58650016784668,
         6.614999771118164,
-        6.795000076293945
+        6.801499843597412
       ],
-      "last": 6.795000076293945,
-      "chg_pct": 2.7210931429156338,
-      "rsi14": 61.37799753282341,
-      "ma20": 6.571624994277954
+      "last": 6.801499843597412,
+      "chg_pct": 2.819351155438106,
+      "rsi14": 61.59135035178095,
+      "ma20": 6.571949982643128
     },
     "natgas": {
       "live": true,
@@ -2571,17 +2571,16 @@
         64.28800201416016,
         65.47000122070312,
         66.55599975585938,
-        67.01499938964844
+        66.88500213623047
       ],
-      "last": 67.01499938964844,
-      "chg_pct": 0.689644262685204,
-      "rsi14": 55.97005742565638,
-      "ma20": 66.16639976501465
+      "last": 66.88500213623047,
+      "chg_pct": 0.4943241504566678,
+      "rsi14": 55.60710639816231,
+      "ma20": 66.15989990234375
     },
     "qqq": {
       "live": true,
       "closes": [
-        657.5499877929688,
         661.5700073242188,
         667.739990234375,
         674.1500244140625,
@@ -2680,12 +2679,13 @@
         704.5399780273438,
         704.719970703125,
         716.9199829101562,
-        721.4500122070312
+        721.4500122070312,
+        741.469970703125
       ],
-      "last": 721.4500122070312,
-      "chg_pct": 0.6318737662307147,
-      "rsi14": 55.86429712818532,
-      "ma20": 713.2354949951172
+      "last": 741.469970703125,
+      "chg_pct": 2.774961280387187,
+      "rsi14": 65.6699425238796,
+      "ma20": 714.6369934082031
     },
     "irx": {
       "live": true,
