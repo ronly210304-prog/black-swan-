@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T09:37:16.114909+00:00",
+  "updated_at": "2026-09-22T09:50:55.096334+00:00",
   "news": [
     {
       "title": "Here&apos;s who we know is going to the Trump-Xi dinner so far",
@@ -137,6 +137,15 @@
       "desc_ko": "자산 기준 2위 은행의 전망이 무산된 것은 월스트리트의 AI 호황이 격변에 부딪쳤을 수 있다는 초기 신호일 수 있다."
     },
     {
+      "title": "Animoca Brands delays IPO plans, suspends merger talks with Currenc",
+      "description": "Talks between the two kicked off late last year, with plans for the former to own 95% of the merged company.",
+      "link": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
+      "pubDate": "Tue, 22 Sep 2026 09:47:15 +0000",
+      "tag": "btc",
+      "title_ko": "Animoca Brands는 IPO 계획을 연기하고 Currenc와의 합병 협상을 중단합니다.",
+      "desc_ko": "두 사람 간의 회담은 작년 말 시작되었으며, 전자가 합병 된 회사의 95% 를 소유 할 계획입니다."
+    },
+    {
       "title": "Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever",
       "description": "Inflows into spot bitcoin ETFs picked up Monday as bitcoin rallied to its highest since January.",
       "link": "https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever",
@@ -263,21 +272,21 @@
       "desc_ko": "약 3주 만에 전략을 위한 비트코인 구매 첫 주입니다."
     },
     {
-      "title": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
-      "description": "Your day-ahead look for Sept. 21, 2026",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
-      "pubDate": "Mon, 21 Sep 2026 11:36:11 +0000",
-      "tag": "btc",
-      "title_ko": "3분기 비트코인의 44% 이득은 본격적인 암호화폐 불런을 조롱합니다",
-      "desc_ko": "2026년 9월 21일을 하루 앞당겨 보실 수 있습니다."
-    },
-    {
       "title": "Bank of America says buy tumbling shares of aviation giant",
       "description": "",
       "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
       "pubDate": "2026-09-21T14:37:00Z",
       "tag": "general",
       "title_ko": "뱅크 오브 아메리카는 항공 대기업의 텀블링 주식을 사라고 말합니다",
+      "desc_ko": null
+    },
+    {
+      "title": "Why AMD's new $1 trillion valuation makes perfect sense",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/article/why-amds-new-1-trillion-valuation-makes-perfect-sense-093453726.html",
+      "pubDate": "2026-09-22T09:34:53Z",
+      "tag": "general",
+      "title_ko": "AMD의 새로운 1조 달러 가치 평가 ($ 1 trillion valuation) 가 완벽한 이해가 되는 이유",
       "desc_ko": null
     },
     {
@@ -308,21 +317,21 @@
       "desc_ko": null
     },
     {
-      "title": "Oil prices climb ahead of potential US-Iran talks",
-      "description": "",
-      "link": "https://finance.yahoo.com/energy/articles/oil-rises-slightly-ahead-potential-003404571.html",
-      "pubDate": "2026-09-22T08:26:53Z",
-      "tag": "general",
-      "title_ko": "잠재적인 미국-이란 회담을 앞두고 유가 상승",
-      "desc_ko": null
-    },
-    {
       "title": "Burger chain cancels breakfast at hundreds of restaurants",
       "description": "",
       "link": "https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html",
       "pubDate": "2026-09-21T04:15:19Z",
       "tag": "general",
       "title_ko": "햄버거 체인은 수백 개의 레스토랑에서 아침 식사를 취소합니다",
+      "desc_ko": null
+    },
+    {
+      "title": "Oil prices climb ahead of potential US-Iran talks",
+      "description": "",
+      "link": "https://finance.yahoo.com/energy/articles/oil-rises-slightly-ahead-potential-003404571.html",
+      "pubDate": "2026-09-22T08:26:53Z",
+      "tag": "general",
+      "title_ko": "잠재적인 미국-이란 회담을 앞두고 유가 상승",
       "desc_ko": null
     },
     {
@@ -353,15 +362,6 @@
       "desc_ko": null
     },
     {
-      "title": "Is Generac Holdings Inc. (GNRC) Stock a Top AI Infrastructure Play After $2.4 Billion Amazon Deal?",
-      "description": "",
-      "link": "https://finance.yahoo.com/technology/ai/articles/generac-holdings-inc-gnrc-stock-064555046.html",
-      "pubDate": "2026-09-22T06:45:55Z",
-      "tag": "general",
-      "title_ko": "Generac Holdings Inc. (GNRC) 주식은 $ 24억 아마존 거래 후 최고의 AI 인프라 플레이입니까?",
-      "desc_ko": null
-    },
-    {
       "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
       "description": "",
       "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
@@ -371,39 +371,39 @@
       "desc_ko": null
     },
     {
-      "title": "Signet Jewelers (SIG) Swings to a Profit and Signs a Credit Deal Worth $1 Billion",
+      "title": "Apple (AAPL)’s New CEO Bets Big on a $1,999 Foldable iPhone",
       "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/signet-jewelers-sig-swings-profit-232831573.html",
-      "pubDate": "2026-09-20T23:28:31Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-ceo-bets-big-233948726.html",
+      "pubDate": "2026-09-20T23:39:48Z",
       "tag": "general",
-      "title_ko": "Signet Jewelers (SIG), 수익으로 전환하고 $ 10억 상당의 신용 거래 체결",
+      "title_ko": "애플 (AAPL) 의 새로운 CEO는 $ 1,999의 접이식 아이폰에 큰 베팅을 합니다",
       "desc_ko": null
     },
     {
-      "title": "Jersey Mike’s (JMKE) Posts its First Public Earnings, and the Numbers Back Up the Growth Story",
+      "title": "Huntington Cut Its Outlook Right as the Fed Hiked. First Crack in Regional-Bank Margins?",
       "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jersey-mike-jmke-posts-first-232340583.html",
-      "pubDate": "2026-09-20T23:23:40Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-cut-outlook-fed-hiked-234006771.html",
+      "pubDate": "2026-09-20T23:40:06Z",
       "tag": "general",
-      "title_ko": "Jersey Mike's (JMKE) 는 첫 번째 공개 수입을 올리고 Numbers는 성장 스토리를 뒷받침합니다.",
+      "title_ko": "헌팅턴은 연준이 하이킹한 대로 전망을 바르게 잘랐습니다. 지역 은행 마진의 첫 번째 균열?",
       "desc_ko": null
     },
     {
-      "title": "The Semaglutide Cliff vs. a 10x Multiple: Is Novo Nordisk (NVO) a Value Trap or a Bargain?",
+      "title": "Analog Devices (ADI) Bets $1.35 Billion on Chips that Let Machines Think for Themselves",
       "description": "",
-      "link": "https://finance.yahoo.com/healthcare/articles/semaglutide-cliff-vs-10x-multiple-232313561.html",
-      "pubDate": "2026-09-20T23:23:13Z",
+      "link": "https://finance.yahoo.com/technology/ai/articles/analog-devices-adi-bets-1-233705093.html",
+      "pubDate": "2026-09-20T23:37:05Z",
       "tag": "general",
-      "title_ko": "세마글루타이드 절벽 vs. 10배수: Novo Nordisk (NVO) 는 가치 함정인가, 흥정인가?",
+      "title_ko": "아날로그 장치 (ADI) 는 기계가 스스로 생각할 수 있도록 하는 칩에 13억 5천만 $ 를 베팅합니다",
       "desc_ko": null
     },
     {
-      "title": "Casey’s (CASY) Beats on Profit, but a Soft Sales Number Sends the Stock Tumbling",
+      "title": "American Eagle (AEO) Holds its Forecast Steady, But Investors Sell Anyway",
       "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/casey-casy-beats-profit-soft-233311591.html",
-      "pubDate": "2026-09-20T23:33:11Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/american-eagle-aeo-holds-forecast-234925049.html",
+      "pubDate": "2026-09-20T23:49:25Z",
       "tag": "general",
-      "title_ko": "Casey's (CASY) 는 수익을 올렸지만 소프트 세일즈 넘버는 주식 텀블링을 보냅니다.",
+      "title_ko": "American Eagle (AEO) 은 꾸준히 예측을 유지하고 있지만 투자자들은 어쨌든 판매합니다.",
       "desc_ko": null
     },
     {
@@ -718,12 +718,12 @@
         7640.0,
         7657.35009765625,
         7833.5,
-        7827.5
+        7828.5
       ],
-      "last": 7827.5,
-      "chg_pct": -0.07659411501882939,
-      "rsi14": 61.96445380663417,
-      "ma20": 7682.642504882812
+      "last": 7828.5,
+      "chg_pct": -0.06382842918235783,
+      "rsi14": 62.05722522711289,
+      "ma20": 7682.6925048828125
     },
     "nq": {
       "live": true,
@@ -827,12 +827,12 @@
         29446.75,
         29613.6796875,
         30784.75,
-        30766.75
+        30771.0
       ],
-      "last": 30766.75,
-      "chg_pct": -0.058470508937054876,
-      "rsi14": 67.48757096787068,
-      "ma20": 29493.046484375
+      "last": 30771.0,
+      "chg_pct": -0.044664972104694695,
+      "rsi14": 67.56415927581618,
+      "ma20": 29493.258984375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4399.7001953125,
         4424.89990234375,
         4383.89990234375,
-        4352.89990234375
+        4353.0
       ],
-      "last": 4352.89990234375,
-      "chg_pct": -0.7071329339300509,
-      "rsi14": 44.5046131763154,
-      "ma20": 4460.0099609375
+      "last": 4353.0,
+      "chg_pct": -0.7048496323383225,
+      "rsi14": 44.51206973821386,
+      "ma20": 4460.014965820313
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         101.91000366210938,
         100.30000305175781,
         95.77999877929688,
-        91.22000122070312
+        90.97000122070312
       ],
-      "last": 91.22000122070312,
-      "chg_pct": -4.76090793141606,
-      "rsi14": 47.50682398454769,
-      "ma20": 93.58800163269044
+      "last": 90.97000122070312,
+      "chg_pct": -5.021922760384754,
+      "rsi14": 47.16326719430788,
+      "ma20": 93.57550163269043
     },
     "zn": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.22000122070312,
         100.22000122070312,
         100.43000030517578,
-        100.44300079345703
+        100.41400146484375
       ],
-      "last": 100.44300079345703,
-      "chg_pct": 0.01294482549212937,
-      "rsi14": 63.16705845912754,
-      "ma20": 99.51614952087402
+      "last": 100.41400146484375,
+      "chg_pct": -0.015930339822180336,
+      "rsi14": 62.662028211208266,
+      "ma20": 99.51469955444335
     },
     "vix": {
       "live": true,
@@ -1372,12 +1372,12 @@
         15.4399995803833,
         14.8100004196167,
         14.869999885559082,
-        14.890000343322754
+        14.850000381469727
       ],
-      "last": 14.890000343322754,
-      "chg_pct": 0.13450207073031123,
-      "rsi14": 45.53181907972225,
-      "ma20": 15.632000017166138
+      "last": 14.850000381469727,
+      "chg_pct": -0.13449565731858462,
+      "rsi14": 45.346510424517135,
+      "ma20": 15.630000019073487
     },
     "hsi": {
       "live": true,
@@ -1917,12 +1917,12 @@
         25716.7109375,
         25304.060546875,
         25575.009765625,
-        25611.44921875
+        25617.529296875
       ],
-      "last": 25611.44921875,
-      "chg_pct": 0.14248070072676078,
-      "rsi14": 46.68223205716205,
-      "ma20": 25822.442578125
+      "last": 25617.529296875,
+      "chg_pct": 0.16625421315439687,
+      "rsi14": 46.8243770141417,
+      "ma20": 25822.74658203125
     },
     "ftse": {
       "live": true,
@@ -2026,12 +2026,12 @@
         10816.099609375,
         10659.099609375,
         10739.0,
-        10744.9697265625
+        10747.2197265625
       ],
-      "last": 10744.9697265625,
-      "chg_pct": 0.0555892221109973,
-      "rsi14": 50.141662266281955,
-      "ma20": 10757.803369140625
+      "last": 10747.2197265625,
+      "chg_pct": 0.07654089358878853,
+      "rsi14": 50.29158367092596,
+      "ma20": 10757.915869140625
     },
     "krw": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1376.5999755859375,
         1379.530029296875,
         1384.8599853515625,
-        1357.5699462890625
+        1356.1800537109375
       ],
-      "last": 1357.5699462890625,
-      "chg_pct": -1.970599147290122,
-      "rsi14": 40.651681688673214,
-      "ma20": 1362.168994140625
+      "last": 1356.1800537109375,
+      "chg_pct": -2.070962548126789,
+      "rsi14": 40.148383315853955,
+      "ma20": 1362.0994995117187
     },
     "jpy": {
       "live": true,
@@ -2244,12 +2244,12 @@
         156.01400756835938,
         156.12899780273438,
         157.04600524902344,
-        157.13600158691406
+        157.03399658203125
       ],
-      "last": 157.13600158691406,
-      "chg_pct": 0.05730571608486337,
-      "rsi14": 50.73374517259179,
-      "ma20": 156.67160034179688
+      "last": 157.03399658203125,
+      "chg_pct": -0.007646591820750674,
+      "rsi14": 50.2057726483441,
+      "ma20": 156.66650009155273
     },
     "copper": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.58650016784668,
         6.614999771118164,
         6.686500072479248,
-        6.840000152587891
+        6.8379998207092285
       ],
-      "last": 6.840000152587891,
-      "chg_pct": 2.295671553798805,
-      "rsi14": 63.166235936709874,
-      "ma20": 6.578250002861023
+      "last": 6.8379998207092285,
+      "chg_pct": 2.265755575978133,
+      "rsi14": 63.10145027649852,
+      "ma20": 6.57814998626709
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         2.9010000228881836,
         2.9119999408721924,
         2.8359999656677246,
-        3.000999927520752
+        2.997999906539917
       ],
-      "last": 3.000999927520752,
-      "chg_pct": 5.8180523219498275,
-      "rsi14": 59.44622337470838,
-      "ma20": 2.8924499988555907
+      "last": 2.997999906539917,
+      "chg_pct": 5.712268788199726,
+      "rsi14": 59.27502415319438,
+      "ma20": 2.892299997806549
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         65.47000122070312,
         66.55599975585938,
         65.82499694824219,
-        65.69999694824219
+        65.7300033569336
       ],
-      "last": 65.69999694824219,
-      "chg_pct": -0.1898974641780641,
-      "rsi14": 51.759617013808494,
-      "ma20": 65.9648494720459
+      "last": 65.7300033569336,
+      "chg_pct": -0.14431233682135475,
+      "rsi14": 51.86239140557567,
+      "ma20": 65.96634979248047
     },
     "qqq": {
       "live": true,
