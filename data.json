@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T00:30:44.350304+00:00",
+  "updated_at": "2026-09-22T00:52:57.687929+00:00",
   "news": [
     {
       "title": "‘It&apos;s awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -281,6 +281,15 @@
       "desc_ko": null
     },
     {
+      "title": "How the 3M Stock Turnaround Is Happening Faster Than Expected",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3m-stock-turnaround-happening-faster-131505697.html",
+      "pubDate": "2026-09-20T13:15:05Z",
+      "tag": "general",
+      "title_ko": null,
+      "desc_ko": null
+    },
+    {
       "title": "How to Play AAPL Stock Amid Reports Apple Is Building Its Own AI Server",
       "description": "",
       "link": "https://finance.yahoo.com/technology/ai/articles/play-aapl-stock-amid-reports-130641806.html",
@@ -294,15 +303,6 @@
       "description": "",
       "link": "https://finance.yahoo.com/markets/articles/secretly-broke-7-worst-habits-130500678.html",
       "pubDate": "2026-09-20T13:05:00Z",
-      "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
-    },
-    {
-      "title": "Meta’s New AI Agent Could Be the Missing Piece for META Stock",
-      "description": "",
-      "link": "https://finance.yahoo.com/technology/ai/articles/meta-ai-agent-could-missing-130002359.html",
-      "pubDate": "2026-09-20T13:00:02Z",
       "tag": "general",
       "title_ko": null,
       "desc_ko": null
@@ -335,19 +335,10 @@
       "desc_ko": null
     },
     {
-      "title": "How the 3M Stock Turnaround Is Happening Faster Than Expected",
+      "title": "Meta’s New AI Agent Could Be the Missing Piece for META Stock",
       "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3m-stock-turnaround-happening-faster-131505697.html",
-      "pubDate": "2026-09-20T13:15:05Z",
-      "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
-    },
-    {
-      "title": "Is 63 the ideal age of retirement Americans think it is? Probably not — here’s why",
-      "description": "",
-      "link": "https://finance.yahoo.com/small-business/articles/63-ideal-age-retirement-americans-124500294.html",
-      "pubDate": "2026-09-20T12:45:00Z",
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-ai-agent-could-missing-130002359.html",
+      "pubDate": "2026-09-20T13:00:02Z",
       "tag": "general",
       "title_ko": null,
       "desc_ko": null
@@ -362,19 +353,19 @@
       "desc_ko": null
     },
     {
-      "title": "Bank of America says buy tumbling shares of aviation giant",
+      "title": "Dear Tesla Stock Fans, Mark Your Calendars for September 30",
       "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
-      "pubDate": "2026-09-21T14:37:00Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-tesla-stock-fans-mark-140003840.html",
+      "pubDate": "2026-09-20T14:00:03Z",
       "tag": "general",
       "title_ko": null,
       "desc_ko": null
     },
     {
-      "title": "Dear Tesla Stock Fans, Mark Your Calendars for September 30",
+      "title": "Bank of America says buy tumbling shares of aviation giant",
       "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-tesla-stock-fans-mark-140003840.html",
-      "pubDate": "2026-09-20T14:00:03Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
+      "pubDate": "2026-09-21T14:37:00Z",
       "tag": "general",
       "title_ko": null,
       "desc_ko": null
@@ -402,6 +393,15 @@
       "description": "",
       "link": "https://finance.yahoo.com/markets/articles/don-t-even-think-retiring-141500099.html",
       "pubDate": "2026-09-20T14:15:00Z",
+      "tag": "general",
+      "title_ko": null,
+      "desc_ko": null
+    },
+    {
+      "title": "Nebius’s Price Hike Suggests Michael Burry Made a Mistake and Is Shorting the Best Neocloud Stock",
+      "description": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-price-hike-suggests-michael-142209026.html",
+      "pubDate": "2026-09-20T14:22:09Z",
       "tag": "general",
       "title_ko": null,
       "desc_ko": null
@@ -718,12 +718,12 @@
         7556.5,
         7640.0,
         7657.35009765625,
-        7835.5
+        7835.25
       ],
-      "last": 7835.5,
-      "chg_pct": 2.326521578245167,
-      "rsi14": 62.629970221574894,
-      "ma20": 7674.855004882813
+      "last": 7835.25,
+      "chg_pct": 2.3232567412348213,
+      "rsi14": 62.616916017946494,
+      "ma20": 7674.842504882812
     },
     "nq": {
       "live": true,
@@ -827,12 +827,12 @@
         28963.5,
         29446.75,
         29613.6796875,
-        30872.5
+        30893.5
       ],
-      "last": 30872.5,
-      "chg_pct": 4.250806808825418,
-      "rsi14": 68.50101021217999,
-      "ma20": 29414.383984375
+      "last": 30893.5,
+      "chg_pct": 4.321719982134523,
+      "rsi14": 68.66129081299027,
+      "ma20": 29415.433984375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4387.5,
         4399.7001953125,
         4424.89990234375,
-        4397.60009765625
+        4389.7001953125
       ],
-      "last": 4397.60009765625,
-      "chg_pct": -0.6169586948857313,
-      "rsi14": 48.018097536313135,
-      "ma20": 4477.939965820313
+      "last": 4389.7001953125,
+      "chg_pct": -0.7954915999931583,
+      "rsi14": 47.3903802601631,
+      "ma20": 4477.544970703125
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         102.43000030517578,
         101.91000366210938,
         100.30000305175781,
-        92.44000244140625
+        92.66999816894531
       ],
-      "last": 92.44000244140625,
-      "chg_pct": -7.836490898505323,
-      "rsi14": 49.615450035538466,
-      "ma20": 93.11050186157226
+      "last": 92.66999816894531,
+      "chg_pct": -7.607183101355629,
+      "rsi14": 49.94001326908202,
+      "ma20": 93.12200164794922
     },
     "zn": {
       "live": true,
@@ -1154,12 +1154,12 @@
         106.046875,
         106.40625,
         106.078125,
-        106.09375
+        106.046875
       ],
-      "last": 106.09375,
-      "chg_pct": 0.014729709824716454,
-      "rsi14": 29.48759046802101,
-      "ma20": 107.33359375
+      "last": 106.046875,
+      "chg_pct": -0.029459419649432907,
+      "rsi14": 28.879551335196965,
+      "ma20": 107.33125
     },
     "dxy": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.30999755859375,
         100.22000122070312,
         100.22000122070312,
-        100.40399932861328
+        100.37899780273438
       ],
-      "last": 100.40399932861328,
-      "chg_pct": 0.18359419843246472,
-      "rsi14": 62.69676106701631,
-      "ma20": 99.44269943237305
+      "last": 100.37899780273438,
+      "chg_pct": 0.15864755547259463,
+      "rsi14": 62.39667026678227,
+      "ma20": 99.4414493560791
     },
     "vix": {
       "live": true,
@@ -1699,12 +1699,12 @@
         6717.97021484375,
         6715.41015625,
         6894.22998046875,
-        7165.4501953125
+        7163.509765625
       ],
-      "last": 7165.4501953125,
-      "chg_pct": 3.934017513371512,
-      "rsi14": 58.90877812141808,
-      "ma20": 6824.375048828125
+      "last": 7163.509765625,
+      "chg_pct": 3.905871807571195,
+      "rsi14": 58.870326112832814,
+      "ma20": 6824.27802734375
     },
     "sse": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1376.5999755859375,
         1379.530029296875,
         1384.8599853515625,
-        1365.0799560546875
+        1359.97998046875
       ],
-      "last": 1365.0799560546875,
-      "chg_pct": -1.4283053526059974,
-      "rsi14": 43.6053119436314,
-      "ma20": 1362.5444946289062
+      "last": 1359.97998046875,
+      "chg_pct": -1.7965718661801342,
+      "rsi14": 41.55496152346739,
+      "ma20": 1362.2894958496095
     },
     "jpy": {
       "live": true,
@@ -2244,12 +2244,12 @@
         156.01400756835938,
         156.12899780273438,
         157.04600524902344,
-        157.3489990234375
+        157.30999755859375
       ],
-      "last": 157.3489990234375,
-      "chg_pct": 0.19293313060310815,
-      "rsi14": 51.79987723011043,
-      "ma20": 156.68225021362304
+      "last": 157.30999755859375,
+      "chg_pct": 0.1680987104076333,
+      "rsi14": 51.608124990333096,
+      "ma20": 156.68030014038087
     },
     "copper": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.43149995803833,
         6.58650016784668,
         6.614999771118164,
-        6.802499771118164
+        6.803500175476074
       ],
-      "last": 6.802499771118164,
-      "chg_pct": 2.834467218255187,
-      "rsi14": 61.623963627936654,
-      "ma20": 6.571999979019165
+      "last": 6.803500175476074,
+      "chg_pct": 2.8495904894951654,
+      "rsi14": 61.65653707916143,
+      "ma20": 6.572049999237061
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         2.8910000324249268,
         2.9010000228881836,
         2.9119999408721924,
-        2.8350000381469727
+        2.8380000591278076
       ],
-      "last": 2.8350000381469727,
-      "chg_pct": -2.6442274824413965,
-      "rsi14": 47.170259090027415,
-      "ma20": 2.8814500093460085
+      "last": 2.8380000591278076,
+      "chg_pct": -2.541204781831849,
+      "rsi14": 47.410577804905216,
+      "ma20": 2.88160001039505
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         64.28800201416016,
         65.47000122070312,
         66.55599975585938,
-        67.05000305175781
+        66.91999816894531
       ],
-      "last": 67.05000305175781,
-      "chg_pct": 0.7422370600855516,
-      "rsi14": 56.066775349137394,
-      "ma20": 66.16814994812012
+      "last": 66.91999816894531,
+      "chg_pct": 0.5469054847363963,
+      "rsi14": 55.70540227706363,
+      "ma20": 66.16164970397949
     },
     "qqq": {
       "live": true,
