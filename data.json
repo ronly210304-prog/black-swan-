@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-23T23:43:44.420364+00:00",
+  "updated_at": "2026-09-24T01:39:52.707108+00:00",
   "news": [
+    {
+      "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+      "description": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
+      "link": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+      "pubDate": "Wed, 23 Sep 2026 23:59:39 GMT",
+      "tag": "ndx",
+      "title_ko": "베센트는 시 주석이 국빈 방문을 시작함에 따라 미중 무역 휴전 기간이 2개월 연장됐다고 말한다.",
+      "desc_ko": "베센트는 11월에 만료될 예정이었던 이 거래가 이제 1월 10일로 연장될 것이라고 말하며 베이징이 더 많은 성과를 달성해야 할 필요성에 주목했다."
+    },
     {
       "title": "Trump-Xi meeting: Why China&apos;s self-sufficiency changes the calculus",
       "description": "Persistent growth of Chinese exports to the U.S. is helping the world's second-largest economy ride out ongoing domestic challenges.",
@@ -126,15 +135,6 @@
       "tag": "ndx",
       "title_ko": "연준, 금리 인상 승인, 올해 한 차례 더 시그널",
       "desc_ko": "연방준비제도는 수요일에 2023년 이후 첫 금리 인상을 승인하고 또 다른 금리가 인상될 것이라고 밝혔습니다."
-    },
-    {
-      "title": "Senate is still a toss-up, but Democrats now have slight edge, prediction market traders think",
-      "description": "Traders on both Kalshi and Polymarket see Democrats with one of their best chances to flip the U.S. Senate since the contracts on the election opened.",
-      "link": "https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html",
-      "pubDate": "Wed, 16 Sep 2026 16:26:41 GMT",
-      "tag": "ndx",
-      "title_ko": "상원은 여전히 토스 업이지만 민주당은 이제 약간의 우위를 점하고 있습니다. 예측 시장 거래자들은",
-      "desc_ko": "Kalshi와 Polymarket의 거래자들은 선거에 대한 계약이 시작된 이후 미국 상원을 뒤집을 수있는 가장 좋은 기회 중 하나 인 민주당을 봅니다."
     },
     {
       "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
@@ -272,15 +272,6 @@
       "desc_ko": "업그레이드는 10월 5일에 활성화될 수 있으며, 이를 통해 기업은 완전한 통제권을 넘기지 않고도 결제 또는 고객 승인과 같은 제한된 권한을 다른 계정에 부여할 수 있습니다."
     },
     {
-      "title": "Kalshi asks CFTC to allow margin trading on prediction markets",
-      "description": "",
-      "link": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
-      "pubDate": "2026-09-22T12:39:18Z",
-      "tag": "general",
-      "title_ko": "Kalshi는 CFTC에 예측 시장에서 마진 거래를 허용하도록 요청합니다.",
-      "desc_ko": null
-    },
-    {
       "title": "Bessent just picked the one wage measure still rising",
       "description": "",
       "link": "https://finance.yahoo.com/economy/articles/bessent-just-picked-one-wage-194700442.html",
@@ -299,111 +290,120 @@
       "desc_ko": null
     },
     {
-      "title": "As Amazon Stock Prospers, Traders Might Consider This Option Play",
+      "title": "Fed's Williams says rate-control toolkit is working well",
       "description": "",
-      "link": "https://www.investors.com/research/options/amazon-amzn-stock-bull-put-spread-options/?src=A00220&amp;yptr=yahoo",
-      "pubDate": "2026-09-22T15:57:55Z",
+      "link": "https://finance.yahoo.com/economy/policy/articles/feds-williams-says-rate-control-140742644.html",
+      "pubDate": "2026-09-22T14:07:42Z",
       "tag": "general",
-      "title_ko": "Amazon Stock Prospers로서 트레이더는 이 옵션 플레이를 고려할 수 있습니다.",
+      "title_ko": "Fed의 Williams는 속도 제어 툴킷이 잘 작동하고 있다고 말합니다.",
       "desc_ko": null
     },
     {
-      "title": "Nvidia Just Gave Einride Stock a Big Boost. How to Play ENRD Here.",
+      "title": "Minot Light’s Bullish Stance on Rockwell Medical (RMTI)",
       "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-gave-einride-stock-154207385.html",
-      "pubDate": "2026-09-22T15:42:07Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/minot-light-bullish-stance-rockwell-140627170.html",
+      "pubDate": "2026-09-22T14:06:27Z",
       "tag": "general",
-      "title_ko": "엔비디아는 Einride Stock에게 큰 부스트를 주었습니다. 여기에서 ENRD를 플레이하는 방법.",
+      "title_ko": "로크웰 메디컬 (RMTI) 에 대한 Minot Light의 강세 자세",
       "desc_ko": null
     },
     {
-      "title": "Crude Oil Prices Pressured by Diplomatic Hopes in the Middle East",
+      "title": "Prosus Puts AI in the Executive Suite",
       "description": "",
-      "link": "https://finance.yahoo.com/energy/articles/crude-oil-prices-pressured-diplomatic-154210848.html",
-      "pubDate": "2026-09-22T15:42:10Z",
+      "link": "https://finance.yahoo.com/technology/ai/articles/prosus-puts-ai-executive-suite-140509559.html",
+      "pubDate": "2026-09-22T14:05:09Z",
       "tag": "general",
-      "title_ko": "중동의 외교적 희망이 압박하는 원유 가격",
+      "title_ko": "프로수스는 이그제큐티브 스위트에 AI를 넣습니다",
       "desc_ko": null
     },
     {
-      "title": "Nvidia Stock is Historically Cheap. The Decade-Low Multiple Reflects Risks, But This Looks Like a Can't-Miss Buy Opportunity for NVDA.",
+      "title": "Dear Okta Stock Fans, Mark Your Calendars for September 22",
       "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-historically-cheap-decade-160406626.html",
-      "pubDate": "2026-09-22T16:04:06Z",
+      "link": "https://finance.yahoo.com/news/dear-okta-stock-fans-mark-140416249.html",
+      "pubDate": "2026-09-22T14:04:16Z",
       "tag": "general",
-      "title_ko": "엔비디아 주식은 역사적으로 저렴합니다. 10년간 여러 건의 리스크가 반영되었지만, 이는 NVDA의 구매 기회를 놓칠 수 없는 것으로 보입니다.",
+      "title_ko": "친애하는 Okta 주식 팬 여러분, 9월 22일 달력에 표시하세요",
       "desc_ko": null
     },
     {
-      "title": "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
+      "title": "Binance invests $100 million in Circle, signs 5-year USDC deal",
       "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/defense-stocks-fall-while-oil-155213753.html",
-      "pubDate": "2026-09-22T15:52:13Z",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/binance-invests-100-million-circle-140628659.html",
+      "pubDate": "2026-09-22T14:06:28Z",
       "tag": "general",
-      "title_ko": "석유 슬라이드 호르무즈 재개 보고서: 록히드 마틴과 RTX 하락 3%, 보잉 딥스",
+      "title_ko": "Binance는 Circle에 1억 달러 ($) 를 투자하고, 5년 USDC 계약을 체결합니다.",
       "desc_ko": null
     },
     {
-      "title": "Is FactSet Stock Underperforming the Nasdaq?",
+      "title": "Kingfisher Screws Its Profit Guidance Higher",
       "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/factset-stock-underperforming-nasdaq-160607471.html",
-      "pubDate": "2026-09-22T16:06:07Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kingfisher-screws-profit-guidance-higher-135904080.html",
+      "pubDate": "2026-09-22T13:59:04Z",
       "tag": "general",
-      "title_ko": "FactSet 주가가 나스닥에서 저조한 실적을 기록하고 있습니까?",
+      "title_ko": "Kingfisher는 이익 지침을 더 높게 망칩니다",
       "desc_ko": null
     },
     {
-      "title": "Obama says AI flipped from 90% human-taught to 50/50 in under a year — the six-figure jobs he says go first",
+      "title": "5 Questions With: Boston Questrom’s Leadership Team",
       "description": "",
-      "link": "https://finance.yahoo.com/technology/ai/articles/obama-says-ai-flipped-90-153000409.html",
-      "pubDate": "2026-09-22T15:30:00Z",
+      "link": "https://finance.yahoo.com/small-business/articles/5-questions-boston-questrom-leadership-135859908.html",
+      "pubDate": "2026-09-22T13:58:59Z",
       "tag": "general",
-      "title_ko": "오바마는 AI가 1 년 이내에 90% 의 인간 학습에서 50/50으로 뒤집혔다고 말합니다. 그가 말하는 6 자형 직업은 먼저",
+      "title_ko": "5가지 질문: Boston Questrom의 리더십 팀",
       "desc_ko": null
     },
     {
-      "title": "Circle Stock Spikes As Binance Takes $100 Million Slice",
+      "title": "Sonida Senior Living (SNDA) Poised for Strong Performance Over the Next Several Years",
       "description": "",
-      "link": "https://www.investors.com/news/circle-stock-spikes-as-binance-takes-100-million-slice/?src=A00220&amp;yptr=yahoo",
-      "pubDate": "2026-09-22T15:26:27Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sonida-senior-living-snda-poised-141451416.html",
+      "pubDate": "2026-09-22T14:14:51Z",
       "tag": "general",
-      "title_ko": "바이낸스가 $ 100 Million Slice를 가져감에 따라 Circle Stock Spikes",
+      "title_ko": "소니다 시니어 리빙 (SNDA) 은 향후 몇 년 동안 강력한 성과를 낼 준비가 되어 있습니다.",
       "desc_ko": null
     },
     {
-      "title": "Saudi Pipeline Restart Fails to End Oil Market Tightness",
+      "title": "Stocks Supported as Crude Oil Prices Ease",
       "description": "",
-      "link": "https://finance.yahoo.com/energy/articles/saudi-pipeline-restart-fails-end-161000625.html",
-      "pubDate": "2026-09-22T16:10:00Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-supported-crude-oil-prices-141506095.html",
+      "pubDate": "2026-09-22T14:15:06Z",
       "tag": "general",
-      "title_ko": "사우디아라비아 파이프라인 재가동이 석유 시장의 타이트함을 끝내지 못함",
+      "title_ko": "원유 가격 완화로 지원되는 주식",
       "desc_ko": null
     },
     {
-      "title": "Meta’s Muse Is a ‘Killer Product’. It Won’t, However, Be the Death of Shopify.",
+      "title": "How a 63-Year-Old Collects $2,250 a Month in Dividends, More Than the Average Social Security Check",
       "description": "",
-      "link": "https://www.barrons.com/articles/meta-muse-shopify-stock-14de0fa2?siteid=yhoof2&amp;yptr=yahoo",
-      "pubDate": "2026-09-22T15:52:00Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/63-old-collects-2-250-140530454.html",
+      "pubDate": "2026-09-22T14:05:30Z",
       "tag": "general",
-      "title_ko": "메타의 뮤즈는 ‘킬러 제품‘ 입니다. 그러나 쇼피파이의 죽음은 아닐 것입니다.",
+      "title_ko": "63세 노인이 평균 사회보장 수표보다 많은 월 $ 2,250의 배당금을 받는 방법",
       "desc_ko": null
     },
     {
-      "title": "Stocks Mixed as Crude Oil Prices and Financial Stocks Fall",
+      "title": "Will the housing market crash this year? What to expect for the rest of 2026.",
       "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mixed-crude-oil-prices-152253159.html",
-      "pubDate": "2026-09-22T15:22:53Z",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-this-year-what-to-expect-for-the-rest-of-2026-170038540.html",
+      "pubDate": "2024-07-05T17:00:38Z",
       "tag": "general",
-      "title_ko": "원유가격으로 혼합된 주식과 금융주 폭락",
+      "title_ko": "올해 주택 시장이 붕괴될까요? 2026년 남은 기간에 대해 알아보세요.",
       "desc_ko": null
     },
     {
-      "title": "Is News Corporation Stock Underperforming the S&amp;P 500?",
+      "title": "US Legislators Are Debating a Diesel Export Ban Ahead of Midterms — Here's Why",
       "description": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/news-corporation-stock-underperforming-p-152219343.html",
-      "pubDate": "2026-09-22T15:22:19Z",
+      "link": "https://finance.yahoo.com/news/us-legislators-debating-diesel-export-135702135.html",
+      "pubDate": "2026-09-22T13:57:02Z",
       "tag": "general",
-      "title_ko": "News Corporation의 주가가 S&amp;P 500의 실적을 밑도는가?",
+      "title_ko": "미국 입법자들이 중간고사를 앞두고 디젤 수출 금지 방안을 논의하고 있습니다. 그 이유는 다음과 같습니다.",
+      "desc_ko": null
+    },
+    {
+      "title": "AI infrastructure Boom Fuels Texas Instruments’ (TXN) Rally",
+      "description": "",
+      "link": "https://finance.yahoo.com/technology/articles/ai-infrastructure-boom-fuels-texas-141812824.html",
+      "pubDate": "2026-09-22T14:18:12Z",
+      "tag": "general",
+      "title_ko": "AI 인프라 붐 연료 텍사스 인스트루먼트 (TXN) 랠리",
       "desc_ko": null
     },
     {
@@ -619,7 +619,6 @@
     "es": {
       "live": true,
       "closes": [
-        7258.0,
         7230.25,
         7287.25,
         7389.5,
@@ -718,12 +717,13 @@
         7657.35009765625,
         7833.5,
         7831.75,
-        7769.25
+        7772.5,
+        7765.25
       ],
-      "last": 7769.25,
-      "chg_pct": -0.7980336450984773,
-      "rsi14": 56.62644569643609,
-      "ma20": 7686.717504882812
+      "last": 7765.25,
+      "chg_pct": -0.09327758121582502,
+      "rsi14": 56.24926878726757,
+      "ma20": 7690.642504882812
     },
     "nq": {
       "live": true,
@@ -827,17 +827,16 @@
         29613.6796875,
         30784.75,
         31028.5,
-        30767.5
+        30737.25
       ],
-      "last": 30767.5,
-      "chg_pct": -0.8411621573714488,
-      "rsi14": 65.17803818043345,
-      "ma20": 29580.671484375
+      "last": 30737.25,
+      "chg_pct": -0.9386531736951512,
+      "rsi14": 64.6829395519209,
+      "ma20": 29579.158984375
     },
     "gold": {
       "live": true,
       "closes": [
-        4644.5,
         4533.2998046875,
         4568.5,
         4694.2998046875,
@@ -936,17 +935,17 @@
         4424.89990234375,
         4383.89990234375,
         4376.39990234375,
-        4321.7001953125
+        4318.39990234375,
+        4333.60009765625
       ],
-      "last": 4321.7001953125,
-      "chg_pct": -1.2498790844492058,
-      "rsi14": 42.01498280818787,
-      "ma20": 4442.544970703125
+      "last": 4333.60009765625,
+      "chg_pct": 0.3519867463930404,
+      "rsi14": 43.349389223001474,
+      "ma20": 4426.394970703125
     },
     "wti": {
       "live": true,
       "closes": [
-        101.94000244140625,
         106.41999816894531,
         102.2699966430664,
         95.08000183105469,
@@ -1045,12 +1044,13 @@
         100.30000305175781,
         95.77999877929688,
         94.58999633789062,
-        92.08000183105469
+        92.16000366210938,
+        91.47000122070312
       ],
-      "last": 92.08000183105469,
-      "chg_pct": -2.6535517538977746,
-      "rsi14": 48.44830076260533,
-      "ma20": 94.24250144958496
+      "last": 91.47000122070312,
+      "chg_pct": -0.7487005360113037,
+      "rsi14": 47.441633486432394,
+      "ma20": 94.70850143432617
     },
     "zn": {
       "live": true,
@@ -1154,17 +1154,16 @@
         106.078125,
         106.328125,
         106.0,
-        105.03125
+        105.0625
       ],
-      "last": 105.03125,
-      "chg_pct": -0.9139150943396226,
-      "rsi14": 24.10777906167222,
-      "ma20": 107.03125
+      "last": 105.0625,
+      "chg_pct": -0.8844339622641509,
+      "rsi14": 24.282984444784432,
+      "ma20": 107.0328125
     },
     "dxy": {
       "live": true,
       "closes": [
-        98.08000183105469,
         98.20999908447266,
         98.47000122070312,
         98.4800033569336,
@@ -1263,12 +1262,13 @@
         100.22000122070312,
         100.22000122070312,
         100.43000030517578,
-        101.11399841308594
+        101.0999984741211,
+        101.12899780273438
       ],
-      "last": 101.11399841308594,
-      "chg_pct": 0.6810695069518042,
-      "rsi14": 69.99960195656173,
-      "ma20": 99.54969940185546
+      "last": 101.12899780273438,
+      "chg_pct": 0.028683807172068657,
+      "rsi14": 70.14182705125418,
+      "ma20": 99.65944938659668
     },
     "vix": {
       "live": true,
@@ -1382,7 +1382,6 @@
     "hsi": {
       "live": true,
       "closes": [
-        26111.83984375,
         25776.529296875,
         26095.880859375,
         25898.609375,
@@ -1481,17 +1480,17 @@
         24713.779296875,
         24604.2890625,
         24750.779296875,
-        25042.7109375
+        25042.7109375,
+        24834.119140625
       ],
-      "last": 25042.7109375,
-      "chg_pct": 1.1794846421739087,
-      "rsi14": 47.889304634030005,
-      "ma20": 25192.42353515625
+      "last": 24834.119140625,
+      "chg_pct": -0.8329441544710958,
+      "rsi14": 43.81770081075978,
+      "ma20": 25158.57451171875
     },
     "n225": {
       "live": true,
       "closes": [
-        59716.1796875,
         60537.359375,
         59917.4609375,
         59284.921875,
@@ -1590,17 +1589,17 @@
         63484.1015625,
         63923.0,
         64136.25,
-        65018.94921875
+        65018.94921875,
+        66154.453125
       ],
-      "last": 65018.94921875,
-      "chg_pct": 1.3762875421466019,
-      "rsi14": 48.99180976658816,
-      "ma20": 65121.1041015625
+      "last": 66154.453125,
+      "chg_pct": 1.7464199589410563,
+      "rsi14": 54.96595299680486,
+      "ma20": 65152.422265625
     },
     "kospi": {
       "live": true,
       "closes": [
-        6615.02978515625,
         6641.02001953125,
         6690.89990234375,
         6598.8701171875,
@@ -1699,17 +1698,17 @@
         6717.97021484375,
         6715.41015625,
         6894.22998046875,
-        7007.72021484375
+        7007.72021484375,
+        7080.919921875
       ],
-      "last": 7007.72021484375,
-      "chg_pct": 1.6461625837332978,
-      "rsi14": 55.52926269208838,
-      "ma20": 6816.488549804688
+      "last": 7080.919921875,
+      "chg_pct": 1.044558070058197,
+      "rsi14": 57.28502340697354,
+      "ma20": 6833.397534179688
     },
     "sse": {
       "live": true,
       "closes": [
-        4107.51416015625,
         4112.1591796875,
         4160.173828125,
         4180.091796875,
@@ -1808,17 +1807,17 @@
         3891.60107421875,
         3875.60400390625,
         3911.87109375,
-        3949.906982421875
+        3949.906982421875,
+        3936.52001953125
       ],
-      "last": 3949.906982421875,
-      "chg_pct": 0.9723195821213275,
-      "rsi14": 55.096847556222336,
-      "ma20": 3925.81806640625
+      "last": 3936.52001953125,
+      "chg_pct": -0.3389184340340293,
+      "rsi14": 52.779693467894,
+      "ma20": 3928.1718139648438
     },
     "dax": {
       "live": true,
       "closes": [
-        24401.69921875,
         24918.689453125,
         24663.609375,
         24338.630859375,
@@ -1917,17 +1916,17 @@
         25537.75,
         25716.7109375,
         25304.060546875,
-        25575.009765625
+        25575.009765625,
+        25410.630859375
       ],
-      "last": 25575.009765625,
-      "chg_pct": 1.0707736738460407,
-      "rsi14": 45.81413644780963,
-      "ma20": 25855.1771484375
+      "last": 25410.630859375,
+      "chg_pct": -0.6427325258383256,
+      "rsi14": 42.679486691506526,
+      "ma20": 25812.40166015625
     },
     "ftse": {
       "live": true,
       "closes": [
-        10378.7998046875,
         10363.900390625,
         10219.099609375,
         10438.7001953125,
@@ -2026,12 +2025,13 @@
         10688.5,
         10816.099609375,
         10659.099609375,
-        10739.0
+        10739.0,
+        10705.2998046875
       ],
-      "last": 10739.0,
-      "chg_pct": 0.7495979355960347,
-      "rsi14": 49.73947094744107,
-      "ma20": 10763.269873046875
+      "last": 10705.2998046875,
+      "chg_pct": -0.3138112981888444,
+      "rsi14": 47.573092818527336,
+      "ma20": 10755.819873046876
     },
     "krw": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1384.8599853515625,
         1373.6800537109375,
         1350.3599853515625,
-        1365.1199951171875
+        1369.489990234375
       ],
-      "last": 1365.1199951171875,
-      "chg_pct": 1.0930425905490877,
-      "rsi14": 45.396808984741696,
-      "ma20": 1360.4994995117188
+      "last": 1369.489990234375,
+      "chg_pct": 1.416659638195074,
+      "rsi14": 47.34483505489372,
+      "ma20": 1360.717999267578
     },
     "jpy": {
       "live": true,
@@ -2244,17 +2244,16 @@
         157.04600524902344,
         157.36900329589844,
         157.46400451660156,
-        158.32899475097656
+        157.91600036621094
       ],
-      "last": 158.32899475097656,
-      "chg_pct": 0.5493256932150505,
-      "rsi14": 56.746585005191875,
-      "ma20": 156.54899978637695
+      "last": 157.91600036621094,
+      "chg_pct": 0.2870470943482964,
+      "rsi14": 54.771463270947926,
+      "ma20": 156.52835006713866
     },
     "copper": {
       "live": true,
       "closes": [
-        5.932000160217285,
         5.795000076293945,
         5.942999839782715,
         6.136499881744385,
@@ -2353,12 +2352,13 @@
         6.614999771118164,
         6.686500072479248,
         6.759500026702881,
-        6.7804999351501465
+        6.677999973297119,
+        6.765500068664551
       ],
-      "last": 6.7804999351501465,
-      "chg_pct": 0.31067251075237984,
-      "rsi14": 61.194610469138716,
-      "ma20": 6.577775001525879
+      "last": 6.765500068664551,
+      "chg_pct": 1.3102739700106698,
+      "rsi14": 59.3431744334716,
+      "ma20": 6.581200003623962
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         2.9119999408721924,
         2.8359999656677246,
         2.9649999141693115,
-        3.1700000762939453
+        3.181999921798706
       ],
-      "last": 3.1700000762939453,
-      "chg_pct": 6.914002295412127,
-      "rsi14": 67.78656324726188,
-      "ma20": 2.91065000295639
+      "last": 3.181999921798706,
+      "chg_pct": 7.318718850290094,
+      "rsi14": 68.24335407946882,
+      "ma20": 2.9112499952316284
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         66.55599975585938,
         65.82499694824219,
         65.93199920654297,
-        64.78500366210938
+        64.68000030517578
       ],
-      "last": 64.78500366210938,
-      "chg_pct": -1.7396644394786804,
-      "rsi14": 48.562447893867535,
-      "ma20": 65.78389968872071
+      "last": 64.68000030517578,
+      "chg_pct": -1.898924522893796,
+      "rsi14": 48.22907104891722,
+      "ma20": 65.77864952087403
     },
     "qqq": {
       "live": true,
@@ -3301,7 +3301,7 @@
       "form4_count_30d": 39
     },
     "NVDA": {
-      "form4_count_30d": 13
+      "form4_count_30d": 12
     },
     "GOOGL": {
       "form4_count_30d": 22
