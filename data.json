@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-24T23:27:09.976771+00:00",
+  "updated_at": "2026-09-25T01:43:38.458696+00:00",
   "news": [
+    {
+      "title": "China&apos;s Xi urges U.S. to cooperate on AI",
+      "description": "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
+      "link": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
+      "pubDate": "Fri, 25 Sep 2026 01:22:17 GMT",
+      "tag": "ndx",
+      "title_ko": "중국의 시 주석은 미국이 AI에 협력할 것을 촉구한다.",
+      "desc_ko": "도널드 트럼프 미국 대통령은 목요일 백악관에서 시진핑 중국 국가주석을 접견했다."
+    },
+    {
+      "title": "Here&apos;s who is attending the Trump-Xi state dinner",
+      "description": "U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.",
+      "link": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
+      "pubDate": "Fri, 25 Sep 2026 01:02:40 GMT",
+      "tag": "ndx",
+      "title_ko": "다음은 트럼프-시 주정부 만찬에 참석하는 사람입니다.",
+      "desc_ko": "도널드 트럼프 미국 대통령은 목요일 시진핑 중국 국가주석의 만찬을 주최했다."
+    },
     {
       "title": "Philadelphia Fed&apos;s Anna Paulson says &apos;modest&apos; rate moves likely ahead to tame inflation",
       "description": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
@@ -117,24 +135,6 @@
       "tag": "ndx",
       "title_ko": "중국 AI 기업이 월스트리트의 선도적인 데이터 제공업체에 자사 모델을 연결했습니다.",
       "desc_ko": "스타트업 문샷 (Moonshot) 은 투자은행 CICC에서 벤처 캐피털 회사에 이르기까지 금융 업계의 거물들과 계약을 체결했다고 밝혔다."
-    },
-    {
-      "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
-      "description": "Rhodium Group's latest analysis of Chinese and U.S. AI companies also found that low revenue did not necessarily correspond with lower valuation.",
-      "link": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
-      "pubDate": "Thu, 17 Sep 2026 09:00:01 GMT",
-      "tag": "ndx",
-      "title_ko": "연구 그룹 로듐은 OpenAI와 Anthropic이 중국의 모든 AI 모델을 합친 것보다 10배 더 많은 수익을 올리고 있다고 말합니다.",
-      "desc_ko": "중국 및 미국 AI 기업에 대한 로듐 그룹의 최신 분석에서도 낮은 수익이 반드시 낮은 가치 평가와 일치하지는 않는 것으로 나타났습니다."
-    },
-    {
-      "title": "Here are five key takeaways from Wednesday&apos;s Fed rate hike",
-      "description": "The Fed on Wednesday delivered a much-expected interest rate hike.",
-      "link": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
-      "pubDate": "Wed, 16 Sep 2026 21:23:51 GMT",
-      "tag": "ndx",
-      "title_ko": "다음은 수요일 연방준비제도 (Fed) 금리 인상에 대한 5가지 핵심 사항입니다.",
-      "desc_ko": "연방준비제도 (Fed) 는 수요일에 많은 기대를 모은 금리 인상을 실시했다."
     },
     {
       "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
@@ -407,6 +407,33 @@
       "desc_ko": null
     },
     {
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "description": "&#x201c;She currently has about 15 sitters, all independent contractors.&#x201d;",
+      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "pubDate": "Thu, 24 Sep 2026 23:35:00 GMT",
+      "tag": "general",
+      "title_ko": "제 친구는 반려동물과 함께 앉아 있는 사업으로 연간 $ 300,000의 수익을 올리고 있습니다. 그녀는 자신에게 $ 50,000를 지불합니다. 나도 그래야 할까?",
+      "desc_ko": "\"그녀는 현재 약 15명의 시터를 보유하고 있으며, 모두 독립 계약자입니다.\""
+    },
+    {
+      "title": "3 things Micron investors need to watch as the stakes get higher",
+      "description": "When Micron reports earnings next week, a Rosenblatt analyst expects to hear about additional customer agreements, rising prices and stock buybacks.",
+      "link": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
+      "pubDate": "Thu, 24 Sep 2026 23:28:00 GMT",
+      "tag": "general",
+      "title_ko": "지분이 높아질수록 마이크론 투자자들이 주의해야 할 3가지",
+      "desc_ko": "Micron이 다음 주에 수익을 보고하면 Rosenblatt 애널리스트는 추가 고객 계약, 가격 상승 및 주식 환매에 대해 듣게 될 것으로 예상합니다."
+    },
+    {
+      "title": "The S&amp;P 500&#x2019;s newest tech stock is now its best performer",
+      "description": "Shares of data-storage company Everpure were leading S&P 500 gainers on Thursday.",
+      "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
+      "pubDate": "Thu, 24 Sep 2026 23:26:00 GMT",
+      "tag": "general",
+      "title_ko": "S&amp;P 500의 최신 기술 주식이 이제 최고의 성과를 거두었습니다.",
+      "desc_ko": "데이터 스토리지 회사인 Everpure의 주식은 목요일에 S&P 500의 선두를 달리고 있었습니다."
+    },
+    {
       "title": "Costco&#x2019;s results beat expectations. Here&#x2019;s why investors are still cautious.",
       "description": "Tariff refunds helped deliver a profit beat during Costco&#x2019;s fourth quarter.",
       "link": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
@@ -468,33 +495,6 @@
       "tag": "general",
       "title_ko": "시장을 이기기 위해 노력하지 마십시오: 가장 부유 한 미국인조차도 일관되게 할 수 없습니다.",
       "desc_ko": "400명의 가장 부유한 미국인들은 S&P 500 인덱스 펀드에 순자산을 투자했다면 지난 12개월 동안 집단적으로 더 나은 성과를 냈을 것이다."
-    },
-    {
-      "title": "Oracle&#x2019;s stock is falling as investors fear a data-center setback",
-      "description": "A recent report noted that Oracle is looking to protect itself from paying some expenses if a high-profile data-center project gets delayed.",
-      "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
-      "pubDate": "Thu, 24 Sep 2026 20:12:00 GMT",
-      "tag": "general",
-      "title_ko": "투자자들이 데이터 센터 차질을 우려하면서 오라클의 주가가 하락하고 있습니다.",
-      "desc_ko": "최근 보고서는 오라클이 유명 데이터 센터 프로젝트가 지연되는 경우 일부 비용을 지불하지 않도록 보호하기 위해 노력하고 있다고 지적했습니다."
-    },
-    {
-      "title": "Companies keep raising prices. The Fed is trying to get them to reconsider.",
-      "description": "Inflation pressures have been so persistent this year in part because businesses have been able to pass along higher prices to consumers.",
-      "link": "https://www.marketwatch.com/story/companies-keep-raising-prices-the-fed-is-trying-to-get-them-to-reconsider-a57b9af7?mod=mw_rss_topstories",
-      "pubDate": "Thu, 24 Sep 2026 19:42:00 GMT",
-      "tag": "general",
-      "title_ko": "기업들은 계속해서 가격을 올리고 있습니다. 연방준비제도 (Fed) 는 그들이 재검토하도록 하려고 노력하고 있습니다.",
-      "desc_ko": "기업들이 더 높은 가격을 소비자에게 전달할 수 있었기 때문에 올해 인플레이션 압력은 부분적으로 매우 지속되었습니다."
-    },
-    {
-      "title": "I&#x2019;m afraid of &#x2018;starving to death.&#x2019; Social Security stopped our checks due to a hacked bank account. What can we do?",
-      "description": "&#x201c;We are relying on our church for our current needs.&#x201d;",
-      "link": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
-      "pubDate": "Thu, 24 Sep 2026 19:40:00 GMT",
-      "tag": "general",
-      "title_ko": "굶어 죽을까 봐 두렵다. ’소셜 시큐리티가 해킹된 은행 계좌로 인해 수표를 중단했습니다. 어떻게 해야 할까요?",
-      "desc_ko": "“우리는 현재의 필요를 위해 교회에 의존하고 있습니다.”"
     }
   ],
   "assets": {
@@ -619,7 +619,6 @@
     "es": {
       "live": true,
       "closes": [
-        7230.25,
         7287.25,
         7389.5,
         7363.0,
@@ -718,12 +717,13 @@
         7833.5,
         7831.75,
         7772.5,
-        7756.0
+        7767.0,
+        7759.75
       ],
-      "last": 7756.0,
-      "chg_pct": -0.21228690897394661,
-      "rsi14": 55.44295017254412,
-      "ma20": 7690.180004882813
+      "last": 7759.75,
+      "chg_pct": -0.09334363332045835,
+      "rsi14": 55.718874788408684,
+      "ma20": 7691.592504882812
     },
     "nq": {
       "live": true,
@@ -827,17 +827,16 @@
         30784.75,
         31028.5,
         30764.75,
-        30719.0
+        30768.25
       ],
-      "last": 30719.0,
-      "chg_pct": -0.14870915577080912,
-      "rsi14": 64.33204890393803,
-      "ma20": 29652.008984375
+      "last": 30768.25,
+      "chg_pct": 0.01137665672563567,
+      "rsi14": 65.16669523414495,
+      "ma20": 29654.471484375
     },
     "gold": {
       "live": true,
       "closes": [
-        4533.2998046875,
         4568.5,
         4694.2998046875,
         4710.89990234375,
@@ -936,17 +935,17 @@
         4383.89990234375,
         4376.39990234375,
         4318.39990234375,
-        4307.89990234375
+        4298.0,
+        4329.10009765625
       ],
-      "last": 4307.89990234375,
-      "chg_pct": -0.2431456149834867,
-      "rsi14": 40.99694224921074,
-      "ma20": 4425.1099609375
+      "last": 4329.10009765625,
+      "chg_pct": 0.7235946406758957,
+      "rsi14": 43.60225977590798,
+      "ma20": 4407.869970703125
     },
     "wti": {
       "live": true,
       "closes": [
-        106.41999816894531,
         102.2699966430664,
         95.08000183105469,
         94.80999755859375,
@@ -1045,12 +1044,13 @@
         95.77999877929688,
         94.58999633789062,
         92.16000366210938,
-        94.19999694824219
+        94.61000061035156,
+        93.26000213623047
       ],
-      "last": 94.19999694824219,
-      "chg_pct": 2.213534293696577,
-      "rsi14": 51.95749401786204,
-      "ma20": 94.84500122070312
+      "last": 93.26000213623047,
+      "chg_pct": -1.4269088525651974,
+      "rsi14": 50.257456408041264,
+      "ma20": 95.35200157165528
     },
     "zn": {
       "live": true,
@@ -1154,17 +1154,16 @@
         106.328125,
         106.0,
         105.03125,
-        104.6875
+        104.71875
       ],
-      "last": 104.6875,
-      "chg_pct": -0.32728354656352276,
-      "rsi14": 22.210517066814873,
-      "ma20": 106.8328125
+      "last": 104.71875,
+      "chg_pct": -0.2975304968759298,
+      "rsi14": 22.37065559274268,
+      "ma20": 106.834375
     },
     "dxy": {
       "live": true,
       "closes": [
-        98.20999908447266,
         98.47000122070312,
         98.4800033569336,
         98.0199966430664,
@@ -1263,12 +1262,13 @@
         100.22000122070312,
         100.43000030517578,
         101.0999984741211,
-        101.24800109863281
+        101.29000091552734,
+        101.26399993896484
       ],
-      "last": 101.24800109863281,
-      "chg_pct": 0.1463923113209576,
-      "rsi14": 71.1572086030449,
-      "ma20": 99.6653995513916
+      "last": 101.26399993896484,
+      "chg_pct": -0.025669835450178338,
+      "rsi14": 70.93803740730775,
+      "ma20": 99.7721996307373
     },
     "vix": {
       "live": true,
@@ -1382,7 +1382,6 @@
     "hsi": {
       "live": true,
       "closes": [
-        25776.529296875,
         26095.880859375,
         25898.609375,
         26213.779296875,
@@ -1481,18 +1480,17 @@
         24604.2890625,
         24750.779296875,
         25042.7109375,
-        24834.119140625
+        24834.119140625,
+        24761.130859375
       ],
-      "last": 24834.119140625,
-      "chg_pct": -0.8329441544710958,
-      "rsi14": 43.81770081075978,
-      "ma20": 25158.57451171875
+      "last": 24761.130859375,
+      "chg_pct": -0.29390324189353595,
+      "rsi14": 42.457471596999056,
+      "ma20": 25113.98251953125
     },
     "n225": {
       "live": true,
       "closes": [
-        59716.1796875,
-        60537.359375,
         59917.4609375,
         59284.921875,
         59513.12109375,
@@ -1590,12 +1588,14 @@
         63484.1015625,
         63923.0,
         64136.25,
-        65018.94921875
+        65018.94921875,
+        65513.98828125,
+        66304.7421875
       ],
-      "last": 65018.94921875,
-      "chg_pct": 1.3762875421466019,
-      "rsi14": 48.99759755903227,
-      "ma20": 65121.1041015625
+      "last": 66304.7421875,
+      "chg_pct": 1.207000103329555,
+      "rsi14": 55.92298041697385,
+      "ma20": 65142.8146484375
     },
     "kospi": {
       "live": true,
@@ -1709,7 +1709,6 @@
     "sse": {
       "live": true,
       "closes": [
-        4112.1591796875,
         4160.173828125,
         4180.091796875,
         4179.953125,
@@ -1808,17 +1807,17 @@
         3875.60400390625,
         3911.87109375,
         3949.906982421875,
-        3936.52001953125
+        3936.52001953125,
+        3888.3740234375
       ],
-      "last": 3936.52001953125,
-      "chg_pct": -0.3389184340340293,
-      "rsi14": 52.779693467894,
-      "ma20": 3928.1718139648438
+      "last": 3888.3740234375,
+      "chg_pct": -1.2230598562911181,
+      "rsi14": 45.392740049137124,
+      "ma20": 3926.9643676757814
     },
     "dax": {
       "live": true,
       "closes": [
-        24918.689453125,
         24663.609375,
         24338.630859375,
         24350.279296875,
@@ -1917,17 +1916,17 @@
         25716.7109375,
         25304.060546875,
         25575.009765625,
-        25410.630859375
+        25410.630859375,
+        25266.529296875
       ],
-      "last": 25410.630859375,
-      "chg_pct": -0.6427325258383256,
-      "rsi14": 42.68024238406797,
-      "ma20": 25812.40166015625
+      "last": 25266.529296875,
+      "chg_pct": -0.5670916369509778,
+      "rsi14": 40.09066802085136,
+      "ma20": 25761.430078125
     },
     "ftse": {
       "live": true,
       "closes": [
-        10363.900390625,
         10219.099609375,
         10438.7001953125,
         10277.0,
@@ -2026,12 +2025,13 @@
         10816.099609375,
         10659.099609375,
         10739.0,
-        10705.2998046875
+        10705.2998046875,
+        10680.0
       ],
-      "last": 10705.2998046875,
-      "chg_pct": -0.3138112981888444,
-      "rsi14": 47.57276165072541,
-      "ma20": 10755.819873046876
+      "last": 10680.0,
+      "chg_pct": -0.23632971658039925,
+      "rsi14": 45.95457411936916,
+      "ma20": 10745.50986328125
     },
     "krw": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1373.6800537109375,
         1350.3599853515625,
         1362.5,
-        1367.75
+        1364.25
       ],
-      "last": 1367.75,
-      "chg_pct": 0.3853211009174312,
-      "rsi14": 46.763249694662406,
-      "ma20": 1359.7335021972656
+      "last": 1364.25,
+      "chg_pct": 0.12844036697247707,
+      "rsi14": 45.05381607853804,
+      "ma20": 1359.5585021972656
     },
     "jpy": {
       "live": true,
@@ -2244,17 +2244,16 @@
         157.36900329589844,
         157.46400451660156,
         158.26499938964844,
-        158.83999633789062
+        158.65699768066406
       ],
-      "last": 158.83999633789062,
-      "chg_pct": 0.3633127668528561,
-      "rsi14": 59.1450005562398,
-      "ma20": 156.5217498779297
+      "last": 158.65699768066406,
+      "chg_pct": 0.24768476449459628,
+      "rsi14": 58.32470641165847,
+      "ma20": 156.51259994506836
     },
     "copper": {
       "live": true,
       "closes": [
-        5.795000076293945,
         5.942999839782715,
         6.136499881744385,
         6.127500057220459,
@@ -2353,12 +2352,13 @@
         6.686500072479248,
         6.759500026702881,
         6.677999973297119,
-        6.776500225067139
+        6.718500137329102,
+        6.760000228881836
       ],
-      "last": 6.776500225067139,
-      "chg_pct": 1.474996288767386,
-      "rsi14": 59.75504946937379,
-      "ma20": 6.581750011444091
+      "last": 6.760000228881836,
+      "chg_pct": 0.6176987527640727,
+      "rsi14": 59.25629789214854,
+      "ma20": 6.587500023841858
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         2.8359999656677246,
         2.9649999141693115,
         3.0230000019073486,
-        3.2709999084472656
+        3.26200008392334
       ],
-      "last": 3.2709999084472656,
-      "chg_pct": 8.20376799151315,
-      "rsi14": 71.83884155321745,
-      "ma20": 2.924749994277954
+      "last": 3.26200008392334,
+      "chg_pct": 7.906056297227759,
+      "rsi14": 71.54990158592857,
+      "ma20": 2.9243000030517576
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         65.82499694824219,
         65.93199920654297,
         64.38200378417969,
-        64.2300033569336
+        64.37000274658203
       ],
-      "last": 64.2300033569336,
-      "chg_pct": -0.23609148257582527,
-      "rsi14": 46.8162302873104,
-      "ma20": 65.57574996948242
+      "last": 64.37000274658203,
+      "chg_pct": -0.018640360492484725,
+      "rsi14": 47.26849046325303,
+      "ma20": 65.58274993896484
     },
     "qqq": {
       "live": true,
@@ -3307,7 +3307,7 @@
       "form4_count_30d": 22
     },
     "AMZN": {
-      "form4_count_30d": 10
+      "form4_count_30d": 4
     },
     "META": {
       "form4_count_30d": 7
