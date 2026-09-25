@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-25T21:35:06.620601+00:00",
+  "updated_at": "2026-09-25T23:32:53.588870+00:00",
   "news": [
     {
       "title": "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms",
       "description": "The decision is the second in less than a month by an appeals court that states have a role in regulating sports-related event contracts.",
       "link": "https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
-      "pubDate": "Fri, 25 Sep 2026 21:06:24 GMT",
+      "pubDate": "Fri, 25 Sep 2026 23:28:42 GMT",
       "tag": "ndx",
       "title_ko": "주가 Kalshi의 스포츠 예측 시장을 규제할 수 있다는 항소 법원 규정은 플랫폼에 또 다른 법적 타격을 입힙니다.",
       "desc_ko": "이 결정은 주정부가 스포츠 관련 이벤트 계약을 규제하는 역할을 하는 항소 법원에 의해 한 달 이내에 두 번째입니다."
@@ -137,6 +137,15 @@
       "desc_ko": "버크셔는 버핏의 아들 하워드가 오랜 승계 계획에 따라 그를 회장으로 교체할 것이라고 말했다."
     },
     {
+      "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
+      "description": "The long-anticipated exit of the commissioner sometimes known as Crypto Mom is Oct. 2, announced as the agency was sending out its latest crypto work.",
+      "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
+      "pubDate": "Fri, 25 Sep 2026 22:17:38 +0000",
+      "tag": "btc",
+      "title_ko": "미국 증권거래위원회 (SEC) 의 가장 꾸준한 암호화폐 옹호자인 헤스터 피어스 (Hester Peirce) 가 다음 주에 떠납니다.",
+      "desc_ko": "Crypto Mom으로 알려진 커미셔너의 출구는 10 월 2 일이며, 기관이 최신 암호화 작업을 보내면서 발표되었습니다."
+    },
+    {
       "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
       "description": "A Sixth Circuit Court of Appeals panel ruled that prediction markets' sports-related events contracts are not swaps, and therefore aren't subject to federal regulatory oversight.",
       "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
@@ -261,15 +270,6 @@
       "tag": "btc",
       "title_ko": "뉴욕주가 불법 도박 행위를 하고 있다고 주장하며 폴리마켓을 고소합니다.",
       "desc_ko": "주정부는 Polymarket이 도박 면허 없이 운영되는 것을 차단하고 불법 이익을 회수하기를 원합니다."
-    },
-    {
-      "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
-      "description": "The Fed proposed rules on putting last year's GENIUS Act into place with regulations, including those governing stablecoin yield programs.",
-      "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
-      "pubDate": "Thu, 24 Sep 2026 22:28:49 +0000",
-      "tag": "btc",
-      "title_ko": "미국 연방준비제도 (Fed) 가 스테이블코인을 위한 GENIUS ACT를 시행하기 위한 제안에 나선다.",
-      "desc_ko": "연준은 스테이블코인 수익률 프로그램을 관리하는 것을 포함하여 작년 천재 법을 규제에 적용하는 규칙을 제안했다."
     },
     {
       "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
@@ -407,6 +407,42 @@
       "desc_ko": null
     },
     {
+      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+      "description": "&#x201c;Her younger son lives in the condo, but wants to move elsewhere with friends.&#x201d;",
+      "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+      "pubDate": "Fri, 25 Sep 2026 23:30:00 GMT",
+      "tag": "general",
+      "title_ko": "제 친구가 말기 질환을 앓고 있습니다. 임대 주택을 팔고 자본 이득으로 $ 100,000를 지불해야 합니까?",
+      "desc_ko": "\"어린 아들이 콘도에 살고 있지만 친구들과 함께 다른 곳으로 이사하고 싶어해요.\""
+    },
+    {
+      "title": "&#x2018;She says it&#x2019;s just money&#x2019;: My friend pays for everything. I should be grateful, but I can&#x2019;t stand her anymore.",
+      "description": "&#x201c;On each of these weekends away, she&#x2019;s probably spending $500.&#x201d;",
+      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "pubDate": "Fri, 25 Sep 2026 22:00:00 GMT",
+      "tag": "general",
+      "title_ko": "‘그녀는 단지 돈이라고 말합니다’: 내 친구는 모든 것을 지불합니다. 고마워해야 하는데 더 이상 참을 수가 없다.",
+      "desc_ko": "\"주말마다 $ 500를 쓰고 있을 거예요.\""
+    },
+    {
+      "title": "A &#x2018;death cross&#x2019; is coming for the dollar. Why Trump will be happy.",
+      "description": "Don&#x2019;t look now, but there are some technical reasons to believe that U.S. Treasury Secretary Scott Bessent was right when he declared to the financial markets that &#x201c;I am the house now.&#x201d;",
+      "link": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
+      "pubDate": "Fri, 25 Sep 2026 21:57:00 GMT",
+      "tag": "general",
+      "title_ko": "달러에 ‘죽음의 십자가’ 가 다가오고 있다. 트럼프가 행복할 이유.",
+      "desc_ko": "지금 보지 마세요. 하지만 스콧 베슨트 미국 재무장관이 금융 시장에 \"나는 지금의 집\" 이라고 선언했을 때 옳았다고 믿을 만한 기술적 이유가 있습니다."
+    },
+    {
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "description": "&#x201c;We have no debt and own our primary home, a vacation home, as well as my mother&#x2019;s home in another state.&#x201d;",
+      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "pubDate": "Fri, 25 Sep 2026 21:45:00 GMT",
+      "tag": "general",
+      "title_ko": "남편과 저는 50대이고 아이가 없습니다. 우리는 IRA에 $ 2 백만과 401 (k) s를 가지고 있습니다. 유언장이 꼭 필요한가요?",
+      "desc_ko": "\"우리는 빚이 없으며 주 주택, 별장, 다른 주에 있는 어머니의 집을 소유하고 있습니다.\""
+    },
+    {
       "title": "Microsoft&#x2019;s stock has roared back to life, closing at its highest level of the year",
       "description": "Microsoft shares got off to a rough start this year, but investors have warmed to the company&#x2019;s AI narrative over the last few months.",
       "link": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
@@ -459,42 +495,6 @@
       "tag": "general",
       "title_ko": "이러한 위험 요소는 일부 노인들이 사기에 더 취약한 이유를 설명할 수 있습니다.",
       "desc_ko": "범죄자들은 정교한 기술을 사용하여 피해자에게 깊은 감정적 애착을 형성합니다."
-    },
-    {
-      "title": "Trump&#x2019;s ban on Canadian alcohol starts Tuesday, but these well-known brands will avoid it",
-      "description": "Labatt and Molson beers and Fireball shots won&#x2019;t disappear in the U.S. &#x2014; here&#x2019;s why",
-      "link": "https://www.marketwatch.com/story/trumps-ban-on-canadian-alcohol-starts-tuesday-but-these-well-known-brands-will-avoid-it-89c2e5c5?mod=mw_rss_topstories",
-      "pubDate": "Fri, 25 Sep 2026 19:45:00 GMT",
-      "tag": "general",
-      "title_ko": "트럼프의 캐나다 주류 금지는 화요일에 시작되지만, 이 유명 브랜드들은 이를 피할 것입니다.",
-      "desc_ko": "미국에서 라바트와 몰슨 맥주와 파이어볼 샷이 사라지지 않는 이유는 다음과 같습니다."
-    },
-    {
-      "title": "I&#x2019;m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-      "description": "&#x201c;I am a retired senior citizen living check-to-check.&#x201d;",
-      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-      "pubDate": "Fri, 25 Sep 2026 19:30:00 GMT",
-      "tag": "general",
-      "title_ko": "저는 77세이고, 집세를 내고 사회보장연금으로 생활하지만, 노숙자들을 돕고 있습니다. 왜 이렇게 많은 사람들이 배가 고픈 걸까요?",
-      "desc_ko": "“저는 체크 투 체크를 하는 은퇴한 노인입니다.”"
-    },
-    {
-      "title": "Nike&#x2019;s stock is one of the worst in the S&amp;P 500 &#x2014; and BofA says it&#x2019;s not done sliding",
-      "description": "BofA analysts say they now expect falling sales through May, dashing prior hopes for a &#x201c;spring inflection.&#x201d;",
-      "link": "https://www.marketwatch.com/story/nikes-stock-is-one-of-the-worst-in-the-s-p-500-and-bofa-says-its-not-done-sliding-c99a9107?mod=mw_rss_topstories",
-      "pubDate": "Fri, 25 Sep 2026 18:54:00 GMT",
-      "tag": "general",
-      "title_ko": "나이키의 주식은 S&amp;P 500에서 최악 중 하나이며, BofA는 슬라이딩이 완료되지 않았다고 말합니다.",
-      "desc_ko": "BofA 분석가들은 이제 5월까지 매출이 하락할 것으로 예상하며 \"봄의 굴곡\" 에 대한 이전의 희망을 과시하고 있다고 말합니다."
-    },
-    {
-      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
-      "description": "&#x201c;Her younger son lives in the condo, but wants to move elsewhere with friends.&#x201d;",
-      "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
-      "pubDate": "Fri, 25 Sep 2026 18:45:00 GMT",
-      "tag": "general",
-      "title_ko": "제 친구가 말기 질환을 앓고 있습니다. 임대 주택을 팔고 자본 이득으로 $ 100,000를 지불해야 합니까?",
-      "desc_ko": "\"어린 아들이 콘도에 살고 있지만 친구들과 함께 다른 곳으로 이사하고 싶어해요.\""
     }
   ],
   "assets": {
@@ -1818,6 +1818,7 @@
     "dax": {
       "live": true,
       "closes": [
+        24338.630859375,
         24350.279296875,
         23954.9296875,
         24136.810546875,
@@ -1916,17 +1917,17 @@
         25575.009765625,
         25578.849609375,
         25410.630859375,
-        25266.529296875,
-        25408.640625
+        25266.529296875
       ],
-      "last": 25408.640625,
-      "chg_pct": 0.562448947598737,
-      "rsi14": 43.59874631740727,
-      "ma20": 25663.94306640625
+      "last": 25266.529296875,
+      "chg_pct": -0.5670916369509778,
+      "rsi14": 39.73394352893389,
+      "ma20": 25722.010546875
     },
     "ftse": {
       "live": true,
       "closes": [
+        10438.7001953125,
         10277.0,
         10233.099609375,
         10269.400390625,
@@ -2025,13 +2026,12 @@
         10739.0,
         10708.2998046875,
         10705.2998046875,
-        10680.0,
-        10695.25
+        10680.0
       ],
-      "last": 10695.25,
-      "chg_pct": 0.14279026217228463,
-      "rsi14": 47.07450931987538,
-      "ma20": 10732.157373046875
+      "last": 10680.0,
+      "chg_pct": -0.23632971658039925,
+      "rsi14": 45.81961688954216,
+      "ma20": 10737.019873046875
     },
     "krw": {
       "live": true,
@@ -3587,7 +3587,7 @@
       "form4_count_30d": 0
     },
     "QCOM": {
-      "form4_count_30d": 3
+      "form4_count_30d": 4
     },
     "TXN": {
       "form4_count_30d": 3
