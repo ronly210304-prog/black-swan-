@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-26T01:59:08.968745+00:00",
+  "updated_at": "2026-09-26T07:20:12.142021+00:00",
   "news": [
+    {
+      "title": "Why Xi believes the U.S. and China can overcome the &apos;Thucydides Trap&apos;",
+      "description": "In May, Chinese President Xi Jinping asked U.S. President Donald Trump whether the countries could avoid destructive rivalry. Now, it seems, he thinks they can",
+      "link": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html",
+      "pubDate": "Sat, 26 Sep 2026 05:00:01 GMT",
+      "tag": "ndx",
+      "title_ko": "시 주석이 미국과 중국이 '투키디데스의 함정' 을 극복할 수 있다고 믿는 이유",
+      "desc_ko": "지난 5월 시진핑 (習 近 平) 중국 국가주석은 도널드 트럼프 미국 대통령에게 국가들이 파괴적인 경쟁을 피할 수 있는지 물었다. 이제 그는 그들이 할 수 있다고 생각하는 것 같습니다."
+    },
     {
       "title": "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms",
       "description": "The decision is the second in less than a month by an appeals court that states have a role in regulating sports-related event contracts.",
@@ -128,13 +137,31 @@
       "desc_ko": "양 회장은 이번 주 금리인상 결정에 대해 설명하고, 앞으로의 행보에 대해 성가신 의문을 제기했다."
     },
     {
-      "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: &apos;Father Time always wins&apos;",
-      "description": "Buffett's son Howard will replace him as chairman, as dictated by a long-standing succession plan, Berkshire said.",
-      "link": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
-      "pubDate": "Fri, 18 Sep 2026 12:04:02 GMT",
-      "tag": "ndx",
-      "title_ko": "워렌 버핏은 버크셔 해서웨이 회장직에서 물러난다: '아버지 시간은 언제나 승리한다'",
-      "desc_ko": "버크셔는 버핏의 아들 하워드가 오랜 승계 계획에 따라 그를 회장으로 교체할 것이라고 말했다."
+      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+      "description": "Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches.",
+      "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+      "pubDate": "Sat, 26 Sep 2026 05:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "Solana의 150밀리초 정산 업그레이드가 두 번째 공개 테스트 네트워크에 도달했습니다.",
+      "desc_ko": "Alpenglow는 두 공용 테스트 네트워크에서 실행 중이며, 라이브 블록 체인이 전환되기 전에 애플리케이션 팀이 소프트웨어를 확인할 수 있는 공간을 제공합니다."
+    },
+    {
+      "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+      "description": "The feature would let users bundle up to eight transactions, including asset-and-payment transfers, but a brief drop below the network’s 80% support threshold restarted its two-week activation clock.",
+      "link": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+      "pubDate": "Sat, 26 Sep 2026 04:30:00 +0000",
+      "tag": "btc",
+      "title_ko": "검증인 지원 재설정 후 XRP 원장의 배치 업그레이드가 10월 9일로 미끄러짐",
+      "desc_ko": "이 기능을 통해 사용자는 자산 및 결제 이체를 포함하여 최대 8개의 거래를 번들로 제공할 수 있지만 네트워크의 80% 지원 임계값 아래로 잠시 떨어지면 2주 활성화 시계가 다시 시작되었습니다."
+    },
+    {
+      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "description": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
+      "link": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+      "pubDate": "Sat, 26 Sep 2026 04:02:13 +0000",
+      "tag": "btc",
+      "title_ko": "비트코인은 규칙을 변경하지 않고 곧 Zcash 스타일의 '보호된' 프라이버시를 얻을 수 있습니다",
+      "desc_ko": "연구자들은 비트코인과 함께 실행되는 개인 비트코인 표시 전송을 매핑했지만, 시스템은 여전히 실제 BTC를 잠그고 다시 해제할 수 있는 완성된 방법이 부족합니다."
     },
     {
       "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
@@ -243,33 +270,6 @@
       "tag": "btc",
       "title_ko": "KelpDAO가 LayerZero에 소송을 제기하여 지금까지 2026이 경험한 가장 큰 공격을 받았습니다.",
       "desc_ko": "크로스 체인 대출 프로토콜은 LayerZero와 공동 설립자 Brian Pellegrino가 프로토콜의 약점을 공개하지 않았다고 비난하여 $ 292,000,000 해킹으로 이어졌습니다."
-    },
-    {
-      "title": "Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress",
-      "description": "Separate reports from Axios and CBS suggest some positive movement in U.S.-Iran negotiations.",
-      "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
-      "pubDate": "Fri, 25 Sep 2026 07:09:11 +0000",
-      "tag": "btc",
-      "title_ko": "실시간 업데이트: 비트코인이 $ 84,000로 이동, 중동 진전의 최신 보고서에 대한 오일 슬라이드",
-      "desc_ko": "Axios와 CBS의 별도의 보고서는 미국-이란 협상에서 긍정적인 움직임을 시사합니다."
-    },
-    {
-      "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
-      "description": "Bitget lost $351.6 million after attackers compromised a wallet backend, spoofed transaction data, Chen said on X.",
-      "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
-      "pubDate": "Fri, 25 Sep 2026 04:29:34 +0000",
-      "tag": "btc",
-      "title_ko": "CEO Gracy Chen은 Bitget의 $ 352 million 해킹은 개인 키가 아닌 스푸핑된 전송을 통해 발생했다고 말합니다.",
-      "desc_ko": "Chen은 X에서 공격자가 지갑 백엔드, 스푸핑된 트랜잭션 데이터를 손상시킨 후 Bitget이 $ 351.6 백만을 잃었다고 말했습니다."
-    },
-    {
-      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
-      "description": "The state wants to block Polymarket from operating without a gambling license and recover allegedly illegal gains.",
-      "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
-      "pubDate": "Thu, 24 Sep 2026 22:41:44 +0000",
-      "tag": "btc",
-      "title_ko": "뉴욕주가 불법 도박 행위를 하고 있다고 주장하며 폴리마켓을 고소합니다.",
-      "desc_ko": "주정부는 Polymarket이 도박 면허 없이 운영되는 것을 차단하고 불법 이익을 회수하기를 원합니다."
     },
     {
       "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
@@ -609,12 +609,12 @@
         30732.400390625,
         30470.2890625,
         30478.859375,
-        30608.134765625
+        30608.130859375
       ],
-      "last": 30608.134765625,
-      "chg_pct": 0.4241477314962676,
-      "rsi14": 64.72028818396605,
-      "ma20": 29620.59326171875
+      "last": 30608.130859375,
+      "chg_pct": 0.4241349152358166,
+      "rsi14": 64.72024712007678,
+      "ma20": 29620.59306640625
     },
     "es": {
       "live": true,
@@ -718,12 +718,12 @@
         7831.75,
         7772.5,
         7767.0,
-        7805.75
+        7803.75
       ],
-      "last": 7805.75,
-      "chg_pct": 0.49890562636796704,
-      "rsi14": 59.098909265873814,
-      "ma20": 7693.892504882812
+      "last": 7803.75,
+      "chg_pct": 0.4731556585554268,
+      "rsi14": 58.97112390598075,
+      "ma20": 7693.792504882813
     },
     "nq": {
       "live": true,
@@ -827,12 +827,12 @@
         31028.5,
         30764.75,
         30766.75,
-        30921.75
+        30889.25
       ],
-      "last": 30921.75,
-      "chg_pct": 0.5037906181185858,
-      "rsi14": 66.66653532771468,
-      "ma20": 29715.696484375
+      "last": 30889.25,
+      "chg_pct": 0.3981571014163017,
+      "rsi14": 66.36283645928621,
+      "ma20": 29714.071484375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4376.39990234375,
         4318.39990234375,
         4298.0,
-        4320.5
+        4321.2001953125
       ],
-      "last": 4320.5,
-      "chg_pct": 0.5234993020009306,
-      "rsi14": 42.719430516881275,
-      "ma20": 4407.439965820313
+      "last": 4321.2001953125,
+      "chg_pct": 0.5397904912168451,
+      "rsi14": 42.79619172445957,
+      "ma20": 4407.4749755859375
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         94.58999633789062,
         92.16000366210938,
         94.61000061035156,
-        92.44000244140625
+        92.41000366210938
       ],
-      "last": 92.44000244140625,
-      "chg_pct": -2.2936245163789657,
-      "rsi14": 48.942406693689655,
-      "ma20": 95.31100158691406
+      "last": 92.41000366210938,
+      "chg_pct": -2.3253323475842778,
+      "rsi14": 48.89395631885601,
+      "ma20": 95.30950164794922
     },
     "zn": {
       "live": true,
@@ -1154,12 +1154,12 @@
         106.0,
         105.03125,
         104.859375,
-        104.96875
+        104.859375
       ],
-      "last": 104.96875,
-      "chg_pct": 0.10430636268812397,
-      "rsi14": 25.21972378187108,
-      "ma20": 106.6609375
+      "last": 104.859375,
+      "chg_pct": 0.0,
+      "rsi14": 23.12084511234812,
+      "ma20": 106.65546875
     },
     "dxy": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.5999984741211,
         101.0999984741211,
         101.29000091552734,
-        101.03500366210938
+        100.97000122070312
       ],
-      "last": 101.03500366210938,
-      "chg_pct": -0.2517496802380606,
-      "rsi14": 66.42113730603235,
-      "ma20": 99.83274955749512
+      "last": 100.97000122070312,
+      "chg_pct": -0.31592426886350644,
+      "rsi14": 65.15431291070455,
+      "ma20": 99.82949943542481
     },
     "vix": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1350.3599853515625,
         1362.5,
         1367.3599853515625,
-        1355.280029296875
+        1354.4000244140625
       ],
-      "last": 1355.280029296875,
-      "chg_pct": -0.8834510431853553,
-      "rsi14": 41.735133318231824,
-      "ma20": 1358.6225036621095
+      "last": 1354.4000244140625,
+      "chg_pct": -0.9478089951687345,
+      "rsi14": 41.42139332464537,
+      "ma20": 1358.5785034179687
     },
     "jpy": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.759500026702881,
         6.677999973297119,
         6.718500137329102,
-        6.7789998054504395
+        6.695499897003174
       ],
-      "last": 6.7789998054504395,
-      "chg_pct": 0.9004936650249018,
-      "rsi14": 60.01752527958013,
-      "ma20": 6.588450002670288
+      "last": 6.695499897003174,
+      "chg_pct": -0.34234188964490125,
+      "rsi14": 56.136688695179004,
+      "ma20": 6.584275007247925
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         2.9649999141693115,
         3.0230000019073486,
         3.296999931335449,
-        3.250999927520752
+        3.196000099182129
       ],
-      "last": 3.250999927520752,
-      "chg_pct": -1.3952079093937066,
-      "rsi14": 68.89899490215385,
-      "ma20": 2.943249988555908
+      "last": 3.196000099182129,
+      "chg_pct": -3.063385934388247,
+      "rsi14": 64.90078377470599,
+      "ma20": 2.940499997138977
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         65.93199920654297,
         64.38200378417969,
         63.457000732421875,
-        64.70999908447266
+        64.24500274658203
       ],
-      "last": 64.70999908447266,
-      "chg_pct": 1.974562834027217,
-      "rsi14": 48.937832377434695,
-      "ma20": 65.30114974975587
+      "last": 64.24500274658203,
+      "chg_pct": 1.2417889359172707,
+      "rsi14": 47.36878748686742,
+      "ma20": 65.27789993286133
     },
     "qqq": {
       "live": true,
@@ -3762,6 +3762,12 @@
     "vix": {
       "name": "VIX",
       "chg_pct": -5.105297937714296,
+      "category": "other",
+      "threshold": 3.0
+    },
+    "natgas": {
+      "name": "천연가스",
+      "chg_pct": -3.063385934388247,
       "category": "other",
       "threshold": 3.0
     },
