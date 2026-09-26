@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-26T12:19:09.888391+00:00",
+  "updated_at": "2026-09-26T16:33:46.254906+00:00",
   "news": [
+    {
+      "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
+      "description": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy.",
+      "link": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
+      "pubDate": "Sat, 26 Sep 2026 15:00:01 GMT",
+      "tag": "ndx",
+      "title_ko": "이는 AI 노출을 높이고자 하는 투자자들에게 ‘빠진 부분’ 일 수 있습니다.",
+      "desc_ko": "Matthews 아시아 포트폴리오 매니저 Andrew Mattock은 세계에서 두 번째로 큰 경제를 중심으로 한 전략을 제공합니다."
+    },
+    {
+      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+      "description": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
+      "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+      "pubDate": "Sat, 26 Sep 2026 13:30:06 GMT",
+      "tag": "ndx",
+      "title_ko": "10년 국채 수익률은 거의 20년 만에 가장 높습니다. 어떻게 여기까지 오게 되었나요?",
+      "desc_ko": "벤치마크 수익률은 끈적한 인플레이션, 과도한 채권 발행 및 AI 연료 투자 호황으로 인해 19년 만에 최고치로 상승했습니다."
+    },
     {
       "title": "Why Xi believes the U.S. and China can overcome the &apos;Thucydides Trap&apos;",
       "description": "In May, Chinese President Xi Jinping asked U.S. President Donald Trump whether the countries could avoid destructive rivalry. Now, it seems, he thinks they can",
@@ -119,22 +137,31 @@
       "desc_ko": "JP모건 CEO 제이미 다이먼 (Jamie Dimon) 은 하이퍼스케일러 생태계 전반에 걸친 AI 지출이 투자가 계속 증가함에 따라 내년에 1조 달러 ($) 에 이를 수 있다고 말합니다."
     },
     {
-      "title": "‘It&apos;s awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-      "description": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
-      "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-      "pubDate": "Mon, 21 Sep 2026 15:04:04 GMT",
-      "tag": "ndx",
-      "title_ko": "‘끔찍하다’: 관세, 급증하는 연료비 및 높은 금리가 미국 기업을 압박하는 방법",
-      "desc_ko": "관세, 연료 가격 및 금리는 미국 기업, 특히 제조업체, 자동차 공급 업체, 소매 업체 및 운송 사업을 압박하고 있습니다."
+      "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+      "description": "Kraken parent Payward is unifying trading, payments, asset management and institutional services on common rails, co-CEO Arjun Sethi said.",
+      "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
+      "pubDate": "Sat, 26 Sep 2026 14:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "크라켄의 모회사 페이워드는 단순한 암호화폐 거래소가 아니라 금융 인프라가 되는 데 수십억 달러를 베팅하고 있습니다.",
+      "desc_ko": "공동 CEO 아르준 세티 (Arjun Sethi) 는 크라켄 모회사 페이워드 (Payward) 가 트레이딩, 결제, 자산 관리 및 기관 서비스를 공통 레일에서 통합하고 있다고 말했다."
     },
     {
-      "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
-      "description": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
-      "link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
-      "pubDate": "Fri, 18 Sep 2026 18:28:31 GMT",
-      "tag": "ndx",
-      "title_ko": "케빈 워시 (Kevin Warsh) 의 세 단어는 월스트리트가 연준이 금리 인상으로 얼마나 멀리 갈지 궁금해합니다.",
-      "desc_ko": "양 회장은 이번 주 금리인상 결정에 대해 설명하고, 앞으로의 행보에 대해 성가신 의문을 제기했다."
+      "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+      "description": "The five-year deal could strengthen USDC’s reach in emerging markets, though Tether’s liquidity advantage remains hard to dislodge, analysts told CoinDesk.",
+      "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+      "pubDate": "Sat, 26 Sep 2026 13:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "애널리스트들은 바이낸스 거래를 통해 서클이 테더와 함께 스테이블코인 레이스에서 부스트를 제공한다고 말한다.",
+      "desc_ko": "애널리스트들은 테더의 유동성 우위는 여전히 이탈하기 어렵지만 5년간의 거래는 신흥 시장에서 USDC의 도달 범위를 강화할 수 있다고 코인데스크에 말했다."
+    },
+    {
+      "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+      "description": "Two wallets have been almost emptied and a third is being drained, with about $75 million remaining across the five original holding accounts.",
+      "link": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
+      "pubDate": "Sat, 26 Sep 2026 12:56:41 +0000",
+      "tag": "btc",
+      "title_ko": "Bitget 해커가 Ripple이 동결할 수 없는 도난당한 XRP로 $ 8,300만 이동",
+      "desc_ko": "두 개의 지갑이 거의 비워졌고 세 번째 지갑은 소모되고 있으며, 원래 보유 계정 5개에 약 $ 75,000,000가 남아 있습니다."
     },
     {
       "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
@@ -245,33 +272,6 @@
       "desc_ko": "2026년 9월 25일을 하루 앞당겨 살펴보기"
     },
     {
-      "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
-      "description": "Quant jumped 39% over 24 hours and 93 of 100 CoinDesk 100 constituents rose, with the altcoin season index at its highest in more than three months.",
-      "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
-      "pubDate": "Fri, 25 Sep 2026 09:59:45 +0000",
-      "tag": "btc",
-      "title_ko": "비트코인이 $ 84,000 근처에서 통합됨에 따라 Altcoins가 전반적으로 집결합니다",
-      "desc_ko": "퀀트는 24시간 동안 39% 뛰었고 코인데스크 100 구성 요소 100개 중 93개가 상승했으며, 알트코인 시즌 지수는 3개월 이상 최고를 기록했습니다."
-    },
-    {
-      "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
-      "description": "At one point in July, ETFs were down $5.8 billion in net outflows for the year. Now, that’s turned into $800 million in net inflows.",
-      "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
-      "pubDate": "Fri, 25 Sep 2026 09:13:01 +0000",
-      "tag": "btc",
-      "title_ko": "비트코인 ETF 흐름은 $ 58억 적자를 지운 후 2026년에는 긍정적으로 바뀝니다",
-      "desc_ko": "7월 한 시점에서 상장지수펀드 (ETF) 는 올해 순유출액에서 58억 $ 하락했다. 이제 순유입액이 8억 달러 ($) 가 되었습니다."
-    },
-    {
-      "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
-      "description": "The cross-chain lending protocol accused LayerZero and its co-founder Brian Pellegrino of failing to disclose weaknesses in their protocol, which led to the $292 million hack.",
-      "link": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
-      "pubDate": "Fri, 25 Sep 2026 08:58:03 +0000",
-      "tag": "btc",
-      "title_ko": "KelpDAO가 LayerZero에 소송을 제기하여 지금까지 2026이 경험한 가장 큰 공격을 받았습니다.",
-      "desc_ko": "크로스 체인 대출 프로토콜은 LayerZero와 공동 설립자 Brian Pellegrino가 프로토콜의 약점을 공개하지 않았다고 비난하여 $ 292,000,000 해킹으로 이어졌습니다."
-    },
-    {
       "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
       "description": "",
       "link": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html",
@@ -349,7 +349,7 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
       "pubDate": "2026-09-23T04:24:33Z",
       "tag": "general",
-      "title_ko": null,
+      "title_ko": "팻 겔싱어 (Pat Gelsinger) 는 엔비디아의 AI 네트워킹 해자 (AI Networking Moat) 에 대한 1억 달러 ($) 의 도전을 후원했습니다. AMD는 혜택을 누릴 수 있습니다.",
       "desc_ko": null
     },
     {
@@ -358,7 +358,7 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/lumentum-jumped-nearly-10-while-041957023.html",
       "pubDate": "2026-09-23T04:19:57Z",
       "tag": "general",
-      "title_ko": null,
+      "title_ko": "코닝이 간신히 움직이는 동안 루멘텀은 10% 가까이 뛰어올랐습니다. AI 광학 무역은 분리되어 있습니까?",
       "desc_ko": null
     },
     {
@@ -367,7 +367,7 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html",
       "pubDate": "2026-09-23T04:17:10Z",
       "tag": "general",
-      "title_ko": null,
+      "title_ko": "인텔 (INTC) 은 Altera에 대한 새로운 가치를 얻을 수 있습니다. AMD (AMD) 는 지켜봐야 할 라이벌입니다",
       "desc_ko": null
     },
     {
@@ -376,7 +376,7 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/why-autozone-stock-rallied-today-020051614.html",
       "pubDate": "2026-09-23T02:00:51Z",
       "tag": "general",
-      "title_ko": null,
+      "title_ko": "AutoZone 주가가 오늘 상승한 이유",
       "desc_ko": null
     },
     {
@@ -385,7 +385,7 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/why-bernstein-still-sees-46-041316215.html",
       "pubDate": "2026-09-23T04:13:16Z",
       "tag": "general",
-      "title_ko": null,
+      "title_ko": "번스타인이 Z스케일러 (ZS) 에서 여전히 46% 의 우위를 보이지만 팔로알토 (PANW) 는 하향 조정된 이유",
       "desc_ko": null
     },
     {
@@ -394,7 +394,7 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/clippy-benioff-uses-salesforce-biggest-044653952.html",
       "pubDate": "2026-09-23T04:46:53Z",
       "tag": "general",
-      "title_ko": null,
+      "title_ko": "\"새로운 클리피\": 베니오프는 Microsoft에 도전하기 위해 수년 내 Salesforce의 가장 큰 제품 출시를 사용합니다.",
       "desc_ko": null
     },
     {
@@ -403,98 +403,98 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-wall-street-tests-040747520.html",
       "pubDate": "2026-09-23T04:07:47Z",
       "tag": "general",
-      "title_ko": null,
+      "title_ko": "나이키 (NKE): 월스트리트는 턴어라운드가 1분기 실적을 앞두고 약한 수요를 능가할 수 있는지 테스트합니다.",
       "desc_ko": null
     },
     {
-      "title": "Why bond-market volatility hasn&#x2019;t spilled over into stocks",
-      "description": "The bond market has a reputation for being boring. But lately, it has been the source of much of the action in the U.S.",
-      "link": "https://www.marketwatch.com/story/why-bond-market-volatility-hasnt-spilled-over-into-stocks-f156b24a?mod=mw_rss_topstories",
-      "pubDate": "Sat, 26 Sep 2026 12:00:00 GMT",
+      "title": "Choosing these AI-exposed college majors could dent your job prospects &#x2014; and lower your pay",
+      "description": "At a time when many college students say they are rethinking their academic focus because of AI, new findings supply hard data on the potential costs of these decisions.",
+      "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
+      "pubDate": "Sat, 26 Sep 2026 16:22:00 GMT",
       "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
+      "title_ko": "AI에 노출된 대학 전공을 선택하면 취업 전망을 떨어뜨리고 급여를 낮출 수 있습니다.",
+      "desc_ko": "많은 대학생들이 인공지능 때문에 학문적 초점을 재고하고 있다고 말할 때, 새로운 연구 결과는 이러한 결정의 잠재적 비용에 대한 하드 데이터를 제공합니다."
     },
     {
-      "title": "&#x2018;We lived within our means&#x2019;: I earned $30,000 as a pastor and still retired comfortably. Why don&#x2019;t you tell people that?",
-      "description": "&#x201c;As a country, we have grown dangerously comfortable.&#x201d;",
-      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "pubDate": "Sat, 26 Sep 2026 12:00:00 GMT",
+      "title": "Tax-free bond yields are in a sweet spot. Get in before it&#x2019;s too late.",
+      "description": "Yields on municipal bonds &#x2014; adjusted for taxable-equivalent comparisons &#x2014; have widened dramatically over those of corporate bonds over the past two months.",
+      "link": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
+      "pubDate": "Sat, 26 Sep 2026 15:48:00 GMT",
       "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
-    },
-    {
-      "title": "Meta turned Muse into a viral hit. Now comes the hard part.",
-      "description": "Meta is quickly racking up downloads for its Muse AI assistant, but the next step for Mark Zuckerberg is getting users to make the agent part of their everyday routines.",
-      "link": "https://www.marketwatch.com/story/meta-turned-muse-into-a-viral-hit-now-comes-the-hard-part-fb3177a8?mod=mw_rss_topstories",
-      "pubDate": "Sat, 26 Sep 2026 11:00:00 GMT",
-      "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
-    },
-    {
-      "title": "I&#x2019;m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-      "description": "&#x201c;I am a retired senior citizen living check-to-check.&#x201d;",
-      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-      "pubDate": "Sat, 26 Sep 2026 00:00:00 GMT",
-      "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
-    },
-    {
-      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
-      "description": "&#x201c;Her younger son lives in the condo, but wants to move elsewhere with friends.&#x201d;",
-      "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
-      "pubDate": "Fri, 25 Sep 2026 23:30:00 GMT",
-      "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
+      "title_ko": "비과세 채권 수익률은 좋은 위치에 있습니다. 늦기 전에 입장하세요.",
+      "desc_ko": "과세 균등 비교를 위해 조정된 지방채 수익률은 지난 두 달 동안 회사채 수익률보다 크게 확대되었습니다."
     },
     {
       "title": "&#x2018;She says it&#x2019;s just money&#x2019;: My friend pays for everything. I should be grateful, but I can&#x2019;t stand her anymore.",
       "description": "&#x201c;On each of these weekends away, she&#x2019;s probably spending $500.&#x201d;",
       "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-      "pubDate": "Fri, 25 Sep 2026 22:00:00 GMT",
+      "pubDate": "Sat, 26 Sep 2026 15:30:00 GMT",
       "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
+      "title_ko": "‘그녀는 단지 돈이라고 말합니다’: 내 친구는 모든 것을 지불합니다. 고마워해야 하는데 더 이상 참을 수가 없다.",
+      "desc_ko": "\"주말마다 $ 500를 쓰고 있을 거예요.\""
     },
     {
-      "title": "A &#x2018;death cross&#x2019; is coming for the dollar. Why Trump will be happy.",
-      "description": "Don&#x2019;t look now, but there are some technical reasons to believe that U.S. Treasury Secretary Scott Bessent was right when he declared to the financial markets that &#x201c;I am the house now.&#x201d;",
-      "link": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
-      "pubDate": "Fri, 25 Sep 2026 21:57:00 GMT",
+      "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
+      "description": "The changes will cut about $1 trillion from federal Medicaid spending over 10 years.",
+      "link": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
+      "pubDate": "Sat, 26 Sep 2026 15:30:00 GMT",
       "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
+      "title_ko": "새로운 업무 규칙이 시작되면 수백만 명이 Medicaid를 잃게 됩니다. 이 그룹이 가장 큰 타격을 입을 것입니다.",
+      "desc_ko": "이번 변경으로 10년 동안 연방 메디케이드 지출에서 약 1조 $ 가 삭감됩니다."
+    },
+    {
+      "title": "&#x2018;We lived within our means&#x2019;: I earned $30,000 as a pastor and still retired comfortably. Why don&#x2019;t you tell people that?",
+      "description": "&#x201c;As a country, we have grown dangerously comfortable.&#x201d;",
+      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "pubDate": "Sat, 26 Sep 2026 15:30:00 GMT",
+      "tag": "general",
+      "title_ko": "‘우리는 우리의 수단으로 살았습니다.’: 나는 목사로서 $ 30,000를 벌었고 여전히 편안하게 은퇴했습니다. 사람들에게 그렇게 말하면 어떨까요?",
+      "desc_ko": "\"한 국가로서 우리는 위험할 정도로 편안해졌습니다.\""
+    },
+    {
+      "title": "Do this one thing to help prevent your parents from being scammed",
+      "description": "&#x201c;I felt like I was talking to a robot,&#x201d; said one adviser about a client who was ensnared in a romance scam.",
+      "link": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
+      "pubDate": "Sat, 26 Sep 2026 15:04:00 GMT",
+      "tag": "general",
+      "title_ko": "부모님이 사기를 당하는 것을 막기 위해 한 가지 조치를 취하세요.",
+      "desc_ko": "한 고문은 로맨스 사기에 휩싸인 고객에 대해 \"로봇과 이야기하는 것 같았다\" 고 말했다."
     },
     {
       "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
       "description": "&#x201c;We have no debt and own our primary home, a vacation home, as well as my mother&#x2019;s home in another state.&#x201d;",
       "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "pubDate": "Fri, 25 Sep 2026 21:45:00 GMT",
+      "pubDate": "Sat, 26 Sep 2026 15:00:00 GMT",
       "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
+      "title_ko": "남편과 저는 50대이고 아이가 없습니다. 우리는 IRA에 $ 2 백만과 401 (k) s를 가지고 있습니다. 유언장이 꼭 필요한가요?",
+      "desc_ko": "\"우리는 빚이 없으며 주 주택, 별장, 다른 주에 있는 어머니의 집을 소유하고 있습니다.\""
     },
     {
-      "title": "Microsoft&#x2019;s stock has roared back to life, closing at its highest level of the year",
-      "description": "Microsoft shares got off to a rough start this year, but investors have warmed to the company&#x2019;s AI narrative over the last few months.",
-      "link": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
-      "pubDate": "Fri, 25 Sep 2026 21:04:00 GMT",
+      "title": "I&#x2019;m afraid of &#x2018;starving to death.&#x2019; Social Security stopped our checks due to a hacked bank account. What can we do?",
+      "description": "&#x201c;We are relying on our church for our current needs.&#x201d;",
+      "link": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
+      "pubDate": "Sat, 26 Sep 2026 14:44:00 GMT",
       "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
+      "title_ko": "굶어 죽을까 봐 두렵다. ’소셜 시큐리티가 해킹된 은행 계좌로 인해 수표를 중단했습니다. 어떻게 해야 할까요?",
+      "desc_ko": "“우리는 현재의 필요를 위해 교회에 의존하고 있습니다.”"
     },
     {
-      "title": "Apple&#x2019;s expensive new iPhones could be a double-edged sword for the company",
-      "description": "Bernstein analysts suggest Wall Street isn&#x2019;t properly modeling the extent to which gross margins, a profit metric, could take a hit due to the rising costs of smartphone components.",
-      "link": "https://www.marketwatch.com/story/apples-expensive-new-iphones-could-be-a-double-edged-sword-for-the-company-21c4fefb?mod=mw_rss_topstories",
-      "pubDate": "Fri, 25 Sep 2026 20:37:00 GMT",
+      "title": "I spend my time and money caring for my aging mother &#x2014; yet she gave my brother $100,000. Should I pull back?",
+      "description": "&#x201c;My mother started having more trouble getting around. First a knee replacement, then a fall.&#x201d;",
+      "link": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
+      "pubDate": "Sat, 26 Sep 2026 14:30:00 GMT",
       "tag": "general",
-      "title_ko": null,
-      "desc_ko": null
+      "title_ko": "저는 노령의 어머니를 돌보는 데 시간과 돈을 씁니다. 하지만 어머니는 제 동생에게 $ 100,000를 주셨습니다. 물러나야 할까요?",
+      "desc_ko": "“어머니는 돌아다니는 데 어려움을 겪기 시작하셨어요. 먼저 무릎을 교체한 다음 넘어집니다.”"
+    },
+    {
+      "title": "A new bill in Congress would lower the retirement age to 60. See who would qualify.",
+      "description": "A new bill calling for lowering Social Security&#x2019;s full retirement age from 67 to 60 for workers in physically demanding jobs could put additional strain on the trust fund that backs the system and create a two-tiered system among workers, retirement experts said.",
+      "link": "https://www.marketwatch.com/story/a-new-bill-in-congress-would-lower-the-retirement-age-to-60-see-who-would-qualify-10563052?mod=mw_rss_topstories",
+      "pubDate": "Sat, 26 Sep 2026 14:19:00 GMT",
+      "tag": "general",
+      "title_ko": "의회의 새로운 법안은 은퇴 연령을 60세로 낮출 것입니다. 자격 요건을 충족하는 사람을 확인하세요.",
+      "desc_ko": "은퇴 전문가들은 사회 보장의 정년을 67세에서 60세로 낮추는 새로운 법안이 사회 보장 제도를 뒷받침하는 신탁 기금에 추가적인 부담을 줄이고 근로자들 사이에 2단계 제도를 만들 수 있다고 말했다."
     }
   ],
   "assets": {
