@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T23:32:53.588870+00:00",
+  "updated_at": "2026-09-26T01:59:08.968745+00:00",
   "news": [
     {
       "title": "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms",
@@ -407,6 +407,15 @@
       "desc_ko": null
     },
     {
+      "title": "I&#x2019;m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+      "description": "&#x201c;I am a retired senior citizen living check-to-check.&#x201d;",
+      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+      "pubDate": "Sat, 26 Sep 2026 00:00:00 GMT",
+      "tag": "general",
+      "title_ko": "저는 77세이고, 집세를 내고 사회보장연금으로 생활하지만, 노숙자들을 돕고 있습니다. 왜 이렇게 많은 사람들이 배가 고픈 걸까요?",
+      "desc_ko": "“저는 체크 투 체크를 하는 은퇴한 노인입니다.”"
+    },
+    {
       "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
       "description": "&#x201c;Her younger son lives in the condo, but wants to move elsewhere with friends.&#x201d;",
       "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
@@ -486,15 +495,6 @@
       "tag": "general",
       "title_ko": "10% 무위험 수익률? 어떤 사람들에게는 그렇습니다.",
       "desc_ko": "특히 고소득자나 고액 세금을 부과하는 지역에 거주하는 분들에게는 할인 혜택이 될 수 있습니다."
-    },
-    {
-      "title": "These under-the-radar risk factors may explain why some older people are more vulnerable to scams",
-      "description": "Criminals use sophisticated techniques to form deep emotional attachments to their victims",
-      "link": "https://www.marketwatch.com/story/these-under-the-radar-risk-factors-may-explain-why-some-older-people-are-more-vulnerable-to-scams-865182dc?mod=mw_rss_topstories",
-      "pubDate": "Fri, 25 Sep 2026 20:19:00 GMT",
-      "tag": "general",
-      "title_ko": "이러한 위험 요소는 일부 노인들이 사기에 더 취약한 이유를 설명할 수 있습니다.",
-      "desc_ko": "범죄자들은 정교한 기술을 사용하여 피해자에게 깊은 감정적 애착을 형성합니다."
     }
   ],
   "assets": {
@@ -1382,7 +1382,6 @@
     "hsi": {
       "live": true,
       "closes": [
-        25898.609375,
         26213.779296875,
         26626.279296875,
         26393.7109375,
@@ -1481,17 +1480,17 @@
         25042.7109375,
         25087.75,
         24834.119140625,
-        24761.130859375
+        24761.130859375,
+        24510.08984375
       ],
-      "last": 24761.130859375,
-      "chg_pct": -0.29390324189353595,
-      "rsi14": 42.30439126746881,
-      "ma20": 25090.0830078125
+      "last": 24510.08984375,
+      "chg_pct": -1.0138511728350705,
+      "rsi14": 37.82839020071421,
+      "ma20": 25036.348046875
     },
     "n225": {
       "live": true,
       "closes": [
-        60537.359375,
         59917.4609375,
         59284.921875,
         59513.12109375,
@@ -1590,12 +1589,13 @@
         63923.0,
         64136.25,
         65018.94921875,
-        65513.98828125
+        65513.98828125,
+        66364.203125
       ],
-      "last": 65513.98828125,
-      "chg_pct": 0.7613765962819372,
-      "rsi14": 51.781297730493336,
-      "ma20": 65120.3990234375
+      "last": 66364.203125,
+      "chg_pct": 1.29776077759157,
+      "rsi14": 56.20583806825108,
+      "ma20": 65145.7876953125
     },
     "kospi": {
       "live": true,
@@ -1818,7 +1818,6 @@
     "dax": {
       "live": true,
       "closes": [
-        24338.630859375,
         24350.279296875,
         23954.9296875,
         24136.810546875,
@@ -1917,17 +1916,17 @@
         25575.009765625,
         25578.849609375,
         25410.630859375,
-        25266.529296875
+        25266.529296875,
+        25408.640625
       ],
-      "last": 25266.529296875,
-      "chg_pct": -0.5670916369509778,
-      "rsi14": 39.73394352893389,
-      "ma20": 25722.010546875
+      "last": 25408.640625,
+      "chg_pct": 0.562448947598737,
+      "rsi14": 43.59874631740727,
+      "ma20": 25663.94306640625
     },
     "ftse": {
       "live": true,
       "closes": [
-        10438.7001953125,
         10277.0,
         10233.099609375,
         10269.400390625,
@@ -2026,12 +2025,13 @@
         10739.0,
         10708.2998046875,
         10705.2998046875,
-        10680.0
+        10680.0,
+        10695.2998046875
       ],
-      "last": 10680.0,
-      "chg_pct": -0.23632971658039925,
-      "rsi14": 45.81961688954216,
-      "ma20": 10737.019873046875
+      "last": 10695.2998046875,
+      "chg_pct": 0.14325659819756556,
+      "rsi14": 47.07851242363502,
+      "ma20": 10732.15986328125
     },
     "krw": {
       "live": true,
@@ -3196,141 +3196,141 @@
       "name": "AAPL",
       "market": "US",
       "chg_pct": 1.5331012415526353,
-      "vol_ratio": 0.6962006581779482,
-      "volume": 29649787
+      "vol_ratio": 0.7032522470564583,
+      "volume": 29950100
     },
     "MSFT": {
       "name": "MSFT",
       "market": "US",
       "chg_pct": 3.6631635978296377,
-      "vol_ratio": 1.782430020709115,
-      "volume": 37985485
+      "vol_ratio": 1.7903467994719486,
+      "volume": 38154200
     },
     "NVDA": {
       "name": "NVDA",
       "market": "US",
       "chg_pct": 0.21818750074313387,
-      "vol_ratio": 0.6813380354497703,
-      "volume": 87931936
+      "vol_ratio": 0.6958777618962825,
+      "volume": 89808400
     },
     "GOOGL": {
       "name": "GOOGL",
       "market": "US",
       "chg_pct": 0.4556689282977723,
-      "vol_ratio": 0.797364777723716,
-      "volume": 21265244
+      "vol_ratio": 0.8194671082879883,
+      "volume": 21854700
     },
     "AMZN": {
       "name": "AMZN",
       "market": "US",
       "chg_pct": 0.11628570071970479,
-      "vol_ratio": 0.9484505754078227,
-      "volume": 32976800
+      "vol_ratio": 0.9841000164760281,
+      "volume": 34216300
     },
     "META": {
       "name": "META",
       "market": "US",
       "chg_pct": -3.334669017785273,
-      "vol_ratio": 1.1234750794517874,
-      "volume": 25649562
+      "vol_ratio": 1.1280101417961768,
+      "volume": 25753100
     },
     "TSLA": {
       "name": "TSLA",
       "market": "US",
       "chg_pct": -1.5425774070442844,
-      "vol_ratio": 1.166066228325722,
-      "volume": 44753533
+      "vol_ratio": 1.1966021670059646,
+      "volume": 45925500
     },
     "AVGO": {
       "name": "AVGO",
       "market": "US",
       "chg_pct": 0.6992842531868554,
-      "vol_ratio": 0.5780678837351204,
-      "volume": 15753539
+      "vol_ratio": 0.5952174514741745,
+      "volume": 16220900
     },
     "COST": {
       "name": "COST",
       "market": "US",
-      "chg_pct": 2.9320268999139976,
-      "vol_ratio": 2.1341084530209864,
-      "volume": 4602713
+      "chg_pct": 2.9325851815177746,
+      "vol_ratio": 2.146435865449367,
+      "volume": 4629300
     },
     "NFLX": {
       "name": "NFLX",
       "market": "US",
-      "chg_pct": -0.8017353149050623,
-      "vol_ratio": 0.7191870406237658,
-      "volume": 23135069
+      "chg_pct": -0.79475695081232,
+      "vol_ratio": 0.720450113954024,
+      "volume": 23175700
     },
     "AMD": {
       "name": "AMD",
       "market": "US",
       "chg_pct": 0.21771526808095915,
-      "vol_ratio": 0.8253176997817833,
-      "volume": 17516535
+      "vol_ratio": 0.8290099837605154,
+      "volume": 17594900
     },
     "ADBE": {
       "name": "ADBE",
       "market": "US",
       "chg_pct": -1.4481193492410136,
-      "vol_ratio": 0.549403845716696,
-      "volume": 3107436
+      "vol_ratio": 0.550334536435299,
+      "volume": 3112700
     },
     "PEP": {
       "name": "PEP",
       "market": "US",
       "chg_pct": 0.37456965211864396,
-      "vol_ratio": 0.7524051892419042,
-      "volume": 6701175
+      "vol_ratio": 0.7528795705145239,
+      "volume": 6705400
     },
     "CSCO": {
       "name": "CSCO",
       "market": "US",
       "chg_pct": -0.2524112081702776,
-      "vol_ratio": 0.8697900236197861,
-      "volume": 15187532
+      "vol_ratio": 1.1425365866695611,
+      "volume": 19950000
     },
     "INTC": {
       "name": "INTC",
       "market": "US",
       "chg_pct": -3.4461099071212997,
-      "vol_ratio": 0.9287597951376663,
-      "volume": 96982345
+      "vol_ratio": 0.9335419113826484,
+      "volume": 97481700
     },
     "QCOM": {
       "name": "QCOM",
       "market": "US",
       "chg_pct": 3.968911217896629,
-      "vol_ratio": 1.2471044672197211,
-      "volume": 17757473
+      "vol_ratio": 1.2504773956902957,
+      "volume": 17805500
     },
     "TXN": {
       "name": "TXN",
       "market": "US",
       "chg_pct": 2.741553148001293,
-      "vol_ratio": 0.6496451666233675,
-      "volume": 3929518
+      "vol_ratio": 0.6547176495595286,
+      "volume": 3960200
     },
     "AMAT": {
       "name": "AMAT",
       "market": "US",
       "chg_pct": 2.2667369530838166,
-      "vol_ratio": 0.8134403907464702,
-      "volume": 5179419
+      "vol_ratio": 0.8169239709138881,
+      "volume": 5201600
     },
     "INTU": {
       "name": "INTU",
       "market": "US",
       "chg_pct": -0.48352625637099717,
-      "vol_ratio": 0.8334074054015232,
-      "volume": 3370748
+      "vol_ratio": 0.8402442800578793,
+      "volume": 3398400
     },
     "BKNG": {
       "name": "BKNG",
       "market": "US",
       "chg_pct": 4.154750736281873,
-      "vol_ratio": 1.0337665685261144,
-      "volume": 8420137
+      "vol_ratio": 1.0944365064146035,
+      "volume": 8914300
     },
     "005930.KS": {
       "name": "삼성전자",
@@ -3481,12 +3481,12 @@
     },
     "COST": {
       "name": "COST",
-      "chg_pct": 2.9320268999139976,
+      "chg_pct": 2.9325851815177746,
       "source": "yahoo"
     },
     "NFLX": {
       "name": "NFLX",
-      "chg_pct": -0.8017353149050623,
+      "chg_pct": -0.79475695081232,
       "source": "yahoo"
     },
     "AMD": {
@@ -3572,7 +3572,7 @@
       "form4_count_30d": 12
     },
     "AMD": {
-      "form4_count_30d": 4
+      "form4_count_30d": 3
     },
     "ADBE": {
       "form4_count_30d": 4
