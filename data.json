@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T07:20:12.142021+00:00",
+  "updated_at": "2026-09-26T12:19:09.888391+00:00",
   "news": [
     {
       "title": "Why Xi believes the U.S. and China can overcome the &apos;Thucydides Trap&apos;",
@@ -137,6 +137,15 @@
       "desc_ko": "양 회장은 이번 주 금리인상 결정에 대해 설명하고, 앞으로의 행보에 대해 성가신 의문을 제기했다."
     },
     {
+      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "description": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
+      "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+      "pubDate": "Sat, 26 Sep 2026 12:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "비트코인은 규칙을 변경하지 않고 곧 Zcash 스타일의 '보호된' 프라이버시를 얻을 수 있습니다",
+      "desc_ko": "연구자들은 비트코인과 함께 실행되는 개인 비트코인 표시 전송을 매핑했지만, 시스템은 여전히 실제 BTC를 잠그고 다시 해제할 수 있는 완성된 방법이 부족합니다."
+    },
+    {
       "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
       "description": "Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches.",
       "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
@@ -153,15 +162,6 @@
       "tag": "btc",
       "title_ko": "검증인 지원 재설정 후 XRP 원장의 배치 업그레이드가 10월 9일로 미끄러짐",
       "desc_ko": "이 기능을 통해 사용자는 자산 및 결제 이체를 포함하여 최대 8개의 거래를 번들로 제공할 수 있지만 네트워크의 80% 지원 임계값 아래로 잠시 떨어지면 2주 활성화 시계가 다시 시작되었습니다."
-    },
-    {
-      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-      "description": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
-      "link": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
-      "pubDate": "Sat, 26 Sep 2026 04:02:13 +0000",
-      "tag": "btc",
-      "title_ko": "비트코인은 규칙을 변경하지 않고 곧 Zcash 스타일의 '보호된' 프라이버시를 얻을 수 있습니다",
-      "desc_ko": "연구자들은 비트코인과 함께 실행되는 개인 비트코인 표시 전송을 매핑했지만, 시스템은 여전히 실제 BTC를 잠그고 다시 해제할 수 있는 완성된 방법이 부족합니다."
     },
     {
       "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
@@ -349,7 +349,7 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
       "pubDate": "2026-09-23T04:24:33Z",
       "tag": "general",
-      "title_ko": "팻 겔싱어 (Pat Gelsinger) 는 엔비디아의 AI 네트워킹 해자 (AI Networking Moat) 에 대한 1억 달러 ($) 의 도전을 후원했습니다. AMD는 혜택을 누릴 수 있습니다.",
+      "title_ko": null,
       "desc_ko": null
     },
     {
@@ -358,7 +358,7 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/lumentum-jumped-nearly-10-while-041957023.html",
       "pubDate": "2026-09-23T04:19:57Z",
       "tag": "general",
-      "title_ko": "코닝이 간신히 움직이는 동안 루멘텀은 10% 가까이 뛰어올랐습니다. AI 광학 무역은 분리되어 있습니까?",
+      "title_ko": null,
       "desc_ko": null
     },
     {
@@ -367,7 +367,7 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html",
       "pubDate": "2026-09-23T04:17:10Z",
       "tag": "general",
-      "title_ko": "인텔 (INTC) 은 Altera에 대한 새로운 가치를 얻을 수 있습니다. AMD (AMD) 는 지켜봐야 할 라이벌입니다",
+      "title_ko": null,
       "desc_ko": null
     },
     {
@@ -376,7 +376,7 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/why-autozone-stock-rallied-today-020051614.html",
       "pubDate": "2026-09-23T02:00:51Z",
       "tag": "general",
-      "title_ko": "AutoZone 주가가 오늘 상승한 이유",
+      "title_ko": null,
       "desc_ko": null
     },
     {
@@ -385,7 +385,7 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/why-bernstein-still-sees-46-041316215.html",
       "pubDate": "2026-09-23T04:13:16Z",
       "tag": "general",
-      "title_ko": "번스타인이 Z스케일러 (ZS) 에서 여전히 46% 의 우위를 보이지만 팔로알토 (PANW) 는 하향 조정된 이유",
+      "title_ko": null,
       "desc_ko": null
     },
     {
@@ -394,7 +394,7 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/clippy-benioff-uses-salesforce-biggest-044653952.html",
       "pubDate": "2026-09-23T04:46:53Z",
       "tag": "general",
-      "title_ko": "\"새로운 클리피\": 베니오프는 Microsoft에 도전하기 위해 수년 내 Salesforce의 가장 큰 제품 출시를 사용합니다.",
+      "title_ko": null,
       "desc_ko": null
     },
     {
@@ -403,7 +403,34 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-wall-street-tests-040747520.html",
       "pubDate": "2026-09-23T04:07:47Z",
       "tag": "general",
-      "title_ko": "나이키 (NKE): 월스트리트는 턴어라운드가 1분기 실적을 앞두고 약한 수요를 능가할 수 있는지 테스트합니다.",
+      "title_ko": null,
+      "desc_ko": null
+    },
+    {
+      "title": "Why bond-market volatility hasn&#x2019;t spilled over into stocks",
+      "description": "The bond market has a reputation for being boring. But lately, it has been the source of much of the action in the U.S.",
+      "link": "https://www.marketwatch.com/story/why-bond-market-volatility-hasnt-spilled-over-into-stocks-f156b24a?mod=mw_rss_topstories",
+      "pubDate": "Sat, 26 Sep 2026 12:00:00 GMT",
+      "tag": "general",
+      "title_ko": null,
+      "desc_ko": null
+    },
+    {
+      "title": "&#x2018;We lived within our means&#x2019;: I earned $30,000 as a pastor and still retired comfortably. Why don&#x2019;t you tell people that?",
+      "description": "&#x201c;As a country, we have grown dangerously comfortable.&#x201d;",
+      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "pubDate": "Sat, 26 Sep 2026 12:00:00 GMT",
+      "tag": "general",
+      "title_ko": null,
+      "desc_ko": null
+    },
+    {
+      "title": "Meta turned Muse into a viral hit. Now comes the hard part.",
+      "description": "Meta is quickly racking up downloads for its Muse AI assistant, but the next step for Mark Zuckerberg is getting users to make the agent part of their everyday routines.",
+      "link": "https://www.marketwatch.com/story/meta-turned-muse-into-a-viral-hit-now-comes-the-hard-part-fb3177a8?mod=mw_rss_topstories",
+      "pubDate": "Sat, 26 Sep 2026 11:00:00 GMT",
+      "tag": "general",
+      "title_ko": null,
       "desc_ko": null
     },
     {
@@ -412,8 +439,8 @@
       "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
       "pubDate": "Sat, 26 Sep 2026 00:00:00 GMT",
       "tag": "general",
-      "title_ko": "저는 77세이고, 집세를 내고 사회보장연금으로 생활하지만, 노숙자들을 돕고 있습니다. 왜 이렇게 많은 사람들이 배가 고픈 걸까요?",
-      "desc_ko": "“저는 체크 투 체크를 하는 은퇴한 노인입니다.”"
+      "title_ko": null,
+      "desc_ko": null
     },
     {
       "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
@@ -421,8 +448,8 @@
       "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
       "pubDate": "Fri, 25 Sep 2026 23:30:00 GMT",
       "tag": "general",
-      "title_ko": "제 친구가 말기 질환을 앓고 있습니다. 임대 주택을 팔고 자본 이득으로 $ 100,000를 지불해야 합니까?",
-      "desc_ko": "\"어린 아들이 콘도에 살고 있지만 친구들과 함께 다른 곳으로 이사하고 싶어해요.\""
+      "title_ko": null,
+      "desc_ko": null
     },
     {
       "title": "&#x2018;She says it&#x2019;s just money&#x2019;: My friend pays for everything. I should be grateful, but I can&#x2019;t stand her anymore.",
@@ -430,8 +457,8 @@
       "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
       "pubDate": "Fri, 25 Sep 2026 22:00:00 GMT",
       "tag": "general",
-      "title_ko": "‘그녀는 단지 돈이라고 말합니다’: 내 친구는 모든 것을 지불합니다. 고마워해야 하는데 더 이상 참을 수가 없다.",
-      "desc_ko": "\"주말마다 $ 500를 쓰고 있을 거예요.\""
+      "title_ko": null,
+      "desc_ko": null
     },
     {
       "title": "A &#x2018;death cross&#x2019; is coming for the dollar. Why Trump will be happy.",
@@ -439,8 +466,8 @@
       "link": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
       "pubDate": "Fri, 25 Sep 2026 21:57:00 GMT",
       "tag": "general",
-      "title_ko": "달러에 ‘죽음의 십자가’ 가 다가오고 있다. 트럼프가 행복할 이유.",
-      "desc_ko": "지금 보지 마세요. 하지만 스콧 베슨트 미국 재무장관이 금융 시장에 \"나는 지금의 집\" 이라고 선언했을 때 옳았다고 믿을 만한 기술적 이유가 있습니다."
+      "title_ko": null,
+      "desc_ko": null
     },
     {
       "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
@@ -448,8 +475,8 @@
       "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
       "pubDate": "Fri, 25 Sep 2026 21:45:00 GMT",
       "tag": "general",
-      "title_ko": "남편과 저는 50대이고 아이가 없습니다. 우리는 IRA에 $ 2 백만과 401 (k) s를 가지고 있습니다. 유언장이 꼭 필요한가요?",
-      "desc_ko": "\"우리는 빚이 없으며 주 주택, 별장, 다른 주에 있는 어머니의 집을 소유하고 있습니다.\""
+      "title_ko": null,
+      "desc_ko": null
     },
     {
       "title": "Microsoft&#x2019;s stock has roared back to life, closing at its highest level of the year",
@@ -457,8 +484,8 @@
       "link": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
       "pubDate": "Fri, 25 Sep 2026 21:04:00 GMT",
       "tag": "general",
-      "title_ko": "Microsoft의 주가가 다시 살아나면서 올해 최고 수준으로 마감되었습니다.",
-      "desc_ko": "Microsoft 주식은 올해 거친 출발을 보였지만, 투자자들은 지난 몇 달 동안 회사의 AI 이야기에 열을 올렸습니다."
+      "title_ko": null,
+      "desc_ko": null
     },
     {
       "title": "Apple&#x2019;s expensive new iPhones could be a double-edged sword for the company",
@@ -466,35 +493,8 @@
       "link": "https://www.marketwatch.com/story/apples-expensive-new-iphones-could-be-a-double-edged-sword-for-the-company-21c4fefb?mod=mw_rss_topstories",
       "pubDate": "Fri, 25 Sep 2026 20:37:00 GMT",
       "tag": "general",
-      "title_ko": "Apple의 고가의 새로운 iPhone은 회사의 양날의 검이 될 수 있습니다.",
-      "desc_ko": "번스타인 애널리스트들은 월스트리트가 스마트폰 부품 비용 상승으로 인해 이익 지표인 총 마진이 얼마나 큰 타격을 받을 수 있는지를 제대로 모델링하지 못하고 있다고 말합니다."
-    },
-    {
-      "title": "Micron investors should get ready for a seesaw ride, analyst says",
-      "description": "The timing of an Nvidia product ramp may require a balancing act for Micron investors, as some estimated revenue shifts toward next year instead of this year.",
-      "link": "https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories",
-      "pubDate": "Fri, 25 Sep 2026 20:36:00 GMT",
-      "tag": "general",
-      "title_ko": "애널리스트에 따르면 마이크론 투자자들은 시소 라이드를 준비해야 한다.",
-      "desc_ko": "일부 예상 수익이 올해가 아닌 내년으로 이동하기 때문에 엔비디아 제품 램프의 타이밍에는 마이크론 투자자의 균형 조정 조치가 필요할 수 있습니다."
-    },
-    {
-      "title": "Tesla&#x2019;s stock falls as launch of Semi truck fails to excite investors",
-      "description": "Autonomous trucking represents a compelling opportunity for Tesla, but it&#x2019;s unclear what the company&#x2019;s initial Semi targets look like.",
-      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-semi-launch-fails-to-excite-investors-5b216e59?mod=mw_rss_topstories",
-      "pubDate": "Fri, 25 Sep 2026 20:34:00 GMT",
-      "tag": "general",
-      "title_ko": "세미 트럭 출시로 테슬라의 주가가 하락하여 투자자들을 흥분시키지 못함",
-      "desc_ko": "자율주행 트럭 운송은 테슬라에게 설득력 있는 기회이지만, 회사의 초기 SEMI 목표가 어떻게 생겼는지는 분명하지 않습니다."
-    },
-    {
-      "title": "A 10% risk-free yield? For some, yes.",
-      "description": "This could be a bargain, especially for very high earners and those in high-tax locations.",
-      "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
-      "pubDate": "Fri, 25 Sep 2026 20:32:00 GMT",
-      "tag": "general",
-      "title_ko": "10% 무위험 수익률? 어떤 사람들에게는 그렇습니다.",
-      "desc_ko": "특히 고소득자나 고액 세금을 부과하는 지역에 거주하는 분들에게는 할인 혜택이 될 수 있습니다."
+      "title_ko": null,
+      "desc_ko": null
     }
   ],
   "assets": {
