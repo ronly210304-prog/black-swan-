@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-27T11:11:02.830677+00:00",
+  "updated_at": "2026-09-27T15:39:17.778015+00:00",
   "news": [
     {
       "title": "Debt-hungry AI companies face increased risk as bond yields spike",
       "description": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
       "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
-      "pubDate": "Sun, 27 Sep 2026 11:00:01 GMT",
+      "pubDate": "Sun, 27 Sep 2026 15:35:34 GMT",
       "tag": "ndx",
       "title_ko": "채권 수익률이 급증함에 따라 부채에 굶주린 AI 회사는 증가하는 위험에 직면해 있습니다.",
       "desc_ko": "AI 인프라 구축은 둔화될 기미를 보이지 않지만, 국채 수익률의 급증은 적어도 더 많은 비용이 든다는 것을 의미합니다."
@@ -137,6 +137,24 @@
       "desc_ko": "어떤 중국 기업 임원이 참석할 것으로 예상되는지에 대해서는 거의 알려져 있지 않습니다."
     },
     {
+      "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+      "description": "Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations.",
+      "link": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+      "pubDate": "Sun, 27 Sep 2026 14:29:13 +0000",
+      "tag": "btc",
+      "title_ko": "비탈릭 부테린 (Vitalik Buterin) 은 2030년을 휩쓸고 있는 비전에서 블록체인을 넘어선 이더리움의 변화를 매핑합니다",
+      "desc_ko": "Buterin은 Ethereum이 네트워크의 모든 컴퓨터가 동일한 계산을 반복하지 않고 훨씬 더 많은 작업을 수행하기를 원합니다."
+    },
+    {
+      "title": "How months of work on the Clarity Act all fell apart",
+      "description": "Interviews with industry participants and legislative aides paint a picture of a blown bill-writing process, with sources pointing to nearly every facet of the bill's development and the debate around it as contributing factors to this month's failed vote.",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
+      "pubDate": "Sun, 27 Sep 2026 12:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "명확성 법에 대한 몇 달간의 노력이 모두 무너진 방법",
+      "desc_ko": "업계 참가자 및 입법 보좌관과의 인터뷰는 이 법안의 개발의 거의 모든 측면과 이에 대한 논쟁이 이달의 실패한 투표에 기여하는 요인이라고 지적하는 출처와 함께 지폐 작성 과정의 그림을 그립니다."
+    },
+    {
       "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
       "description": "Kraken parent Payward is unifying trading, payments, asset management and institutional services on common rails, co-CEO Arjun Sethi said.",
       "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
@@ -252,24 +270,6 @@
       "tag": "btc",
       "title_ko": "전략은 STRC를 $ 100로 되돌리기 위해 일일 배당금을 제안합니다",
       "desc_ko": "STRC는 12% 의 배당률과 약 10억 달러의 우선주 환매에도 불구하고 5월 이후 100달러 미만으로 유지되었습니다."
-    },
-    {
-      "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
-      "description": "Bond volatility is at its highest since March, while the bitcoin VIX, BVIV and Wall Street's VIX remain near its yearly low.",
-      "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
-      "pubDate": "Fri, 25 Sep 2026 11:54:28 +0000",
-      "tag": "btc",
-      "title_ko": "비트코인과 월스트리트가 침착한 동안 채권 변동성 급증",
-      "desc_ko": "채권 변동성은 3월 이후 가장 높지만 비트코인 VIX, BVIV 및 월스트리트의 VIX는 연중 최저치를 유지하고 있습니다."
-    },
-    {
-      "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
-      "description": "Your day-ahead look for Sept. 25, 2026",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
-      "pubDate": "Fri, 25 Sep 2026 11:29:04 +0000",
-      "tag": "btc",
-      "title_ko": "비트코인 보유자는 이전 마켓 탑에서 했던 방식이 아닌 현금으로 출금하고 있습니다",
-      "desc_ko": "2026년 9월 25일을 하루 앞당겨 살펴보기"
     },
     {
       "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
@@ -407,6 +407,51 @@
       "desc_ko": null
     },
     {
+      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+      "description": "&#x201c;Her younger son lives in the condo, but wants to move elsewhere with friends.&#x201d;",
+      "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+      "pubDate": "Sun, 27 Sep 2026 15:15:00 GMT",
+      "tag": "general",
+      "title_ko": "제 친구가 말기 질환을 앓고 있습니다. 임대 주택을 팔고 자본 이득으로 $ 100,000를 지불해야 합니까?",
+      "desc_ko": "\"어린 아들이 콘도에 살고 있지만 친구들과 함께 다른 곳으로 이사하고 싶어해요.\""
+    },
+    {
+      "title": "I&#x2019;m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+      "description": "&#x201c;I am a retired senior citizen living check-to-check.&#x201d;",
+      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+      "pubDate": "Sun, 27 Sep 2026 15:00:00 GMT",
+      "tag": "general",
+      "title_ko": "저는 77세이고, 집세를 내고 사회보장연금으로 생활하지만, 노숙자들을 돕고 있습니다. 왜 이렇게 많은 사람들이 배가 고픈 걸까요?",
+      "desc_ko": "“저는 체크 투 체크를 하는 은퇴한 노인입니다.”"
+    },
+    {
+      "title": "&#x2018;We lived within our means&#x2019;: I earned $30,000 as a pastor and still retired comfortably. Why don&#x2019;t you tell people that?",
+      "description": "&#x201c;As a country, we have grown dangerously comfortable.&#x201d;",
+      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "pubDate": "Sun, 27 Sep 2026 14:45:00 GMT",
+      "tag": "general",
+      "title_ko": "‘우리는 우리의 수단으로 살았습니다.’: 나는 목사로서 $ 30,000를 벌었고 여전히 편안하게 은퇴했습니다. 사람들에게 그렇게 말하면 어떨까요?",
+      "desc_ko": "\"한 국가로서 우리는 위험할 정도로 편안해졌습니다.\""
+    },
+    {
+      "title": "Micron could dethrone Nvidia and become the biggest driver of S&amp;P 500 profit growth",
+      "description": "Micron is increasingly important to the S&P 500, and its earnings report has become &#x201c;a market event in and of itself.&#x201d;",
+      "link": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+      "pubDate": "Sun, 27 Sep 2026 14:00:00 GMT",
+      "tag": "general",
+      "title_ko": "마이크론은 엔비디아를 탈퇴시키고 S&amp;P 500 이익 성장의 가장 큰 원동력이 될 수 있습니다.",
+      "desc_ko": "마이크론은 S&P 500에서 점점 더 중요해지고 있으며, 수익 보고서는 \"그 자체로 시장 이벤트\" 가 되었습니다."
+    },
+    {
+      "title": "Look closer, and Wall Street&#x2019;s rally is showing cracks",
+      "description": "Major stock indexes hovering near records are masking a market straining under elevated oil prices, rising Treasury yields and a Federal Reserve bracing for additional interest-rate hikes.",
+      "link": "https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048?mod=mw_rss_topstories",
+      "pubDate": "Sun, 27 Sep 2026 13:00:00 GMT",
+      "tag": "general",
+      "title_ko": "더 가까이서 보면 월스트리트의 집회가 균열을 보이고 있습니다.",
+      "desc_ko": "기록 근처를 맴도는 주요 주가 지수는 유가 상승, 국채 수익률 상승, 추가 금리 인상에 대비한 연방준비제도이사회 (Fed) 의 압박으로 시장을 가리고 있습니다."
+    },
+    {
       "title": "Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
       "description": "Another hot jobs report could also pressure the Federal Reserve to raise interest rates again in October.",
       "link": "https://www.marketwatch.com/story/why-the-upcoming-jobs-report-could-send-10-year-and-30-year-treasury-yields-surging-67eab4ba?mod=mw_rss_topstories",
@@ -423,15 +468,6 @@
       "tag": "general",
       "title_ko": "제 친구는 반려동물과 함께 앉아 있는 사업으로 연간 $ 300,000의 수익을 올리고 있습니다. 그녀는 자신에게 $ 50,000를 지불합니다. 나도 그래야 할까?",
       "desc_ko": "\"그녀는 현재 약 15명의 시터를 보유하고 있으며, 모두 독립 계약자입니다.\""
-    },
-    {
-      "title": "&#x2018;We lived within our means&#x2019;: I earned $30,000 as a pastor and still retired comfortably. Why don&#x2019;t you tell people that?",
-      "description": "&#x201c;As a country, we have grown dangerously comfortable.&#x201d;",
-      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "pubDate": "Sat, 26 Sep 2026 19:00:00 GMT",
-      "tag": "general",
-      "title_ko": "‘우리는 우리의 수단으로 살았습니다.’: 나는 목사로서 $ 30,000를 벌었고 여전히 편안하게 은퇴했습니다. 사람들에게 그렇게 말하면 어떨까요?",
-      "desc_ko": "\"한 국가로서 우리는 위험할 정도로 편안해졌습니다.\""
     },
     {
       "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
@@ -459,42 +495,6 @@
       "tag": "general",
       "title_ko": "10% 무위험 수익률? 어떤 사람들에게는 그렇습니다.",
       "desc_ko": "특히 고소득자나 고액 세금을 부과하는 지역에 거주하는 분들에게는 할인 혜택이 될 수 있습니다."
-    },
-    {
-      "title": "Choosing these AI-exposed college majors could dent your job prospects &#x2014; and lower your pay",
-      "description": "At a time when many college students say they are rethinking their academic focus because of AI, new findings supply hard data on the potential costs of these decisions.",
-      "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
-      "pubDate": "Sat, 26 Sep 2026 16:22:00 GMT",
-      "tag": "general",
-      "title_ko": "AI에 노출된 대학 전공을 선택하면 취업 전망을 떨어뜨리고 급여를 낮출 수 있습니다.",
-      "desc_ko": "많은 대학생들이 인공지능 때문에 학문적 초점을 재고하고 있다고 말할 때, 새로운 연구 결과는 이러한 결정의 잠재적 비용에 대한 하드 데이터를 제공합니다."
-    },
-    {
-      "title": "Tax-free bond yields are in a sweet spot. Get in before it&#x2019;s too late.",
-      "description": "Yields on municipal bonds &#x2014; adjusted for taxable-equivalent comparisons &#x2014; have widened dramatically over those of corporate bonds over the past two months.",
-      "link": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
-      "pubDate": "Sat, 26 Sep 2026 15:48:00 GMT",
-      "tag": "general",
-      "title_ko": "비과세 채권 수익률은 좋은 위치에 있습니다. 늦기 전에 입장하세요.",
-      "desc_ko": "과세 균등 비교를 위해 조정된 지방채 수익률은 지난 두 달 동안 회사채 수익률보다 크게 확대되었습니다."
-    },
-    {
-      "title": "&#x2018;She says it&#x2019;s just money&#x2019;: My friend pays for everything. I should be grateful, but I can&#x2019;t stand her anymore.",
-      "description": "&#x201c;On each of these weekends away, she&#x2019;s probably spending $500.&#x201d;",
-      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-      "pubDate": "Sat, 26 Sep 2026 15:30:00 GMT",
-      "tag": "general",
-      "title_ko": "‘그녀는 단지 돈이라고 말합니다’: 내 친구는 모든 것을 지불합니다. 고마워해야 하는데 더 이상 참을 수가 없다.",
-      "desc_ko": "\"주말마다 $ 500를 쓰고 있을 거예요.\""
-    },
-    {
-      "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
-      "description": "The changes will cut about $1 trillion from federal Medicaid spending over 10 years.",
-      "link": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
-      "pubDate": "Sat, 26 Sep 2026 15:30:00 GMT",
-      "tag": "general",
-      "title_ko": "새로운 업무 규칙이 시작되면 수백만 명이 Medicaid를 잃게 됩니다. 이 그룹이 가장 큰 타격을 입을 것입니다.",
-      "desc_ko": "이번 변경으로 10년 동안 연방 메디케이드 지출에서 약 1조 $ 가 삭감됩니다."
     }
   ],
   "assets": {
@@ -2135,12 +2135,12 @@
         1350.3599853515625,
         1362.5,
         1367.3599853515625,
-        1354.4000244140625
+        1355.280029296875
       ],
-      "last": 1354.4000244140625,
-      "chg_pct": -0.9478089951687345,
-      "rsi14": 41.42139332464537,
-      "ma20": 1358.5785034179687
+      "last": 1355.280029296875,
+      "chg_pct": -0.8834510431853553,
+      "rsi14": 41.735133318231824,
+      "ma20": 1358.6225036621095
     },
     "jpy": {
       "live": true,
