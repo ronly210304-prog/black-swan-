@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-27T05:46:01.254223+00:00",
+  "updated_at": "2026-09-27T11:11:02.830677+00:00",
   "news": [
+    {
+      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+      "description": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
+      "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+      "pubDate": "Sun, 27 Sep 2026 11:00:01 GMT",
+      "tag": "ndx",
+      "title_ko": "채권 수익률이 급증함에 따라 부채에 굶주린 AI 회사는 증가하는 위험에 직면해 있습니다.",
+      "desc_ko": "AI 인프라 구축은 둔화될 기미를 보이지 않지만, 국채 수익률의 급증은 적어도 더 많은 비용이 든다는 것을 의미합니다."
+    },
     {
       "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
       "description": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy.",
@@ -126,15 +135,6 @@
       "tag": "ndx",
       "title_ko": "지금까지 트럼프-시 주석 만찬에 참석하신 분을 소개합니다.",
       "desc_ko": "어떤 중국 기업 임원이 참석할 것으로 예상되는지에 대해서는 거의 알려져 있지 않습니다."
-    },
-    {
-      "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
-      "description": "JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.",
-      "link": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
-      "pubDate": "Tue, 22 Sep 2026 01:30:01 GMT",
-      "tag": "ndx",
-      "title_ko": "제이미 다이먼 (Jamie Dimon) 은 하이퍼스케일러 AI 지출이 내년에 $ 1조 달러에 달할 수 있다고 말합니다.",
-      "desc_ko": "JP모건 CEO 제이미 다이먼 (Jamie Dimon) 은 하이퍼스케일러 생태계 전반에 걸친 AI 지출이 투자가 계속 증가함에 따라 내년에 1조 달러 ($) 에 이를 수 있다고 말합니다."
     },
     {
       "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
@@ -407,6 +407,15 @@
       "desc_ko": null
     },
     {
+      "title": "Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
+      "description": "Another hot jobs report could also pressure the Federal Reserve to raise interest rates again in October.",
+      "link": "https://www.marketwatch.com/story/why-the-upcoming-jobs-report-could-send-10-year-and-30-year-treasury-yields-surging-67eab4ba?mod=mw_rss_topstories",
+      "pubDate": "Sun, 27 Sep 2026 11:00:00 GMT",
+      "tag": "general",
+      "title_ko": "다가오는 일자리 보고서가 10년 및 30년 국채 수익률을 급증시킬 수 있는 이유",
+      "desc_ko": "또 다른 HOT 일자리 보고서는 연방준비제도가 10월에 다시 금리를 인상하도록 압력을 가할 수 있다."
+    },
+    {
       "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
       "description": "&#x201c;She currently has about 15 sitters, all independent contractors.&#x201d;",
       "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
@@ -486,15 +495,6 @@
       "tag": "general",
       "title_ko": "새로운 업무 규칙이 시작되면 수백만 명이 Medicaid를 잃게 됩니다. 이 그룹이 가장 큰 타격을 입을 것입니다.",
       "desc_ko": "이번 변경으로 10년 동안 연방 메디케이드 지출에서 약 1조 $ 가 삭감됩니다."
-    },
-    {
-      "title": "Do this one thing to help prevent your parents from being scammed",
-      "description": "&#x201c;I felt like I was talking to a robot,&#x201d; said one adviser about a client who was ensnared in a romance scam.",
-      "link": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
-      "pubDate": "Sat, 26 Sep 2026 15:04:00 GMT",
-      "tag": "general",
-      "title_ko": "부모님이 사기를 당하는 것을 막기 위해 한 가지 조치를 취하세요.",
-      "desc_ko": "한 고문은 로맨스 사기에 휩싸인 고객에 대해 \"로봇과 이야기하는 것 같았다\" 고 말했다."
     }
   ],
   "assets": {
