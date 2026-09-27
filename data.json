@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T19:16:11.447252+00:00",
+  "updated_at": "2026-09-27T22:25:20.931129+00:00",
   "news": [
     {
       "title": "Debt-hungry AI companies face increased risk as bond yields spike",
@@ -410,7 +410,7 @@
       "title": "&#x2018;I want to make her proud&#x2019;: My mother, a divorc&#xe9;e, died and I&#x2019;m her executor. Do I need to file for probate?",
       "description": "&#x201c;The only debts were utility and credit-card bills, which we will pay off.&#x201d;",
       "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "pubDate": "Sun, 27 Sep 2026 18:45:00 GMT",
+      "pubDate": "Sun, 27 Sep 2026 22:00:00 GMT",
       "tag": "general",
       "title_ko": "‘나는 그녀를 자랑스럽게 만들고 싶다’: 이혼녀인 어머니가 돌아가셨고 나는 그녀의 처형자입니다. 보호관찰을 신청해야 하나요?",
       "desc_ko": "\"유일한 빚은 공과금과 신용카드 청구서뿐이었고, 우리는 그 빚을 갚을 것입니다.\""
@@ -419,10 +419,19 @@
       "title": "&#x2018;We lived within our means&#x2019;: I earned $30,000 as a pastor and still retired comfortably. Why don&#x2019;t you tell people that?",
       "description": "&#x201c;As a country, we have grown dangerously comfortable.&#x201d;",
       "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "pubDate": "Sun, 27 Sep 2026 18:30:00 GMT",
+      "pubDate": "Sun, 27 Sep 2026 21:45:00 GMT",
       "tag": "general",
       "title_ko": "‘우리는 우리의 수단으로 살았습니다.’: 나는 목사로서 $ 30,000를 벌었고 여전히 편안하게 은퇴했습니다. 사람들에게 그렇게 말하면 어떨까요?",
       "desc_ko": "\"한 국가로서 우리는 위험할 정도로 편안해졌습니다.\""
+    },
+    {
+      "title": "A &#x2018;death cross&#x2019; is coming for the dollar. Why Trump will be happy.",
+      "description": "Don&#x2019;t look now, but there are some technical reasons to believe that U.S. Treasury Secretary Scott Bessent was right when he declared to the financial markets that &#x201c;I am the house now.&#x201d;",
+      "link": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
+      "pubDate": "Sun, 27 Sep 2026 19:21:00 GMT",
+      "tag": "general",
+      "title_ko": "달러에 ‘죽음의 십자가’ 가 다가오고 있다. 트럼프가 행복할 이유.",
+      "desc_ko": "지금 보지 마세요. 하지만 스콧 베슨트 미국 재무장관이 금융 시장에 \"나는 지금의 집\" 이라고 선언했을 때 옳았다고 믿을 만한 기술적 이유가 있습니다."
     },
     {
       "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
@@ -486,15 +495,6 @@
       "tag": "general",
       "title_ko": "더 가까이서 보면 월스트리트의 집회가 균열을 보이고 있습니다.",
       "desc_ko": "기록 근처를 맴도는 주요 주가 지수는 유가 상승, 국채 수익률 상승, 추가 금리 인상에 대비한 연방준비제도이사회 (Fed) 의 압박으로 시장을 가리고 있습니다."
-    },
-    {
-      "title": "Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
-      "description": "Another hot jobs report could also pressure the Federal Reserve to raise interest rates again in October.",
-      "link": "https://www.marketwatch.com/story/why-the-upcoming-jobs-report-could-send-10-year-and-30-year-treasury-yields-surging-67eab4ba?mod=mw_rss_topstories",
-      "pubDate": "Sun, 27 Sep 2026 11:00:00 GMT",
-      "tag": "general",
-      "title_ko": "다가오는 일자리 보고서가 10년 및 30년 국채 수익률을 급증시킬 수 있는 이유",
-      "desc_ko": "또 다른 HOT 일자리 보고서는 연방준비제도가 10월에 다시 금리를 인상하도록 압력을 가할 수 있다."
     }
   ],
   "assets": {
@@ -619,7 +619,6 @@
     "es": {
       "live": true,
       "closes": [
-        7287.25,
         7389.5,
         7363.0,
         7419.0,
@@ -718,17 +717,17 @@
         7831.75,
         7772.5,
         7767.0,
-        7803.75
+        7803.75,
+        7785.75
       ],
-      "last": 7803.75,
-      "chg_pct": 0.4731556585554268,
-      "rsi14": 58.974583452249746,
-      "ma20": 7693.792504882813
+      "last": 7785.75,
+      "chg_pct": -0.23065833733781835,
+      "rsi14": 57.2007914899011,
+      "ma20": 7696.980004882813
     },
     "nq": {
       "live": true,
       "closes": [
-        28136.0,
         28716.75,
         28682.25,
         29332.5,
@@ -827,17 +826,17 @@
         31028.5,
         30764.75,
         30766.75,
-        30889.25
+        30889.25,
+        30820.5
       ],
-      "last": 30889.25,
-      "chg_pct": 0.3981571014163017,
-      "rsi14": 66.36555084251316,
-      "ma20": 29714.071484375
+      "last": 30820.5,
+      "chg_pct": -0.22256934046634347,
+      "rsi14": 65.00382000720585,
+      "ma20": 29780.508984375
     },
     "gold": {
       "live": true,
       "closes": [
-        4568.5,
         4694.2998046875,
         4710.89990234375,
         4730.7001953125,
@@ -936,17 +935,17 @@
         4376.39990234375,
         4318.39990234375,
         4298.0,
-        4321.2001953125
+        4321.2001953125,
+        4301.7001953125
       ],
-      "last": 4321.2001953125,
-      "chg_pct": 0.5397904912168451,
-      "rsi14": 42.79393646787355,
-      "ma20": 4407.4749755859375
+      "last": 4301.7001953125,
+      "chg_pct": -0.4512635175096256,
+      "rsi14": 41.22480043093886,
+      "ma20": 4396.064990234375
     },
     "wti": {
       "live": true,
       "closes": [
-        102.2699966430664,
         95.08000183105469,
         94.80999755859375,
         95.41999816894531,
@@ -1045,17 +1044,17 @@
         94.58999633789062,
         92.16000366210938,
         94.61000061035156,
-        92.41000366210938
+        92.41000366210938,
+        93.29000091552734
       ],
-      "last": 92.41000366210938,
-      "chg_pct": -2.3253323475842778,
-      "rsi14": 48.89175288134758,
-      "ma20": 95.30950164794922
+      "last": 93.29000091552734,
+      "chg_pct": 0.9522748820956833,
+      "rsi14": 50.39134709798344,
+      "ma20": 95.80400161743164
     },
     "zn": {
       "live": true,
       "closes": [
-        110.34375,
         110.796875,
         110.515625,
         110.75,
@@ -1154,12 +1153,13 @@
         106.0,
         105.03125,
         104.859375,
-        104.96875
+        104.859375,
+        104.796875
       ],
-      "last": 104.96875,
-      "chg_pct": 0.10430636268812397,
-      "rsi14": 25.22186668292622,
-      "ma20": 106.6609375
+      "last": 104.796875,
+      "chg_pct": -0.05960363582178513,
+      "rsi14": 22.728589479759194,
+      "ma20": 106.48984375
     },
     "dxy": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1350.3599853515625,
         1362.5,
         1367.3599853515625,
-        1353.4200439453125
+        1354.97998046875
       ],
-      "last": 1353.4200439453125,
-      "chg_pct": -1.0194785247182654,
-      "rsi14": 41.0775151749687,
-      "ma20": 1358.5295043945312
+      "last": 1354.97998046875,
+      "chg_pct": -0.9053947033289461,
+      "rsi14": 41.62762707444915,
+      "ma20": 1358.6075012207032
     },
     "jpy": {
       "live": true,
@@ -2244,17 +2244,16 @@
         157.46400451660156,
         158.26499938964844,
         158.81100463867188,
-        157.18499755859375
+        157.48399353027344
       ],
-      "last": 157.18499755859375,
-      "chg_pct": -1.023862977113979,
-      "rsi14": 49.638820815933634,
-      "ma20": 156.3734504699707
+      "last": 157.48399353027344,
+      "chg_pct": -0.8355914071683284,
+      "rsi14": 51.132967570450205,
+      "ma20": 156.38840026855468
     },
     "copper": {
       "live": true,
       "closes": [
-        5.942999839782715,
         6.136499881744385,
         6.127500057220459,
         6.249000072479248,
@@ -2353,17 +2352,17 @@
         6.759500026702881,
         6.677999973297119,
         6.718500137329102,
-        6.765999794006348
+        6.695499897003174,
+        6.752500057220459
       ],
-      "last": 6.765999794006348,
-      "chg_pct": 0.7069979267147755,
-      "rsi14": 59.50111666712654,
-      "ma20": 6.587800002098083
+      "last": 6.752500057220459,
+      "chg_pct": 0.8513204554419865,
+      "rsi14": 58.725915740235024,
+      "ma20": 6.593800020217896
     },
     "natgas": {
       "live": true,
       "closes": [
-        2.7880001068115234,
         2.7300000190734863,
         2.7690000534057617,
         2.756999969482422,
@@ -2462,17 +2461,17 @@
         2.9649999141693115,
         3.0230000019073486,
         3.296999931335449,
-        3.2249999046325684
+        3.196000099182129,
+        3.1080000400543213
       ],
-      "last": 3.2249999046325684,
-      "chg_pct": -2.1838043130840243,
-      "rsi14": 66.9471825769721,
-      "ma20": 2.941949987411499
+      "last": 3.1080000400543213,
+      "chg_pct": -2.753443566861191,
+      "rsi14": 59.001074079565264,
+      "ma20": 2.9514999985694885
     },
     "silver": {
       "live": true,
       "closes": [
-        73.10800170898438,
         76.81099700927734,
         79.70099639892578,
         80.3949966430664,
@@ -2571,12 +2570,13 @@
         65.93199920654297,
         64.38200378417969,
         63.457000732421875,
-        64.8010025024414
+        64.24500274658203,
+        64.36499786376953
       ],
-      "last": 64.8010025024414,
-      "chg_pct": 2.117972413614003,
-      "rsi14": 49.23793705768126,
-      "ma20": 65.30569992065429
+      "last": 64.36499786376953,
+      "chg_pct": 0.1867773555257323,
+      "rsi14": 47.81464884187987,
+      "ma20": 65.1463996887207
     },
     "qqq": {
       "live": true,
