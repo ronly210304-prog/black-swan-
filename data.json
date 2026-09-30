@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-30T13:40:15.600098+00:00",
+  "updated_at": "2026-09-30T18:34:07.202752+00:00",
   "news": [
+    {
+      "title": "Kalshi, Polymarket trading volumes on some products raises questions amid massive growth",
+      "description": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
+      "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+      "pubDate": "Wed, 30 Sep 2026 14:31:26 GMT",
+      "tag": "ndx",
+      "title_ko": "Kalshi, Polymarket의 일부 상품 거래량은 급격한 성장 속에서 의문을 제기합니다.",
+      "desc_ko": "전문가들이 보고된 거래량이 유기적 시장 활동을 반영하는지 여부를 논의함에 따라 칼시와 폴리마켓의 비정상적인 거래 패턴은 면밀한 조사를 거듭하고 있습니다."
+    },
     {
       "title": "Singapore&apos;s Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices",
       "description": "Singapore state investor Temasek plans to open offices in Riyadh and Abu Dhabi by the first half of 2027, its most significant Mideast expansion to date.",
@@ -128,13 +137,49 @@
       "desc_ko": "지난 5월 시진핑 (習 近 平) 중국 국가주석은 도널드 트럼프 미국 대통령에게 국가들이 파괴적인 경쟁을 피할 수 있는지 물었다. 이제 그는 그들이 할 수 있다고 생각하는 것 같습니다."
     },
     {
-      "title": "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms",
-      "description": "The decision is the second in less than a month by an appeals court that states have a role in regulating sports-related event contracts.",
-      "link": "https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
-      "pubDate": "Fri, 25 Sep 2026 23:28:42 GMT",
-      "tag": "ndx",
-      "title_ko": "주가 Kalshi의 스포츠 예측 시장을 규제할 수 있다는 항소 법원 규정은 플랫폼에 또 다른 법적 타격을 입힙니다.",
-      "desc_ko": "이 결정은 주정부가 스포츠 관련 이벤트 계약을 규제하는 역할을 하는 항소 법원에 의해 한 달 이내에 두 번째입니다."
+      "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
+      "description": "In the first half of this year, the sector poured millions into lobbying, with most of it tied to pushing the U.S. market structure bill to a goal it never reached.",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
+      "pubDate": "Wed, 30 Sep 2026 17:16:31 +0000",
+      "tag": "btc",
+      "title_ko": "암호화폐 업계는 거래를 성사시키지 않은 Clarity Act 로비스트에게 800만 달러 ($) 를 기부했습니다.",
+      "desc_ko": "올해 상반기, 이 부문은 로비에 수백만 달러를 쏟아 부었고, 그 대부분은 미국 시장 구조 법안을 결코 도달하지 못한 목표로 밀어 넣는 것과 관련이 있습니다."
+    },
+    {
+      "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
+      "description": "The “overwhelming majority” of Open Standard’s equity will be distributed over time to partners based on how much they help grow the stablecoin, CEO Zach Abrams said.",
+      "link": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
+      "pubDate": "Wed, 30 Sep 2026 15:34:50 +0000",
+      "tag": "btc",
+      "title_ko": "Open USD는 '빌딩 머니' 인 다른 스테이블 코인 모델로 Tether, Circle을 인수합니다.",
+      "desc_ko": "Zach Abrams CEO는 Open Standard 지분의 \"압도적 다수\" 는 스테이블코인 성장에 얼마나 도움이 되는지에 따라 시간이 지남에 따라 파트너에게 분배될 것이라고 말했습니다."
+    },
+    {
+      "title": "U.S. CFTC  seeks event contract definitions that may defy states' gambling claims",
+      "description": "As it battles with states over prediction markets, the CFTC sent two related rules on swaps definitions for White House review.",
+      "link": "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
+      "pubDate": "Wed, 30 Sep 2026 15:19:36 +0000",
+      "tag": "btc",
+      "title_ko": "미국 CFTC는 주정부의 도박 주장에 반할 수 있는 이벤트 계약 정의를 추구합니다.",
+      "desc_ko": "예측 시장을 놓고 주와 싸우면서 CFTC는 백악관 검토를 위해 스왑 정의에 대한 두 가지 관련 규칙을 보냈습니다."
+    },
+    {
+      "title": "Crypto Long & Short: What will the AI agents run on?",
+      "description": "",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
+      "pubDate": "Wed, 30 Sep 2026 14:56:07 +0000",
+      "tag": "btc",
+      "title_ko": "Crypto Long & Short: AI 에이전트는 무엇을 실행합니까?",
+      "desc_ko": null
+    },
+    {
+      "title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
+      "description": "The five-month application window precedes the new regulatory framework’s planned introduction in October 2027, after years of legislative development.",
+      "link": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
+      "pubDate": "Wed, 30 Sep 2026 14:04:19 +0000",
+      "tag": "btc",
+      "title_ko": "Clock's Ticking: 영국의 암호화폐 규제 응용 프로그램 창이 2월 마감일과 함께 열립니다.",
+      "desc_ko": "5개월의 신청 기간은 수년간의 입법 개발 끝에 2027년 10월에 계획된 새로운 규제 프레임워크의 도입보다 앞선다."
     },
     {
       "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
@@ -173,12 +218,12 @@
       "desc_ko": "Fairmint의 Joris Delanoue는 소유권 데이터가 토큰 래퍼, 특수 목적 차량 (SPV), 브로커의 내부 원장 및 이전 에이전트의 오프체인 데이터베이스로 분할되는 경우, 우리는 블록체인 시대를 위한 서류 위기를 위한 발판을 마련하고 있다고 주장합니다."
     },
     {
-      "title": "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal",
+      "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
       "description": "Six companies signed a safety pact covering hacking and biological threats, with no penalties or deadline for putting the checks in place.",
       "link": "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal",
       "pubDate": "Wed, 30 Sep 2026 10:43:43 +0000",
       "tag": "btc",
-      "title_ko": "OpenAI, Google 및 Meta는 자발적인 백악관 거래에 따라 AI 감사 외부에서 서약합니다.",
+      "title_ko": "OpenAI, Google 및 Meta는 자발적인 백악관 거래에 따라 독립적 인 AI 안전 감사를 약속합니다.",
       "desc_ko": "6개 회사가 해킹 및 생물학적 위협을 다루는 안전 조약에 서명했으며, 수표 발행에 대한 처벌이나 기한은 없습니다."
     },
     {
@@ -191,12 +236,12 @@
       "desc_ko": "독립 이사들은 경영진의 재무 리스크와 구조조정 역할을 언급하지만, Gerovich의 행사 주식과 MMXX Ventures에 대한 질문은 남깁니다."
     },
     {
-      "title": "Live updates: Bitcoin gains as yields dip following better than hoped inflation numbers",
+      "title": "Live updates: Bitcoin returns to $84,000, giving up early gains",
       "description": "Core PCE prices rose just 0.2% in August versus the 0.3% forecast, and were higher by 3% year-over-year versus the 3.3% estimate.",
       "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
       "pubDate": "Wed, 30 Sep 2026 10:18:34 +0000",
       "tag": "btc",
-      "title_ko": "실시간 업데이트: 기대되는 인플레이션 수치보다 더 나은 수익률 하락에 따른 비트코인 상승",
+      "title_ko": "실시간 업데이트: 비트코인이 $ 84,000로 돌아와 조기 이득을 포기합니다",
       "desc_ko": "핵심 PCE 가격은 8월에 0.3% 의 전망치에 비해 0.2% 상승했으며, 3.3% 의 추정치에 비해 전년 대비 3% 상승했습니다."
     },
     {
@@ -225,51 +270,6 @@
       "tag": "btc",
       "title_ko": "Winklevoss 소유의 Gemini는 더 빠른 25초 블록보다 먼저 Zcash 소프트웨어를 전환합니다",
       "desc_ko": "새로운 Zakura 노드는 Gemini의 배포에서 불과 6시간 만에 네트워크를 따라잡았습니다. 암호화폐 거래소의 이전 소프트웨어는 하루 가까이 걸렸습니다."
-    },
-    {
-      "title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
-      "description": "Asset management platform HANetf has listed ETCs in London, Frankfurt and Paris providing pound sterling and euro-hedged exposure to bitcoin.",
-      "link": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
-      "pubDate": "Wed, 30 Sep 2026 08:25:43 +0000",
-      "tag": "btc",
-      "title_ko": "유럽 투자자들이 미국 달러 리스크를 감수하지 않고 비트코인을 구매할 수 있는 방법",
-      "desc_ko": "자산 관리 플랫폼 HANetf는 런던, 프랑크푸르트 및 파리에 ETC를 상장하여 비트코인에 파운드 스털링 및 유로 헤지드 노출을 제공하고 있습니다."
-    },
-    {
-      "title": "Bitcoin bulls have one price level to defend",
-      "description": "Here's the level analysts are watching and what a break below it could mean for the bulls.",
-      "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-bulls-have-one-price-level-to-defend",
-      "pubDate": "Wed, 30 Sep 2026 07:04:41 +0000",
-      "tag": "btc",
-      "title_ko": "비트코인 황소는 방어할 수 있는 하나의 가격 수준을 가지고 있습니다",
-      "desc_ko": "여기 분석가들이 보고 있는 수준과 그 아래의 휴식이 황소에 어떤 영향을 미칠 수 있는지 살펴보겠습니다."
-    },
-    {
-      "title": "Robinhood unveils an AI that trades your money 24/7, and you carry all the risk",
-      "description": "Robinhood users could soon get an AI agent that trades on their behalf, even at 2 a.m. But if a trade goes wrong, users' bear the risk, not Robinhood.",
-      "link": "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets",
-      "pubDate": "Wed, 30 Sep 2026 05:59:31 +0000",
-      "tag": "btc",
-      "title_ko": "Robinhood는 연중 무휴로 돈을 거래하는 AI를 공개하고 모든 위험을 감수합니다.",
-      "desc_ko": "Robinhood 사용자는 곧 새벽 2시에도 자신을 대신하여 거래하는 AI 에이전트를 얻을 수 있지만 거래가 잘못되면 Robinhood가 아닌 사용자가 위험을 감수해야 합니다."
-    },
-    {
-      "title": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
-      "description": "The regulated operator is mirroring ownership of selected investment funds on XRPL while keeping its existing database as the official record.",
-      "link": "https://www.coindesk.com/tech/2026/09/30/xrp-ledger-starts-carrying-fund-records-from-brazil-operator-overseeing-usd4-trillion",
-      "pubDate": "Wed, 30 Sep 2026 05:22:51 +0000",
-      "tag": "btc",
-      "title_ko": "XRP 원장은 브라질 운영자로부터 4조 $ 를 감독하는 자금 기록을 운반하기 시작합니다.",
-      "desc_ko": "규제 대상 사업자는 기존 데이터베이스를 공식 기록으로 유지하면서 XRPL에서 선택된 투자 자금의 소유권을 미러링하고 있습니다."
-    },
-    {
-      "title": "Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score",
-      "description": "A trend guage tracked on onchain analysis firm CryptoQuant is near its ceiling. The buyers who drove BTC to an eight-month high are already pulling back.",
-      "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score",
-      "pubDate": "Wed, 30 Sep 2026 04:38:18 +0000",
-      "tag": "btc",
-      "title_ko": "비트코인 랠리는 '황소 점수' 게이지가 만점에 가까워짐에도 불구하고 냉각의 조짐을 보입니다",
-      "desc_ko": "온체인 분석 회사 크립토퀀트 (CryptoQuant) 에서 추적한 트렌드 게이지가 천장 근처에 있습니다. BTC를 8개월 만에 최고치로 끌어올린 구매자들은 이미 철수하고 있습니다."
     },
     {
       "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
@@ -407,94 +407,94 @@
       "desc_ko": null
     },
     {
-      "title": "Major car rivals are teaming up to solve the biggest EV roadblock: Reliable charging",
-      "description": "A coalition of carmakers says that in nine months, it has doubled the number of charging ports it offers &#x2014; although its network size still pales in comparison to Tesla&#x2019;s.",
-      "link": "https://www.marketwatch.com/story/major-car-rivals-are-teaming-up-to-solve-the-biggest-ev-roadblock-reliable-charging-a11b70c0?mod=mw_rss_topstories",
-      "pubDate": "Wed, 30 Sep 2026 13:37:00 GMT",
+      "title": "This chart shows that buying and holding stocks beats &#x2018;sell in May and go away&#x2019; and other gimmicks",
+      "description": "Followers of &#x2018;sell in May and go away&#x2019; have lost out on a stock rally",
+      "link": "https://www.marketwatch.com/story/why-the-halloween-indicator-isnt-working-and-what-smart-investors-are-doing-instead-6d758662?mod=mw_rss_topstories",
+      "pubDate": "Wed, 30 Sep 2026 18:20:00 GMT",
       "tag": "general",
-      "title_ko": "주요 자동차 라이벌들이 가장 큰 전기차 문제인 안정적인 충전 문제를 해결하기 위해 힘을 모으고 있습니다.",
-      "desc_ko": "자동차 제조업체 연합은 9개월 만에 제공하는 충전 포트의 수가 두 배로 증가했다고 말합니다. 네트워크 크기는 Tesla에 비해 여전히 작습니다."
+      "title_ko": "이 차트는 주식 매수 및 보유가 ‘5월에 팔고 사라지다’ 및 기타 기믹을 능가한다는 것을 보여줍니다.",
+      "desc_ko": "‘5월에 팔고 사라져라’ 팔로워들이 주식 랠리에서 패배했습니다"
     },
     {
-      "title": "&#x2018;I&#x2019;m afraid of human stupidity&#x2019;: Why this top economist prefers U.S. tech and gold over bonds",
-      "description": "A prominent economist doesn&#x2019;t fear artificial intelligence, but fully embraces it in portfolios. He feels far differently about government debt.",
-      "link": "https://www.marketwatch.com/story/im-afraid-of-human-stupidity-why-this-top-economist-prefers-u-s-tech-and-gold-over-bonds-30299219?mod=mw_rss_topstories",
-      "pubDate": "Wed, 30 Sep 2026 13:33:00 GMT",
+      "title": "&#x2018;I&#x2019;d rather be on a beach in Bali&#x2019;: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "description": "&#x201c;We have an ironclad prenup.&#x201d;",
+      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "pubDate": "Wed, 30 Sep 2026 18:15:00 GMT",
       "tag": "general",
-      "title_ko": "‘인간의 어리석음이 두렵다’: 이 최고 경제학자가 채권보다 미국 기술과 금을 선호하는 이유",
-      "desc_ko": "저명한 경제학자는 인공 지능을 두려워하지 않고 포트폴리오에 완전히 수용합니다. 그는 정부 부채에 대해 매우 다르게 느낍니다."
+      "title_ko": "‘차라리 발리의 해변에 있는 게 낫다’: 남편은 제 $ 8백만 순자산을 원망합니다. 그의 은퇴에 대한 대가를 치러야 할까?",
+      "desc_ko": "“철갑상어 예비창업자가 생겼습니다.”"
     },
     {
-      "title": "&#x2018;I&#x2019;m never selling&#x2019;: I&#x2019;m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "description": "&#x201c;When my paycheck lands, it takes a detour through bitcoin.&#x201d;",
-      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "pubDate": "Wed, 30 Sep 2026 13:30:00 GMT",
+      "title": "Medicare Advantage plans will be cheaper next year. Here&#x2019;s the new cost.",
+      "description": "Medicare beneficiaries can change their coverage during open enrollment, which begins Oct. 15.",
+      "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
+      "pubDate": "Wed, 30 Sep 2026 18:03:00 GMT",
       "tag": "general",
-      "title_ko": "‘나는 결코 팔지 않는다’: 나는 47 세이며 1 달러를 벌 때마다 비트 코인을 산다. 내가 미쳤나?",
-      "desc_ko": "\"월급이 도착하면 비트코인을 통해 우회해야 합니다.\""
+      "title_ko": "Medicare Advantage 플랜은 내년에 더 저렴해질 것입니다. 새로운 비용입니다.",
+      "desc_ko": "메디케어 수혜자는 10월 15일부터 시작되는 공개 등록 기간 동안 보장 범위를 변경할 수 있습니다."
     },
     {
-      "title": "Americans get back to their spending ways. Economy might be speeding up again.",
-      "description": "Consumer spending snapped back in August after a brief lull, adding to mounting evidence of an acceleration in the U.S. economy despite a series of strains.",
-      "link": "https://www.marketwatch.com/story/americans-get-back-to-their-spending-ways-economy-might-be-speeding-up-again-7884c424?mod=mw_rss_topstories",
-      "pubDate": "Wed, 30 Sep 2026 13:24:00 GMT",
+      "title": "These bond strategies can help you get a safe 5% return on your cash",
+      "description": "With U.S. Treasury yields on the rise, financial planners say they&#x2019;re seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement.",
+      "link": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+      "pubDate": "Wed, 30 Sep 2026 17:38:00 GMT",
       "tag": "general",
-      "title_ko": "미국인들은 지출 방식으로 돌아갑니다. 경제가 다시 빨라질 수 있습니다.",
-      "desc_ko": "소비자 지출은 지난 8월 잠시 잠적한 후 다시 줄어들었고, 일련의 긴장에도 불구하고 미국 경제가 가속화되고 있다는 증거가 되고 있다."
+      "title_ko": "이러한 채권 전략은 현금으로 안전하게 5% 수익을 올리는 데 도움이 될 수 있습니다.",
+      "desc_ko": "재무 설계사들은 미국 국채 수익률이 증가함에 따라 채권에 대한 관심이 높아지고 있으며, 특히 은퇴 시 고정 수입을 확보하려는 투자자들 사이에서 관심이 높아지고 있다고 말합니다."
     },
     {
-      "title": "How Amazon&#x2019;s stock can fight off the AI threat and soar 46%",
-      "description": "Some investors worry that AI agents pose a risk to Amazon, but a Rosenblatt analyst thinks the company &#x201c;can navigate this period of transition largely unaffected.&#x201d;",
-      "link": "https://www.marketwatch.com/story/how-amazons-stock-can-fight-off-the-ai-threat-and-soar-46-5af77a03?mod=mw_rss_topstories",
-      "pubDate": "Wed, 30 Sep 2026 13:24:00 GMT",
+      "title": "Trump touts economic wins in battleground states &#x2014; like a $54 billion Alaskan pipeline &#x2014; as the midterms draw closer",
+      "description": "President Donald Trump is spending time this week talking up big job-creating projects in battleground states.",
+      "link": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
+      "pubDate": "Wed, 30 Sep 2026 17:37:00 GMT",
       "tag": "general",
-      "title_ko": "아마존의 주식이 AI 위협을 물리치고 46% 급등할 수 있는 방법",
-      "desc_ko": "일부 투자자들은 AI 에이전트가 아마존에 위험을 초래할 수 있다고 우려하지만, 로젠블랫 애널리스트는 회사가 \"이러한 전환 시기를 크게 영향을 받지 않고 헤쳐나갈 수 있다\" 고 생각합니다."
-    },
-    {
-      "title": "U.S. inflation rises, keeping pressure on Fed",
-      "description": "The main inflation gauge used by the Federal Reserve to set U.S. interest rates rose sharply in August, underscoring why the central bank raised interest rates earlier this month for the first time in three years.",
-      "link": "https://www.marketwatch.com/story/inflation-rises-again-and-keeps-pressure-on-fed-f64d2ced?mod=mw_rss_topstories",
-      "pubDate": "Wed, 30 Sep 2026 13:11:00 GMT",
-      "tag": "general",
-      "title_ko": "미국 인플레이션 상승, 연준 압박 유지",
-      "desc_ko": "연방준비제도가 미국 금리를 책정하기 위해 사용한 주요 인플레이션 게이지가 8월에 급격히 상승하면서 중앙은행이 이달 초 3년 만에 처음으로 금리를 인상한 이유를 강조했다."
+      "title_ko": "트럼프는 중간고사가 가까워질수록 알래스카 파이프라인 540억 달러 ($) 와 같은 전장 주에서 경제적 승리를 거둔다고 주장합니다.",
+      "desc_ko": "도널드 트럼프 대통령은 이번 주 전장 주에서 큰 일자리 창출 프로젝트에 대해 이야기하는 데 시간을 할애하고 있습니다."
     },
     {
       "title": "&#x2018;I have $400,000 in equity&#x2019;: I&#x2019;m 80. Should I sell my house because of dangerous stairs &#x2014; or spend thousands renovating?",
       "description": "&#x201c;Generally, the advice I&#x2019;ve read says not to sell because I have a low-interest-rate mortgage.&#x201d;",
       "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "pubDate": "Wed, 30 Sep 2026 13:00:00 GMT",
+      "pubDate": "Wed, 30 Sep 2026 17:31:00 GMT",
       "tag": "general",
       "title_ko": "‘$ 400,000의 자기자본이 있습니다.’: 저는 80세입니다. 위험한 계단 때문에 집을 팔아야 합니까, 아니면 수천 개의 리노베이션 비용을 지출해야 합니까?",
       "desc_ko": "“일반적으로 제가 읽은 조언은 저금리 주택담보대출을 받았기 때문에 팔지 말라는 것입니다.”"
     },
     {
-      "title": "Here&#x2019;s the most you should be spending on your car payment, whether you make $60,000 or over $150,000",
-      "description": "For car buyers today, saving over a few years for a large down payment can be critical to reducing the amount they borrow and the length of their loan",
-      "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
-      "pubDate": "Wed, 30 Sep 2026 13:00:00 GMT",
+      "title": "Former NFL players are nearly four times as likely to die with brain damage. Is it time to boycott football?",
+      "description": "New research says the problem is worse than we thought.",
+      "link": "https://www.marketwatch.com/story/former-nfl-players-are-nearly-four-times-as-likely-to-die-with-brain-damage-is-it-time-to-boycott-football-ba886e44?mod=mw_rss_topstories",
+      "pubDate": "Wed, 30 Sep 2026 17:15:00 GMT",
       "tag": "general",
-      "title_ko": "6만 달러를 벌든 15만 달러 이상을 벌든 자동차 결제에 가장 많이 지출해야 할 금액은 다음과 같습니다.",
-      "desc_ko": "오늘날 자동차 구매자의 경우, 큰 계약금을 위해 몇 년 동안 저축하는 것이 대출 금액과 대출 기간을 줄이는 데 중요할 수 있습니다."
+      "title_ko": "전 NFL 선수들은 뇌 손상으로 사망할 확률이 거의 4배 더 높습니다. 축구를 보이콧할 때가 되었나요?",
+      "desc_ko": "새로운 연구에 따르면 문제는 생각보다 심각합니다."
     },
     {
-      "title": "I&#x2019;m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "description": "&#x201c;I have $152,000 in my IRA and Roth accounts.&#x201d;",
-      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "pubDate": "Wed, 30 Sep 2026 12:32:00 GMT",
+      "title": "The U.S. economy is defying gravity. Here&#x2019;s all the good news.",
+      "description": "Wall Street just got a health check on the U.S. economy &#x2014; and almost all the news was positive.",
+      "link": "https://www.marketwatch.com/story/the-u-s-economy-is-defying-gravity-heres-all-the-good-news-8b58fc7b?mod=mw_rss_topstories",
+      "pubDate": "Wed, 30 Sep 2026 17:07:00 GMT",
       "tag": "general",
-      "title_ko": "저는 71세이고 여전히 일하고 있습니다. 연간 수입은 $ 108,000입니다. 나는 옳은 일을 하고 있는가?",
-      "desc_ko": "\"IRA와 Roth 계좌에 $ 152,000가 있습니다.\""
+      "title_ko": "미국 경제는 중력을 거스르고 있다. 여기 좋은 소식이 있습니다.",
+      "desc_ko": "월스트리트는 방금 미국 경제에 대한 건강 검진을 받았으며 거의 모든 뉴스가 긍정적이었습니다."
     },
     {
-      "title": "Meta is pitching a bold new identity &#x2014; and the payoff could be big",
-      "description": "Enterprise tools present a compelling business opportunity as Facebook and Instagram parent Meta looks to diversify its revenue away from advertising.",
-      "link": "https://www.marketwatch.com/story/meta-is-pitching-a-bold-new-identity-and-the-payoff-could-be-big-cee32b73?mod=mw_rss_topstories",
-      "pubDate": "Wed, 30 Sep 2026 12:28:00 GMT",
+      "title": "Gold is supposed to be a safe haven when inflation surges. So why isn&#x2019;t it working that way now?",
+      "description": "Every investor knows the drill: When markets buckle, buy gold. But in September, that playbook hasn&#x2019;t worked as expected.",
+      "link": "https://www.marketwatch.com/story/gold-is-supposed-to-be-a-safe-haven-when-inflation-surges-so-why-isnt-it-working-that-way-now-45cbb07b?mod=mw_rss_topstories",
+      "pubDate": "Wed, 30 Sep 2026 16:51:00 GMT",
       "tag": "general",
-      "title_ko": "메타는 대담한 새로운 아이덴티티를 제시하고 있으며, 그 성과는 클 수 있습니다.",
-      "desc_ko": "엔터프라이즈 도구는 Facebook 및 Instagram 상위 Meta가 광고에서 수익을 다각화하려고 할 때 매력적인 비즈니스 기회를 제공합니다."
+      "title_ko": "금은 인플레이션이 급증할 때 안전한 피난처가 되어야 합니다. 그런데 왜 지금 그런 식으로 작동하지 않습니까?",
+      "desc_ko": "모든 투자자는 드릴을 알고 있습니다. 시장이 버클을 채우면 금을 사십시오. 그러나 9월에는 그 플레이북이 예상대로 작동하지 않았습니다."
+    },
+    {
+      "title": "Wall Street may be sleeping on this networking stock tied to Google and OpenAI",
+      "description": "A critical bottleneck in data centers is creating a massive runway for networking stocks like Celestica, according to Bernstein.",
+      "link": "https://www.marketwatch.com/story/wall-street-may-be-sleeping-on-this-networking-stock-tied-to-google-and-openai-1cb9741f?mod=mw_rss_topstories",
+      "pubDate": "Wed, 30 Sep 2026 16:29:00 GMT",
+      "tag": "general",
+      "title_ko": "월스트리트는 Google 및 OpenAI와 연결된이 네트워킹 주식에서 자고있을 수 있습니다.",
+      "desc_ko": "Bernstein에 따르면 데이터 센터의 중요한 병목 현상은 Celestica와 같은 주식을 네트워킹하기 위한 대규모 활주로를 만들고 있습니다."
     }
   ],
   "assets": {
@@ -609,12 +609,12 @@
         30608.130859375,
         30276.810546875,
         30339.330078125,
-        30479.939453125
+        30530.904296875
       ],
-      "last": 30479.939453125,
-      "chg_pct": 0.4634557672760908,
-      "rsi14": 61.104027738806224,
-      "ma20": 29777.016015625
+      "last": 30530.904296875,
+      "chg_pct": 0.6314385263507423,
+      "rsi14": 61.719215100532836,
+      "ma20": 29779.5642578125
     },
     "es": {
       "live": true,
@@ -718,12 +718,12 @@
         7803.75,
         7746.75,
         7732.0,
-        7751.75
+        7754.5
       ],
-      "last": 7751.75,
-      "chg_pct": 0.25543197102948784,
-      "rsi14": 54.009493822511935,
-      "ma20": 7702.1300048828125
+      "last": 7754.5,
+      "chg_pct": 0.2909984480082773,
+      "rsi14": 54.22537468027358,
+      "ma20": 7702.267504882812
     },
     "nq": {
       "live": true,
@@ -827,12 +827,12 @@
         30889.25,
         30566.25,
         30613.25,
-        30689.5
+        30823.0
       ],
-      "last": 30689.5,
-      "chg_pct": 0.24907515536573216,
-      "rsi14": 61.89062818120434,
-      "ma20": 29901.008984375
+      "last": 30823.0,
+      "chg_pct": 0.685160837219178,
+      "rsi14": 63.4040353327875,
+      "ma20": 29907.683984375
     },
     "gold": {
       "live": true,
@@ -936,12 +936,12 @@
         4321.2001953125,
         4168.39990234375,
         4179.7001953125,
-        4223.10009765625
+        4182.2001953125
       ],
-      "last": 4223.10009765625,
-      "chg_pct": 1.0383496498725588,
-      "rsi14": 38.721216223955764,
-      "ma20": 4365.644995117187
+      "last": 4182.2001953125,
+      "chg_pct": 0.05981290243744587,
+      "rsi14": 34.44781098032277,
+      "ma20": 4363.6
     },
     "wti": {
       "live": true,
@@ -1045,12 +1045,12 @@
         92.41000366210938,
         92.5999984741211,
         89.37999725341797,
-        91.41000366210938
+        90.69999694824219
       ],
-      "last": 91.41000366210938,
-      "chg_pct": 2.2712088510539497,
-      "rsi14": 47.76534810508398,
-      "ma20": 96.01000137329102
+      "last": 90.69999694824219,
+      "chg_pct": 1.476840160423859,
+      "rsi14": 46.51137004429109,
+      "ma20": 95.97450103759766
     },
     "zn": {
       "live": true,
@@ -1154,12 +1154,12 @@
         104.859375,
         104.484375,
         104.421875,
-        104.578125
+        104.1875
       ],
-      "last": 104.578125,
-      "chg_pct": 0.14963339817447255,
-      "rsi14": 23.992879110268134,
-      "ma20": 106.14765625
+      "last": 104.1875,
+      "chg_pct": -0.2244500972617088,
+      "rsi14": 19.30555586626926,
+      "ma20": 106.128125
     },
     "dxy": {
       "live": true,
@@ -1263,12 +1263,12 @@
         100.97000122070312,
         101.19999694824219,
         101.37000274658203,
-        101.16200256347656
+        101.43599700927734
       ],
-      "last": 101.16200256347656,
-      "chg_pct": -0.20518908697818106,
-      "rsi14": 64.80524852503505,
-      "ma20": 100.07609977722169
+      "last": 101.43599700927734,
+      "chg_pct": 0.06510235859447847,
+      "rsi14": 69.8152480881867,
+      "ma20": 100.08979949951171
     },
     "vix": {
       "live": true,
@@ -1372,16 +1372,17 @@
         14.869999885559082,
         16.06999969482422,
         16.040000915527344,
-        15.90999984741211
+        15.829999923706055
       ],
-      "last": 15.90999984741211,
-      "chg_pct": -0.810480428273469,
-      "rsi14": 51.0527993848188,
-      "ma20": 15.754500007629394
+      "last": 15.829999923706055,
+      "chg_pct": -1.3092330413647293,
+      "rsi14": 50.65534149256694,
+      "ma20": 15.750500011444093
     },
     "hsi": {
       "live": true,
       "closes": [
+        26393.7109375,
         26406.83984375,
         26347.91015625,
         26388.439453125,
@@ -1480,17 +1481,17 @@
         24761.130859375,
         24510.08984375,
         24642.509765625,
-        24523.5703125,
-        24613.26953125
+        24523.5703125
       ],
-      "last": 24613.26953125,
-      "chg_pct": 0.3657673723971549,
-      "rsi14": 41.67117809295567,
-      "ma20": 24914.9189453125
+      "last": 24523.5703125,
+      "chg_pct": -0.4826596570569864,
+      "rsi14": 39.20825872657743,
+      "ma20": 24949.816015625
     },
     "n225": {
       "live": true,
       "closes": [
+        59513.12109375,
         62833.83984375,
         62713.6484375,
         62417.87890625,
@@ -1589,17 +1590,17 @@
         65513.98828125,
         66364.203125,
         65877.6171875,
-        65481.26953125,
-        66753.71875
+        65481.26953125
       ],
-      "last": 66753.71875,
-      "chg_pct": 1.943226250588715,
-      "rsi14": 57.41908781704662,
-      "ma20": 65111.433203125
+      "last": 65481.26953125,
+      "chg_pct": -0.6016423683356982,
+      "rsi14": 50.816759414008864,
+      "ma20": 65094.025390625
     },
     "kospi": {
       "live": true,
       "closes": [
+        6936.990234375,
         7384.56005859375,
         7490.0498046875,
         7498.0,
@@ -1698,17 +1699,17 @@
         7017.91015625,
         7080.919921875,
         6889.740234375,
-        6870.81005859375,
-        6838.0400390625
+        6870.81005859375
       ],
-      "last": 6838.0400390625,
-      "chg_pct": -0.4769455020847578,
-      "rsi14": 49.66623696735365,
-      "ma20": 6847.748559570313
+      "last": 6870.81005859375,
+      "chg_pct": -0.2747589188747875,
+      "rsi14": 50.706551066006924,
+      "ma20": 6846.84755859375
     },
     "sse": {
       "live": true,
       "closes": [
+        4225.02099609375,
         4214.48876953125,
         4242.57177734375,
         4177.9169921875,
@@ -1807,13 +1808,12 @@
         3936.52001953125,
         3888.3740234375,
         3823.62109375,
-        3830.450927734375,
-        3842.194580078125
+        3830.450927734375
       ],
-      "last": 3842.194580078125,
-      "chg_pct": 0.30658668040151876,
-      "rsi14": 40.35205853169731,
-      "ma20": 3905.6372924804687
+      "last": 3830.450927734375,
+      "chg_pct": 0.17862214421661404,
+      "rsi14": 38.19392214002149,
+      "ma20": 3912.5219604492186
     },
     "dax": {
       "live": true,
@@ -1917,12 +1917,12 @@
         25408.640625,
         25374.419921875,
         25399.2109375,
-        25291.900390625
+        25199.189453125
       ],
-      "last": 25291.900390625,
-      "chg_pct": -0.4224955930286958,
-      "rsi14": 41.189415652241856,
-      "ma20": 25563.8421875
+      "last": 25199.189453125,
+      "chg_pct": -0.7875106233307567,
+      "rsi14": 39.305319642474466,
+      "ma20": 25559.206640625
     },
     "ftse": {
       "live": true,
@@ -2026,12 +2026,12 @@
         10695.2998046875,
         10684.900390625,
         10636.7001953125,
-        10627.2900390625
+        10606.0
       ],
-      "last": 10627.2900390625,
-      "chg_pct": -0.08846875513278989,
-      "rsi14": 42.045094044749185,
-      "ma20": 10711.0994140625
+      "last": 10606.0,
+      "chg_pct": -0.2886251821408796,
+      "rsi14": 40.58153380698797,
+      "ma20": 10710.034912109375
     },
     "krw": {
       "live": true,
@@ -2135,12 +2135,12 @@
         1367.3599853515625,
         1354.510009765625,
         1359.56005859375,
-        1353.3800048828125
+        1355.3599853515625
       ],
-      "last": 1353.3800048828125,
-      "chg_pct": -0.4545627588772937,
-      "rsi14": 41.62309011846629,
-      "ma20": 1357.2570068359375
+      "last": 1355.3599853515625,
+      "chg_pct": -0.3089288491257835,
+      "rsi14": 42.374126605335974,
+      "ma20": 1357.356005859375
     },
     "jpy": {
       "live": true,
@@ -2244,12 +2244,12 @@
         158.81100463867188,
         157.46299743652344,
         157.36099243164062,
-        156.89999389648438
+        157.34500122070312
       ],
-      "last": 156.89999389648438,
-      "chg_pct": -0.29295604204867537,
-      "rsi14": 47.92104947735609,
-      "ma20": 156.1032501220703
+      "last": 157.34500122070312,
+      "chg_pct": -0.010162118762975368,
+      "rsi14": 50.37398850659607,
+      "ma20": 156.12550048828126
     },
     "copper": {
       "live": true,
@@ -2353,12 +2353,12 @@
         6.695499897003174,
         6.565999984741211,
         6.543499946594238,
-        6.61899995803833
+        6.616000175476074
       ],
-      "last": 6.61899995803833,
-      "chg_pct": 1.1538169490379235,
-      "rsi14": 51.97281749047681,
-      "ma20": 6.5876000165939335
+      "last": 6.616000175476074,
+      "chg_pct": 1.1079732478575304,
+      "rsi14": 51.82708486124475,
+      "ma20": 6.58745002746582
     },
     "natgas": {
       "live": true,
@@ -2462,12 +2462,12 @@
         3.196000099182129,
         3.0,
         3.010999917984009,
-        3.0
+        3.0309998989105225
       ],
-      "last": 3.0,
-      "chg_pct": -0.3653244199147537,
-      "rsi14": 52.97266829990086,
-      "ma20": 2.954699993133545
+      "last": 3.0309998989105225,
+      "chg_pct": 0.6642305370736942,
+      "rsi14": 54.562352519191215,
+      "ma20": 2.956249988079071
     },
     "silver": {
       "live": true,
@@ -2571,12 +2571,12 @@
         64.24500274658203,
         61.220001220703125,
         60.667999267578125,
-        61.33000183105469
+        60.525001525878906
       ],
-      "last": 61.33000183105469,
-      "chg_pct": 1.0911890477165387,
-      "rsi14": 40.24684456635551,
-      "ma20": 64.54710006713867
+      "last": 60.525001525878906,
+      "chg_pct": -0.2357053857479669,
+      "rsi14": 37.29443218616907,
+      "ma20": 64.50685005187988
     },
     "qqq": {
       "live": true,
@@ -2680,12 +2680,12 @@
         744.5,
         736.530029296875,
         737.9299926757812,
-        741.3900146484375
+        742.4949951171875
       ],
-      "last": 741.3900146484375,
-      "chg_pct": 0.4688821442410803,
-      "rsi14": 61.068057558048736,
-      "ma20": 724.6254974365235
+      "last": 742.4949951171875,
+      "chg_pct": 0.618622699540001,
+      "rsi14": 61.62432768714874,
+      "ma20": 724.6807464599609
     },
     "irx": {
       "live": true,
@@ -2789,12 +2789,12 @@
         4.070000171661377,
         4.057000160217285,
         4.065000057220459,
-        4.025000095367432
+        4.029999732971191
       ],
-      "last": 4.025000095367432,
-      "chg_pct": -0.9840088878222125,
-      "rsi14": 70.94228471517019,
-      "ma20": 3.9357500314712524
+      "last": 4.029999732971191,
+      "chg_pct": -0.8610165745778584,
+      "rsi14": 72.24135350335735,
+      "ma20": 3.9360000133514403
     },
     "fvx": {
       "live": true,
@@ -2898,12 +2898,12 @@
         5.006999969482422,
         5.067999839782715,
         5.063000202178955,
-        5.029000282287598
+        5.0929999351501465
       ],
-      "last": 5.029000282287598,
-      "chg_pct": -0.6715370044173598,
-      "rsi14": 74.10422319753478,
-      "ma20": 4.815950036048889
+      "last": 5.0929999351501465,
+      "chg_pct": 0.592528772925596,
+      "rsi14": 79.9222988390396,
+      "ma20": 4.819150018692016
     },
     "tnx": {
       "live": true,
@@ -3007,12 +3007,12 @@
         5.184000015258789,
         5.239999771118164,
         5.255000114440918,
-        5.236000061035156
+        5.300000190734863
       ],
-      "last": 5.236000061035156,
-      "chg_pct": -0.36156142705970507,
-      "rsi14": 76.37735463829948,
-      "ma20": 4.996699976921081
+      "last": 5.300000190734863,
+      "chg_pct": 0.8563287405129371,
+      "rsi14": 80.81645737723518,
+      "ma20": 4.999899983406067
     },
     "tyx": {
       "live": true,
@@ -3116,12 +3116,12 @@
         5.504000186920166,
         5.560999870300293,
         5.593999862670898,
-        5.595000267028809
+        5.647000312805176
       ],
-      "last": 5.595000267028809,
-      "chg_pct": 0.01788352489219593,
-      "rsi14": 75.68131452480074,
-      "ma20": 5.37024998664856
+      "last": 5.647000312805176,
+      "chg_pct": 0.9474517596604278,
+      "rsi14": 78.04323774027367,
+      "ma20": 5.372849988937378
     }
   },
   "bias": {
@@ -3137,57 +3137,57 @@
   "sectors": {
     "xlk": {
       "name": "기술",
-      "chg_pct": 0.791770327060572,
+      "chg_pct": 1.0282776349614395,
       "source": "yahoo"
     },
     "xlf": {
       "name": "금융",
-      "chg_pct": -0.13885752744466764,
+      "chg_pct": -0.9164949958671169,
       "source": "yahoo"
     },
     "xle": {
       "name": "에너지",
-      "chg_pct": 0.49561309820979493,
+      "chg_pct": 0.6418596878246197,
       "source": "yahoo"
     },
     "xlv": {
       "name": "헬스케어",
-      "chg_pct": -0.322201498423312,
+      "chg_pct": -0.7907168502955727,
       "source": "yahoo"
     },
     "xly": {
       "name": "임의소비재",
-      "chg_pct": -0.3573058948203227,
+      "chg_pct": -0.25652659219660084,
       "source": "yahoo"
     },
     "xlp": {
       "name": "필수소비재",
-      "chg_pct": 0.13439292901922523,
+      "chg_pct": -1.2034216600052776,
       "source": "yahoo"
     },
     "xli": {
       "name": "산업재",
-      "chg_pct": -0.38432515609741663,
+      "chg_pct": -0.8455081258710673,
       "source": "yahoo"
     },
     "xlb": {
       "name": "소재",
-      "chg_pct": 0.23421931169185323,
+      "chg_pct": -0.1731142303750912,
       "source": "yahoo"
     },
     "xlu": {
       "name": "유틸리티",
-      "chg_pct": -0.3903268266694128,
+      "chg_pct": -0.4910594291614256,
       "source": "yahoo"
     },
     "xlre": {
       "name": "부동산",
-      "chg_pct": -0.5563607677488848,
+      "chg_pct": -0.7982627717383531,
       "source": "yahoo"
     },
     "xlc": {
       "name": "커뮤니케이션",
-      "chg_pct": 0.11662084147696643,
+      "chg_pct": 0.14353281686797717,
       "source": "yahoo"
     }
   },
@@ -3195,156 +3195,156 @@
     "AAPL": {
       "name": "AAPL",
       "market": "US",
-      "chg_pct": 0.9350385995488698,
-      "vol_ratio": 0.059635572032594536,
-      "volume": 2528847
+      "chg_pct": 2.006804104475365,
+      "vol_ratio": 0.5464102769978211,
+      "volume": 23170533
     },
     "MSFT": {
       "name": "MSFT",
       "market": "US",
-      "chg_pct": 1.2574650274940622,
-      "vol_ratio": 0.07955929543874372,
-      "volume": 1697354
+      "chg_pct": 1.649439868479885,
+      "vol_ratio": 0.5202393200356678,
+      "volume": 11099021
     },
     "NVDA": {
       "name": "NVDA",
       "market": "US",
-      "chg_pct": 1.5646285686079688,
-      "vol_ratio": 0.09042034643707583,
-      "volume": 10203639
+      "chg_pct": 1.4920114825389585,
+      "vol_ratio": 0.5306497169991657,
+      "volume": 59882077
     },
     "GOOGL": {
       "name": "GOOGL",
       "market": "US",
-      "chg_pct": 1.900563293313104,
-      "vol_ratio": 0.11299979985821934,
-      "volume": 2976242
+      "chg_pct": 2.249789571764778,
+      "vol_ratio": 0.6662657720130195,
+      "volume": 17548422
     },
     "AMZN": {
       "name": "AMZN",
       "market": "US",
-      "chg_pct": -0.07301231955308023,
-      "vol_ratio": 0.06974696943294682,
-      "volume": 2403453
+      "chg_pct": 1.307417248735213,
+      "vol_ratio": 0.6032775809135804,
+      "volume": 20788707
     },
     "META": {
       "name": "META",
       "market": "US",
-      "chg_pct": -1.5660752945122554,
-      "vol_ratio": 0.09439900484117641,
-      "volume": 2220586
+      "chg_pct": -0.8277034632633681,
+      "vol_ratio": 0.46615892176282386,
+      "volume": 10965645
     },
     "TSLA": {
       "name": "TSLA",
       "market": "US",
-      "chg_pct": -1.6849017645169753,
-      "vol_ratio": 0.12022980611854961,
-      "volume": 4764295
+      "chg_pct": -0.33726404425723505,
+      "vol_ratio": 0.6986947899317197,
+      "volume": 27686879
     },
     "AVGO": {
       "name": "AVGO",
       "market": "US",
-      "chg_pct": -0.19149328755095107,
-      "vol_ratio": 0.048169232627435575,
-      "volume": 1312265
+      "chg_pct": -0.4365019104209836,
+      "vol_ratio": 0.3154356930244054,
+      "volume": 8593353
     },
     "COST": {
       "name": "COST",
       "market": "US",
-      "chg_pct": -0.3255507498671649,
-      "vol_ratio": 0.02979168586597215,
-      "volume": 70812
+      "chg_pct": -1.131446627361961,
+      "vol_ratio": 0.3614250826404888,
+      "volume": 859073
     },
     "NFLX": {
       "name": "NFLX",
       "market": "US",
-      "chg_pct": -0.5689921884987805,
-      "vol_ratio": 0.06291180707386093,
-      "volume": 2089453
+      "chg_pct": -0.8890469030845543,
+      "vol_ratio": 0.5259739279933622,
+      "volume": 17468864
     },
     "AMD": {
       "name": "AMD",
       "market": "US",
-      "chg_pct": -0.15389132895343952,
-      "vol_ratio": 0.09419647751005056,
-      "volume": 2044269
+      "chg_pct": 0.1448400796951949,
+      "vol_ratio": 0.46685506043061725,
+      "volume": 10131773
     },
     "ADBE": {
       "name": "ADBE",
       "market": "US",
-      "chg_pct": 1.2651700353425153,
-      "vol_ratio": 0.03701191361289317,
-      "volume": 206950
+      "chg_pct": 2.7790864083825766,
+      "vol_ratio": 0.3680014358675629,
+      "volume": 2057659
     },
     "PEP": {
       "name": "PEP",
       "market": "US",
-      "chg_pct": 0.47027281087544115,
-      "vol_ratio": 0.06310034179648825,
-      "volume": 569050
+      "chg_pct": -1.2588411810153113,
+      "vol_ratio": 0.4556823811381987,
+      "volume": 4109424
     },
     "CSCO": {
       "name": "CSCO",
       "market": "US",
-      "chg_pct": 0.6732758596088705,
-      "vol_ratio": 0.029712805320444832,
-      "volume": 538828
+      "chg_pct": 0.9257507398243827,
+      "vol_ratio": 0.26790800926304,
+      "volume": 4858388
     },
     "INTC": {
       "name": "INTC",
       "market": "US",
-      "chg_pct": 2.475634209460015,
-      "vol_ratio": 0.12945317829106792,
-      "volume": 13740005
+      "chg_pct": 2.958682218706633,
+      "vol_ratio": 0.5725935002091601,
+      "volume": 60774387
     },
     "QCOM": {
       "name": "QCOM",
       "market": "US",
-      "chg_pct": 1.8359530211655393,
-      "vol_ratio": 0.08157131869853393,
-      "volume": 1205036
+      "chg_pct": -0.0841927073102444,
+      "vol_ratio": 0.24874569269242103,
+      "volume": 3674668
     },
     "TXN": {
       "name": "TXN",
       "market": "US",
-      "chg_pct": 0.31949799023186165,
-      "vol_ratio": 0.02854976565750751,
-      "volume": 170880
+      "chg_pct": 0.017745675222942233,
+      "vol_ratio": 0.18905515143752075,
+      "volume": 1131559
     },
     "AMAT": {
       "name": "AMAT",
       "market": "US",
-      "chg_pct": -0.2441358520651175,
-      "vol_ratio": 0.058414906495241274,
-      "volume": 373170
+      "chg_pct": -0.06835923064782307,
+      "vol_ratio": 0.4820360765570212,
+      "volume": 3079375
     },
     "INTU": {
       "name": "INTU",
       "market": "US",
-      "chg_pct": 1.2908970901899586,
-      "vol_ratio": 0.04313941421885258,
-      "volume": 155200
+      "chg_pct": 2.003505257487726,
+      "vol_ratio": 0.39140929763442683,
+      "volume": 1408149
     },
     "BKNG": {
       "name": "BKNG",
       "market": "US",
-      "chg_pct": 0.030801437036956272,
-      "vol_ratio": 0.038704327411789786,
-      "volume": 334518
+      "chg_pct": -0.11395685768570579,
+      "vol_ratio": 0.49500090082098674,
+      "volume": 4278248
     },
     "005930.KS": {
       "name": "삼성전자",
       "market": "KR",
       "chg_pct": -1.4678899082568808,
-      "vol_ratio": 1.1400269659123354,
-      "volume": 19340105
+      "vol_ratio": 0.9712918069978306,
+      "volume": 16477580
     },
     "000660.KS": {
       "name": "SK하이닉스",
       "market": "KR",
       "chg_pct": 0.623229461756374,
-      "vol_ratio": 1.1353657580270318,
-      "volume": 3712265
+      "vol_ratio": 1.0033014397440911,
+      "volume": 3280459
     },
     "373220.KS": {
       "name": "LG에너지솔루션",
@@ -3364,64 +3364,64 @@
       "name": "현대차",
       "market": "KR",
       "chg_pct": -1.4285714285714286,
-      "vol_ratio": 1.1014457920043552,
-      "volume": 532503
+      "vol_ratio": 0.9473456029911169,
+      "volume": 458002
     },
     "000270.KS": {
       "name": "기아",
       "market": "KR",
       "chg_pct": -2.7586206896551726,
-      "vol_ratio": 1.5663323442696018,
-      "volume": 1204499
+      "vol_ratio": 1.1885826045937333,
+      "volume": 914012
     },
     "035420.KS": {
       "name": "NAVER",
       "market": "KR",
       "chg_pct": -0.5646817248459959,
-      "vol_ratio": 0.9305477026385671,
-      "volume": 599480
+      "vol_ratio": 0.7729391736010565,
+      "volume": 497945
     },
     "035720.KS": {
       "name": "카카오",
       "market": "KR",
       "chg_pct": -0.44510385756676557,
-      "vol_ratio": 0.6990738028621462,
-      "volume": 1016717
+      "vol_ratio": 0.6023568026231435,
+      "volume": 876054
     },
     "068270.KS": {
       "name": "셀트리온",
       "market": "KR",
       "chg_pct": -0.6707657909446618,
-      "vol_ratio": 1.0645160467110366,
-      "volume": 417137
+      "vol_ratio": 0.8984193173002327,
+      "volume": 352051
     },
     "005490.KS": {
       "name": "POSCO홀딩스",
       "market": "KR",
       "chg_pct": 0.6578947368421052,
-      "vol_ratio": 0.9117400376833737,
-      "volume": 204857
+      "vol_ratio": 0.7589325551281232,
+      "volume": 170523
     },
     "051910.KS": {
       "name": "LG화학",
       "market": "KR",
       "chg_pct": 0.4,
-      "vol_ratio": 1.0206027568817762,
-      "volume": 207972
+      "vol_ratio": 0.891866811075227,
+      "volume": 181739
     },
     "006400.KS": {
       "name": "삼성SDI",
       "market": "KR",
       "chg_pct": 0.7827788649706457,
-      "vol_ratio": 0.6882382168023427,
-      "volume": 269003
+      "vol_ratio": 0.6181128974403453,
+      "volume": 241594
     },
     "028260.KS": {
       "name": "삼성물산",
       "market": "KR",
       "chg_pct": -1.0144927536231882,
-      "vol_ratio": 1.0216696473023117,
-      "volume": 339627
+      "vol_ratio": 0.8586185994672458,
+      "volume": 285425
     },
     "105560.KS": {
       "name": "KB금융",
@@ -3434,109 +3434,109 @@
       "name": "신한지주",
       "market": "KR",
       "chg_pct": -3.9819004524886874,
-      "vol_ratio": 1.991531204920697,
-      "volume": 2204847
+      "vol_ratio": 1.5534976176066104,
+      "volume": 1719895
     }
   },
   "heatmap": {
     "AAPL": {
       "name": "AAPL",
-      "chg_pct": 0.9714669903839981,
+      "chg_pct": 2.012751975003379,
       "source": "yahoo"
     },
     "MSFT": {
       "name": "MSFT",
-      "chg_pct": 1.2594317372144832,
+      "chg_pct": 1.6548483202110424,
       "source": "yahoo"
     },
     "NVDA": {
       "name": "NVDA",
-      "chg_pct": 1.5536282183831434,
+      "chg_pct": 1.4810044165936054,
       "source": "yahoo"
     },
     "GOOGL": {
       "name": "GOOGL",
-      "chg_pct": 1.8743352924963659,
+      "chg_pct": 2.24832151984193,
       "source": "yahoo"
     },
     "AMZN": {
       "name": "AMZN",
-      "chg_pct": -0.07301231955308023,
+      "chg_pct": 1.2972785389370685,
       "source": "yahoo"
     },
     "META": {
       "name": "META",
-      "chg_pct": -1.564042964772538,
+      "chg_pct": -0.8317598612397954,
       "source": "yahoo"
     },
     "TSLA": {
       "name": "TSLA",
-      "chg_pct": -1.6423826579475398,
+      "chg_pct": -0.3330086739496349,
       "source": "yahoo"
     },
     "AVGO": {
       "name": "AVGO",
-      "chg_pct": -0.19107217763756823,
+      "chg_pct": -0.4393121745368242,
       "source": "yahoo"
     },
     "COST": {
       "name": "COST",
-      "chg_pct": -0.3255507498671649,
+      "chg_pct": -1.131446627361961,
       "source": "yahoo"
     },
     "NFLX": {
       "name": "NFLX",
-      "chg_pct": -0.5263196735704545,
+      "chg_pct": -0.8820795189075489,
       "source": "yahoo"
     },
     "AMD": {
       "name": "AMD",
-      "chg_pct": -0.2156126113537223,
+      "chg_pct": 0.14871775140849391,
       "source": "yahoo"
     },
     "ADBE": {
       "name": "ADBE",
-      "chg_pct": 1.309133043331048,
+      "chg_pct": 2.7790864083825766,
       "source": "yahoo"
     },
     "PEP": {
       "name": "PEP",
-      "chg_pct": 0.4934295553573063,
+      "chg_pct": -1.2588411810153113,
       "source": "yahoo"
     },
     "CSCO": {
       "name": "CSCO",
-      "chg_pct": 0.6732758596088705,
+      "chg_pct": 0.9257507398243827,
       "source": "yahoo"
     },
     "INTC": {
       "name": "INTC",
-      "chg_pct": 2.4411298400801784,
+      "chg_pct": 2.975931112878777,
       "source": "yahoo"
     },
     "QCOM": {
       "name": "QCOM",
-      "chg_pct": 1.9092880353692252,
+      "chg_pct": -0.0841927073102444,
       "source": "yahoo"
     },
     "TXN": {
       "name": "TXN",
-      "chg_pct": 0.31949799023186165,
+      "chg_pct": 0.017745675222942233,
       "source": "yahoo"
     },
     "AMAT": {
       "name": "AMAT",
-      "chg_pct": -0.2539048623564927,
+      "chg_pct": -0.03906412046959913,
       "source": "yahoo"
     },
     "INTU": {
       "name": "INTU",
-      "chg_pct": 1.1267354502951048,
+      "chg_pct": 2.003505257487726,
       "source": "yahoo"
     },
     "BKNG": {
       "name": "BKNG",
-      "chg_pct": 0.1170398211730789,
+      "chg_pct": -0.11395685768570579,
       "source": "yahoo"
     }
   },
