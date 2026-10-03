@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T14:55:04.057483+00:00",
+  "updated_at": "2026-10-03T18:29:28.545781+00:00",
   "news": [
     {
       "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
@@ -137,6 +137,33 @@
       "desc_ko": "S&P 500 주식의 거의 절반이 부정적인 베타를 가지고 있으며, 이는 전체 지수와 개별 구성 요소 사이의 틈의 증거입니다."
     },
     {
+      "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+      "description": "CEO Iana Dimitrova said OpenPayd aims to launch in the U.S. by April 2027 and is eyeing deals to add licenses and technology.",
+      "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+      "pubDate": "Sat, 03 Oct 2026 16:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "결제 회사인 OpenPayd는 미국 확장 및 인수 자금을 조달하기 위해 연말 나스닥 상장을 목표로 하고 있습니다.",
+      "desc_ko": "Iana Dimitrova CEO는 OpenPayd가 2027년 4월까지 미국에서 출시를 목표로 하고 있으며 라이선스와 기술을 추가하는 거래를 주목하고 있다고 말했습니다."
+    },
+    {
+      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+      "description": "Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills.",
+      "link": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+      "pubDate": "Sat, 03 Oct 2026 16:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "9월에 암호화폐 채용 공고가 1,200건 이상으로 3배 증가했지만, 지원서는 하락했습니다.",
+      "desc_ko": "금융, 엔지니어링 및 거래는 채용 수요를 이끌었으며 비트코인, 이더리움 및 솔라나는 가장 자주 요청되는 블록체인 기술이었습니다."
+    },
+    {
+      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+      "description": "As AI agents evolve from answering questions to spending real money, investors and tech giants are scrambling to control the financial networks powering machine-driven commerce.",
+      "link": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
+      "pubDate": "Sat, 03 Oct 2026 15:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "캐시 우드 (Cathie Wood) 는 현명한 투자자들이 AI 에이전트가 돈을 어디에 사용하는지 관찰하기 시작해야 한다고 말합니다",
+      "desc_ko": "AI 에이전트가 질문에 답하는 것에서 실제 돈을 지출하는 것으로 진화함에 따라 투자자와 기술 대기업은 기계 중심의 상거래에 전력을 공급하는 금융 네트워크를 제어하기 위해 난투극을 벌이고 있습니다."
+    },
+    {
       "title": "Crypto's Sisyphean struggle",
       "description": "Progress will effectively reset when the new Congress is sworn in, because key senators who quarterbacked the bill will not be on the ballot again, writes the Cato Institute's Ryan Chan-Wei.",
       "link": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
@@ -243,33 +270,6 @@
       "tag": "btc",
       "title_ko": "트레이더가 강세 포지션에 더 많은 돈을 지불함에 따라 비트코인 오픈 이자가 $ 23억 증가",
       "desc_ko": "오픈 이자 및 펀딩 금리의 상승은 강세 비트코인 노출에 대한 새로운 수요를 나타냅니다."
-    },
-    {
-      "title": "Tether's USDT is 'coming home' to Bitcoin after more than a decade",
-      "description": "A Tether-backed project, Utexo, plans to support private USDT transfers, direct swaps between BTC and USDT and loans backed by BTC, while keeping most transaction data off Bitcoin’s public ledger.",
-      "link": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
-      "pubDate": "Fri, 02 Oct 2026 08:28:19 +0000",
-      "tag": "btc",
-      "title_ko": "테더의 USDT는 10여 년 만에 비트코인으로 '귀환' 하고 있습니다.",
-      "desc_ko": "테더가 지원하는 프로젝트인 Utexo는 개인 USDT 전송, BTC와 USDT 간의 직접 스왑 및 BTC가 지원하는 대출을 지원하면서 대부분의 거래 데이터를 비트코인의 공개 원장에 저장할 계획입니다."
-    },
-    {
-      "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
-      "description": "Bitcoin is up roughly 3% in October as traders await September’s jobs data, while rising bond yields, a stronger dollar weigh on broader markets.",
-      "link": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
-      "pubDate": "Fri, 02 Oct 2026 08:11:54 +0000",
-      "tag": "btc",
-      "title_ko": "비트코인, 미국 일자리 보고서보다 $ 86,000 앞서다",
-      "desc_ko": "비트코인은 거래자들이 9월의 일자리 데이터를 기다리면서 10월에 약 3% 상승한 반면, 채권 수익률은 상승하여 더 넓은 시장에서 더 강한 달러가 무게를 지닙니다."
-    },
-    {
-      "title": "SEC proposes new crypto custody rules for investment advisers and funds",
-      "description": "The regulator issued a proposed rule for custody, marking a swan song for its inaugural Crypto Task Force chief, Commissioner Hester Peirce, who exits this week.",
-      "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
-      "pubDate": "Thu, 01 Oct 2026 20:20:04 +0000",
-      "tag": "btc",
-      "title_ko": "SEC, 투자 자문 및 펀드에 대한 새로운 암호화폐 보관 규칙 제안",
-      "desc_ko": "규제 당국은 이번 주에 퇴장하는 헤스터 피어스 (Hester Peirce) 위원장의 첫 번째 암호화 태스크 포스 (Crypto Task Force) 수석에 대한 백조의 노래를 표시하면서 양육권에 대한 제안된 규칙을 발표했습니다."
     },
     {
       "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
@@ -407,6 +407,87 @@
       "desc_ko": null
     },
     {
+      "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
+      "description": "There has been a rise in entrepreneurship among young Americans as the entry-level labor market has become tougher to join.",
+      "link": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
+      "pubDate": "Sat, 03 Oct 2026 17:24:00 GMT",
+      "tag": "general",
+      "title_ko": "어려운 취업 시장은 더 많은 젊은 미국인들이 큰 내기를하도록 밀어 붙이고 있습니다.",
+      "desc_ko": "엔트리 레벨 노동 시장이 가입하기가 더 어려워짐에 따라 젊은 미국인들 사이에서 기업가 정신이 증가했습니다."
+    },
+    {
+      "title": "Switching jobs to get higher pay works best in these industries",
+      "description": "Finding a new job is one way to get a pay increase at a time when inflation has been outpacing wage growth.",
+      "link": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
+      "pubDate": "Sat, 03 Oct 2026 16:42:00 GMT",
+      "tag": "general",
+      "title_ko": "더 높은 급여를 받기 위해 직업을 전환하는 것이 이러한 업계에서 가장 효과적입니다.",
+      "desc_ko": "새로운 일자리를 찾는 것은 인플레이션이 임금 상승을 앞지르고 있는 시기에 급여 인상을 받을 수 있는 한 가지 방법입니다."
+    },
+    {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "description": "&#x201c;For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.&#x201d;",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "pubDate": "Sat, 03 Oct 2026 16:30:00 GMT",
+      "tag": "general",
+      "title_ko": "제 아내는 아이들을 키운 후 다시는 일하러 가지 않았습니다. 은퇴 저축액을 50/50으로 나눠야 하나요?",
+      "desc_ko": "“14년 동안 나는 매일 아침 일어나서 일하러 다녔고, 그녀는 관심 있는 모든 것을 자유롭게 추구할 수 있었습니다.”"
+    },
+    {
+      "title": "&#x2018;I have $400,000 in equity&#x2019;: I&#x2019;m 80. Should I sell my house because of dangerous stairs &#x2014; or spend thousands renovating?",
+      "description": "&#x201c;Generally, the advice I&#x2019;ve read says not to sell because I have a low-interest-rate mortgage.&#x201d;",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "pubDate": "Sat, 03 Oct 2026 16:00:00 GMT",
+      "tag": "general",
+      "title_ko": "‘$ 400,000의 자기자본이 있습니다.’: 저는 80세입니다. 위험한 계단 때문에 집을 팔아야 합니까, 아니면 수천 개의 리노베이션 비용을 지출해야 합니까?",
+      "desc_ko": "“일반적으로 제가 읽은 조언은 저금리 주택담보대출을 받았기 때문에 팔지 말라는 것입니다.”"
+    },
+    {
+      "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
+      "description": "The Points Guy&#x2019;s Brian Kelly gave me a crash course in annual fees and redemptions to offset rising travel costs",
+      "link": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
+      "pubDate": "Sat, 03 Oct 2026 15:42:00 GMT",
+      "tag": "general",
+      "title_ko": "The Points Guy에 따르면 초보자가 여행 카드로 만드는 최고의 실수",
+      "desc_ko": "Points Guy의 Brian Kelly는 여행 비용 상승을 상쇄하기 위해 연회비 및 상환에 대한 사고 코스를 제공했습니다."
+    },
+    {
+      "title": "&#x2018;I&#x2019;m never selling&#x2019;: I&#x2019;m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "description": "&#x201c;When my paycheck lands, it takes a detour through bitcoin.&#x201d;",
+      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "pubDate": "Sat, 03 Oct 2026 15:30:00 GMT",
+      "tag": "general",
+      "title_ko": "‘나는 결코 팔지 않는다’: 나는 47 세이며 1 달러를 벌 때마다 비트 코인을 산다. 내가 미쳤나?",
+      "desc_ko": "\"월급이 도착하면 비트코인을 통해 우회해야 합니다.\""
+    },
+    {
+      "title": "The Treasury Department started Trump accounts for 60 million kids &#x2014; but families still have to take this step if they want one",
+      "description": "Here&#x2019;s what parents seeking the $1,000 seed money for their child need to know.",
+      "link": "https://www.marketwatch.com/story/the-treasury-department-started-trump-accounts-for-60-million-kids-but-families-still-have-to-take-this-step-if-they-want-one-003d9282?mod=mw_rss_topstories",
+      "pubDate": "Sat, 03 Oct 2026 15:06:00 GMT",
+      "tag": "general",
+      "title_ko": "재무부는 6천만 명의 어린이를 위해 트럼프를 시작했지만, 가족이 원한다면 이 단계를 밟아야 합니다.",
+      "desc_ko": "자녀를 위해 $ 1,000의 종자돈을 구하는 부모가 알아야 할 사항은 다음과 같습니다."
+    },
+    {
+      "title": "&#x2018;I&#x2019;d rather be on a beach in Bali&#x2019;: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "description": "&#x201c;We have an ironclad prenup.&#x201d;",
+      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "pubDate": "Sat, 03 Oct 2026 15:00:00 GMT",
+      "tag": "general",
+      "title_ko": "‘차라리 발리의 해변에 있는 게 낫다’: 남편은 제 $ 8백만 순자산을 원망합니다. 그의 은퇴에 대한 대가를 치러야 할까?",
+      "desc_ko": "“철갑상어 예비창업자가 생겼습니다.”"
+    },
+    {
+      "title": "&#x2018;I don&#x2019;t want to die on the sales floor&#x2019;: I&#x2019;m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "description": "&#x201c;I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).&#x201d;",
+      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "pubDate": "Sat, 03 Oct 2026 15:00:00 GMT",
+      "tag": "general",
+      "title_ko": "‘영업 현장에서 죽고 싶지 않아’: 저는 67세이며 대형 매장에서 시간당 $ 19.50 의 수입을 올리고 있습니다. 언제 은퇴할 수 있나요?",
+      "desc_ko": "“저는 66세에 사회보장연금을 받기 시작했고 한 달에 $ 2,410를 받습니다. 401 (k) 에 $ 214,000가 있습니다.\""
+    },
+    {
       "title": "Cars have become unaffordable for many Americans. Here&#x2019;s what the numbers show.",
       "description": "At today&#x2019;s prices and rates, even the average used vehicle can exceed some commonly used affordability measures.",
       "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
@@ -414,87 +495,6 @@
       "tag": "general",
       "title_ko": "자동차는 많은 미국인들에게 부담스럽지 않게 되었습니다. 숫자는 다음과 같습니다.",
       "desc_ko": "오늘날의 가격과 요금으로 볼 때, 일반적인 중고차조차도 일반적으로 사용되는 일부 저렴한 수단을 초과할 수 있습니다."
-    },
-    {
-      "title": "&#x2018;We lived within our means&#x2019;: I earned $30,000 as a pastor and still retired comfortably. Why don&#x2019;t you tell people that?",
-      "description": "&#x201c;As a country, we have grown dangerously comfortable.&#x201d;",
-      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "pubDate": "Sat, 03 Oct 2026 14:31:00 GMT",
-      "tag": "general",
-      "title_ko": "‘우리는 우리의 수단으로 살았습니다.’: 나는 목사로서 $ 30,000를 벌었고 여전히 편안하게 은퇴했습니다. 사람들에게 그렇게 말하면 어떨까요?",
-      "desc_ko": "\"한 국가로서 우리는 위험할 정도로 편안해졌습니다.\""
-    },
-    {
-      "title": "You might be shocked by how many stocks are in a bear market right now",
-      "description": "The S&P 500 was trading within 2 percentage points of its record closing high on Tuesday, but dig a little bit deeper, and things are looking far less rosy.",
-      "link": "https://www.marketwatch.com/story/you-might-be-shocked-by-how-many-stocks-are-in-a-bear-market-right-now-017c9cd8?mod=mw_rss_topstories",
-      "pubDate": "Sat, 03 Oct 2026 14:10:00 GMT",
-      "tag": "general",
-      "title_ko": "현재 베어 마켓에 얼마나 많은 주식이 있는지 알면 깜짝 놀랄지도 모릅니다.",
-      "desc_ko": "S&P 500 지수는 화요일에 사상 최고치를 기록한 지점의 2% 이내에서 거래되고 있었지만, 조금 더 깊이 파고들어 상황이 훨씬 덜 장밋빛으로 보이고 있습니다."
-    },
-    {
-      "title": "This city saw 1 in 3 home sellers slash their asking price in September to attract reluctant buyers",
-      "description": "As hesitant buyers drive home prices down, these are the places with the most price cuts and the biggest markdowns.",
-      "link": "https://www.marketwatch.com/story/this-city-saw-1-in-3-home-sellers-slash-their-asking-price-in-september-to-attract-reluctant-buyers-7f16a0c3?mod=mw_rss_topstories",
-      "pubDate": "Sat, 03 Oct 2026 13:50:00 GMT",
-      "tag": "general",
-      "title_ko": "이 도시는 주택 판매자 3명 중 1명이 마지못해 구매자를 유치하기 위해 9월에 요청 가격을 깎는 것으로 나타났습니다.",
-      "desc_ko": "주저하는 구매자가 주택 가격을 낮추기 때문에 가격 인하가 가장 많고 감점이 가장 큰 곳입니다."
-    },
-    {
-      "title": "I made $500,000 from a stock sale in my IRA. Could this change my retirement?",
-      "description": "Diversification and tax planning go hand-in-hand.",
-      "link": "https://www.marketwatch.com/story/i-made-500-000-from-a-stock-sale-in-my-ira-could-this-change-my-retirement-6bddcf0d?mod=mw_rss_topstories",
-      "pubDate": "Sat, 03 Oct 2026 13:23:00 GMT",
-      "tag": "general",
-      "title_ko": "IRA에서 주식 판매로 $ 500,000를 벌었습니다. 이것이 내 은퇴를 바꿀 수 있습니까?",
-      "desc_ko": "다각화와 세금 계획은 함께 진행됩니다."
-    },
-    {
-      "title": "I&#x2019;m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "description": "&#x201c;I have $152,000 in my IRA and Roth accounts.&#x201d;",
-      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "pubDate": "Sat, 03 Oct 2026 13:00:00 GMT",
-      "tag": "general",
-      "title_ko": "저는 71세이고 여전히 일하고 있습니다. 연간 수입은 $ 108,000입니다. 나는 옳은 일을 하고 있는가?",
-      "desc_ko": "\"IRA와 Roth 계좌에 $ 152,000가 있습니다.\""
-    },
-    {
-      "title": "The U.S. jobs market just took a turn for the worse. Or did it?",
-      "description": "The bottom didn&#x2019;t drop out of the labor market after a poor September U.S. jobs report. But what it did show is hiring is slow and it&#x2019;s a tough time to find work.",
-      "link": "https://www.marketwatch.com/story/the-u-s-jobs-market-just-took-a-turn-for-the-worse-or-did-it-c44c371b?mod=mw_rss_topstories",
-      "pubDate": "Sat, 03 Oct 2026 13:00:00 GMT",
-      "tag": "general",
-      "title_ko": "미국 일자리 시장은 최악의 상황으로 치닫고 있다. 아니면 그랬을까요?",
-      "desc_ko": "9 월 미국 일자리 보고서 이후 바닥은 노동 시장에서 떨어지지 않았다. 하지만 고용은 느리고 일자리를 구하기 어려운 시기라는 것을 보여주었습니다."
-    },
-    {
-      "title": "The next big AI battle is all about cuteness",
-      "description": "Meta and other tech companies are betting that fuzzy mascots can win over AI skeptics.",
-      "link": "https://www.marketwatch.com/story/the-next-big-ai-battle-is-all-about-cuteness-41f6f948?mod=mw_rss_topstories",
-      "pubDate": "Sat, 03 Oct 2026 12:30:00 GMT",
-      "tag": "general",
-      "title_ko": "다음 큰 AI 전투는 귀여움에 관한 것입니다.",
-      "desc_ko": "메타 및 기타 기술 회사는 퍼지 마스코트가 AI 회의론자를 이길 수 있다고 베팅하고 있습니다."
-    },
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "description": "&#x201c;For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.&#x201d;",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "pubDate": "Sat, 03 Oct 2026 12:00:00 GMT",
-      "tag": "general",
-      "title_ko": "제 아내는 아이들을 키운 후 다시는 일하러 가지 않았습니다. 은퇴 저축액을 50/50으로 나눠야 하나요?",
-      "desc_ko": "“14년 동안 나는 매일 아침 일어나서 일하러 다녔고, 그녀는 관심 있는 모든 것을 자유롭게 추구할 수 있었습니다.”"
-    },
-    {
-      "title": "I bought a $126 concert ticket for my sister and now she can&#x2019;t go. Will I be able to make a profit selling the ticket?",
-      "description": "&#x201c;I&#x2019;m having trouble accepting that I&#x2019;ll probably lose some money.&#x201d;",
-      "link": "https://www.marketwatch.com/story/i-bought-a-126-concert-ticket-for-my-sister-and-now-she-cant-go-will-i-be-able-to-make-a-profit-selling-the-ticket-1dd5cbe9?mod=mw_rss_topstories",
-      "pubDate": "Sat, 03 Oct 2026 12:00:00 GMT",
-      "tag": "general",
-      "title_ko": "여동생을 위해 $ 126 콘서트 티켓을 샀는데 지금은 갈 수 없습니다. 티켓을 판매하면 수익을 낼 수 있나요?",
-      "desc_ko": "“돈을 잃게 될지도 모른다는 사실을 받아들이기 어려워요.”"
     }
   ],
   "assets": {
