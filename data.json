@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-03T10:30:32.915388+00:00",
+  "updated_at": "2026-10-03T14:55:04.057483+00:00",
   "news": [
+    {
+      "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
+      "description": "With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions.",
+      "link": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
+      "pubDate": "Sat, 03 Oct 2026 13:12:27 GMT",
+      "tag": "ndx",
+      "title_ko": "룰라 또는 보우소나로: 브라질 선거에서 두 가지 격렬하게 다른 결과를 얻기 위한 월스트리트의 중괄호",
+      "desc_ko": "브라질 대통령 선거의 첫 번째 라운드가 일요일에 열리면서 월스트리트는 현저히 다른 시장 예측을 준비하고 있습니다."
+    },
     {
       "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
       "description": "Odds tumbled after a jobs report showed a soft labor market, leading more traders to lower the the chances of a fed funds rate increase this month.",
@@ -128,13 +137,22 @@
       "desc_ko": "S&P 500 주식의 거의 절반이 부정적인 베타를 가지고 있으며, 이는 전체 지수와 개별 구성 요소 사이의 틈의 증거입니다."
     },
     {
-      "title": "U.S., China to lower tariffs on $60 billion of goods. Here&apos;s what qualifies",
-      "description": "The lists included U.S. imports of toys, sports equipment and Christmas decorations, while U.S. farm products appeared on the list of Chinese imports.",
-      "link": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
-      "pubDate": "Mon, 28 Sep 2026 08:31:33 GMT",
-      "tag": "ndx",
-      "title_ko": "미국, 중국, 600억 달러 ($) 규모의 상품에 대한 관세 인하 요건을 충족하는 항목은 다음과 같습니다.",
-      "desc_ko": "목록에는 장난감, 스포츠 장비 및 크리스마스 장식의 미국 수입품이 포함되었으며, 미국 농산물은 중국 수입품 목록에 나타났습니다."
+      "title": "Crypto's Sisyphean struggle",
+      "description": "Progress will effectively reset when the new Congress is sworn in, because key senators who quarterbacked the bill will not be on the ballot again, writes the Cato Institute's Ryan Chan-Wei.",
+      "link": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
+      "pubDate": "Sat, 03 Oct 2026 13:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "암호 화폐의 시시피우스적 투쟁",
+      "desc_ko": "카토 연구소의 라이언 찬 웨이 (Ryan Chan-Wei) 는 이 법안을 쿼터백 한 주요 상원 의원이 다시 투표 용지에 나오지 않을 것이기 때문에 새로운 의회가 선서 될 때 진보가 효과적으로 재설정 될 것이라고 썼다."
+    },
+    {
+      "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
+      "description": "Tokenization is not just about putting individual stocks and funds onchain. The next step could be entire investment portfolios that can be traded, rebalanced and eventually managed in real-time.",
+      "link": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
+      "pubDate": "Sat, 03 Oct 2026 13:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "BlackRock은 토큰화가 투자 포트폴리오를 어떻게 변화시킬 수 있는지 엿볼 수 있습니다.",
+      "desc_ko": "토큰화는 개별 주식과 자금을 체인에 넣는 것만이 아닙니다. 다음 단계는 실시간으로 거래, 재조정 및 관리할 수 있는 전체 투자 포트폴리오가 될 수 있습니다."
     },
     {
       "title": "Bank group sues U.S. regulator over granting crypto trust charters",
@@ -252,24 +270,6 @@
       "tag": "btc",
       "title_ko": "SEC, 투자 자문 및 펀드에 대한 새로운 암호화폐 보관 규칙 제안",
       "desc_ko": "규제 당국은 이번 주에 퇴장하는 헤스터 피어스 (Hester Peirce) 위원장의 첫 번째 암호화 태스크 포스 (Crypto Task Force) 수석에 대한 백조의 노래를 표시하면서 양육권에 대한 제안된 규칙을 발표했습니다."
-    },
-    {
-      "title": "Another Trump memecoin dinner advertised for token's top investors",
-      "description": "The company managing the memecoin calls the November event the \"most exclusive dinner in the world.\"",
-      "link": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
-      "pubDate": "Thu, 01 Oct 2026 18:45:29 +0000",
-      "tag": "btc",
-      "title_ko": "토큰의 최고 투자자를 위해 광고 된 또 다른 트럼프 memecoin 저녁 식사",
-      "desc_ko": "Memecoin을 관리하는 회사는 11 월 행사를 \"세계에서 가장 독점적 인 저녁 식사\" 라고 부릅니다."
-    },
-    {
-      "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
-      "description": "",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
-      "pubDate": "Thu, 01 Oct 2026 15:00:00 +0000",
-      "tag": "btc",
-      "title_ko": "고문을위한 암호화: 명확성 법은 실패했지만 규칙은 어쨌든 나왔습니다.",
-      "desc_ko": null
     },
     {
       "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
@@ -407,94 +407,94 @@
       "desc_ko": null
     },
     {
-      "title": "&#x2018;I don&#x2019;t want to die on the sales floor&#x2019;: I&#x2019;m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "description": "&#x201c;I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).&#x201d;",
-      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "pubDate": "Sat, 03 Oct 2026 02:16:00 GMT",
+      "title": "Cars have become unaffordable for many Americans. Here&#x2019;s what the numbers show.",
+      "description": "At today&#x2019;s prices and rates, even the average used vehicle can exceed some commonly used affordability measures.",
+      "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
+      "pubDate": "Sat, 03 Oct 2026 14:36:00 GMT",
       "tag": "general",
-      "title_ko": "‘영업 현장에서 죽고 싶지 않아’: 저는 67세이며 대형 매장에서 시간당 $ 19.50 의 수입을 올리고 있습니다. 언제 은퇴할 수 있나요?",
-      "desc_ko": "“저는 66세에 사회보장연금을 받기 시작했고 한 달에 $ 2,410를 받습니다. 401 (k) 에 $ 214,000가 있습니다.\""
+      "title_ko": "자동차는 많은 미국인들에게 부담스럽지 않게 되었습니다. 숫자는 다음과 같습니다.",
+      "desc_ko": "오늘날의 가격과 요금으로 볼 때, 일반적인 중고차조차도 일반적으로 사용되는 일부 저렴한 수단을 초과할 수 있습니다."
     },
     {
-      "title": "Why Western Digital and Seagate are seeing big stock drops today",
-      "description": "Investors are worried that Toshiba will boost its production of a key AI storage product, potentially hurting the strong pricing power that Western Digital and Seagate currently enjoy.",
-      "link": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
-      "pubDate": "Fri, 02 Oct 2026 22:42:00 GMT",
+      "title": "&#x2018;We lived within our means&#x2019;: I earned $30,000 as a pastor and still retired comfortably. Why don&#x2019;t you tell people that?",
+      "description": "&#x201c;As a country, we have grown dangerously comfortable.&#x201d;",
+      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "pubDate": "Sat, 03 Oct 2026 14:31:00 GMT",
       "tag": "general",
-      "title_ko": "웨스턴 디지털과 씨게이트가 오늘날 큰 폭의 주가 하락을 보이는 이유",
-      "desc_ko": "투자자들은 도시바가 주요 AI 스토리지 제품 생산을 늘려 웨스턴 디지털과 씨게이트가 현재 누리고 있는 강력한 가격 책정 능력을 해칠 수 있다고 우려하고 있습니다."
+      "title_ko": "‘우리는 우리의 수단으로 살았습니다.’: 나는 목사로서 $ 30,000를 벌었고 여전히 편안하게 은퇴했습니다. 사람들에게 그렇게 말하면 어떨까요?",
+      "desc_ko": "\"한 국가로서 우리는 위험할 정도로 편안해졌습니다.\""
     },
     {
-      "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
-      "description": "EV giant Tesla had the best three-month period for vehicle sales this year, but it was less than a year ago.",
-      "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
-      "pubDate": "Fri, 02 Oct 2026 22:29:00 GMT",
+      "title": "You might be shocked by how many stocks are in a bear market right now",
+      "description": "The S&P 500 was trading within 2 percentage points of its record closing high on Tuesday, but dig a little bit deeper, and things are looking far less rosy.",
+      "link": "https://www.marketwatch.com/story/you-might-be-shocked-by-how-many-stocks-are-in-a-bear-market-right-now-017c9cd8?mod=mw_rss_topstories",
+      "pubDate": "Sat, 03 Oct 2026 14:10:00 GMT",
       "tag": "general",
-      "title_ko": "테슬라는 월스트리트가 예상했던 것보다 훨씬 더 많은 전기차를 판매했고, 재고는 급증하고 있습니다.",
-      "desc_ko": "전기차의 거대 기업 테슬라가 올해 차량 판매에서 가장 좋은 3개월의 기간을 보냈지만, 1년도 채 되지 않았습니다."
-    },
-    {
-      "title": "I&#x2019;m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "description": "&#x201c;I have $152,000 in my IRA and Roth accounts.&#x201d;",
-      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "pubDate": "Fri, 02 Oct 2026 22:10:00 GMT",
-      "tag": "general",
-      "title_ko": "저는 71세이고 여전히 일하고 있습니다. 연간 수입은 $ 108,000입니다. 나는 옳은 일을 하고 있는가?",
-      "desc_ko": "\"IRA와 Roth 계좌에 $ 152,000가 있습니다.\""
-    },
-    {
-      "title": "Falling wages, soaring energy prices and inflation: It&#x2019;s beginning to look a lot like the 1970s",
-      "description": "Is it time to dust off the financial playbook from that dismal decade?",
-      "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
-      "pubDate": "Fri, 02 Oct 2026 21:54:00 GMT",
-      "tag": "general",
-      "title_ko": "임금 하락, 에너지 가격 및 인플레이션 급등: 1970년대와 많이 닮아 가기 시작함",
-      "desc_ko": "그 암울한 10년 동안의 금융 플레이북을 털어낼 때가 되었습니까?"
-    },
-    {
-      "title": "Why mixing politics with your stock portfolio might be costing you money",
-      "description": "Data shows that partisan ETFs result in higher fees and lower market returns",
-      "link": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
-      "pubDate": "Fri, 02 Oct 2026 20:43:00 GMT",
-      "tag": "general",
-      "title_ko": "정치와 주식 포트폴리오를 혼합하면 비용이 발생할 수 있는 이유",
-      "desc_ko": "데이터에 따르면 편파적인 ETF는 수수료가 높고 시장 수익률이 낮습니다."
-    },
-    {
-      "title": "Does AI have a soul? Pope Leo and Anthropic clash.",
-      "description": "The Vatican has laid a moral blueprint for the technology, with Pope Leo maintaining that &#x201c;algorithms lack the spark of humanity.&#x201d;",
-      "link": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
-      "pubDate": "Fri, 02 Oct 2026 20:40:00 GMT",
-      "tag": "general",
-      "title_ko": "AI에 영혼이 있습니까? 교황 레오와 인류 충돌.",
-      "desc_ko": "바티칸은 이 기술에 대한 도덕적 청사진을 제시했으며, 교황 레오 (Leo) 는 \"알고리즘은 인류의 불꽃이 부족하다\" 고 주장했다."
-    },
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "description": "&#x201c;For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.&#x201d;",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "pubDate": "Fri, 02 Oct 2026 20:30:00 GMT",
-      "tag": "general",
-      "title_ko": "제 아내는 아이들을 키운 후 다시는 일하러 가지 않았습니다. 은퇴 저축액을 50/50으로 나눠야 하나요?",
-      "desc_ko": "“14년 동안 나는 매일 아침 일어나서 일하러 다녔고, 그녀는 관심 있는 모든 것을 자유롭게 추구할 수 있었습니다.”"
-    },
-    {
-      "title": "Europe&#x2019;s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
-      "description": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by as much as 5%.",
-      "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
-      "pubDate": "Fri, 02 Oct 2026 20:26:00 GMT",
-      "tag": "general",
-      "title_ko": "미국 중기부에 연료 충격이 가해지자 유럽 지도자들이 비축된 경유에서 경유를 방출하기 위해 서두르고 있다.",
-      "desc_ko": "유럽 지도자들은 금요일에 디젤 비축량의 일부를 방출하여 석유 가격을 최대 5% 낮추기로 합의했습니다."
+      "title_ko": "현재 베어 마켓에 얼마나 많은 주식이 있는지 알면 깜짝 놀랄지도 모릅니다.",
+      "desc_ko": "S&P 500 지수는 화요일에 사상 최고치를 기록한 지점의 2% 이내에서 거래되고 있었지만, 조금 더 깊이 파고들어 상황이 훨씬 덜 장밋빛으로 보이고 있습니다."
     },
     {
       "title": "This city saw 1 in 3 home sellers slash their asking price in September to attract reluctant buyers",
       "description": "As hesitant buyers drive home prices down, these are the places with the most price cuts and the biggest markdowns.",
       "link": "https://www.marketwatch.com/story/this-city-saw-1-in-3-home-sellers-slash-their-asking-price-in-september-to-attract-reluctant-buyers-7f16a0c3?mod=mw_rss_topstories",
-      "pubDate": "Fri, 02 Oct 2026 20:26:00 GMT",
+      "pubDate": "Sat, 03 Oct 2026 13:50:00 GMT",
       "tag": "general",
       "title_ko": "이 도시는 주택 판매자 3명 중 1명이 마지못해 구매자를 유치하기 위해 9월에 요청 가격을 깎는 것으로 나타났습니다.",
       "desc_ko": "주저하는 구매자가 주택 가격을 낮추기 때문에 가격 인하가 가장 많고 감점이 가장 큰 곳입니다."
+    },
+    {
+      "title": "I made $500,000 from a stock sale in my IRA. Could this change my retirement?",
+      "description": "Diversification and tax planning go hand-in-hand.",
+      "link": "https://www.marketwatch.com/story/i-made-500-000-from-a-stock-sale-in-my-ira-could-this-change-my-retirement-6bddcf0d?mod=mw_rss_topstories",
+      "pubDate": "Sat, 03 Oct 2026 13:23:00 GMT",
+      "tag": "general",
+      "title_ko": "IRA에서 주식 판매로 $ 500,000를 벌었습니다. 이것이 내 은퇴를 바꿀 수 있습니까?",
+      "desc_ko": "다각화와 세금 계획은 함께 진행됩니다."
+    },
+    {
+      "title": "I&#x2019;m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "description": "&#x201c;I have $152,000 in my IRA and Roth accounts.&#x201d;",
+      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "pubDate": "Sat, 03 Oct 2026 13:00:00 GMT",
+      "tag": "general",
+      "title_ko": "저는 71세이고 여전히 일하고 있습니다. 연간 수입은 $ 108,000입니다. 나는 옳은 일을 하고 있는가?",
+      "desc_ko": "\"IRA와 Roth 계좌에 $ 152,000가 있습니다.\""
+    },
+    {
+      "title": "The U.S. jobs market just took a turn for the worse. Or did it?",
+      "description": "The bottom didn&#x2019;t drop out of the labor market after a poor September U.S. jobs report. But what it did show is hiring is slow and it&#x2019;s a tough time to find work.",
+      "link": "https://www.marketwatch.com/story/the-u-s-jobs-market-just-took-a-turn-for-the-worse-or-did-it-c44c371b?mod=mw_rss_topstories",
+      "pubDate": "Sat, 03 Oct 2026 13:00:00 GMT",
+      "tag": "general",
+      "title_ko": "미국 일자리 시장은 최악의 상황으로 치닫고 있다. 아니면 그랬을까요?",
+      "desc_ko": "9 월 미국 일자리 보고서 이후 바닥은 노동 시장에서 떨어지지 않았다. 하지만 고용은 느리고 일자리를 구하기 어려운 시기라는 것을 보여주었습니다."
+    },
+    {
+      "title": "The next big AI battle is all about cuteness",
+      "description": "Meta and other tech companies are betting that fuzzy mascots can win over AI skeptics.",
+      "link": "https://www.marketwatch.com/story/the-next-big-ai-battle-is-all-about-cuteness-41f6f948?mod=mw_rss_topstories",
+      "pubDate": "Sat, 03 Oct 2026 12:30:00 GMT",
+      "tag": "general",
+      "title_ko": "다음 큰 AI 전투는 귀여움에 관한 것입니다.",
+      "desc_ko": "메타 및 기타 기술 회사는 퍼지 마스코트가 AI 회의론자를 이길 수 있다고 베팅하고 있습니다."
+    },
+    {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "description": "&#x201c;For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.&#x201d;",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "pubDate": "Sat, 03 Oct 2026 12:00:00 GMT",
+      "tag": "general",
+      "title_ko": "제 아내는 아이들을 키운 후 다시는 일하러 가지 않았습니다. 은퇴 저축액을 50/50으로 나눠야 하나요?",
+      "desc_ko": "“14년 동안 나는 매일 아침 일어나서 일하러 다녔고, 그녀는 관심 있는 모든 것을 자유롭게 추구할 수 있었습니다.”"
+    },
+    {
+      "title": "I bought a $126 concert ticket for my sister and now she can&#x2019;t go. Will I be able to make a profit selling the ticket?",
+      "description": "&#x201c;I&#x2019;m having trouble accepting that I&#x2019;ll probably lose some money.&#x201d;",
+      "link": "https://www.marketwatch.com/story/i-bought-a-126-concert-ticket-for-my-sister-and-now-she-cant-go-will-i-be-able-to-make-a-profit-selling-the-ticket-1dd5cbe9?mod=mw_rss_topstories",
+      "pubDate": "Sat, 03 Oct 2026 12:00:00 GMT",
+      "tag": "general",
+      "title_ko": "여동생을 위해 $ 126 콘서트 티켓을 샀는데 지금은 갈 수 없습니다. 티켓을 판매하면 수익을 낼 수 있나요?",
+      "desc_ko": "“돈을 잃게 될지도 모른다는 사실을 받아들이기 어려워요.”"
     }
   ],
   "assets": {
