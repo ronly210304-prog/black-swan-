@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T00:02:38.284248+00:00",
+  "updated_at": "2026-10-04T05:48:48.143516+00:00",
   "news": [
     {
       "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
@@ -80,7 +80,7 @@
       "pubDate": "Wed, 30 Sep 2026 03:39:08 GMT",
       "tag": "ndx",
       "title_ko": "중국, 유럽이 중국 기업에 금지를 가할 경우 보복 경고",
-      "desc_ko": null
+      "desc_ko": "CNBC 번역에 따르면 상무부는 유럽연합 (EU) 이 중국 기업이나 제품에 대한 제한을 도입할 경우 중국은 \"단호하게 대응해야 한다\" 고 말했다."
     },
     {
       "title": "Goldman Sachs CEO succession planning faces one big problem",
@@ -466,7 +466,7 @@
       "link": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
       "pubDate": "Sat, 03 Oct 2026 17:24:00 GMT",
       "tag": "general",
-      "title_ko": null,
+      "title_ko": "어려운 취업 시장은 더 많은 젊은 미국인들이 큰 내기를하도록 밀어 붙이고 있습니다.",
       "desc_ko": "엔트리 레벨 노동 시장이 가입하기가 더 어려워짐에 따라 젊은 미국인들 사이에서 기업가 정신이 증가했습니다."
     },
     {
@@ -2353,12 +2353,12 @@
         6.543499946594238,
         6.559000015258789,
         6.48199987411499,
-        6.492000102996826
+        6.548999786376953
       ],
-      "last": 6.492000102996826,
-      "chg_pct": 0.1542769064493588,
-      "rsi14": 45.50801649348816,
-      "ma20": 6.5794000148773195
+      "last": 6.548999786376953,
+      "chg_pct": 1.0336302616962116,
+      "rsi14": 48.80606927868868,
+      "ma20": 6.582249999046326
     },
     "natgas": {
       "live": true,
@@ -2571,12 +2571,12 @@
         60.667999267578125,
         60.097999572753906,
         60.724998474121094,
-        59.97700119018555
+        60.415000915527344
       ],
-      "last": 59.97700119018555,
-      "chg_pct": -1.231778184818428,
-      "rsi14": 36.9507904768562,
-      "ma20": 63.93579998016357
+      "last": 60.415000915527344,
+      "chg_pct": -0.5104941397830752,
+      "rsi14": 38.06747618688872,
+      "ma20": 63.95769996643067
     },
     "qqq": {
       "live": true,
