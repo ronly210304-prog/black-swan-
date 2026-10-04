@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-04T11:38:53.029049+00:00",
+  "updated_at": "2026-10-04T15:58:59.001407+00:00",
   "news": [
+    {
+      "title": "Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried",
+      "description": "Surveys show Gen Z increasingly views sports bets as a form of investment, and those who gamble too often face mental health risks.",
+      "link": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
+      "pubDate": "Sun, 04 Oct 2026 12:57:45 GMT",
+      "tag": "ndx",
+      "title_ko": "스포츠 베팅은 점점 더 Z 세대의 표준이되고 있습니다. 재정 및 정신 건강 전문가가 걱정하는 이유는 다음과 같습니다.",
+      "desc_ko": "설문 조사에 따르면 Z세대는 스포츠 베팅을 투자의 한 형태로 점점 더 많이 보고 있으며, 도박을 너무 자주 하는 사람들은 정신 건강 위험에 직면합니다."
+    },
     {
       "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
       "description": "With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions.",
@@ -128,13 +137,22 @@
       "desc_ko": "세 가지 출처에 따르면, 중국의 증권 규제 기관은 세 가지 구체적인 기준으로 휴머노이드 로봇 스타트업의 공개 목록에 대한 기준을 높이고 있습니다."
     },
     {
-      "title": "Nearly half the stocks in the S&amp;P 500 are at cross purposes with the rest of the market",
-      "description": "Almost half of the stocks in the S&P 500 have a negative beta, evidence of a chasm between the entire index and its individual components.",
-      "link": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
-      "pubDate": "Mon, 28 Sep 2026 17:53:31 GMT",
-      "tag": "ndx",
-      "title_ko": "S&amp;P 500 주식의 거의 절반이 나머지 시장과 교차 목적에 있습니다.",
-      "desc_ko": "S&P 500 주식의 거의 절반이 부정적인 베타를 가지고 있으며, 이는 전체 지수와 개별 구성 요소 사이의 틈의 증거입니다."
+      "title": "Crypto poured years into new products. The next challenge is keeping users",
+      "description": "Crypto firms have spent years building financial products on blockchains. Getting people to use them — and keep using them — is becoming the next challenge.",
+      "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
+      "pubDate": "Sun, 04 Oct 2026 14:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "암호화폐는 새로운 제품에 몇 년을 쏟아 부었습니다. 다음 과제는 사용자를 유지하는 것입니다.",
+      "desc_ko": "암호화폐 기업들은 블록체인에 금융 상품을 구축하는 데 수년을 보냈습니다. 사람들이 사용하도록 하고 계속 사용하도록 하는 것이 다음 과제가 되고 있습니다."
+    },
+    {
+      "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
+      "description": "Crypto M&A has hit record levels, but the Clarity Act’s Senate setback leaves dealmakers weighing how much regulatory uncertainty still matters.",
+      "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
+      "pubDate": "Sun, 04 Oct 2026 13:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "명확성 법이 멈췄습니다. 은행가들은 아직 암호화폐 거래에 제동을 걸지 않고 있다.",
+      "desc_ko": "암호화폐 M&A는 기록적인 수준에 도달했지만, Clarity Act의 상원 차질로 인해 딜메이커들은 여전히 규제 불확실성이 얼마나 중요한지에 무게를 두고 있습니다."
     },
     {
       "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
@@ -252,24 +270,6 @@
       "tag": "btc",
       "title_ko": "실시간 업데이트: 비트코인, 소프트 미국 일자리 데이터에 따라 큰 조기 이익 역전",
       "desc_ko": "채권 수익률도 큰 폭의 채찍을 맞았고, 조기 하락 후 오후가 되자 상승세로 돌아섰다."
-    },
-    {
-      "title": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
-      "description": "Bitcoin dominance is closing in on 60% while USDT's has slipped to 6.3%, pointing to a market growing more comfortable with risk.",
-      "link": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
-      "pubDate": "Fri, 02 Oct 2026 10:31:16 +0000",
-      "tag": "btc",
-      "title_ko": "비트코인 지배력이 60% 로 돌아서면서 암호화폐 거래자들은 위험에 처해 있습니다.",
-      "desc_ko": "비트코인 지배력은 60% 로 마감하고 있으며 USDT는 6.3% 로 하락하여 위험에 더 편안하게 성장하는 시장을 가리키고 있습니다."
-    },
-    {
-      "title": "Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions",
-      "description": "Rising open interest and funding rates signal renewed demand for bullish bitcoin exposure.",
-      "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
-      "pubDate": "Fri, 02 Oct 2026 09:14:21 +0000",
-      "tag": "btc",
-      "title_ko": "트레이더가 강세 포지션에 더 많은 돈을 지불함에 따라 비트코인 오픈 이자가 $ 23억 증가",
-      "desc_ko": "오픈 이자 및 펀딩 금리의 상승은 강세 비트코인 노출에 대한 새로운 수요를 나타냅니다."
     },
     {
       "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
@@ -407,6 +407,33 @@
       "desc_ko": null
     },
     {
+      "title": "Corporate America has never been this upbeat about future profits",
+      "description": "As third-quarter earnings kick off this week, more companies than ever have expressed optimism about their bottom lines.",
+      "link": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
+      "pubDate": "Sun, 04 Oct 2026 14:00:00 GMT",
+      "tag": "general",
+      "title_ko": "코퍼레이트 아메리카는 미래 이익에 대해 이렇게 낙관적인 적이 없었습니다.",
+      "desc_ko": "이번 주 3분기 영업이익이 시작되면서 그 어느 때보다 많은 기업들이 수익에 대한 낙관론을 표명했습니다."
+    },
+    {
+      "title": "October can be a scary month for stocks. Here&#x2019;s what investors need to watch this year.",
+      "description": "If stocks see another big swoon this year, investors already know why.",
+      "link": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
+      "pubDate": "Sun, 04 Oct 2026 13:00:00 GMT",
+      "tag": "general",
+      "title_ko": "10월은 주식에 있어 무서운 달이 될 수 있습니다. 올해 투자자들이 주목해야 할 사항은 다음과 같습니다.",
+      "desc_ko": "올해 주식이 또 다시 큰 폭으로 상승한다면, 투자자들은 그 이유를 이미 알고 있습니다."
+    },
+    {
+      "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
+      "description": "Minutes from the September meeting may provide extra context, as the real fed-funds rate is now surprisingly low.",
+      "link": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
+      "pubDate": "Sun, 04 Oct 2026 12:00:00 GMT",
+      "tag": "general",
+      "title_ko": "이번 주에 예정된 연준 회의록을 통해 시장은 향후 금리 인상에 대한 중요한 단서를 얻을 수 있습니다.",
+      "desc_ko": "9 월 회의록에서 실제 연준 기금 비율이 놀라 울 정도로 낮기 때문에 추가적인 맥락을 제공 할 수 있습니다."
+    },
+    {
       "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
       "description": "Debt among older Americans is rising, both in terms of the number of older households carrying debt and the amount borrowed.",
       "link": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
@@ -468,33 +495,6 @@
       "tag": "general",
       "title_ko": "어려운 취업 시장은 더 많은 젊은 미국인들이 큰 내기를하도록 밀어 붙이고 있습니다.",
       "desc_ko": "엔트리 레벨 노동 시장이 가입하기가 더 어려워짐에 따라 젊은 미국인들 사이에서 기업가 정신이 증가했습니다."
-    },
-    {
-      "title": "Switching jobs to get higher pay works best in these industries",
-      "description": "Finding a new job is one way to get a pay increase at a time when inflation has been outpacing wage growth.",
-      "link": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
-      "pubDate": "Sat, 03 Oct 2026 16:42:00 GMT",
-      "tag": "general",
-      "title_ko": "더 높은 급여를 받기 위해 직업을 전환하는 것이 이러한 업계에서 가장 효과적입니다.",
-      "desc_ko": "새로운 일자리를 찾는 것은 인플레이션이 임금 상승을 앞지르고 있는 시기에 급여 인상을 받을 수 있는 한 가지 방법입니다."
-    },
-    {
-      "title": "&#x2018;I have $400,000 in equity&#x2019;: I&#x2019;m 80. Should I sell my house because of dangerous stairs &#x2014; or spend thousands renovating?",
-      "description": "&#x201c;Generally, the advice I&#x2019;ve read says not to sell because I have a low-interest-rate mortgage.&#x201d;",
-      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "pubDate": "Sat, 03 Oct 2026 16:00:00 GMT",
-      "tag": "general",
-      "title_ko": "‘$ 400,000의 자기자본이 있습니다.’: 저는 80세입니다. 위험한 계단 때문에 집을 팔아야 합니까, 아니면 수천 개의 리노베이션 비용을 지출해야 합니까?",
-      "desc_ko": "“일반적으로 제가 읽은 조언은 저금리 주택담보대출을 받았기 때문에 팔지 말라는 것입니다.”"
-    },
-    {
-      "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
-      "description": "The Points Guy&#x2019;s Brian Kelly gave me a crash course in annual fees and redemptions to offset rising travel costs",
-      "link": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
-      "pubDate": "Sat, 03 Oct 2026 15:42:00 GMT",
-      "tag": "general",
-      "title_ko": "The Points Guy에 따르면 초보자가 여행 카드로 만드는 최고의 실수",
-      "desc_ko": "Points Guy의 Brian Kelly는 여행 비용 상승을 상쇄하기 위해 연회비 및 상환에 대한 사고 코스를 제공했습니다."
     }
   ],
   "assets": {
