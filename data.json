@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-10T13:38:22.348431+00:00",
+  "updated_at": "2026-10-10T18:00:46.071252+00:00",
   "news": [
+    {
+      "title": "JPMorgan makes bullish call in fixed income space, suggests it&apos;s a once in a generation opportunity",
+      "description": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
+      "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+      "pubDate": "Sat, 10 Oct 2026 15:00:01 GMT",
+      "tag": "ndx",
+      "title_ko": "JPMorgan은 채권 공간에서 강세를 보이며, 한 세대에 한 번 있는 기회라고 제안합니다.",
+      "desc_ko": "이 회사의 포트폴리오 매니저인 Priya Misra가 고품질 기업에서 신용 리스크를 감수하고자 하는 이유."
+    },
     {
       "title": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
       "description": "Blockchain.com is seeking CFTC designation and registration to offer U.S. event contracts and cryptocurrency derivatives.",
@@ -126,15 +135,6 @@
       "tag": "ndx",
       "title_ko": "룰라 또는 보우소나로: 브라질 선거에서 두 가지 격렬하게 다른 결과를 얻기 위한 월스트리트의 중괄호",
       "desc_ko": "브라질 대통령 선거의 첫 번째 라운드가 일요일에 열리면서 월스트리트는 현저히 다른 시장 예측을 준비하고 있습니다."
-    },
-    {
-      "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
-      "description": "Odds tumbled after a jobs report showed a soft labor market, leading more traders to lower the the chances of a fed funds rate increase this month.",
-      "link": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
-      "pubDate": "Fri, 02 Oct 2026 13:29:27 GMT",
-      "tag": "ndx",
-      "title_ko": "트레이더들은 약한 일자리 보고서 이후 10월에 연방준비제도 (Fed) 금리가 인상될 가능성이 거의 없다고 보고 있습니다.",
-      "desc_ko": "일자리 보고서가 소프트 노동 시장을 보여준 후 확률이 떨어지면서 더 많은 거래자들이 이번 달 연준 자금 금리 인상 가능성을 낮추었습니다."
     },
     {
       "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
@@ -272,6 +272,42 @@
       "desc_ko": "비트코인은 트럼프가 이란의 공격을 배제한 후 약 $ 82,500로 회복되었지만, 이번 주에는 약 4% 하락한 반면, 이더는 9% 하락했다."
     },
     {
+      "title": "Elon Musk is now richer than any American ever &#x2014; and it&#x2019;s not even close",
+      "description": "Musk&#x2019;s trillioniare status means he&#x2019;s wealthier than his next three contemporaries combined &#x2014;&#xa0;and also worth more than historical tycoons like John D. Rockefeller.",
+      "link": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
+      "pubDate": "Sat, 10 Oct 2026 16:50:00 GMT",
+      "tag": "general",
+      "title_ko": "일론 머스크는 이제 그 어느 미국인보다 부유해졌으며, 심지어 가깝지도 않습니다.",
+      "desc_ko": "머스크의 1조 지위는 그가 그의 다음 세 동시대인들을 합친 것보다 더 부유하다는 것을 의미하며, 또한 존 D. 록펠러와 같은 역사적인 재벌들보다 더 가치가 있다는 것을 의미합니다."
+    },
+    {
+      "title": "A friend in her 80s fell down her basement stairs. Is this a hidden danger lurking in people&#x2019;s home?",
+      "description": "&#x201c;She developed pleural effusion &#x2014; fluid between the lungs and ribs &#x2014; compressing her lungs and making it hard for her to breathe.&#x201d;",
+      "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+      "pubDate": "Sat, 10 Oct 2026 16:00:00 GMT",
+      "tag": "general",
+      "title_ko": "80대의 친구가 지하실 계단에서 쓰러졌습니다. 이것은 사람들의 집에 숨어있는 숨겨진 위험입니까?",
+      "desc_ko": "\"그녀는 폐와 갈비뼈 사이의 액체인 흉막 삼출을 일으켜 폐를 압박하고 숨을 쉬기 어렵게 만들었습니다.\""
+    },
+    {
+      "title": "&#x2018;I have no children&#x2019;: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "description": "&#x201c;The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.&#x201d;",
+      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "pubDate": "Sat, 10 Oct 2026 15:30:00 GMT",
+      "tag": "general",
+      "title_ko": "‘아이가 없어요’: 이모가 계약금으로 $ 50,000를 주셨어요. 이제 그녀는 제가 두 자녀에게 집을 맡기기를 원합니다.",
+      "desc_ko": "“숙소 비용은 $ 385,000입니다. 저축한 $ 50,000와 소액 주택담보대출로 문을 닫을 수 있었습니다.”"
+    },
+    {
+      "title": "&#x2018;I feel like a loser&#x2019;: My stock portfolio is swinging wildly. Is it finally time to worry?",
+      "description": "&#x201c;I presume these are sophisticated investors taking a profit.&#x201d;",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "pubDate": "Sat, 10 Oct 2026 15:05:00 GMT",
+      "tag": "general",
+      "title_ko": "‘나는 패배자처럼 느껴진다’: 내 주식 포트폴리오는 거칠게 흔들리고 있다. 드디어 걱정할 시간인가?",
+      "desc_ko": "\"저는 이들이 수익을 내는 정교한 투자자라고 생각합니다.\""
+    },
+    {
       "title": "Flu season is already here. Here&#x2019;s what to know about this year&#x2019;s flu shots.",
       "description": "This year&#x2019;s flu season has arrived about seven weeks earlier than in 2025 or 2024.",
       "link": "https://www.marketwatch.com/story/flu-season-is-already-here-heres-what-to-know-about-this-years-flu-shots-58aeb705?mod=mw_rss_topstories",
@@ -288,15 +324,6 @@
       "tag": "general",
       "title_ko": "‘미국 사람들은 깨어나야 합니다’: 모기지 대출 담당자로서 저는 부유한 부부의 신청을 거절했습니다. 그 이유는 다음과 같습니다.",
       "desc_ko": "\"미국 사람들은 정신을 차려야 합니다.\""
-    },
-    {
-      "title": "&#x2018;The pain was excruciating&#x2019;: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
-      "description": "&#x201c;She developed pleural effusion &#x2014; fluid between the lungs and ribs &#x2014; compressing her lungs and making it hard for her to breathe.&#x201d;",
-      "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
-      "pubDate": "Sat, 10 Oct 2026 13:15:00 GMT",
-      "tag": "general",
-      "title_ko": "‘고통이 극심했다’: 80대 친구가 지하실 계단에서 쓰러졌다. 이를 방지하기 위해 무엇을 할 수 있었을까요?",
-      "desc_ko": "\"그녀는 폐와 갈비뼈 사이의 액체인 흉막 삼출을 일으켜 폐를 압박하고 숨을 쉬기 어렵게 만들었습니다.\""
     },
     {
       "title": "Winter is coming and energy bills are climbing. &#x2018;Everything just keeps going up.&#x2019;",
@@ -333,33 +360,6 @@
       "tag": "general",
       "title_ko": "10,000 또는 BUST에서 S&amp;P 500: 새로운 ETF는 투자자들에게 전혀 또는 전혀 지수에 베팅하지 않을 것을 제안합니다.",
       "desc_ko": "월스트리트는 최근 출시된 거래소 상장 펀드로 투자와 도박 사이의 경계를 계속 흐려왔다."
-    },
-    {
-      "title": "&#x2018;I have no children&#x2019;: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-      "description": "&#x201c;The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.&#x201d;",
-      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-      "pubDate": "Sat, 10 Oct 2026 11:00:00 GMT",
-      "tag": "general",
-      "title_ko": "‘아이가 없어요’: 이모가 계약금으로 $ 50,000를 주셨어요. 이제 그녀는 제가 두 자녀에게 집을 맡기기를 원합니다.",
-      "desc_ko": "“숙소 비용은 $ 385,000입니다. 저축한 $ 50,000와 소액 주택담보대출로 문을 닫을 수 있었습니다.”"
-    },
-    {
-      "title": "&#x2018;I feel like a loser&#x2019;: My stock portfolio is swinging wildly. Should I be worried?",
-      "description": "&#x201c;I presume these are sophisticated investors taking a profit.&#x201d;",
-      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "pubDate": "Sat, 10 Oct 2026 10:30:00 GMT",
-      "tag": "general",
-      "title_ko": "‘나는 패배자처럼 느껴진다’: 내 주식 포트폴리오는 거칠게 흔들리고 있다. 걱정할까?",
-      "desc_ko": "\"저는 이들이 수익을 내는 정교한 투자자라고 생각합니다.\""
-    },
-    {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "description": "&#x201c;Both properties will be solely in his name.&#x201d;",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "pubDate": "Fri, 09 Oct 2026 23:15:00 GMT",
-      "tag": "general",
-      "title_ko": "처남은 부모님을 설득하여 집과 생활비를 저축하여 $ 3M 화합물을 구입했습니다. 내가 개입할까?",
-      "desc_ko": "\"두 숙소 모두 전적으로 그의 이름으로 되어 있을 것입니다.\""
     }
   ],
   "assets": {
