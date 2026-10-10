@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T07:03:39.669544+00:00",
+  "updated_at": "2026-10-10T13:38:22.348431+00:00",
   "news": [
     {
       "title": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
@@ -137,6 +137,33 @@
       "desc_ko": "일자리 보고서가 소프트 노동 시장을 보여준 후 확률이 떨어지면서 더 많은 거래자들이 이번 달 연준 자금 금리 인상 가능성을 낮추었습니다."
     },
     {
+      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+      "description": "Bitcoin and ether order books are deeper than before the crash, while altcoin liquidity keeps eroding and spot trading remains well below its October 2025 peak.",
+      "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+      "pubDate": "Sat, 10 Oct 2026 12:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "10/10 플래시 충돌 후 1년, 비트코인과 에테르 유동성이 재건되었지만 알트코인은 여전히 위험에 직면해 있습니다",
+      "desc_ko": "비트코인과 에테르 주문 장부는 폭락 이전보다 더 깊어졌고, 알트코인 유동성은 계속 침식되고 있으며 현물 거래는 2025년 10월 정점을 훨씬 밑돌고 있습니다."
+    },
+    {
+      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+      "description": "Paxos Labs, Theo and Energy Substantiation execs see growth coming from putting physical assets to work, with precious metals leading and energy presenting a tougher test.",
+      "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+      "pubDate": "Sat, 10 Oct 2026 12:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "토큰화된 상품은 금 너머로 대출 및 석유가 새로운 시장을 여는 것처럼 보입니다.",
+      "desc_ko": "Paxos Labs, Theo 및 Energy Substantiation 경영진은 귀금속이 선도하고 에너지가 더 엄격한 테스트를 제시하면서 물리적 자산을 투입함으로써 성장할 것으로 보고 있습니다."
+    },
+    {
+      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+      "description": "The Oct. 10, 2025 flash crash wiped out billions in leveraged crypto bets. Traders now have better tools to spot risks, but the forces behind the selloff remain.",
+      "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+      "pubDate": "Sat, 10 Oct 2026 11:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "비트코인의 $ 190억 웨이크업 콜: 플래시 크래시 1년 후, 암호화폐가 배운 것이 있습니까?",
+      "desc_ko": "2025년 10월 10일 플래시 충돌로 수십억 달러의 레버리지 암호화폐 베팅이 사라졌습니다. 거래자들은 이제 위험을 감지할 수 있는 더 나은 도구를 가지고 있지만, 매각의 배후에는 여전히 힘이 남아 있습니다."
+    },
+    {
       "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
       "description": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional crypto market.",
       "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
@@ -245,49 +272,85 @@
       "desc_ko": "비트코인은 트럼프가 이란의 공격을 배제한 후 약 $ 82,500로 회복되었지만, 이번 주에는 약 4% 하락한 반면, 이더는 9% 하락했다."
     },
     {
-      "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
-      "description": "Thailand’s new crypto rules taking effect Oct. 16. They allow Thai asset managers to launch crypto ETFs on the local stock exchange, with bitcoin and ether initially eligible.",
-      "link": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-      "pubDate": "Fri, 09 Oct 2026 10:16:55 +0000",
-      "tag": "btc",
-      "title_ko": "태국은 현지 상장된 비트코인 및 에테르 ETF에 문을 엽니다",
-      "desc_ko": "10월 16일부터 시행되는 태국의 새로운 암호화폐 규정. 이를 통해 태국 자산 관리자는 비트코인과 에테르를 통해 현지 증권 거래소에 암호화폐 ETF를 출시할 수 있습니다."
-    },
-    {
-      "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
-      "description": "Britain said the crypto platforms and two payment services may have helped Russia evade financial sanctions, with two handling transactions involving the Kremlin-backed A7 network.",
-      "link": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
-      "pubDate": "Fri, 09 Oct 2026 10:14:59 +0000",
-      "tag": "btc",
-      "title_ko": "영국은 러시아 링크를 통해 세 개의 암호화폐 거래소에 대한 제재를 가하고 있습니다.",
-      "desc_ko": "영국은 암호화 플랫폼과 두 가지 결제 서비스가 러시아가 금융 제재를 회피하는 데 도움이 될 수 있으며, 두 가지 처리 거래는 크렘린이 지원하는 A7 네트워크와 관련이 있다고 말했다."
-    },
-    {
-      "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
-      "description": "A man from Virginia, who facilitated millions of drug transactions worth roughly $430 million, agreed to give up $100 million worth of BTC. His partner forfeited nearly 1,600 BTC.",
-      "link": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
-      "pubDate": "Fri, 09 Oct 2026 09:20:16 +0000",
-      "tag": "btc",
-      "title_ko": "다크 웹 의약품 시장 운영자가 40년형을 선고받고 $ 101M의 비트코인을 몰수당함",
-      "desc_ko": "약 4억 3천만 $ 상당의 수백만 건의 마약 거래를 촉진한 버지니아 출신의 한 남성이 1억 $ 상당의 BTC를 포기하기로 합의했습니다. 그의 파트너는 거의 1,600 BTC를 몰수했습니다."
-    },
-    {
-      "title": "&#x2018;I feel like a loser&#x2019;: My stock portfolio is swinging wildly. Should I be worried?",
-      "description": "&#x201c;I presume these are sophisticated investors taking a profit.&#x201d;",
-      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "pubDate": "Sat, 10 Oct 2026 03:15:00 GMT",
+      "title": "Flu season is already here. Here&#x2019;s what to know about this year&#x2019;s flu shots.",
+      "description": "This year&#x2019;s flu season has arrived about seven weeks earlier than in 2025 or 2024.",
+      "link": "https://www.marketwatch.com/story/flu-season-is-already-here-heres-what-to-know-about-this-years-flu-shots-58aeb705?mod=mw_rss_topstories",
+      "pubDate": "Sat, 10 Oct 2026 13:19:00 GMT",
       "tag": "general",
-      "title_ko": "‘나는 패배자처럼 느껴진다’: 내 주식 포트폴리오는 거칠게 흔들리고 있다. 걱정할까?",
-      "desc_ko": "\"저는 이들이 수익을 내는 정교한 투자자라고 생각합니다.\""
+      "title_ko": "독감 시즌이 이미 시작되었습니다. 올해 독감 예방 접종에 대해 알아두어야 할 사항은 다음과 같습니다.",
+      "desc_ko": "올해 독감 시즌은 2025년이나 2024년보다 약 7주 일찍 찾아왔습니다."
+    },
+    {
+      "title": "&#x2018;People in the U.S. need to wake up&#x2019;: As a mortgage loan officer, I rejected applications from wealthy couples. Here&#x2019;s why.",
+      "description": "&#x201c;People in the U.S. need to wake up.&#x201d;",
+      "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+      "pubDate": "Sat, 10 Oct 2026 13:15:00 GMT",
+      "tag": "general",
+      "title_ko": "‘미국 사람들은 깨어나야 합니다’: 모기지 대출 담당자로서 저는 부유한 부부의 신청을 거절했습니다. 그 이유는 다음과 같습니다.",
+      "desc_ko": "\"미국 사람들은 정신을 차려야 합니다.\""
+    },
+    {
+      "title": "&#x2018;The pain was excruciating&#x2019;: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
+      "description": "&#x201c;She developed pleural effusion &#x2014; fluid between the lungs and ribs &#x2014; compressing her lungs and making it hard for her to breathe.&#x201d;",
+      "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+      "pubDate": "Sat, 10 Oct 2026 13:15:00 GMT",
+      "tag": "general",
+      "title_ko": "‘고통이 극심했다’: 80대 친구가 지하실 계단에서 쓰러졌다. 이를 방지하기 위해 무엇을 할 수 있었을까요?",
+      "desc_ko": "\"그녀는 폐와 갈비뼈 사이의 액체인 흉막 삼출을 일으켜 폐를 압박하고 숨을 쉬기 어렵게 만들었습니다.\""
+    },
+    {
+      "title": "Winter is coming and energy bills are climbing. &#x2018;Everything just keeps going up.&#x2019;",
+      "description": "Expensive utility bills have become an increasingly sharp thorn for Americans&#x2019; wallets, but warmer weather this winter and energy assistance programs can help.",
+      "link": "https://www.marketwatch.com/story/winter-is-coming-and-energy-bills-are-climbing-everything-just-keeps-going-up-983cfd2d?mod=mw_rss_topstories",
+      "pubDate": "Sat, 10 Oct 2026 13:00:00 GMT",
+      "tag": "general",
+      "title_ko": "겨울이 다가오고 에너지 요금이 오르고 있습니다. ‘모든 것이 계속 올라간다.’",
+      "desc_ko": "비싼 공과금은 미국인의 지갑에 점점 더 날카로운 가시가되었지만 올 겨울 더 따뜻한 날씨와 에너지 지원 프로그램이 도움이 될 수 있습니다."
+    },
+    {
+      "title": "Why Nvidia&#x2019;s stock is dodging the AI credit scare that is crushing Broadcom and Oracle",
+      "description": "The P/E ratios have contracted and the CDS spreads have widened in all three cases, but Nvidia appears unscathed",
+      "link": "https://www.marketwatch.com/story/why-nvidias-stock-is-dodging-the-ai-credit-scare-that-is-crushing-broadcom-and-oracle-abc8f598?mod=mw_rss_topstories",
+      "pubDate": "Sat, 10 Oct 2026 12:30:00 GMT",
+      "tag": "general",
+      "title_ko": "엔비디아의 주식이 브로드컴과 오라클을 압도하는 인공지능 신용공포를 피하는 이유",
+      "desc_ko": "P/E 비율이 수축하고 CDS 스프레드가 세 가지 경우 모두 확대되었지만 Nvidia는 손상되지 않은 것처럼 보입니다."
+    },
+    {
+      "title": "&#x2018;What you don&#x2019;t know is greater than anything you do know&#x2019;: How Ray Dalio would build a portfolio to withstand a popping AI bubble",
+      "description": "Look for inflation protection and unappreciated players in artificial intelligence, says the famed hedge-fund founder.",
+      "link": "https://www.marketwatch.com/story/what-you-dont-know-is-greater-than-anything-you-do-know-how-ray-dalio-would-build-a-portfolio-to-withstand-a-popping-ai-bubble-2491ac6b?mod=mw_rss_topstories",
+      "pubDate": "Sat, 10 Oct 2026 12:00:00 GMT",
+      "tag": "general",
+      "title_ko": "‘아는 것보다 모르는 것이 더 크다’: 레이 달리오 (Ray Dalio) 가 떠오르는 인공지능 거품을 견딜 수 있는 포트폴리오를 구축하는 방법",
+      "desc_ko": "유명한 헤지 펀드 창립자는 인공 지능에서 인플레이션 보호와 인정받지 못한 플레이어를 찾아보라고 말합니다."
+    },
+    {
+      "title": "S&amp;P 500 at 10,000 or bust: New ETF offers investors all-or-nothing bet on the index",
+      "description": "Wall Street has continued to blur the lines between investing and gambling with one recently launched exchange-traded fund.",
+      "link": "https://www.marketwatch.com/story/s-p-500-at-10-000-or-bust-new-etf-offers-investors-all-or-nothing-bet-on-the-index-c7d9269f?mod=mw_rss_topstories",
+      "pubDate": "Sat, 10 Oct 2026 11:00:00 GMT",
+      "tag": "general",
+      "title_ko": "10,000 또는 BUST에서 S&amp;P 500: 새로운 ETF는 투자자들에게 전혀 또는 전혀 지수에 베팅하지 않을 것을 제안합니다.",
+      "desc_ko": "월스트리트는 최근 출시된 거래소 상장 펀드로 투자와 도박 사이의 경계를 계속 흐려왔다."
     },
     {
       "title": "&#x2018;I have no children&#x2019;: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
       "description": "&#x201c;The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.&#x201d;",
       "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-      "pubDate": "Sat, 10 Oct 2026 00:15:00 GMT",
+      "pubDate": "Sat, 10 Oct 2026 11:00:00 GMT",
       "tag": "general",
       "title_ko": "‘아이가 없어요’: 이모가 계약금으로 $ 50,000를 주셨어요. 이제 그녀는 제가 두 자녀에게 집을 맡기기를 원합니다.",
       "desc_ko": "“숙소 비용은 $ 385,000입니다. 저축한 $ 50,000와 소액 주택담보대출로 문을 닫을 수 있었습니다.”"
+    },
+    {
+      "title": "&#x2018;I feel like a loser&#x2019;: My stock portfolio is swinging wildly. Should I be worried?",
+      "description": "&#x201c;I presume these are sophisticated investors taking a profit.&#x201d;",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "pubDate": "Sat, 10 Oct 2026 10:30:00 GMT",
+      "tag": "general",
+      "title_ko": "‘나는 패배자처럼 느껴진다’: 내 주식 포트폴리오는 거칠게 흔들리고 있다. 걱정할까?",
+      "desc_ko": "\"저는 이들이 수익을 내는 정교한 투자자라고 생각합니다.\""
     },
     {
       "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
@@ -297,69 +360,6 @@
       "tag": "general",
       "title_ko": "처남은 부모님을 설득하여 집과 생활비를 저축하여 $ 3M 화합물을 구입했습니다. 내가 개입할까?",
       "desc_ko": "\"두 숙소 모두 전적으로 그의 이름으로 되어 있을 것입니다.\""
-    },
-    {
-      "title": "How to provide guaranteed retirement income while paying no commissions",
-      "description": "Unlike the stock market, whose future returns are anything but assured, a TIPS ladder&#x2019;s payout is guaranteed.",
-      "link": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
-      "pubDate": "Fri, 09 Oct 2026 22:41:00 GMT",
-      "tag": "general",
-      "title_ko": "커미션을 지불하지 않고 은퇴 보장 소득을 제공하는 방법",
-      "desc_ko": "향후 수익이 보장되는 주식 시장과 달리 팁 사다리의 지급은 보장됩니다."
-    },
-    {
-      "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be &#x2018;too little, too late,&#x2019; says strategist.",
-      "description": "The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.",
-      "link": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
-      "pubDate": "Fri, 09 Oct 2026 22:00:00 GMT",
-      "tag": "general",
-      "title_ko": "트럼프 대통령은 중간고사를 앞두고 전 세계 디젤 보급을 늘리기 위해 러시아를 누르고 있다. 전략가는 ‘너무 적거나 너무 늦었을 수 있습니다.’ 라고 말합니다.",
-      "desc_ko": "트럼프 행정부는 11월 미국 중간선거를 앞두고 연료 가격을 낮추기 위해 미국과 전 세계 디젤 공급을 늘리기 위해 러시아를 입대시켰다."
-    },
-    {
-      "title": "Is iPhone 18 demand cooling off? Here&#x2019;s how deep Apple reportedly is cutting component orders.",
-      "description": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
-      "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
-      "pubDate": "Fri, 09 Oct 2026 21:30:00 GMT",
-      "tag": "general",
-      "title_ko": "IPhone 18 수요가 냉각되나요? Apple이 부품 주문을 얼마나 줄이고 있는지는 다음과 같습니다.",
-      "desc_ko": "Nikkei Asia에 따르면 iPhone 18 Pro 및 iPhone 18 Pro Max의 부품 주문은 10월에 약 15% 감소했습니다."
-    },
-    {
-      "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
-      "description": "A new report paints OpenAI&#x2019;s financial picture in a more optimistic light.",
-      "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
-      "pubDate": "Fri, 09 Oct 2026 21:27:00 GMT",
-      "tag": "general",
-      "title_ko": "주요 OpenAI 이슈에 대한 투자자들의 명확한 이해에도 AI 칩 주식은 흔들립니다.",
-      "desc_ko": "새로운 보고서는 OpenAI의 재무 상황을 보다 낙관적으로 묘사합니다."
-    },
-    {
-      "title": "Microsoft is nearing a big milestone that solidifies its revival",
-      "description": "Microsoft is close to reclaiming a $4 trillion market cap &#x2014; and fresh records are also in sight.",
-      "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
-      "pubDate": "Fri, 09 Oct 2026 21:24:00 GMT",
-      "tag": "general",
-      "title_ko": "Microsoft는 부활을 견고하게 하는 커다란 이정표에 가까워지고 있습니다.",
-      "desc_ko": "Microsoft는 $ 4 조의 시가 총액을 회수하는 데 가까워졌으며 새로운 기록도 눈에 띄고 있습니다."
-    },
-    {
-      "title": "As AT&amp;T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
-      "description": "Telecommunications stocks saw their worst daily drops in over a decade.",
-      "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
-      "pubDate": "Fri, 09 Oct 2026 21:07:00 GMT",
-      "tag": "general",
-      "title_ko": "AT&amp;T, Verizon 및 T-Mobile 주식이 하락함에 따라 월스트리트는 증가하는 SpaceX 위협을 평가합니다.",
-      "desc_ko": "통신주들은 10년 넘게 최악의 일일 하락을 기록했다."
-    },
-    {
-      "title": "I&#x2019;m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "description": "&#x201c;I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.&#x201d;",
-      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-      "pubDate": "Fri, 09 Oct 2026 21:00:00 GMT",
-      "tag": "general",
-      "title_ko": "저는 68세의 미망인이고 두 명의 성인 자녀에게 돈을 줍니다. 나는 은퇴를 위험에 빠뜨리고 있는가?",
-      "desc_ko": "“IRA에 $ 310,000, 저축액은 $ 46,000입니다. 우리 집은 월급을 받았어.”"
     }
   ],
   "assets": {
