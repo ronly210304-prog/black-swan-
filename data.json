@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T18:05:22.857533+00:00",
+  "updated_at": "2026-10-11T21:55:13.321549+00:00",
   "news": [
     {
       "title": "JPMorgan makes bullish call in fixed income space, suggests it&apos;s a once in a generation opportunity",
@@ -137,6 +137,15 @@
       "desc_ko": "브라질 대통령 선거의 첫 번째 라운드가 일요일에 열리면서 월스트리트는 현저히 다른 시장 예측을 준비하고 있습니다."
     },
     {
+      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+      "description": "The U.S. Supreme Court hasn't yet indicated whether it will take up cases surrounding prediction markets, but there are now several amicus briefs, an interim final rule and a rule proposal.",
+      "link": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+      "pubDate": "Sun, 11 Oct 2026 18:30:00 +0000",
+      "tag": "btc",
+      "title_ko": "모두가 SCOTUS가 예측 시장을 차지하기를 원합니다: 암호화 상태",
+      "desc_ko": "미국 대법원은 아직 예측 시장을 둘러싼 사건을 맡을지 여부를 밝히지 않았지만, 현재 여러 amicus 브리프, 임시 최종 규칙 및 규칙 제안이 있습니다."
+    },
+    {
       "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
       "description": "Executives see openings for tokenization, DeFi and dealmaking, while lawyers warn agency action leaves spot-market oversight and lasting certainty unresolved.",
       "link": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
@@ -263,13 +272,40 @@
       "desc_ko": "하드웨어 지갑 제조업체는 비트코인, 이더리움 및 트론 주소에서 배출된 암호화 자산에 대한 소셜 게시물이 소용돌이 치면서 동남아시아 리셀러가 판매하는 장치를 조사하고 있다고 말했습니다."
     },
     {
-      "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
-      "description": "DWF is seeking $114 million in damages on the basis BitGo’s token sales resulted in direct losses through the fall in tokens' prices.",
-      "link": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
-      "pubDate": "Fri, 09 Oct 2026 12:23:54 +0000",
-      "tag": "btc",
-      "title_ko": "DWF Labs 자회사는 토큰 잠금 위반 혐의로 BitGo에 1억 4,100만 달러 ($) 를 청구하여 소송을 제기합니다.",
-      "desc_ko": "DWF는 BitGo의 토큰 판매로 인해 토큰 가격 하락으로 직접적인 손실을 입은 것을 근거로 $ 1억 1,400만 달러의 손해를 찾고 있습니다."
+      "title": "&#x2018;I have no children&#x2019;: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "description": "&#x201c;The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.&#x201d;",
+      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "pubDate": "Sun, 11 Oct 2026 20:15:00 GMT",
+      "tag": "general",
+      "title_ko": "‘아이가 없어요’: 이모가 계약금으로 $ 50,000를 주셨어요. 이제 그녀는 제가 두 자녀에게 집을 맡기기를 원합니다.",
+      "desc_ko": "“숙소 비용은 $ 385,000입니다. 저축한 $ 50,000와 소액 주택담보대출로 문을 닫을 수 있었습니다.”"
+    },
+    {
+      "title": "&#x2018;I feel like a loser&#x2019;: My stock portfolio is swinging wildly. Is it finally time to worry?",
+      "description": "&#x201c;I presume these are sophisticated investors taking a profit.&#x201d;",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "pubDate": "Sun, 11 Oct 2026 20:00:00 GMT",
+      "tag": "general",
+      "title_ko": "‘나는 패배자처럼 느껴진다’: 내 주식 포트폴리오는 거칠게 흔들리고 있다. 드디어 걱정할 시간인가?",
+      "desc_ko": "\"저는 이들이 수익을 내는 정교한 투자자라고 생각합니다.\""
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "description": "&#x201c;Both properties will be solely in his name.&#x201d;",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "pubDate": "Sun, 11 Oct 2026 19:32:00 GMT",
+      "tag": "general",
+      "title_ko": "처남은 부모님을 설득하여 집과 생활비를 저축하여 $ 3M 화합물을 구입했습니다. 내가 개입할까?",
+      "desc_ko": "\"두 숙소 모두 전적으로 그의 이름으로 되어 있을 것입니다.\""
+    },
+    {
+      "title": "I&#x2019;m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+      "description": "&#x201c;I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.&#x201d;",
+      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "pubDate": "Sun, 11 Oct 2026 19:32:00 GMT",
+      "tag": "general",
+      "title_ko": "저는 68세의 미망인이고 두 명의 성인 자녀에게 돈을 줍니다. 나는 은퇴를 위험에 빠뜨리고 있는가?",
+      "desc_ko": "“IRA에 $ 310,000, 저축액은 $ 46,000입니다. 우리 집은 월급을 받았어.”"
     },
     {
       "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
@@ -299,15 +335,6 @@
       "desc_ko": "4년 동안, 이 황소 시장에 대한 거의 모든 질문에 대한 해답은 기술이었습니다."
     },
     {
-      "title": "&#x2018;I feel like a loser&#x2019;: My stock portfolio is swinging wildly. Is it finally time to worry?",
-      "description": "&#x201c;I presume these are sophisticated investors taking a profit.&#x201d;",
-      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "pubDate": "Sun, 11 Oct 2026 12:30:00 GMT",
-      "tag": "general",
-      "title_ko": "‘나는 패배자처럼 느껴진다’: 내 주식 포트폴리오는 거칠게 흔들리고 있다. 드디어 걱정할 시간인가?",
-      "desc_ko": "\"저는 이들이 수익을 내는 정교한 투자자라고 생각합니다.\""
-    },
-    {
       "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
       "description": "The big banks kick off earnings season on Tuesday, to provide a first read on the health of the economy in a rising-yield environment.",
       "link": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
@@ -315,15 +342,6 @@
       "tag": "general",
       "title_ko": "높은 수익률이 경제에 미치는 영향에 대한 첫 번째 시각을 밝히기 위한 은행 수익",
       "desc_ko": "대형 은행들은 수익률이 상승하는 환경에서 경제의 건전성에 대한 첫 번째 독서를 제공하기 위해 화요일에 수익 시즌을 시작합니다."
-    },
-    {
-      "title": "&#x2018;I have no children&#x2019;: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-      "description": "&#x201c;The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.&#x201d;",
-      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-      "pubDate": "Sun, 11 Oct 2026 12:00:00 GMT",
-      "tag": "general",
-      "title_ko": "‘아이가 없어요’: 이모가 계약금으로 $ 50,000를 주셨어요. 이제 그녀는 제가 두 자녀에게 집을 맡기기를 원합니다.",
-      "desc_ko": "“숙소 비용은 $ 385,000입니다. 저축한 $ 50,000와 소액 주택담보대출로 문을 닫을 수 있었습니다.”"
     },
     {
       "title": "Should I put my nest egg in a 30-year Treasury bond?",
@@ -342,24 +360,6 @@
       "tag": "general",
       "title_ko": "부모님의 자동차 열쇠를 빼앗는 것보다 더 나쁘다고요? 휴대전화를 빼앗는 것. 고령의 부모님을 보호하는 방법.",
       "desc_ko": "자녀 보호 기능은 더 이상 아이만을 위한 것이 아닙니다."
-    },
-    {
-      "title": "These decisions you make in your 20s &#x2014; not your income &#x2014; determine whether you&#x2019;ll spend decades in debt or retire comfortably",
-      "description": "Don&#x2019;t just focus on stock picks when you&#x2019;re thinking of building retirement wealth",
-      "link": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
-      "pubDate": "Sat, 10 Oct 2026 19:44:00 GMT",
-      "tag": "general",
-      "title_ko": "소득이 아닌 20대에 내리는 이러한 결정은 부채로 수십 년을 보낼지 아니면 편안하게 은퇴할지를 결정합니다.",
-      "desc_ko": "은퇴 후 부를 쌓을 생각에 주식에만 집중하지 마세요."
-    },
-    {
-      "title": "How to downsize like a pro &#x2014; and free yourself from being a &#x2018;prisoner of your possessions&#x2019;",
-      "description": "Seven tips for painlessly moving in retirement.",
-      "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
-      "pubDate": "Sat, 10 Oct 2026 19:44:00 GMT",
-      "tag": "general",
-      "title_ko": "프로처럼 규모를 축소하고 '소유물의 포로‘ 로부터 자유로워지는 방법",
-      "desc_ko": "은퇴 후 고통 없이 이동하기 위한 7가지 팁."
     }
   ],
   "assets": {
@@ -2000,12 +2000,12 @@
         1339.739990234375,
         1339.0799560546875,
         1342.989990234375,
-        1340.02001953125
+        1341.0999755859375
       ],
-      "last": 1340.02001953125,
-      "chg_pct": -0.2211461533385434,
-      "rsi14": 39.03874537767237,
-      "ma20": 1356.710498046875
+      "last": 1341.0999755859375,
+      "chg_pct": -0.1407318492454035,
+      "rsi14": 39.49626538659743,
+      "ma20": 1356.7644958496094
     },
     "jpy": {
       "live": true,
@@ -2109,12 +2109,12 @@
         158.29600524902344,
         158.05999755859375,
         158.06300354003906,
-        158.24600219726562
+        158.28799438476562
       ],
-      "last": 158.24600219726562,
-      "chg_pct": 0.11577576860369287,
-      "rsi14": 55.59030777092033,
-      "ma20": 157.3412010192871
+      "last": 158.28799438476562,
+      "chg_pct": 0.14234250880192206,
+      "rsi14": 55.89354524988547,
+      "ma20": 157.34330062866212
     },
     "copper": {
       "live": true,
