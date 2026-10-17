@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T21:52:19.936826+00:00",
+  "updated_at": "2026-10-17T00:06:02.657131+00:00",
   "news": [
     {
       "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
@@ -272,6 +272,15 @@
       "desc_ko": null
     },
     {
+      "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "description": "The software and semiconductor sectors haven&#x2019;t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
+      "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+      "pubDate": "Fri, 16 Oct 2026 21:59:00 GMT",
+      "tag": "general",
+      "title_ko": "숨을 곳이 없습니다: 기술 매도가 소프트웨어와 칩 재고를 모두 강타합니다",
+      "desc_ko": "올해는 소프트웨어와 반도체 부문이 연달아 거래되지는 않았지만 AI와 이자율에 대한 두려움이 시장을 강타하면서 금요일에 집단적으로 하락했습니다."
+    },
+    {
       "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
       "description": "Money is pouring in and funding intense, negative ads: &#x201c;It&#x2019;s everywhere, and you can&#x2019;t escape it.&#x201d;",
       "link": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
@@ -351,15 +360,6 @@
       "tag": "general",
       "title_ko": "귀하의 사회 보장 수표는 한 달에 평균 $ 75 상승합니다 — 인플레이션을 따라갈 수 있습니까?",
       "desc_ko": "2027년 3.6% 의 COLA는 6,800만 명 이상의 수혜자가 생활비를 충당할 수 있도록 돕는 것을 목표로 합니다."
-    },
-    {
-      "title": "Did this year&#x2019;s COLA beat inflation? Here&#x2019;s how spending by American seniors stacks up so far in 2026.",
-      "description": "The cost-of-living adjustment for 2027 will be 3.6%, which will give Social Security recipients an average of $75 more per month.",
-      "link": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
-      "pubDate": "Fri, 16 Oct 2026 19:45:00 GMT",
-      "tag": "general",
-      "title_ko": "올해 콜라가 인플레이션을 이겼습니까? 2026년 미국 노년층의 지출이 어떻게 증가했는지 알아보세요.",
-      "desc_ko": "2027년 생활비 조정은 3.6% 가 될 것이며, 이는 사회 보장 수혜자에게 월 평균 $ 75를 더 줄 것입니다."
     }
   ],
   "assets": {
@@ -1683,6 +1683,7 @@
     "dax": {
       "live": true,
       "closes": [
+        25104.69921875,
         25003.0390625,
         25124.169921875,
         24795.939453125,
@@ -1781,17 +1782,17 @@
         25277.6796875,
         25259.900390625,
         25298.609375,
-        25382.619140625,
-        25622.609375
+        25382.619140625
       ],
-      "last": 25622.609375,
-      "chg_pct": 0.9454904280972901,
-      "rsi14": 55.247690697430414,
-      "ma20": 25296.32236328125
+      "last": 25382.619140625,
+      "chg_pct": 0.3320726620966691,
+      "rsi14": 50.04187723437281,
+      "ma20": 25280.394921875
     },
     "ftse": {
       "live": true,
       "closes": [
+        10426.0,
         10409.2998046875,
         10339.0,
         10373.5,
@@ -1890,13 +1891,12 @@
         10656.2998046875,
         10650.2998046875,
         10724.900390625,
-        10840.400390625,
-        10881.900390625
+        10840.400390625
       ],
-      "last": 10881.900390625,
-      "chg_pct": 0.38282718815340117,
-      "rsi14": 64.27510516659498,
-      "ma20": 10629.57001953125
+      "last": 10840.400390625,
+      "chg_pct": 1.076933079033186,
+      "rsi14": 62.37233766885136,
+      "ma20": 10618.42998046875
     },
     "krw": {
       "live": true,
@@ -2446,6 +2446,7 @@
     "qqq": {
       "live": true,
       "closes": [
+        730.280029296875,
         729.4500122070312,
         735.5999755859375,
         738.3099975585938,
@@ -2544,13 +2545,12 @@
         746.0399780273438,
         743.5700073242188,
         728.9500122070312,
-        728.0,
-        709.7999877929688
+        728.0
       ],
-      "last": 709.7999877929688,
-      "chg_pct": -2.500001676790007,
-      "rsi14": 35.00393174623444,
-      "ma20": 742.5190032958984
+      "last": 728.0,
+      "chg_pct": -0.13032611168424457,
+      "rsi14": 44.08880654242431,
+      "ma20": 743.1015045166016
     },
     "irx": {
       "live": true,
@@ -3002,57 +3002,57 @@
   "sectors": {
     "xlk": {
       "name": "기술",
-      "chg_pct": -3.0234162201433756,
+      "chg_pct": -0.6511528026397394,
       "source": "yahoo"
     },
     "xlf": {
       "name": "금융",
-      "chg_pct": 0.4523249464979568,
+      "chg_pct": 1.3756419547006804,
       "source": "yahoo"
     },
     "xle": {
       "name": "에너지",
-      "chg_pct": 2.524039012616928,
+      "chg_pct": -1.5821377174019355,
       "source": "yahoo"
     },
     "xlv": {
       "name": "헬스케어",
-      "chg_pct": -0.27089323377473795,
+      "chg_pct": 1.8567461501952125,
       "source": "yahoo"
     },
     "xly": {
       "name": "임의소비재",
-      "chg_pct": -0.8376726452343095,
+      "chg_pct": 1.7130077687079595,
       "source": "yahoo"
     },
     "xlp": {
       "name": "필수소비재",
-      "chg_pct": 1.0844513591333262,
+      "chg_pct": 0.72043082055621,
       "source": "yahoo"
     },
     "xli": {
       "name": "산업재",
-      "chg_pct": -0.07743456029848297,
+      "chg_pct": 0.5088638276341395,
       "source": "yahoo"
     },
     "xlb": {
       "name": "소재",
-      "chg_pct": 0.7120189594070501,
+      "chg_pct": 1.79183256926744,
       "source": "yahoo"
     },
     "xlu": {
       "name": "유틸리티",
-      "chg_pct": 1.3445319041484305,
+      "chg_pct": -0.1677844985044778,
       "source": "yahoo"
     },
     "xlre": {
       "name": "부동산",
-      "chg_pct": 0.40485392271963283,
+      "chg_pct": 1.2051096162271275,
       "source": "yahoo"
     },
     "xlc": {
       "name": "커뮤니케이션",
-      "chg_pct": -1.8854524195575224,
+      "chg_pct": 1.4618324770286861,
       "source": "yahoo"
     }
   },
@@ -3060,142 +3060,142 @@
     "AAPL": {
       "name": "AAPL",
       "market": "US",
-      "chg_pct": 0.4268980862801535,
-      "vol_ratio": 1.5648925167547467,
-      "volume": 59852690
+      "chg_pct": -0.2799135406451243,
+      "vol_ratio": 1.0418156120525581,
+      "volume": 39767300
     },
     "MSFT": {
       "name": "MSFT",
       "market": "US",
-      "chg_pct": -1.926074188309025,
-      "vol_ratio": 1.0571116902887785,
-      "volume": 24111877
+      "chg_pct": 1.0774044808214844,
+      "vol_ratio": 1.0619597438319803,
+      "volume": 24151200
     },
     "NVDA": {
       "name": "NVDA",
       "market": "US",
-      "chg_pct": -1.4270546912014532,
-      "vol_ratio": 1.117427844967028,
-      "volume": 120302335
+      "chg_pct": -1.8391356837292285,
+      "vol_ratio": 1.1912035070645515,
+      "volume": 127087900
     },
     "GOOGL": {
       "name": "GOOGL",
       "market": "US",
-      "chg_pct": -2.471222969087167,
-      "vol_ratio": 1.0951508820055993,
-      "volume": 28204302
+      "chg_pct": 0.45448927214648716,
+      "vol_ratio": 0.8211022216096694,
+      "volume": 21328200
     },
     "AMZN": {
       "name": "AMZN",
       "market": "US",
-      "chg_pct": -1.8684230685631507,
-      "vol_ratio": 1.081065639762809,
-      "volume": 39042387
+      "chg_pct": 0.26762935724213244,
+      "vol_ratio": 0.9550166126726025,
+      "volume": 34564200
     },
     "META": {
       "name": "META",
       "market": "US",
-      "chg_pct": -3.7185035814826657,
-      "vol_ratio": 0.9357911798934816,
-      "volume": 20427809
+      "chg_pct": -0.11118140692684578,
+      "vol_ratio": 0.7651400707091526,
+      "volume": 16891500
     },
     "TSLA": {
       "name": "TSLA",
       "market": "US",
-      "chg_pct": -2.1300080478702617,
-      "vol_ratio": 1.804190971002987,
-      "volume": 61706132
+      "chg_pct": -1.2855434071318006,
+      "vol_ratio": 0.7730479767081708,
+      "volume": 26728300
     },
     "AVGO": {
       "name": "AVGO",
       "market": "US",
-      "chg_pct": -4.524725460991997,
-      "vol_ratio": 1.2810611099113773,
-      "volume": 29604273
+      "chg_pct": -0.5545165134250902,
+      "vol_ratio": 1.2457747511694544,
+      "volume": 28455800
     },
     "COST": {
       "name": "COST",
       "market": "US",
-      "chg_pct": 1.1349552126360702,
-      "vol_ratio": 1.0001324654196904,
-      "volume": 2382968
+      "chg_pct": -0.4063126511583503,
+      "vol_ratio": 1.2751744914077732,
+      "volume": 2999000
     },
     "NFLX": {
       "name": "NFLX",
       "market": "US",
-      "chg_pct": -2.864621696144366,
-      "vol_ratio": 1.1513235708545906,
-      "volume": 44006054
+      "chg_pct": 2.8907480860836143,
+      "vol_ratio": 1.0599297490710282,
+      "volume": 40397500
     },
     "AMD": {
       "name": "AMD",
       "market": "US",
-      "chg_pct": -5.954855064974766,
-      "vol_ratio": 1.0158908107358586,
-      "volume": 22397872
+      "chg_pct": -1.5048573535001761,
+      "vol_ratio": 1.3282836204718362,
+      "volume": 28834600
     },
     "ADBE": {
       "name": "ADBE",
       "market": "US",
-      "chg_pct": -2.570827380210744,
-      "vol_ratio": 0.8159813697335597,
-      "volume": 3914352
+      "chg_pct": 4.566231439091259,
+      "vol_ratio": 1.4048831689816144,
+      "volume": 6611900
     },
     "PEP": {
       "name": "PEP",
       "market": "US",
-      "chg_pct": 2.4224960991319677,
-      "vol_ratio": 0.9919510772696936,
-      "volume": 10658930
+      "chg_pct": -0.6884809779789253,
+      "vol_ratio": 1.0877606137916211,
+      "volume": 11639800
     },
     "CSCO": {
       "name": "CSCO",
       "market": "US",
-      "chg_pct": -2.2394165850190637,
-      "vol_ratio": 0.8203537375116363,
-      "volume": 15858137
+      "chg_pct": -3.3350941005659474,
+      "vol_ratio": 1.0886681913756537,
+      "volume": 20956400
     },
     "INTC": {
       "name": "INTC",
       "market": "US",
-      "chg_pct": -5.78798795584471,
-      "vol_ratio": 1.109814745462078,
-      "volume": 121443751
+      "chg_pct": -2.802690504506529,
+      "vol_ratio": 1.3683931121215107,
+      "volume": 147157700
     },
     "QCOM": {
       "name": "QCOM",
       "market": "US",
-      "chg_pct": -3.5257811106106574,
-      "vol_ratio": 0.9503550994253063,
-      "volume": 12507275
+      "chg_pct": 3.348394706750498,
+      "vol_ratio": 0.8913232537826662,
+      "volume": 11791400
     },
     "TXN": {
       "name": "TXN",
       "market": "US",
-      "chg_pct": -0.9458240817720663,
-      "vol_ratio": 1.3621509289408158,
-      "volume": 7924566
+      "chg_pct": -0.5451625913311808,
+      "vol_ratio": 1.189362253813287,
+      "volume": 6857500
     },
     "AMAT": {
       "name": "AMAT",
       "market": "US",
-      "chg_pct": -4.818492767644285,
-      "vol_ratio": 1.263416909748938,
-      "volume": 8499541
+      "chg_pct": -3.7211998601724665,
+      "vol_ratio": 1.8848163484074647,
+      "volume": 12167300
     },
     "INTU": {
       "name": "INTU",
       "market": "US",
-      "chg_pct": -1.5204347236545004,
-      "vol_ratio": 0.893681976005714,
-      "volume": 3521307
+      "chg_pct": 6.355498914819152,
+      "vol_ratio": 1.149426756313604,
+      "volume": 4497000
     },
     "BKNG": {
       "name": "BKNG",
       "market": "US",
-      "chg_pct": -1.4173739808569386,
-      "vol_ratio": 0.7612572151129408,
-      "volume": 6370088
+      "chg_pct": 3.1864641581778494,
+      "vol_ratio": 0.9241146912433617,
+      "volume": 7760900
     },
     "005930.KS": {
       "name": "삼성전자",
@@ -3306,102 +3306,102 @@
   "heatmap": {
     "AAPL": {
       "name": "AAPL",
-      "chg_pct": 0.4268980862801535,
+      "chg_pct": -0.2799135406451243,
       "source": "yahoo"
     },
     "MSFT": {
       "name": "MSFT",
-      "chg_pct": -1.926074188309025,
+      "chg_pct": 1.0774044808214844,
       "source": "yahoo"
     },
     "NVDA": {
       "name": "NVDA",
-      "chg_pct": -1.4270546912014532,
+      "chg_pct": -1.8391356837292285,
       "source": "yahoo"
     },
     "GOOGL": {
       "name": "GOOGL",
-      "chg_pct": -2.471222969087167,
+      "chg_pct": 0.45448927214648716,
       "source": "yahoo"
     },
     "AMZN": {
       "name": "AMZN",
-      "chg_pct": -1.8684230685631507,
+      "chg_pct": 0.26762935724213244,
       "source": "yahoo"
     },
     "META": {
       "name": "META",
-      "chg_pct": -3.7185035814826657,
+      "chg_pct": -0.11118140692684578,
       "source": "yahoo"
     },
     "TSLA": {
       "name": "TSLA",
-      "chg_pct": -2.1300080478702617,
+      "chg_pct": -1.2855434071318006,
       "source": "yahoo"
     },
     "AVGO": {
       "name": "AVGO",
-      "chg_pct": -4.524725460991997,
+      "chg_pct": -0.5545165134250902,
       "source": "yahoo"
     },
     "COST": {
       "name": "COST",
-      "chg_pct": 1.1349552126360702,
+      "chg_pct": -0.4063126511583503,
       "source": "yahoo"
     },
     "NFLX": {
       "name": "NFLX",
-      "chg_pct": -2.864621696144366,
+      "chg_pct": 2.8907480860836143,
       "source": "yahoo"
     },
     "AMD": {
       "name": "AMD",
-      "chg_pct": -5.954855064974766,
+      "chg_pct": -1.5048573535001761,
       "source": "yahoo"
     },
     "ADBE": {
       "name": "ADBE",
-      "chg_pct": -2.570827380210744,
+      "chg_pct": 4.566231439091259,
       "source": "yahoo"
     },
     "PEP": {
       "name": "PEP",
-      "chg_pct": 2.4224960991319677,
+      "chg_pct": -0.6884809779789253,
       "source": "yahoo"
     },
     "CSCO": {
       "name": "CSCO",
-      "chg_pct": -2.2394165850190637,
+      "chg_pct": -3.3350941005659474,
       "source": "yahoo"
     },
     "INTC": {
       "name": "INTC",
-      "chg_pct": -5.78798795584471,
+      "chg_pct": -2.802690504506529,
       "source": "yahoo"
     },
     "QCOM": {
       "name": "QCOM",
-      "chg_pct": -3.5257811106106574,
+      "chg_pct": 3.348394706750498,
       "source": "yahoo"
     },
     "TXN": {
       "name": "TXN",
-      "chg_pct": -0.9458240817720663,
+      "chg_pct": -0.5451625913311808,
       "source": "yahoo"
     },
     "AMAT": {
       "name": "AMAT",
-      "chg_pct": -4.818492767644285,
+      "chg_pct": -3.7211998601724665,
       "source": "yahoo"
     },
     "INTU": {
       "name": "INTU",
-      "chg_pct": -1.5204347236545004,
+      "chg_pct": 6.355498914819152,
       "source": "yahoo"
     },
     "BKNG": {
       "name": "BKNG",
-      "chg_pct": -1.4173739808569386,
+      "chg_pct": 3.1864641581778494,
       "source": "yahoo"
     }
   },
@@ -3416,13 +3416,13 @@
       "form4_count_30d": 8
     },
     "GOOGL": {
-      "form4_count_30d": 21
+      "form4_count_30d": 8
     },
     "AMZN": {
       "form4_count_30d": 1
     },
     "META": {
-      "form4_count_30d": 8
+      "form4_count_30d": 7
     },
     "TSLA": {
       "form4_count_30d": 0
@@ -3464,7 +3464,7 @@
       "form4_count_30d": 6
     },
     "BKNG": {
-      "form4_count_30d": 2
+      "form4_count_30d": 1
     }
   },
   "macro": {
@@ -3648,39 +3648,39 @@
       "category": "other",
       "threshold": 3.0
     },
-    "META": {
-      "name": "META",
-      "chg_pct": -3.7185035814826657,
+    "ADBE": {
+      "name": "ADBE",
+      "chg_pct": 4.566231439091259,
       "category": "stock",
       "threshold": 3.0
     },
-    "AVGO": {
-      "name": "AVGO",
-      "chg_pct": -4.524725460991997,
-      "category": "stock",
-      "threshold": 3.0
-    },
-    "AMD": {
-      "name": "AMD",
-      "chg_pct": -5.954855064974766,
-      "category": "stock",
-      "threshold": 3.0
-    },
-    "INTC": {
-      "name": "INTC",
-      "chg_pct": -5.78798795584471,
+    "CSCO": {
+      "name": "CSCO",
+      "chg_pct": -3.3350941005659474,
       "category": "stock",
       "threshold": 3.0
     },
     "QCOM": {
       "name": "QCOM",
-      "chg_pct": -3.5257811106106574,
+      "chg_pct": 3.348394706750498,
       "category": "stock",
       "threshold": 3.0
     },
     "AMAT": {
       "name": "AMAT",
-      "chg_pct": -4.818492767644285,
+      "chg_pct": -3.7211998601724665,
+      "category": "stock",
+      "threshold": 3.0
+    },
+    "INTU": {
+      "name": "INTU",
+      "chg_pct": 6.355498914819152,
+      "category": "stock",
+      "threshold": 3.0
+    },
+    "BKNG": {
+      "name": "BKNG",
+      "chg_pct": 3.1864641581778494,
       "category": "stock",
       "threshold": 3.0
     },
