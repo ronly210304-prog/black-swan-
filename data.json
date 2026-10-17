@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T04:21:35.015446+00:00",
+  "updated_at": "2026-10-17T08:42:30.986239+00:00",
   "news": [
     {
       "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
@@ -137,6 +137,15 @@
       "desc_ko": "클리블랜드 연준 대통령은 인플레이션을 낮추기 위해 더 엄격한 통화 정책이 필요할 것이라고 말했다."
     },
     {
+      "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+      "description": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn’t gone anywhere.",
+      "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+      "pubDate": "Sat, 17 Oct 2026 06:39:48 +0000",
+      "tag": "btc",
+      "title_ko": "‘와우, 진짜 발견이다’: 클로드가 25년간의 국가안보국 (NSA) 번호 미스터리를 풀다",
+      "desc_ko": "오랫동안 백도어를 숨긴 것으로 의심되는 1990년대에 스파이 기관이 넘겨준 숫자는 기본적인 컴퓨터 프로그램에서 나온 것으로 밝혀졌습니다. 비트코인은 그 목록에 없었고, 그 양자 문제는 어디에도 가지 않았습니다."
+    },
+    {
       "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
       "description": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.",
       "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
@@ -261,15 +270,6 @@
       "tag": "btc",
       "title_ko": "비트코인 구매자는 아시아 증시가 반등함에 따라 $ 80,000 이하로 잠깐 하락합니다.",
       "desc_ko": "비트코인은 $ 80,000 미만으로 하락한 지 2시간 만에 $ 82,500로 다시 찢어졌고, 서울의 칩 메이커들은 4월 이후 최악의 마감에서 회복했습니다."
-    },
-    {
-      "title": "At the White House, crypto policy vacancy looms large",
-      "description": "The departure of President Donald Trump's crypto adviser, Patrick Witt, leaves the digital assets office vacant and its policy aims uncertain.",
-      "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
-      "pubDate": "Thu, 15 Oct 2026 18:48:02 +0000",
-      "tag": "btc",
-      "title_ko": "백악관에서 암호화폐 정책 공석이 크게 다가오고 있습니다.",
-      "desc_ko": "도널드 트럼프 대통령의 암호화폐 고문인 패트릭 위트 (Patrick Witt) 의 출발은 디지털 자산 사무실을 비워두고 그 정책은 불확실성을 목표로 하고 있다."
     },
     {
       "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
