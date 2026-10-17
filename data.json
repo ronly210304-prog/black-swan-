@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-17T08:42:30.986239+00:00",
+  "updated_at": "2026-10-17T12:25:32.145024+00:00",
   "news": [
+    {
+      "title": "Bending Spoons wants to revive software castoffs. Berkshire is backing the plan",
+      "description": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+      "link": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+      "pubDate": "Sat, 17 Oct 2026 12:00:01 GMT",
+      "tag": "ndx",
+      "title_ko": "벤딩 스푼은 소프트웨어 캐스트오프를 부활시키기를 원합니다. 버크셔가 이 계획을 지지하고 있다.",
+      "desc_ko": "Bending Spoons는 상장 기업으로 입사한 지 4개월도 채 되지 않아 이번 주 Berkshire Hathaway로부터 큰 신뢰를 얻었습니다."
+    },
     {
       "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
       "description": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
@@ -128,13 +137,13 @@
       "desc_ko": "S&P 500 지수는 2022년 10월 12일 마감 이후 거의 120% 상승했습니다."
     },
     {
-      "title": "Higher rates could be needed to avoid &apos;inflationary mindset&apos; taking hold, says Fed&apos;s Hammack",
-      "description": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
-      "link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
-      "pubDate": "Tue, 13 Oct 2026 02:58:11 GMT",
-      "tag": "ndx",
-      "title_ko": "Fed의 Hammack은 '인플레이션 사고방식' 을 피하기 위해 더 높은 금리가 필요할 수 있다고 말합니다.",
-      "desc_ko": "클리블랜드 연준 대통령은 인플레이션을 낮추기 위해 더 엄격한 통화 정책이 필요할 것이라고 말했다."
+      "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+      "description": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.",
+      "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+      "pubDate": "Sat, 17 Oct 2026 12:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "은행은 저축자에게 더 많은 돈을 지불함으로써 스테이블 코인 성장을 둔화시킬 수 있습니다, BIS 종이 발견",
+      "desc_ko": "BIS 워킹 페이퍼에 따르면 미국 은행 예금 금리의 1 기준 포인트 상승은 스테이블코인 성장 둔화를 예측하여 10주 성장을 15% 에서 12% 로 줄였습니다."
     },
     {
       "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
@@ -263,13 +272,49 @@
       "desc_ko": "연구 모델은 공공 종자 문구에서 자금 지원 세폴리아 주소를 도출하고, 돈 사용이 윤리적인지 의문을 제기한 다음, 자금을 \"사실상 포기\" 하고 어쨌든 사용했습니다."
     },
     {
-      "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
-      "description": "Bitcoin tore back to $82,500 within two hours of dipping under $80,000, and chipmakers in Seoul recovered from their worst close since April.",
-      "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
-      "pubDate": "Fri, 16 Oct 2026 04:14:22 +0000",
-      "tag": "btc",
-      "title_ko": "비트코인 구매자는 아시아 증시가 반등함에 따라 $ 80,000 이하로 잠깐 하락합니다.",
-      "desc_ko": "비트코인은 $ 80,000 미만으로 하락한 지 2시간 만에 $ 82,500로 다시 찢어졌고, 서울의 칩 메이커들은 4월 이후 최악의 마감에서 회복했습니다."
+      "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
+      "description": "As earnings season kicks off, select tech companies have the opportunity to deliver big positive surprises for investors.",
+      "link": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
+      "pubDate": "Sat, 17 Oct 2026 12:01:00 GMT",
+      "tag": "general",
+      "title_ko": "마이크로소프트, 쇼피파이 등 월스트리트 수익으로 가장 좋아하는 AI 주식 3종",
+      "desc_ko": "수입 시즌이 시작됨에 따라 일부 기술 회사는 투자자에게 큰 긍정적 인 놀라움을 줄 수있는 기회를 갖게됩니다."
+    },
+    {
+      "title": "I&#x2019;m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+      "description": "&#x201c;I have some reservations about the long-term stability of my younger son&#x2019;s marriage.&#x201d;",
+      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "pubDate": "Sat, 17 Oct 2026 12:00:00 GMT",
+      "tag": "general",
+      "title_ko": "저는 아들 둘을 둔 64세이지만, 가족 회사에서 일하는 사람은 한 명뿐입니다. 그에게 사업의 70% 를 맡겨야 할까요?",
+      "desc_ko": "“어린 아들의 결혼 생활의 장기적인 안정성에 대해 몇 가지 예약이 있습니다.”"
+    },
+    {
+      "title": "It was another great week for the average stock as market leadership shifts away from tech",
+      "description": "The S&P 500&#x2019;s tech sector just had its worst week in a year and a half, while an equal-weighted version of the index cemented a second-straight weekly advance.",
+      "link": "https://www.marketwatch.com/story/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech-8e8516da?mod=mw_rss_topstories",
+      "pubDate": "Sat, 17 Oct 2026 11:30:00 GMT",
+      "tag": "general",
+      "title_ko": "시장 리더십이 재테크에서 멀어짐에 따라 평균적인 주식에 또 다른 좋은 한 주였습니다.",
+      "desc_ko": "S&P 500의 기술 부문은 1년 반 만에 최악의 주를 보였고, 지수의 동등한 가중치 버전은 두 번째 연속 주간 선진을 굳혔다."
+    },
+    {
+      "title": "I&#x2019;m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "description": "&#x201c;My plan is to continue working as long as I&#x2019;m able to do so and invest my Social Security benefits while I&#x2019;m still earning a paycheck.&#x201d;",
+      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "pubDate": "Sat, 17 Oct 2026 11:00:00 GMT",
+      "tag": "general",
+      "title_ko": "저는 63세이고 림프종 진단을 받았습니다. 내년에 사회보장을 받아야 하나요?",
+      "desc_ko": "\"제 계획은 급여를 받는 동안 계속 일하고 사회 보장 혜택을 투자하는 것입니다.\""
+    },
+    {
+      "title": "Fed interest-rate decision this month is a closer call than markets think",
+      "description": "Here are some of the arguments against a Fed rate hike &#x2014; and why some economists disagree with them.",
+      "link": "https://www.marketwatch.com/story/fed-interest-rate-decision-this-month-is-a-closer-call-than-markets-think-f96ccf95?mod=mw_rss_topstories",
+      "pubDate": "Sat, 17 Oct 2026 11:00:00 GMT",
+      "tag": "general",
+      "title_ko": "이번 달 연방준비제도 (Fed) 의 금리 결정은 시장이 생각하는 것보다 더 가까운 결정입니다.",
+      "desc_ko": "다음은 연준 금리 인상에 반대하는 몇 가지 주장과 일부 경제학자들이 이에 동의하지 않는 이유입니다."
     },
     {
       "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
@@ -315,51 +360,6 @@
       "tag": "general",
       "title_ko": "새로운 SEC 규칙은 일상적인 투자자들에게 월스트리트의 풍요로움을 선사할 것입니다.",
       "desc_ko": "증권 거래위원회 (Securities and Exchange Commission) 의 새로운 제안은 월스트리트와 대규모 소매 투자자 그룹에 대한 규모를 기울일 것입니다."
-    },
-    {
-      "title": "I&#x2019;m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-      "description": "&#x201c;My plan is to continue working as long as I&#x2019;m able to do so and invest my Social Security benefits while I&#x2019;m still earning a paycheck.&#x201d;",
-      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-      "pubDate": "Fri, 16 Oct 2026 21:15:00 GMT",
-      "tag": "general",
-      "title_ko": "저는 63세이고 림프종 진단을 받았습니다. 내년에 사회보장을 받아야 하나요?",
-      "desc_ko": "\"제 계획은 급여를 받는 동안 계속 일하고 사회 보장 혜택을 투자하는 것입니다.\""
-    },
-    {
-      "title": "Don&#x2019;t buy this dip: Several signs suggest there&#x2019;s more pain ahead for tech stocks",
-      "description": "Thinking of buying the dip in technology stocks? The Nasdaq Composite&#x2019;s technical outlook suggests don&#x2019;t do it &#x2014; at least not yet.",
-      "link": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
-      "pubDate": "Fri, 16 Oct 2026 20:58:00 GMT",
-      "tag": "general",
-      "title_ko": "이 딥을 구입하지 마십시오: 몇 가지 징후는 기술 주식에 대한 더 많은 고통이 있음을 시사합니다.",
-      "desc_ko": "기술주 매입을 생각 중이신가요? 나스닥 컴포지트 (Nasdaq Composite) 의 기술적 전망에 따르면 적어도 아직까지는 그렇게하지 않는 것으로 나타났습니다."
-    },
-    {
-      "title": "EchoStar&#x2019;s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
-      "description": "Investors aren&#x2019;t giving EchoStar enough credit for the value of its future SpaceX stake or its potential to strike more spectrum deals, an analyst argues.",
-      "link": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
-      "pubDate": "Fri, 16 Oct 2026 20:05:00 GMT",
-      "tag": "general",
-      "title_ko": "J.P. Morgan은 EchoStar의 재고가 SpaceX 파도를 타는 은밀한 방법처럼 보인다고 말합니다.",
-      "desc_ko": "한 애널리스트는 투자자들이 에코스타가 향후 스페이스X 지분의 가치나 더 많은 스펙트럼 거래를 성사시킬 수 있는 잠재력에 대해 충분한 신용을 제공하지 않고 있다고 주장합니다."
-    },
-    {
-      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash &#x2014; then IRA.",
-      "description": "Spending all your cash first can make your income surge in later years.",
-      "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
-      "pubDate": "Fri, 16 Oct 2026 19:46:00 GMT",
-      "tag": "general",
-      "title_ko": "은퇴 자금을 올바른 순서로 사용하고 있습니까? 우리의 계획은 다음과 같습니다: 사회 보장, 연금, 현금 — IRA.",
-      "desc_ko": "모든 현금을 먼저 지출하면 나중에 수입이 급증할 수 있습니다."
-    },
-    {
-      "title": "Your Social Security check will rise an average of $75 a month &#x2014; will it be able to keep up with inflation?",
-      "description": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living",
-      "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
-      "pubDate": "Fri, 16 Oct 2026 19:45:00 GMT",
-      "tag": "general",
-      "title_ko": "귀하의 사회 보장 수표는 한 달에 평균 $ 75 상승합니다 — 인플레이션을 따라갈 수 있습니까?",
-      "desc_ko": "2027년 3.6% 의 COLA는 6,800만 명 이상의 수혜자가 생활비를 충당할 수 있도록 돕는 것을 목표로 합니다."
     }
   ],
   "assets": {
