@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T09:16:37.515986+00:00",
+  "updated_at": "2026-10-18T13:24:38.304717+00:00",
   "news": [
     {
       "title": "&apos;Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
@@ -137,6 +137,33 @@
       "desc_ko": "DBS의 CEO에 따르면 싱가포르는 세계적인 혼란 속에서 안전의 요새입니다."
     },
     {
+      "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+      "description": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
+      "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+      "pubDate": "Sun, 18 Oct 2026 13:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "비트코인의 $ 100,000 연말 희망은 애널리스트를 인플레이션 구름 전망으로 나눕니다",
+      "desc_ko": "Bitwise는 잠재적인 수익률이 $ 100,000를 상회하는 반면, LO: tech는 이자율 불확실성이 시장에 가중됨에 따라 거래 범위가 좁아질 것으로 예상합니다."
+    },
+    {
+      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+      "description": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews.",
+      "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+      "pubDate": "Sun, 18 Oct 2026 13:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "Hacken은 암호화폐 감사를 통해 3분기 해킹에 $ 11억 8천만 달러가 소요됨에 따라 투자자들은 보안에 대한 잘못된 인식을 갖게 되었다고 말합니다.",
+      "desc_ko": "이 보안 회사는 3분기 손실의 77% 가 최신 보안 검토를 벗어난 손상된 공급업체, 지연된 수정 또는 시스템과 관련되어 있음을 발견했습니다."
+    },
+    {
+      "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+      "description": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value.",
+      "link": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+      "pubDate": "Sun, 18 Oct 2026 12:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "암호화폐 거래소 바이낸스 (Binance), 코인베이스 (Coinbase), $ 1,100만 달러를 신고한 서아프리카 사기 스윕 참여",
+      "desc_ko": "민간 부문 파트너는 동결될 수 있는 $ 1,100만 달러의 자금을 신고한 반면, 관계자들은 가치를 공개하지 않고 암호화폐 압류를 보고했습니다."
+    },
+    {
       "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
       "description": "A 10-minute flush hit round-the-clock chip-stock contracts while U.S. markets were shut, leaving traders with no real share price to lean on.",
       "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
@@ -245,31 +272,22 @@
       "desc_ko": "9개의 암호화폐 회사가 공동으로 양자 공격에 대비하기 위해 양자 동맹을 시작했지만 위협이 언제 도래할지, 취약한 BTC를 동결해야 하는지에 대해서는 의견이 분분합니다."
     },
     {
-      "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
-      "description": "Volume in Hyperliquid’s Tesla contract hit $47 million in one hour after Elon Musk’s flying Roadster demo, up from $2.8 million, with U.S. stocks closed.",
-      "link": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
-      "pubDate": "Fri, 16 Oct 2026 10:48:49 +0000",
-      "tag": "btc",
-      "title_ko": "일론 머스크가 SpaceX로 구동되는 플라잉 로드스터 프로토타입을 공개하면서 토큰화된 테슬라가 급증하고 있습니다",
-      "desc_ko": "하이퍼리퀴드의 테슬라 계약 규모는 일론 머스크의 플라잉 로드스터 데모 이후 한 시간 만에 4,700만 달러를 기록했다. 이는 미국 증시가 마감된 280만 달러에서 증가한 것이다."
+      "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+      "description": "The idea that the AI trade has been mostly immune to rising bond yields isn&#x2019;t quite right, one strategist notes.",
+      "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+      "pubDate": "Sun, 18 Oct 2026 13:00:00 GMT",
+      "tag": "general",
+      "title_ko": "강력한 수익과 차입 비용의 증가가 충돌하면서 주식은 높은 지분의 대결로 향하고 있습니다.",
+      "desc_ko": "한 전략가는 인공지능 거래가 채권 수익률 상승에 대부분 영향을 받지 않는다는 생각은 옳지 않다고 지적한다."
     },
     {
-      "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
-      "description": "Celestia jumped 16%, injective rose 7.7% and layerzero added 7.3% while bitcoin held little changed near $82,100 and Fed Chair Warsh gave no sign on interest rates.",
-      "link": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
-      "pubDate": "Fri, 16 Oct 2026 10:41:03 +0000",
-      "tag": "btc",
-      "title_ko": "알트코인은 셀레스티아가 16% 뛰면서 비트코인을 앞지르며, 워쉬는 이자율 플랜에 대해 침묵합니다.",
-      "desc_ko": "Celestia는 16%, injective는 7.7%, layerzero는 7.3% 상승했으며 비트코인은 $ 82,100 근처에서 거의 변동이 없었고 Fed Chair Warsh는 금리에 대한 사인을 주지 않았습니다."
-    },
-    {
-      "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
-      "description": "Chainalysis says a fraudster who tricked people through fake online jobs became one of the biggest victims of the compromised hardware wallets.",
-      "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
-      "pubDate": "Fri, 16 Oct 2026 10:24:30 +0000",
-      "tag": "btc",
-      "title_ko": "원장 스파이 칩 익스플로잇에서 사기를 당한 사기꾼은 비트코인에서 거의 $ 5 백만을 잃습니다.",
-      "desc_ko": "Chainalysis는 가짜 온라인 작업을 통해 사람들을 속인 사기꾼이 손상된 하드웨어 지갑의 가장 큰 희생자 중 하나가 되었다고 말합니다."
+      "title": "There is a silent market rotation inside the S&amp;P 500 that&#x2019;s warning of more weakness ahead",
+      "description": "A &#x201c;triple-top&#x201d; reversal chart pattern is pointing to a period of underperformance for the S&P 500 &#x2014; perhaps a long one.",
+      "link": "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories",
+      "pubDate": "Sun, 18 Oct 2026 12:00:00 GMT",
+      "tag": "general",
+      "title_ko": "S&amp;P 500 내부에는 앞으로 더 많은 약세를 경고하는 조용한 시장 회전이 있습니다.",
+      "desc_ko": "\"트리플 탑\" 역전 차트 패턴은 S&P 500의 실적 부진 기간을 가리키고 있습니다. 아마도 긴 기간일 것입니다."
     },
     {
       "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
@@ -342,24 +360,6 @@
       "tag": "general",
       "title_ko": "실버의 최근 50% 하락은 경제 둔화가 직전의 기록적인 높은 힌트에서 벗어났습니다.",
       "desc_ko": "경제가 어디로 향하고 있는지에 대한 힌트를 제공할 수 있는 비교적 레이더를 벗어난 상품이 있으며, 올해 초 사상 최고치보다 가치가 50% 이상 하락한 것으로 나타났습니다."
-    },
-    {
-      "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
-      "description": "As earnings season kicks off, select tech companies have the opportunity to deliver big positive surprises for investors.",
-      "link": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
-      "pubDate": "Sat, 17 Oct 2026 12:01:00 GMT",
-      "tag": "general",
-      "title_ko": "마이크로소프트, 쇼피파이 등 월스트리트 수익으로 가장 좋아하는 AI 주식 3종",
-      "desc_ko": "수입 시즌이 시작됨에 따라 일부 기술 회사는 투자자에게 큰 긍정적 인 놀라움을 줄 수있는 기회를 갖게됩니다."
-    },
-    {
-      "title": "I&#x2019;m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "description": "&#x201c;I have some reservations about the long-term stability of my younger son&#x2019;s marriage.&#x201d;",
-      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "pubDate": "Sat, 17 Oct 2026 12:00:00 GMT",
-      "tag": "general",
-      "title_ko": "저는 아들 둘을 둔 64세이지만, 가족 회사에서 일하는 사람은 한 명뿐입니다. 그에게 사업의 70% 를 맡겨야 할까요?",
-      "desc_ko": "“어린 아들의 결혼 생활의 장기적인 안정성에 대해 몇 가지 예약이 있습니다.”"
     }
   ],
   "assets": {
