@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T00:19:21.376204+00:00",
+  "updated_at": "2026-10-18T04:52:45.874621+00:00",
   "news": [
     {
       "title": "&apos;Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
@@ -137,6 +137,15 @@
       "desc_ko": "DBS의 CEO에 따르면 싱가포르는 세계적인 혼란 속에서 안전의 요새입니다."
     },
     {
+      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "description": "Coinbase, Circle’s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee.",
+      "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+      "pubDate": "Sun, 18 Oct 2026 01:06:35 +0000",
+      "tag": "btc",
+      "title_ko": "Circle은 스테이블 코인 라이벌이 더 큰 삭감으로 파트너에게 호소하기 때문에 USDC 경제학을 방어합니다.",
+      "desc_ko": "Circle의 최대 USDC 파트너인 Coinbase는 또한 관리 수수료 후 예비 수입을 파트너에게 전달하는 라이벌 네트워크인 Open USD를 후원합니다."
+    },
+    {
       "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
       "description": "The largest banks in the world are eyeing new trading opportunities, speeding up payments and a role for advisers as tokenization takes root in Wall Street.",
       "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
@@ -261,15 +270,6 @@
       "tag": "btc",
       "title_ko": "실시간 업데이트: 주식이 미끄러지면서 비트코인이 $ 81,000로 하락, VIX가 블랙 먼데이 기념일을 앞두고 급등",
       "desc_ko": "금요일 유가 급등은 이미 불안정한 주식 시장을 강타하여 나스닥을 2% 이상 하락시켰다."
-    },
-    {
-      "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
-      "description": "The crypto exchange already paid up, but a court order and restrictions from its 2025 settlement will not be lifted even though the CFTC said the case should have never been presented.",
-      "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
-      "pubDate": "Fri, 16 Oct 2026 09:36:21 +0000",
-      "tag": "btc",
-      "title_ko": "미국 판사는 CFTC의 지원에도 불구하고 Gemini의 5백만 달러 합의 무효화 항소를 거부했습니다 ($ 5 million settlement).",
-      "desc_ko": "암호화폐 거래소는 이미 돈을 지불했지만, CFTC가 이 사건이 결코 제시되어서는 안 된다고 말했음에도 불구하고 법원 명령과 2025년 합의의 제한은 해제되지 않을 것입니다."
     },
     {
       "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
@@ -587,7 +587,7 @@
       ],
       "last": 7704.25,
       "chg_pct": -1.1134642536259787,
-      "rsi14": 44.24292059635837,
+      "rsi14": 44.24365058973081,
       "ma20": 7795.6125
     },
     "nq": {
@@ -696,7 +696,7 @@
       ],
       "last": 29391.5,
       "chg_pct": -2.4955421936554014,
-      "rsi14": 35.51830415140374,
+      "rsi14": 35.519225138037754,
       "ma20": 30781.1875
     },
     "gold": {
@@ -805,7 +805,7 @@
       ],
       "last": 4181.10009765625,
       "chg_pct": 0.26378263692476844,
-      "rsi14": 43.4864083296998,
+      "rsi14": 43.48741330084871,
       "ma20": 4214.1099853515625
     },
     "wti": {
@@ -910,12 +910,12 @@
         94.13999938964844,
         95.08999633789062,
         97.97000122070312,
-        101.41000366210938
+        99.0199966430664
       ],
-      "last": 101.41000366210938,
-      "chg_pct": 3.5112814111911077,
-      "rsi14": 66.43385231133912,
-      "ma20": 92.93849983215333
+      "last": 99.0199966430664,
+      "chg_pct": 1.071751974359877,
+      "rsi14": 63.101739756615686,
+      "ma20": 92.81899948120117
     },
     "zn": {
       "live": true,
@@ -1023,7 +1023,7 @@
       ],
       "last": 105.453125,
       "chg_pct": -0.07403020432336394,
-      "rsi14": 50.42585054799894,
+      "rsi14": 50.425749784232956,
       "ma20": 104.84375
     },
     "dxy": {
@@ -1132,7 +1132,7 @@
       ],
       "last": 101.83999633789062,
       "chg_pct": -0.15686633540134803,
-      "rsi14": 56.28317281190631,
+      "rsi14": 56.28329445166025,
       "ma20": 101.70899963378906
     },
     "vix": {
@@ -2218,12 +2218,12 @@
         6.677999973297119,
         6.611499786376953,
         6.511499881744385,
-        6.531000137329102
+        6.573500156402588
       ],
-      "last": 6.531000137329102,
-      "chg_pct": 0.29947409873088743,
-      "rsi14": 46.797273279911614,
-      "ma20": 6.607449984550476
+      "last": 6.573500156402588,
+      "chg_pct": 0.9521657956568017,
+      "rsi14": 49.36481568503142,
+      "ma20": 6.609574985504151
     },
     "natgas": {
       "live": true,
@@ -2331,7 +2331,7 @@
       ],
       "last": 3.115999937057495,
       "chg_pct": -3.708285590676861,
-      "rsi14": 52.30852478133305,
+      "rsi14": 52.30838539718245,
       "ma20": 3.106350004673004
     },
     "silver": {
@@ -2436,12 +2436,12 @@
         59.1609992980957,
         55.54999923706055,
         56.83700180053711,
-        56.994998931884766
+        57.30500030517578
       ],
-      "last": 56.994998931884766,
-      "chg_pct": 0.27798287443473696,
-      "rsi14": 36.199197735517075,
-      "ma20": 60.84414978027344
+      "last": 57.30500030517578,
+      "chg_pct": 0.8234046304572127,
+      "rsi14": 37.429568130164014,
+      "ma20": 60.85964984893799
     },
     "qqq": {
       "live": true,
@@ -3624,12 +3624,6 @@
     }
   },
   "price_alerts": {
-    "wti": {
-      "name": "WTI 원유",
-      "chg_pct": 3.5112814111911077,
-      "category": "other",
-      "threshold": 3.0
-    },
     "vix": {
       "name": "VIX",
       "chg_pct": 21.445934890576584,
