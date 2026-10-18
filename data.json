@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T16:40:15.549183+00:00",
+  "updated_at": "2026-10-18T18:56:20.084298+00:00",
   "news": [
     {
       "title": "&apos;Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
@@ -137,6 +137,15 @@
       "desc_ko": "DBS의 CEO에 따르면 싱가포르는 세계적인 혼란 속에서 안전의 요새입니다."
     },
     {
+      "title": "The White House's crypto chief departs: State of Crypto",
+      "description": "Patrick Witt announced his departure from the White House last week.",
+      "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+      "pubDate": "Sun, 18 Oct 2026 18:30:00 +0000",
+      "tag": "btc",
+      "title_ko": "백악관의 암호화폐 책임자가 떠난다: 암호화폐 현황",
+      "desc_ko": "패트릭 위트는 지난주 백악관에서 떠났다고 발표했다."
+    },
+    {
       "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
       "description": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same.",
       "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
@@ -263,13 +272,13 @@
       "desc_ko": "Google은 Willow 칩이 고급 계산에 필요한 특수 양자 상태를 약 40배 적은 오류로 준비하여 향후 비트코인 지갑을 해독하려는 시도에 따르는 하드웨어 병목 현상 중 하나를 줄일 수 있다고 말합니다."
     },
     {
-      "title": "Big Tech's AI auditors will only see what they're shown",
-      "description": "If the White House accord's audits are going to be worth anything, auditors should be able to choose what they test, writes Samuel Vance-Law, head of research at the Decentralization Research Center.",
-      "link": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
-      "pubDate": "Fri, 16 Oct 2026 14:58:22 +0000",
-      "tag": "btc",
-      "title_ko": "빅 테크의 AI 감사관은 표시된 내용만 볼 수 있습니다.",
-      "desc_ko": "백악관 협약의 감사가 가치가 있다면 감사관은 테스트할 내용을 선택할 수 있어야 한다고 탈중앙화 연구 센터의 연구 책임자인 새뮤얼 밴스-로 (Samuel Vance-Law) 는 말합니다."
+      "title": "My wife says we can&#x2019;t afford to retire. I vetoed her $8,000 trip to Italy. We&#x2019;re in our 60s and have $4 million. Do I keep working?",
+      "description": "&#x201c;I worry about healthcare, long-term care, inflation, a long bear market and living to 95.&#x201d;",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "pubDate": "Sun, 18 Oct 2026 17:00:00 GMT",
+      "tag": "general",
+      "title_ko": "아내는 우리가 은퇴할 여유가 없다고 말합니다. 저는 그녀의 $ 8,000 이탈리아 여행에 거부권을 행사했습니다. 우리는 60대이고 $ 4백만을 가지고 있습니다. 계속 일하나요?",
+      "desc_ko": "\"저는 건강 관리, 장기 요양, 인플레이션, 롱 베어 마켓, 95세까지의 생활에 대해 걱정합니다.\""
     },
     {
       "title": "&#x2018;Some people did everything right&#x2019;: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
@@ -351,15 +360,6 @@
       "tag": "general",
       "title_ko": "가짜 쇼핑과 ‘행복 보험’: 최신 핀테크 앱은 우리의 재정적 불안을 드러냅니다.",
       "desc_ko": "핀테크 기업들은 미국인들이 금융 습관을 어떻게 바꾸고 있는지 파악하고 있으며, 그 순간을 맞추기 위해 새로운 제품을 만들었습니다."
-    },
-    {
-      "title": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
-      "description": "&#x201c;Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.&#x201d;",
-      "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
-      "pubDate": "Sat, 17 Oct 2026 18:40:00 GMT",
-      "tag": "general",
-      "title_ko": "주택 소유가 아닌 투자는 Z세대 임차인이 성공했다고 느끼게 하는 첫 번째 이정표입니다.",
-      "desc_ko": "\"많은 사람들이 주택 소유에 초점을 맞추는 대신 재정적 자유와 부채 없는 생활을 우선시하고 있습니다.\""
     }
   ],
   "assets": {
