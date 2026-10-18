@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T13:24:38.304717+00:00",
+  "updated_at": "2026-10-18T16:40:15.549183+00:00",
   "news": [
     {
       "title": "&apos;Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
@@ -137,6 +137,33 @@
       "desc_ko": "DBS의 CEO에 따르면 싱가포르는 세계적인 혼란 속에서 안전의 요새입니다."
     },
     {
+      "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+      "description": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same.",
+      "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+      "pubDate": "Sun, 18 Oct 2026 16:33:00 +0000",
+      "tag": "btc",
+      "title_ko": "월스트리트는 금요일에 깜짝 놀랐습니다. VIX와 비트코인은 월요일에 두려움이 사라질 수 있다고 말합니다.",
+      "desc_ko": "월 스트리트의 공포 게이지인 VIX 지수는 금요일에 주가가 떨어지면서 급등했다. 역사는 금요일 공황이 보통 월요일에 사라진다고 말합니다. 계절성과 차분한 비트코인도 같은 것을 제안합니다."
+    },
+    {
+      "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+      "description": "Parliament passed a law taxing crypto withdrawals above deposits rather than individual trades, featuring a one-time declaration mechanism.",
+      "link": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+      "pubDate": "Sun, 18 Oct 2026 16:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "라트비아는 2027년 의회가 암호화폐 과세를 개편함에 따라 암호화폐 세금 납부를 주목하고 있습니다.",
+      "desc_ko": "의회는 일회성 신고 메커니즘을 특징으로 하는 개별 거래가 아닌 예금 이상의 암호화폐 인출에 과세하는 법률을 통과시켰습니다."
+    },
+    {
+      "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+      "description": "Analytics firm Allium said stablecoin payments hit $482 billion this year so far, up 45%, as card spending surges and global payment firms add crypto rails.",
+      "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+      "pubDate": "Sun, 18 Oct 2026 14:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "스테이블코인 공급이 중단되지만 Visa, Mastercard 및 Stripe가 암호화폐를 현금에 연결함에 따라 결제액이 45% 증가합니다.",
+      "desc_ko": "애널리틱스 회사 알리움 (Allium) 은 카드 지출 급증과 글로벌 결제 회사가 암호화폐 레일을 추가함에 따라 올해 스테이블코인 결제가 지금까지 45% 증가한 4820억 $ 를 기록했다고 밝혔다."
+    },
+    {
       "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
       "description": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
       "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
@@ -245,31 +272,49 @@
       "desc_ko": "백악관 협약의 감사가 가치가 있다면 감사관은 테스트할 내용을 선택할 수 있어야 한다고 탈중앙화 연구 센터의 연구 책임자인 새뮤얼 밴스-로 (Samuel Vance-Law) 는 말합니다."
     },
     {
-      "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-      "description": "Your day-ahead look for Oct. 16, 2026",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
-      "pubDate": "Fri, 16 Oct 2026 11:15:00 +0000",
-      "tag": "btc",
-      "title_ko": "트레이더는 곧 코인베이스, 로빈후드 및 마라톤이 목표를 달성할지 여부에 베팅할 수 있습니다.",
-      "desc_ko": "2026년 10월 16일의 하루를 미리 경험해보세요"
+      "title": "&#x2018;Some people did everything right&#x2019;: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "description": "&#x201d;I earn $110,000 a year.&#x201d;",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "pubDate": "Sun, 18 Oct 2026 16:15:00 GMT",
+      "tag": "general",
+      "title_ko": "‘어떤 사람들은 모든 것을 올바르게 했다’: 나는 대불황으로 집을 잃었다. 50대에 임대합니다. 왜 실패로 판단되나요?",
+      "desc_ko": "\"저는 연간 $ 110,000의 수입을 올리고 있습니다.\""
     },
     {
-      "title": "Circle targets 40 new markets as stablecoin demand grows globally",
-      "description": "The stablecoin issuer’s CEO Jerermy Allaire told Reuters demand for digital dollars is growing across Asia, Africa and Latin America as banks and payment firms.",
-      "link": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
-      "pubDate": "Fri, 16 Oct 2026 10:54:35 +0000",
-      "tag": "btc",
-      "title_ko": "CIRCLE은 스테이블코인 수요가 전 세계적으로 증가함에 따라 40개의 신규 시장을 목표로 합니다.",
-      "desc_ko": "스테이블코인 발행사의 CEO 제러미 앨러 (Jerermy Allaire) 는 로이터 통신에 은행 및 결제 회사로서 아시아, 아프리카 및 라틴 아메리카 전역에서 디지털 달러에 대한 수요가 증가하고 있다고 말했다."
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "description": "&#x201c;The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.&#x201d;",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "pubDate": "Sun, 18 Oct 2026 16:00:00 GMT",
+      "tag": "general",
+      "title_ko": "제 여동생은 78세의 어머니와 함께 이사했으며, $ 925,000의 가정집을 받을 자격이 있다고 말합니다. 맞나요?",
+      "desc_ko": "\"이 집은 $ 925,000의 가치가 있으며 엄마가 소유하고 있습니다. 그녀는 또한 $ 480,000의 투자를 받았습니다.\""
     },
     {
-      "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-      "description": "Nine crypto companies launched the Quantum Alliance to jointly prepare for quantum attacks, but they disagree on when the threat will arrive and whether vulnerable BTC should be frozen.",
-      "link": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
-      "pubDate": "Fri, 16 Oct 2026 10:52:26 +0000",
-      "tag": "btc",
-      "title_ko": "640만 비트코인이 미래의 양자 위협에 직면하고 있다는 경고 가운데 양자 동맹 양식",
-      "desc_ko": "9개의 암호화폐 회사가 공동으로 양자 공격에 대비하기 위해 양자 동맹을 시작했지만 위협이 언제 도래할지, 취약한 BTC를 동결해야 하는지에 대해서는 의견이 분분합니다."
+      "title": "I&#x2019;m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
+      "description": "&#x201c;I have some reservations about the long-term stability of my younger son&#x2019;s marriage.&#x201d;",
+      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "pubDate": "Sun, 18 Oct 2026 15:15:00 GMT",
+      "tag": "general",
+      "title_ko": "저는 아들 둘을 둔 64세이지만, 가족 사업에 종사하는 사람은 한 명뿐입니다. 회사의 70% 를 떠나는 것이 윤리적인가?",
+      "desc_ko": "“어린 아들의 결혼 생활의 장기적인 안정성에 대해 몇 가지 예약이 있습니다.”"
+    },
+    {
+      "title": "I&#x2019;m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "description": "&#x201c;My plan is to continue working as long as I&#x2019;m able to do so and invest my Social Security benefits while I&#x2019;m still earning a paycheck.&#x201d;",
+      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "pubDate": "Sun, 18 Oct 2026 15:00:00 GMT",
+      "tag": "general",
+      "title_ko": "저는 63세이고 림프종 진단을 받았습니다. 내년에 사회보장을 받아야 하나요?",
+      "desc_ko": "\"제 계획은 급여를 받는 동안 계속 일하고 사회 보장 혜택을 투자하는 것입니다.\""
+    },
+    {
+      "title": "These surprising stocks could be some of the biggest drivers of S&amp;P 500 earnings growth",
+      "description": "Boeing, Meta and EchoStar recorded steep charges and expenses a year ago, which are expected to make this latest quarter&#x2019;s results look especially strong by comparison.",
+      "link": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
+      "pubDate": "Sun, 18 Oct 2026 14:00:00 GMT",
+      "tag": "general",
+      "title_ko": "이러한 놀라운 주식은 S&amp;P 500 수익 성장의 가장 큰 원동력이 될 수 있습니다.",
+      "desc_ko": "보잉, 메타 및 에코 스타는 1 년 전에 가파른 요금과 지출을 기록했으며, 이는 이번 분기의 실적을 비교할 때 특히 강하게 보일 것으로 예상됩니다."
     },
     {
       "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
@@ -315,51 +360,6 @@
       "tag": "general",
       "title_ko": "주택 소유가 아닌 투자는 Z세대 임차인이 성공했다고 느끼게 하는 첫 번째 이정표입니다.",
       "desc_ko": "\"많은 사람들이 주택 소유에 초점을 맞추는 대신 재정적 자유와 부채 없는 생활을 우선시하고 있습니다.\""
-    },
-    {
-      "title": "Is Apple&#x2019;s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
-      "description": "Preorders for the iPhone Duo began Friday, marking Apple&#x2019;s debut in a foldable phone market largely dominated by Samsung and Google.",
-      "link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
-      "pubDate": "Sat, 17 Oct 2026 18:40:00 GMT",
-      "tag": "general",
-      "title_ko": "Apple의 접이식 iPhone Duo는 $ 2,000의 가치가 있습니까? 다른 폴더블 폰과 비교하여 어떻게 쌓이는지 확인하세요.",
-      "desc_ko": "IPhone Duo의 사전 주문은 금요일에 시작되었으며, 삼성과 Google이 지배하는 폴더블 폰 시장에서 Apple의 첫 선을 보였습니다."
-    },
-    {
-      "title": "&#x2018;Some people did everything right&#x2019;: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "description": "&#x201d;I earn $110,000 a year.&#x201d;",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "pubDate": "Sat, 17 Oct 2026 16:47:00 GMT",
-      "tag": "general",
-      "title_ko": "‘어떤 사람들은 모든 것을 올바르게 했다’: 나는 대불황으로 집을 잃었다. 50대에 임대합니다. 왜 실패로 판단되나요?",
-      "desc_ko": "\"저는 연간 $ 110,000의 수입을 올리고 있습니다.\""
-    },
-    {
-      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
-      "description": "Individual investors and second-home buyers accounted for 1 in 5 home purchases in September &#x2014; the highest share in a little over a year.",
-      "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
-      "pubDate": "Sat, 17 Oct 2026 13:00:00 GMT",
-      "tag": "general",
-      "title_ko": "주택 구매자를 7% 의 주택담보대출 금리로 전혀 놀라지 않고 만나보세요.",
-      "desc_ko": "개인 투자자와 2주택 구매자는 9월 주택 구매 5건 중 1건을 차지했으며, 이는 1년이 조금 넘는 기간 동안 가장 높은 점유율입니다."
-    },
-    {
-      "title": "Influencers and biohackers swear by fasting. Here&#x2019;s what the science says.",
-      "description": "Fasting can help some people reduce how many calories they eat &#x2014; but it&#x2019;s not &#x201c;effortless&#x201d; as some would have you believe.",
-      "link": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories",
-      "pubDate": "Sat, 17 Oct 2026 12:31:00 GMT",
-      "tag": "general",
-      "title_ko": "인플루언서와 바이오 해커는 단식을 맹세합니다. 과학은 이렇게 말합니다.",
-      "desc_ko": "금식은 어떤 사람들은 먹는 칼로리의 양을 줄이는 데 도움이 될 수 있지만, 어떤 사람들은 당신이 믿는 것처럼 \"쉬운\" 것은 아닙니다."
-    },
-    {
-      "title": "Silver&#x2019;s recent 50% drop from a record high hints that an economic slowdown looms",
-      "description": "There&#x2019;s a relatively off-the-radar commodity that can provide hints on where the economy is headed &#x2014; and it&#x2019;s seen its value drop more than 50% from a record high earlier this year.",
-      "link": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
-      "pubDate": "Sat, 17 Oct 2026 12:30:00 GMT",
-      "tag": "general",
-      "title_ko": "실버의 최근 50% 하락은 경제 둔화가 직전의 기록적인 높은 힌트에서 벗어났습니다.",
-      "desc_ko": "경제가 어디로 향하고 있는지에 대한 힌트를 제공할 수 있는 비교적 레이더를 벗어난 상품이 있으며, 올해 초 사상 최고치보다 가치가 50% 이상 하락한 것으로 나타났습니다."
     }
   ],
   "assets": {
@@ -2000,12 +2000,12 @@
         1340.31005859375,
         1339.3499755859375,
         1340.949951171875,
-        1329.5999755859375
+        1334.199951171875
       ],
-      "last": 1329.5999755859375,
-      "chg_pct": -0.8464130653063223,
-      "rsi14": 36.11167409551367,
-      "ma20": 1348.4599975585938
+      "last": 1334.199951171875,
+      "chg_pct": -0.5033744916505706,
+      "rsi14": 38.11795115571375,
+      "ma20": 1348.6899963378905
     },
     "jpy": {
       "live": true,
