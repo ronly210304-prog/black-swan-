@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T23:15:46.607458+00:00",
+  "updated_at": "2026-10-19T01:28:22.463454+00:00",
   "news": [
     {
       "title": "&apos;Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
@@ -137,6 +137,15 @@
       "desc_ko": "DBS의 CEO에 따르면 싱가포르는 세계적인 혼란 속에서 안전의 요새입니다."
     },
     {
+      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+      "description": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC’s framework.",
+      "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+      "pubDate": "Sun, 18 Oct 2026 23:28:06 +0000",
+      "tag": "btc",
+      "title_ko": "SEC 토큰화 주식 프레임워크는 발행자의 반발에 직면하여 Broadcom, Verizon은 OKX-ICE 상장에 반대합니다.",
+      "desc_ko": "8개의 더 많은 회사가 계획된 OKX-ICE 장소에서 거래하는 것에 반대했고, 나스닥은 SEC의 틀에 따라 옵트아웃하겠다고 별도로 말했습니다."
+    },
+    {
       "title": "The White House's crypto chief departs: State of Crypto",
       "description": "Patrick Witt announced his departure from the White House last week.",
       "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
@@ -146,13 +155,13 @@
       "desc_ko": "패트릭 위트는 지난주 백악관에서 떠났다고 발표했다."
     },
     {
-      "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
-      "description": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same.",
+      "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
+      "description": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin markets suggest the same.",
       "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
       "pubDate": "Sun, 18 Oct 2026 16:33:00 +0000",
       "tag": "btc",
-      "title_ko": "월스트리트는 금요일에 깜짝 놀랐습니다. VIX와 비트코인은 월요일에 두려움이 사라질 수 있다고 말합니다.",
-      "desc_ko": "월 스트리트의 공포 게이지인 VIX 지수는 금요일에 주가가 떨어지면서 급등했다. 역사는 금요일 공황이 보통 월요일에 사라진다고 말합니다. 계절성과 차분한 비트코인도 같은 것을 제안합니다."
+      "title_ko": "월스트리트는 금요일에 놀라움을 금치 못했지만 VIX와 비트코인 거래는 월요일에 두려움이 사라질 수 있다고 말합니다.",
+      "desc_ko": "월 스트리트의 공포 게이지인 VIX 지수는 금요일에 주가가 떨어지면서 급등했다. 역사는 금요일 공황이 보통 월요일에 사라진다고 말합니다. 계절성과 차분한 비트코인 시장도 같은 것을 제안합니다."
     },
     {
       "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
@@ -261,15 +270,6 @@
       "tag": "btc",
       "title_ko": "‘와우, 진짜 발견이다’: 클로드가 25년간의 국가안보국 (NSA) 번호 미스터리를 풀다",
       "desc_ko": "오랫동안 백도어를 숨긴 것으로 의심되는 1990년대에 스파이 기관이 넘겨준 숫자는 기본적인 컴퓨터 프로그램에서 나온 것으로 밝혀졌습니다. 비트코인은 그 목록에 없었고, 그 양자 문제는 어디에도 가지 않았습니다."
-    },
-    {
-      "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-      "description": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.",
-      "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
-      "pubDate": "Sat, 17 Oct 2026 02:30:00 +0000",
-      "tag": "btc",
-      "title_ko": "사토시 시대의 비트코인은 Google의 새로운 Willow 돌파구 이후 더 큰 양자 위협에 직면해 있습니다.",
-      "desc_ko": "Google은 Willow 칩이 고급 계산에 필요한 특수 양자 상태를 약 40배 적은 오류로 준비하여 향후 비트코인 지갑을 해독하려는 시도에 따르는 하드웨어 병목 현상 중 하나를 줄일 수 있다고 말합니다."
     },
     {
       "title": "My wife says we can&#x2019;t afford to retire. I vetoed her $8,000 trip to Italy. We&#x2019;re in our 60s and have $4 million. Do I keep working?",
@@ -583,12 +583,12 @@
         7770.25,
         7791.0,
         7704.25,
-        7731.75
+        7743.25
       ],
-      "last": 7731.75,
-      "chg_pct": 0.35694584158094556,
-      "rsi14": 47.00731296110552,
-      "ma20": 7790.525
+      "last": 7743.25,
+      "chg_pct": 0.5062141026057047,
+      "rsi14": 48.0834355468651,
+      "ma20": 7791.1
     },
     "nq": {
       "live": true,
@@ -692,12 +692,12 @@
         30182.75,
         30143.75,
         29391.5,
-        29578.75
+        29686.5
       ],
-      "last": 29578.75,
-      "chg_pct": 0.6370889542895055,
-      "rsi14": 38.85080240983385,
-      "ma20": 30720.8875
+      "last": 29686.5,
+      "chg_pct": 1.0036915434734532,
+      "rsi14": 40.61636008636777,
+      "ma20": 30726.275
     },
     "gold": {
       "live": true,
@@ -801,12 +801,12 @@
         4107.89990234375,
         4170.10009765625,
         4181.10009765625,
-        4200.7998046875
+        4194.2001953125
       ],
-      "last": 4200.7998046875,
-      "chg_pct": 0.4711608565002506,
-      "rsi14": 45.67934122868463,
-      "ma20": 4204.95498046875
+      "last": 4194.2001953125,
+      "chg_pct": 0.31331700629682047,
+      "rsi14": 44.96421165409107,
+      "ma20": 4204.625
     },
     "wti": {
       "live": true,
@@ -910,12 +910,12 @@
         95.08999633789062,
         97.97000122070312,
         101.41000366210938,
-        98.19999694824219
+        97.79000091552734
       ],
-      "last": 98.19999694824219,
-      "chg_pct": -3.1653748130832264,
-      "rsi14": 58.761288635442334,
-      "ma20": 93.05949974060059
+      "last": 97.79000091552734,
+      "chg_pct": -3.5696702651186287,
+      "rsi14": 57.90729983391764,
+      "ma20": 93.03899993896485
     },
     "zn": {
       "live": true,
@@ -1128,12 +1128,12 @@
         102.55000305175781,
         102.0,
         101.83999633789062,
-        101.9209976196289
+        101.8270034790039
       ],
-      "last": 101.9209976196289,
-      "chg_pct": 0.0795377893274176,
-      "rsi14": 57.23416307545473,
-      "ma20": 101.78354949951172
+      "last": 101.8270034790039,
+      "chg_pct": -0.012758110127587095,
+      "rsi14": 56.08327614446961,
+      "ma20": 101.77884979248047
     },
     "vix": {
       "live": true,
@@ -1356,7 +1356,6 @@
     "n225": {
       "live": true,
       "closes": [
-        63339.0703125,
         65158.19140625,
         64996.08984375,
         64999.41015625,
@@ -1455,17 +1454,17 @@
         67777.5234375,
         67744.2890625,
         64425.94921875,
-        65324.2890625
+        65324.2890625,
+        64435.0703125
       ],
-      "last": 65324.2890625,
-      "chg_pct": 1.3943757983290288,
-      "rsi14": 43.70569045899761,
-      "ma20": 66891.5453125
+      "last": 64435.0703125,
+      "chg_pct": -1.3612375469547422,
+      "rsi14": 40.71781156744428,
+      "ma20": 66939.09375
     },
     "kospi": {
       "live": true,
       "closes": [
-        7208.9501953125,
         7815.58984375,
         7847.7099609375,
         8047.509765625,
@@ -1564,12 +1563,13 @@
         6035.35009765625,
         6008.81005859375,
         5554.22021484375,
-        5668.0498046875
+        5668.0498046875,
+        5602.259765625
       ],
-      "last": 5668.0498046875,
-      "chg_pct": 2.0494252197552134,
-      "rsi14": 27.356797664927683,
-      "ma20": 6632.849584960937
+      "last": 5602.259765625,
+      "chg_pct": -1.1607173777494222,
+      "rsi14": 26.472160648220665,
+      "ma20": 6581.599584960937
     },
     "sse": {
       "live": true,
@@ -2000,12 +2000,12 @@
         1340.31005859375,
         1339.3499755859375,
         1340.949951171875,
-        1334.3599853515625
+        1333.780029296875
       ],
-      "last": 1334.3599853515625,
-      "chg_pct": -0.49144010293250956,
-      "rsi14": 38.19248243550174,
-      "ma20": 1348.697998046875
+      "last": 1333.780029296875,
+      "chg_pct": -0.5346897450373972,
+      "rsi14": 37.92630858458006,
+      "ma20": 1348.6690002441405
     },
     "jpy": {
       "live": true,
@@ -2109,12 +2109,12 @@
         158.32200622558594,
         157.95700073242188,
         158.14300537109375,
-        157.88499450683594
+        158.01100158691406
       ],
-      "last": 157.88499450683594,
-      "chg_pct": -0.16315034841558232,
-      "rsi14": 51.11445311317553,
-      "ma20": 157.93840103149415
+      "last": 158.01100158691406,
+      "chg_pct": -0.08347114933722885,
+      "rsi14": 52.35289000283688,
+      "ma20": 157.94470138549804
     },
     "copper": {
       "live": true,
@@ -2218,12 +2218,12 @@
         6.611499786376953,
         6.511499881744385,
         6.531000137329102,
-        6.571000099182129
+        6.604499816894531
       ],
-      "last": 6.571000099182129,
-      "chg_pct": 0.6124630380024093,
-      "rsi14": 49.397948385488526,
-      "ma20": 6.60167498588562
+      "last": 6.604499816894531,
+      "chg_pct": 1.1253969992333808,
+      "rsi14": 51.3872816782232,
+      "ma20": 6.60334997177124
     },
     "natgas": {
       "live": true,
@@ -2327,12 +2327,12 @@
         3.197999954223633,
         3.2360000610351562,
         3.115999937057495,
-        3.055999994277954
+        3.072999954223633
       ],
-      "last": 3.055999994277954,
-      "chg_pct": -1.9255437737973846,
-      "rsi14": 49.02527157327979,
-      "ma20": 3.1173500061035155
+      "last": 3.072999954223633,
+      "chg_pct": -1.379973803031206,
+      "rsi14": 49.912886033839534,
+      "ma20": 3.1182000041007996
     },
     "silver": {
       "live": true,
@@ -2436,12 +2436,12 @@
         55.54999923706055,
         56.83700180053711,
         56.994998931884766,
-        57.470001220703125
+        57.619998931884766
       ],
-      "last": 57.470001220703125,
-      "chg_pct": 0.8334104706029364,
-      "rsi14": 38.20343542799526,
-      "ma20": 60.42639999389648
+      "last": 57.619998931884766,
+      "chg_pct": 1.0965874404997238,
+      "rsi14": 38.81001352398482,
+      "ma20": 60.433899879455566
     },
     "qqq": {
       "live": true,
@@ -3200,107 +3200,107 @@
     "005930.KS": {
       "name": "삼성전자",
       "market": "KR",
-      "chg_pct": 2.619047619047619,
-      "vol_ratio": 1.025600826208215,
-      "volume": 18908560
+      "chg_pct": -0.23201856148491878,
+      "vol_ratio": 0.2691872223213887,
+      "volume": 5210330
     },
     "000660.KS": {
       "name": "SK하이닉스",
       "market": "KR",
-      "chg_pct": 0.7923930269413629,
-      "vol_ratio": 1.3683014647603722,
-      "volume": 4561066
+      "chg_pct": -2.358490566037736,
+      "vol_ratio": 0.35515465394315837,
+      "volume": 1201680
     },
     "373220.KS": {
       "name": "LG에너지솔루션",
       "market": "KR",
-      "chg_pct": 0.12422360248447205,
-      "vol_ratio": 0.9830499409062481,
-      "volume": 369630
+      "chg_pct": 3.8461538461538463,
+      "vol_ratio": 0.4218873510495941,
+      "volume": 169756
     },
     "207940.KS": {
       "name": "삼성바이오로직스",
       "market": "KR",
-      "chg_pct": 4.0898155573376105,
-      "vol_ratio": 3.0393156059196342,
-      "volume": 165872
+      "chg_pct": 4.6995377503852085,
+      "vol_ratio": 0.465025614251375,
+      "volume": 30506
     },
     "005380.KS": {
       "name": "현대차",
       "market": "KR",
-      "chg_pct": 5.583756345177665,
-      "vol_ratio": 1.5331684449877525,
-      "volume": 814662
+      "chg_pct": 1.282051282051282,
+      "vol_ratio": 0.2896226116198602,
+      "volume": 162829
     },
     "000270.KS": {
       "name": "기아",
       "market": "KR",
-      "chg_pct": 4.0604343720491025,
-      "vol_ratio": 0.9331712800700743,
-      "volume": 809549
+      "chg_pct": 1.6333938294010888,
+      "vol_ratio": 0.12965160337812692,
+      "volume": 117323
     },
     "035420.KS": {
       "name": "NAVER",
       "market": "KR",
-      "chg_pct": 3.686635944700461,
-      "vol_ratio": 0.979364443146053,
-      "volume": 670853
+      "chg_pct": 0.0,
+      "vol_ratio": 0.179418419588003,
+      "volume": 118834
     },
     "035720.KS": {
       "name": "카카오",
       "market": "KR",
-      "chg_pct": 2.741935483870968,
-      "vol_ratio": 1.2674312266265344,
-      "volume": 1763035
+      "chg_pct": -1.2558869701726845,
+      "vol_ratio": 0.23550064464592146,
+      "volume": 329745
     },
     "068270.KS": {
       "name": "셀트리온",
       "market": "KR",
-      "chg_pct": 6.534870950027457,
-      "vol_ratio": 2.8184254368214527,
-      "volume": 1112319
+      "chg_pct": -0.8247422680412372,
+      "vol_ratio": 0.3821031628984306,
+      "volume": 165007
     },
     "005490.KS": {
       "name": "POSCO홀딩스",
       "market": "KR",
-      "chg_pct": 1.5410958904109588,
-      "vol_ratio": 1.136114426011425,
-      "volume": 258105
+      "chg_pct": 1.5177065767284992,
+      "vol_ratio": 0.2637941233532295,
+      "volume": 62376
     },
     "051910.KS": {
       "name": "LG화학",
       "market": "KR",
-      "chg_pct": 0.7936507936507936,
-      "vol_ratio": 0.7171703072113778,
-      "volume": 163269
+      "chg_pct": 1.574803149606299,
+      "vol_ratio": 0.3704494414053715,
+      "volume": 87714
     },
     "006400.KS": {
       "name": "삼성SDI",
       "market": "KR",
-      "chg_pct": -1.8518518518518516,
-      "vol_ratio": 1.2281442673308534,
-      "volume": 529526
+      "chg_pct": 4.905660377358491,
+      "vol_ratio": 0.621110237945559,
+      "volume": 290411
     },
     "028260.KS": {
       "name": "삼성물산",
       "market": "KR",
-      "chg_pct": 7.102803738317758,
-      "vol_ratio": 1.7742887584037228,
-      "volume": 587854
+      "chg_pct": -3.315881326352531,
+      "vol_ratio": 0.19804426775881884,
+      "volume": 71911
     },
     "105560.KS": {
       "name": "KB금융",
       "market": "KR",
-      "chg_pct": 2.105934907466496,
-      "vol_ratio": 0.9841497134397601,
-      "volume": 879796
+      "chg_pct": -1.0,
+      "vol_ratio": 0.22459862044658543,
+      "volume": 195635
     },
     "055550.KS": {
       "name": "신한지주",
       "market": "KR",
-      "chg_pct": -0.8492569002123143,
-      "vol_ratio": 1.2333135533128676,
-      "volume": 1311344
+      "chg_pct": -2.141327623126338,
+      "vol_ratio": 0.1770038777845877,
+      "volume": 190211
     }
   },
   "heatmap": {
@@ -3413,7 +3413,7 @@
       "form4_count_30d": 2
     },
     "NVDA": {
-      "form4_count_30d": 8
+      "form4_count_30d": 3
     },
     "GOOGL": {
       "form4_count_30d": 8
@@ -3440,13 +3440,13 @@
       "form4_count_30d": 0
     },
     "ADBE": {
-      "form4_count_30d": 1
+      "form4_count_30d": 0
     },
     "PEP": {
       "form4_count_30d": 13
     },
     "CSCO": {
-      "form4_count_30d": 9
+      "form4_count_30d": 2
     },
     "INTC": {
       "form4_count_30d": 0
@@ -3626,7 +3626,7 @@
   "price_alerts": {
     "wti": {
       "name": "WTI 원유",
-      "chg_pct": -3.1653748130832264,
+      "chg_pct": -3.5696702651186287,
       "category": "other",
       "threshold": 3.0
     },
@@ -3672,39 +3672,27 @@
       "category": "stock",
       "threshold": 3.0
     },
+    "373220.KS": {
+      "name": "LG에너지솔루션",
+      "chg_pct": 3.8461538461538463,
+      "category": "stock",
+      "threshold": 3.0
+    },
     "207940.KS": {
       "name": "삼성바이오로직스",
-      "chg_pct": 4.0898155573376105,
+      "chg_pct": 4.6995377503852085,
       "category": "stock",
       "threshold": 3.0
     },
-    "005380.KS": {
-      "name": "현대차",
-      "chg_pct": 5.583756345177665,
-      "category": "stock",
-      "threshold": 3.0
-    },
-    "000270.KS": {
-      "name": "기아",
-      "chg_pct": 4.0604343720491025,
-      "category": "stock",
-      "threshold": 3.0
-    },
-    "035420.KS": {
-      "name": "NAVER",
-      "chg_pct": 3.686635944700461,
-      "category": "stock",
-      "threshold": 3.0
-    },
-    "068270.KS": {
-      "name": "셀트리온",
-      "chg_pct": 6.534870950027457,
+    "006400.KS": {
+      "name": "삼성SDI",
+      "chg_pct": 4.905660377358491,
       "category": "stock",
       "threshold": 3.0
     },
     "028260.KS": {
       "name": "삼성물산",
-      "chg_pct": 7.102803738317758,
+      "chg_pct": -3.315881326352531,
       "category": "stock",
       "threshold": 3.0
     }
