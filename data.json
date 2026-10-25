@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T08:00:59.785106+00:00",
+  "updated_at": "2026-10-25T13:10:13.060940+00:00",
   "news": [
     {
       "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here&apos;s their edge",
@@ -137,6 +137,15 @@
       "desc_ko": "관세청은 9월 무역 데이터를 수요일에 발표했습니다."
     },
     {
+      "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+      "description": "The U.K. claims to aspire to become a global cryptocurrency hub, an ambition that would appear to be at odds with the attitude to crypto purchases of its major banks.",
+      "link": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
+      "pubDate": "Sun, 25 Oct 2026 13:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "영국 은행은 암호화폐 제한 조치로 3개월 동안 10,000건의 불만 사항에 직면해 있습니다.",
+      "desc_ko": "영국은 글로벌 암호화폐 허브가 되기를 열망한다고 주장하며, 이는 주요 은행의 암호화폐 구매에 대한 태도와 상충되는 것으로 보이는 야망입니다."
+    },
+    {
       "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
       "description": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.",
       "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
@@ -263,13 +272,40 @@
       "desc_ko": "Bitcoin은 UTC 자정 이후 약 $ 81,700로 0.5% 상승한 반면 CoinDesk 80은 1.4%, memecoins는 2.9% 상승했습니다."
     },
     {
-      "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
-      "description": "Previous bitcoin bear-market lows followed U.S. midterms, but this year’s recovery raises the possibility that the bottom arrived months earlier.",
-      "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
-      "pubDate": "Fri, 23 Oct 2026 10:53:09 +0000",
-      "tag": "btc",
-      "title_ko": "비트코인은 중간고사 주기 하단 내역과 분리된 것으로 보입니다.",
-      "desc_ko": "이전의 비트코인 베어마켓 저점은 미국 중간 기한을 따랐지만, 올해의 회복은 바닥이 몇 달 전에 도착했을 가능성을 높입니다."
+      "title": "Worried about this stock-market selloff? Relief may be coming after the midterms &#x2014; no matter who wins.",
+      "description": "The nine months between Election Day and June 30 have seen the S&P 500 deliver an average return of 15.5% going back to 1950.",
+      "link": "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories",
+      "pubDate": "Sun, 25 Oct 2026 13:00:00 GMT",
+      "tag": "general",
+      "title_ko": "이 주식 시장 매각이 걱정되시나요? 누가 이겨도 중간고사가 끝나면 안심이 될 수 있습니다.",
+      "desc_ko": "선거일과 6월 30일 사이의 9개월 동안 S&P 500은 1950년으로 거슬러 올라가는 평균 수익률 15.5% 를 달성했습니다."
+    },
+    {
+      "title": "&#x2018;Nonanswers&#x2019; aren&#x2019;t working. This is what investors really need from the Fed.",
+      "description": "What really matters to investors, economists say, is for Fed Chairman Kevin Warsh to prove he can successfully communicate the central bank&#x2019;s strategy.",
+      "link": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
+      "pubDate": "Sun, 25 Oct 2026 12:44:00 GMT",
+      "tag": "general",
+      "title_ko": "‘Nonanswers’ 가 작동하지 않습니다. 이것이 투자자들이 연준에 진정으로 필요로 하는 것입니다.",
+      "desc_ko": "경제학자들은 투자자들에게 정말로 중요한 것은 케빈 워시 연준 의장이 중앙은행의 전략을 성공적으로 전달할 수 있음을 증명하는 것이라고 말한다."
+    },
+    {
+      "title": "Why economic health no longer dictates stock-market returns",
+      "description": "There is a wide disconnect between Wall Street and Main Street, and AI could drive them even further apart",
+      "link": "https://www.marketwatch.com/story/why-economic-health-no-longer-dictates-stock-market-returns-c44b88f2?mod=mw_rss_topstories",
+      "pubDate": "Sun, 25 Oct 2026 12:00:00 GMT",
+      "tag": "general",
+      "title_ko": "경제 건강이 더 이상 주식 시장 수익을 좌우하지 않는 이유",
+      "desc_ko": "월스트리트와 메인 스트리트 사이에는 폭넓은 단절이 있으며, AI가 그들을 더욱 멀어지게 할 수 있습니다."
+    },
+    {
+      "title": "Here&#x2019;s the real signal to watch for the Fed&#x2019;s next move",
+      "description": "Investors should focus not on the rate itself, but on where financial conditions are",
+      "link": "https://www.marketwatch.com/story/heres-the-real-signal-to-watch-for-the-feds-next-move-9189cb51?mod=mw_rss_topstories",
+      "pubDate": "Sun, 25 Oct 2026 11:30:00 GMT",
+      "tag": "general",
+      "title_ko": "다음은 연준의 다음 움직임을 지켜봐야 할 진짜 신호입니다.",
+      "desc_ko": "투자자는 금리 자체에 초점을 맞추는 것이 아니라 재무 조건이 어디에 있는지에 초점을 맞추어야 합니다."
     },
     {
       "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter&#x2019;s $50,000 debt. How can I keep him from becoming destitute?",
@@ -324,42 +360,6 @@
       "tag": "general",
       "title_ko": "2개월 안에 $ 4,500의 신용카드 부채를 갚고 싶습니다. 가능한가요?",
       "desc_ko": "“제 나이가 32살인데 지금쯤이면 어떻게 해야 할지 알 것 같아요.”"
-    },
-    {
-      "title": "Over 40% of Americans are heading toward retirement &#x2018;blind&#x2019; &#x2014; with no plan",
-      "description": "Nearly half of Americans haven&#x2019;t calculated what they&#x2019;ll need in retirement.",
-      "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
-      "pubDate": "Sat, 24 Oct 2026 17:23:00 GMT",
-      "tag": "general",
-      "title_ko": "미국인의 40% 이상이 계획 없이 은퇴를 ‘맹목적’ 으로 향하고 있습니다.",
-      "desc_ko": "미국인의 거의 절반이 은퇴에 필요한 것을 계산하지 못했습니다."
-    },
-    {
-      "title": "Elon Musk promised a SpaceX share to every kid in America &#x2014; don&#x2019;t hold your breath",
-      "description": "Trick or treat? Musk has a long record of saying things have little relation to reality.",
-      "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
-      "pubDate": "Sat, 24 Oct 2026 16:59:00 GMT",
-      "tag": "general",
-      "title_ko": "일론 머스크 (Elon Musk) 는 미국의 모든 어린이에게 SpaceX 주식을 약속했습니다. 숨을 참지 마세요.",
-      "desc_ko": "속임수일까요? 대접일까요? 머스크는 사물이 현실과 거의 관련이 없다고 말한 오랜 기록이 있습니다."
-    },
-    {
-      "title": "The Social Security Administration wants more babies signed up for &#x2018;Trump accounts.&#x2019; But there&#x2019;s still a catch.",
-      "description": "Social Security is looking to reverse an initially slow uptake on Trump accounts",
-      "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-      "pubDate": "Sat, 24 Oct 2026 16:46:00 GMT",
-      "tag": "general",
-      "title_ko": "사회보장국 (Social Security Administration) 은 트럼프 계정에 가입한 더 많은 아기를 원합니다. ’하지만 아직 걸림돌이 있어.",
-      "desc_ko": "소셜 시큐리티는 트럼프 계정에 대한 초기의 느린 흡수를 되돌리려고 합니다."
-    },
-    {
-      "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
-      "description": "Store aisles are getting a digital makeover.",
-      "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
-      "pubDate": "Sat, 24 Oct 2026 16:18:00 GMT",
-      "tag": "general",
-      "title_ko": "Walmart, Best Buy 및 기타 매장은 이제 디지털 가격표를 사용합니다. 비평가들은 쇼핑객마다 가격이 다를 수 있다고 말합니다.",
-      "desc_ko": "매장 통로가 디지털로 변신하고 있습니다."
     }
   ],
   "assets": {
