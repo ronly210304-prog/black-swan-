@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T00:19:42.111550+00:00",
+  "updated_at": "2026-10-26T05:05:29.952785+00:00",
   "news": [
     {
       "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here&apos;s their edge",
@@ -137,6 +137,24 @@
       "desc_ko": "관세청은 9월 무역 데이터를 수요일에 발표했습니다."
     },
     {
+      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+      "description": "Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%.",
+      "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+      "pubDate": "Mon, 26 Oct 2026 04:37:02 +0000",
+      "tag": "btc",
+      "title_ko": "트레이더가 연준 회의를 앞두고 위험을 제거함에 따라 비트코인은 $ 80,000 미만으로 미끄러집니다.",
+      "desc_ko": "골드만삭스가 코스피 목표를 25% 삭감한 아시아에서 AI 거래가 또 다시 타격을 입으면서 주요국들 사이에서 이더리움과 XRP가 손실을 주도했다."
+    },
+    {
+      "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+      "description": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers.",
+      "link": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
+      "pubDate": "Mon, 26 Oct 2026 03:11:39 +0000",
+      "tag": "btc",
+      "title_ko": "일론 머스크 (Elon Musk) 는 SpaceX가 칩에 대해 400억 달러 ($) 를 차입함에 따라 'AI neoclouds' 에 대한 경고를 발행합니다.",
+      "desc_ko": "SpaceX는 GPU를 구매하기 위해 $ 400억의 부채를 떠안은 반면, Musk는 소규모 AI 클라우드 제공 업체들 사이에서 큰 흔들림을 예측합니다."
+    },
+    {
       "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
       "description": "Economics Minister Viktors Valainis says rules could arrive in the first half of next year, but an overdue assessment remains unfinished and no sovereign-bond issuance was identified.",
       "link": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus",
@@ -254,22 +272,13 @@
       "desc_ko": "AI가 인간보다 먼저 수백 개의 비트코인 버그를 발견한 여름 이후, 개발자들은 챗봇이 재발견할 수 있는 결함에 대한 몇 달 간의 금수 조치를 종료하는 정책 변경을 병합했습니다."
     },
     {
-      "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
-      "description": "Your day-ahead look for Oct. 23, 2026",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
-      "pubDate": "Fri, 23 Oct 2026 11:22:33 +0000",
-      "tag": "btc",
-      "title_ko": "비트코인의 가격은 엔비디아의 가격만큼이나 불안정하고 유로보다 8배 더 격동적입니다.",
-      "desc_ko": "2026년 10월 23일의 하루를 미리 경험해보세요"
-    },
-    {
-      "title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
-      "description": "Brent crude oil surged above $116 per barrel for the first time since late April.",
-      "link": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
-      "pubDate": "Fri, 23 Oct 2026 11:13:01 +0000",
-      "tag": "btc",
-      "title_ko": "실시간 업데이트: 유가가 6개월 최고치를 기록하면서 비트코인이 $ 81,000를 상회합니다",
-      "desc_ko": "브렌트유는 4월 말 이후 처음으로 배럴당 $ 116 이상 급등했다."
+      "title": "Musk says SpaceX landed a $40 billion debt deal &#x2014; and forecasts doom for some AI rivals",
+      "description": "SpaceX is rapidly growing an AI business that rents out access to advanced chips.",
+      "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+      "pubDate": "Mon, 26 Oct 2026 01:50:00 GMT",
+      "tag": "general",
+      "title_ko": "머스크는 스페이스X가 400억 $ 규모의 부채 거래를 성사시켰으며 일부 AI 라이벌의 운명을 예견했다고 말합니다.",
+      "desc_ko": "SpaceX는 첨단 칩에 대한 액세스를 임대하는 AI 비즈니스를 빠르게 성장시키고 있습니다."
     },
     {
       "title": "&#x2018;She&#x2019;s living the dream&#x2019;: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
@@ -351,15 +360,6 @@
       "tag": "general",
       "title_ko": "남편은 $ 150만 달러짜리 집을 팔고 수익금을 투자하고 싶어합니다. 하지만 여기가 우리가 아이들을 키웠던 곳입니다. 떠나고 싶지 않아요.",
       "desc_ko": "\"그는 우리가 빈민가이기 때문에 $ 600,000에 무언가를 사고 싶어합니다.\""
-    },
-    {
-      "title": "Worried about this stock-market selloff? Relief may be coming after the midterms &#x2014; no matter who wins.",
-      "description": "The nine months between Election Day and June 30 have seen the S&P 500 deliver an average return of 15.5% going back to 1950.",
-      "link": "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories",
-      "pubDate": "Sun, 25 Oct 2026 13:00:00 GMT",
-      "tag": "general",
-      "title_ko": "이 주식 시장 매각이 걱정되시나요? 누가 이겨도 중간고사가 끝나면 안심이 될 수 있습니다.",
-      "desc_ko": "선거일과 6월 30일 사이의 9개월 동안 S&P 500은 1950년으로 거슬러 올라가는 평균 수익률 15.5% 를 달성했습니다."
     }
   ],
   "assets": {
@@ -583,12 +583,12 @@
         7800.25,
         7704.5,
         7659.75,
-        7671.75
+        7677.75
       ],
-      "last": 7671.75,
-      "chg_pct": 0.1566630764711642,
-      "rsi14": 42.86670175490914,
-      "ma20": 7774.15
+      "last": 7677.75,
+      "chg_pct": 0.23499461470674632,
+      "rsi14": 43.45928403318409,
+      "ma20": 7774.45
     },
     "nq": {
       "live": true,
@@ -692,12 +692,12 @@
         30007.0,
         29142.0,
         29117.75,
-        29196.25
+        29163.75
       ],
-      "last": 29196.25,
-      "chg_pct": 0.26959500648230034,
-      "rsi14": 37.75626313945371,
-      "ma20": 30384.2125
+      "last": 29163.75,
+      "chg_pct": 0.15797923946733522,
+      "rsi14": 37.211928872738696,
+      "ma20": 30382.5875
     },
     "gold": {
       "live": true,
@@ -801,12 +801,12 @@
         4150.0,
         4060.39990234375,
         4007.89990234375,
-        4003.800048828125
+        4027.89990234375
       ],
-      "last": 4003.800048828125,
-      "chg_pct": -0.1022943091275178,
-      "rsi14": 30.466010229871756,
-      "ma20": 4147.034997558594
+      "last": 4027.89990234375,
+      "chg_pct": 0.4990144586271815,
+      "rsi14": 33.4004712769371,
+      "ma20": 4148.239990234375
     },
     "wti": {
       "live": true,
@@ -910,12 +910,12 @@
         97.1500015258789,
         99.47000122070312,
         103.2699966430664,
-        101.98999786376953
+        100.98999786376953
       ],
-      "last": 101.98999786376953,
-      "chg_pct": -1.2394682104241308,
-      "rsi14": 60.30560881222868,
-      "ma20": 95.1974998474121
+      "last": 100.98999786376953,
+      "chg_pct": -2.2078036732946433,
+      "rsi14": 58.38782930949403,
+      "ma20": 95.1474998474121
     },
     "zn": {
       "live": true,
@@ -1019,12 +1019,12 @@
         105.109375,
         106.40625,
         106.15625,
-        106.140625
+        106.265625
       ],
-      "last": 106.140625,
-      "chg_pct": -0.014718869590815427,
-      "rsi14": 58.23340975096939,
-      "ma20": 104.984375
+      "last": 106.265625,
+      "chg_pct": 0.10303208713570797,
+      "rsi14": 59.62629703574562,
+      "ma20": 104.990625
     },
     "dxy": {
       "live": true,
@@ -1128,12 +1128,12 @@
         101.77999877929688,
         101.61000061035156,
         101.80999755859375,
-        101.71299743652344
+        101.65499877929688
       ],
-      "last": 101.71299743652344,
-      "chg_pct": -0.09527563539571536,
-      "rsi14": 53.19745222427593,
-      "ma20": 101.96064987182618
+      "last": 101.65499877929688,
+      "chg_pct": -0.15224318142986892,
+      "rsi14": 52.26950400445373,
+      "ma20": 101.95774993896484
     },
     "vix": {
       "live": true,
@@ -1247,7 +1247,6 @@
     "hsi": {
       "live": true,
       "closes": [
-        26038.3203125,
         25633.2109375,
         25253.400390625,
         24961.94921875,
@@ -1346,12 +1345,13 @@
         23867.740234375,
         23651.869140625,
         22934.6796875,
-        23093.369140625
+        23093.369140625,
+        23193.939453125
       ],
-      "last": 23093.369140625,
-      "chg_pct": 0.6919192039620675,
-      "rsi14": 30.860114430222453,
-      "ma20": 24109.95986328125
+      "last": 23193.939453125,
+      "chg_pct": 0.4354943269108379,
+      "rsi14": 33.15290509404882,
+      "ma20": 24031.60029296875
     },
     "n225": {
       "live": true,
@@ -1455,17 +1455,16 @@
         64621.23828125,
         62907.83984375,
         62693.16015625,
-        62271.640625
+        62440.05859375
       ],
-      "last": 62271.640625,
-      "chg_pct": -0.6723533001039476,
-      "rsi14": 34.66212807266389,
-      "ma20": 66543.820703125
+      "last": 62440.05859375,
+      "chg_pct": -0.4037147941963615,
+      "rsi14": 35.16388682839549,
+      "ma20": 66552.2416015625
     },
     "kospi": {
       "live": true,
       "closes": [
-        8185.2900390625,
         8476.150390625,
         8788.3798828125,
         8801.490234375,
@@ -1564,17 +1563,17 @@
         5552.740234375,
         5735.66015625,
         5533.77001953125,
-        5550.2998046875
+        5550.2998046875,
+        5513.41015625
       ],
-      "last": 5550.2998046875,
-      "chg_pct": 0.29870748328731944,
-      "rsi14": 31.33327886231318,
-      "ma20": 6341.744067382812
+      "last": 5513.41015625,
+      "chg_pct": -0.6646424469961945,
+      "rsi14": 30.742587279230193,
+      "ma20": 6266.519067382813
     },
     "sse": {
       "live": true,
       "closes": [
-        4098.63623046875,
         4068.569091796875,
         4057.739990234375,
         4075.10205078125,
@@ -1673,12 +1672,13 @@
         3735.3701171875,
         3713.028076171875,
         3658.02587890625,
-        3690.47509765625
+        3690.47509765625,
+        3683.91796875
       ],
-      "last": 3690.47509765625,
-      "chg_pct": 0.8870691412304147,
-      "rsi14": 32.39334484043685,
-      "ma20": 3803.8837646484376
+      "last": 3683.91796875,
+      "chg_pct": -0.17767709394419995,
+      "rsi14": 31.744421627584586,
+      "ma20": 3792.4861083984374
     },
     "dax": {
       "live": true,
@@ -2000,12 +2000,12 @@
         1323.93994140625,
         1325.5899658203125,
         1325.989990234375,
-        1322.0799560546875
+        1320.780029296875
       ],
-      "last": 1322.0799560546875,
-      "chg_pct": -0.29487659850255604,
-      "rsi14": 33.309505979510476,
-      "ma20": 1339.6109924316406
+      "last": 1320.780029296875,
+      "chg_pct": -0.3929110306918014,
+      "rsi14": 32.70893932804667,
+      "ma20": 1339.54599609375
     },
     "jpy": {
       "live": true,
@@ -2109,12 +2109,12 @@
         158.26800537109375,
         158.1320037841797,
         156.49400329589844,
-        157.0399932861328
+        156.9600067138672
       ],
-      "last": 157.0399932861328,
-      "chg_pct": 0.34888876170035643,
-      "rsi14": 44.46823921157446,
-      "ma20": 157.88870086669922
+      "last": 156.9600067138672,
+      "chg_pct": 0.29777717238636425,
+      "rsi14": 43.792541178844935,
+      "ma20": 157.88470153808595
     },
     "copper": {
       "live": true,
@@ -2218,12 +2218,12 @@
         6.543000221252441,
         6.362500190734863,
         6.47599983215332,
-        6.499499797821045
+        6.484499931335449
       ],
-      "last": 6.499499797821045,
-      "chg_pct": 0.36287779920943397,
-      "rsi14": 46.890344260791245,
-      "ma20": 6.551524996757507
+      "last": 6.484499931335449,
+      "chg_pct": 0.13125539534337136,
+      "rsi14": 45.955250744583786,
+      "ma20": 6.550775003433228
     },
     "natgas": {
       "live": true,
@@ -2436,12 +2436,12 @@
         57.422000885009766,
         54.763999938964844,
         53.71099853515625,
-        53.95000076293945
+        54.27000045776367
       ],
-      "last": 53.95000076293945,
-      "chg_pct": 0.4449781875247869,
-      "rsi14": 30.853792033116903,
-      "ma20": 58.31744956970215
+      "last": 54.27000045776367,
+      "chg_pct": 1.0407587605014086,
+      "rsi14": 32.355623507870064,
+      "ma20": 58.33344955444336
     },
     "qqq": {
       "live": true,
@@ -3200,107 +3200,107 @@
     "005930.KS": {
       "name": "삼성전자",
       "market": "KR",
-      "chg_pct": -1.160092807424594,
-      "vol_ratio": 0.02664123751667891,
-      "volume": 484681
+      "chg_pct": -0.6960556844547563,
+      "vol_ratio": 0.42078601235922647,
+      "volume": 7655312
     },
     "000660.KS": {
       "name": "SK하이닉스",
       "market": "KR",
-      "chg_pct": 0.7830853563038371,
-      "vol_ratio": 0.02515147719555661,
-      "volume": 88554
+      "chg_pct": 1.1746280344557558,
+      "vol_ratio": 0.46451813735806957,
+      "volume": 1635488
     },
     "373220.KS": {
       "name": "LG에너지솔루션",
       "market": "KR",
-      "chg_pct": -1.1749347258485638,
-      "vol_ratio": 0.006423746129054686,
-      "volume": 2818
+      "chg_pct": 0.26109660574412535,
+      "vol_ratio": 0.5091924384590456,
+      "volume": 223375
     },
     "207940.KS": {
       "name": "삼성바이오로직스",
       "market": "KR",
-      "chg_pct": -0.34106412005457026,
-      "vol_ratio": 0.004948415728160639,
-      "volume": 413
+      "chg_pct": -0.5457025920873124,
+      "vol_ratio": 0.27193521396206743,
+      "volume": 22696
     },
     "005380.KS": {
       "name": "현대차",
       "market": "KR",
-      "chg_pct": -2.3688663282571913,
-      "vol_ratio": 0.030661163412258052,
-      "volume": 16728
+      "chg_pct": -2.199661590524535,
+      "vol_ratio": 0.514951013561504,
+      "volume": 280945
     },
     "000270.KS": {
       "name": "기아",
       "market": "KR",
-      "chg_pct": -0.841908325537886,
-      "vol_ratio": 0.017382901104661553,
-      "volume": 14716
+      "chg_pct": -0.6548175865294669,
+      "vol_ratio": 0.28694544048291615,
+      "volume": 242922
     },
     "035420.KS": {
       "name": "NAVER",
       "market": "KR",
-      "chg_pct": -0.5760368663594471,
-      "vol_ratio": 0.02857175309859011,
-      "volume": 16630
+      "chg_pct": 0.6912442396313364,
+      "vol_ratio": 0.5062320191669559,
+      "volume": 294649
     },
     "035720.KS": {
       "name": "카카오",
       "market": "KR",
-      "chg_pct": -1.1686143572621035,
-      "vol_ratio": 0.07053804088252345,
-      "volume": 95472
+      "chg_pct": -0.667779632721202,
+      "vol_ratio": 0.6038726274986779,
+      "volume": 817331
     },
     "068270.KS": {
       "name": "셀트리온",
       "market": "KR",
-      "chg_pct": 0.411522633744856,
-      "vol_ratio": 0.012465419716848504,
-      "volume": 6226
+      "chg_pct": -1.800411522633745,
+      "vol_ratio": 0.5783526287355354,
+      "volume": 288865
     },
     "005490.KS": {
       "name": "POSCO홀딩스",
       "market": "KR",
-      "chg_pct": -1.9963702359346642,
-      "vol_ratio": 0.024432287031064762,
-      "volume": 6027
+      "chg_pct": -0.8166969147005444,
+      "vol_ratio": 0.40740342033100674,
+      "volume": 100499
     },
     "051910.KS": {
       "name": "LG화학",
       "market": "KR",
-      "chg_pct": -2.1834061135371177,
-      "vol_ratio": 0.012114416512360568,
-      "volume": 3132
+      "chg_pct": -0.43668122270742354,
+      "vol_ratio": 0.41613716950792595,
+      "volume": 107586
     },
     "006400.KS": {
       "name": "삼성SDI",
       "market": "KR",
-      "chg_pct": -1.325178389398573,
-      "vol_ratio": 0.01545466385690759,
-      "volume": 8682
+      "chg_pct": 1.6309887869520898,
+      "vol_ratio": 0.6441775179914278,
+      "volume": 361881
     },
     "028260.KS": {
       "name": "삼성물산",
       "market": "KR",
-      "chg_pct": -1.0416666666666665,
-      "vol_ratio": 0.0033699208295078237,
-      "volume": 1240
+      "chg_pct": 2.256944444444444,
+      "vol_ratio": 0.4489875969701513,
+      "volume": 165210
     },
     "105560.KS": {
       "name": "KB금융",
       "market": "KR",
-      "chg_pct": -0.5882352941176471,
-      "vol_ratio": 0.016740355107096018,
-      "volume": 14654
+      "chg_pct": -3.3333333333333335,
+      "vol_ratio": 0.6012773650244928,
+      "volume": 526340
     },
     "055550.KS": {
       "name": "신한지주",
       "market": "KR",
-      "chg_pct": -1.2485811577752552,
-      "vol_ratio": 0.020067367072594055,
-      "volume": 21367
+      "chg_pct": -2.724177071509648,
+      "vol_ratio": 0.42238769454437536,
+      "volume": 449743
     }
   },
   "heatmap": {
@@ -3639,6 +3639,12 @@
     "BKNG": {
       "name": "BKNG",
       "chg_pct": -3.2712626150210506,
+      "category": "stock",
+      "threshold": 3.0
+    },
+    "105560.KS": {
+      "name": "KB금융",
+      "chg_pct": -3.3333333333333335,
       "category": "stock",
       "threshold": 3.0
     }
