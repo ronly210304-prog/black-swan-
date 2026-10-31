@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T13:06:55.497671+00:00",
+  "updated_at": "2026-10-31T17:42:15.251412+00:00",
   "news": [
     {
       "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here&apos;s their edge",
@@ -137,6 +137,60 @@
       "desc_ko": "관세청은 9월 무역 데이터를 수요일에 발표했습니다."
     },
     {
+      "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+      "description": "Two strangers befriended Magnus Ahmad outside a London bar. Hours later, thieves had emptied his crypto wallets, accessed his bank accounts and disabled his laptop.",
+      "link": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
+      "pubDate": "Sat, 31 Oct 2026 16:09:30 +0000",
+      "tag": "btc",
+      "title_ko": "도난당한 iPhone, 손실액 $ 14,000, 런던의 암호화폐 도난 문제",
+      "desc_ko": "낯선 두 사람이 런던 바 밖에서 매그너스 아마드와 친구가 되었습니다. 몇 시간 후, 도둑들은 그의 암호 지갑을 비우고 은행 계좌에 액세스하여 노트북을 비활성화했습니다."
+    },
+    {
+      "title": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
+      "description": "Trade.xyz’s new ANT contract fell about 20% in its first hour on Hyperliquid. There are no shares behind it, and U.S. traders are locked out.",
+      "link": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
+      "pubDate": "Sat, 31 Oct 2026 16:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "거래자들은 이미 암호화 계약을 사용하여 Anthropic의 IPO에 레버리지 베팅을 하고 있습니다",
+      "desc_ko": "Trade.xyz의 새로운 개미 계약은 Hyperliquid에서 첫 시간 동안 약 20% 하락했습니다. 그 뒤에는 주식이 없으며 미국 거래자는 잠겨 있습니다."
+    },
+    {
+      "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+      "description": "Binance is absorbing all losses through corporate funds, futures reserves, and SAFU, keeping user balances intact.",
+      "link": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+      "pubDate": "Sat, 31 Oct 2026 15:24:10 +0000",
+      "tag": "btc",
+      "title_ko": "바이낸스 (Binance) 는 막대한 $ 6.3 billion 위반 후 도난당한 암호화폐의 90% 를 대체했다고 말합니다.",
+      "desc_ko": "Binance는 기업 자금, 선물 준비금 및 SAFU를 통해 모든 손실을 흡수하여 사용자 잔고를 그대로 유지합니다."
+    },
+    {
+      "title": "Institutions embrace crypto staking despite shrinking yields",
+      "description": "Easier access and growing familiarity are encouraging investors to stake their tokens, while falling rewards and withdrawal delays test the economics.",
+      "link": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
+      "pubDate": "Sat, 31 Oct 2026 15:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "기관은 수익률 감소에도 불구하고 암호화 스테이킹을 수용합니다",
+      "desc_ko": "더 쉽게 접근하고 익숙해지면 투자자는 토큰을 스테이킹하고 하락 보상과 인출 지연은 경제성을 테스트합니다."
+    },
+    {
+      "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
+      "description": "The pilot let Uber keep funds invested in money market products while accessing cash for payments, even on weekends.",
+      "link": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
+      "pubDate": "Sat, 31 Oct 2026 14:40:29 +0000",
+      "tag": "btc",
+      "title_ko": "Uber는 토큰화가 HSBC, Franklin Templeton과 협력하여 유휴 현금을 투입할 수 있는 방법을 테스트합니다.",
+      "desc_ko": "이 시범 운영을 통해 Uber는 머니마켓 상품에 투자한 자금을 보관하고 주말에도 현금으로 결제할 수 있습니다."
+    },
+    {
+      "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
+      "description": "Several companies offer access to bitcoin mining without the hassle of running equipment, but high costs and the 2028 reward halving make profits uncertain.",
+      "link": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
+      "pubDate": "Sat, 31 Oct 2026 14:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "거대 비트코인 채굴자들이 AI 수익을 추구함에 따라 개인은 보상에서 또 다른 기회를 얻습니다.",
+      "desc_ko": "몇몇 회사는 장비를 실행하는 번거 로움없이 비트 코인 채굴에 대한 액세스를 제공하지만 높은 비용과 2028 보상 반감으로 인해 이익이 불확실합니다."
+    },
+    {
       "title": "18 years in, what has Bitcoin truly done?",
       "description": "The Bitcoin white paper achieved a lot of what Satoshi Nakamoto set out to accomplish, but the cultural impact it had may outweigh Bitcoin itself, writes CoinDesk's Nikhilesh De.",
       "link": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
@@ -218,148 +272,94 @@
       "desc_ko": "바이낸스는 약 30억 달러의 도난 자산을 동결하는 것을 포함하여 $ 63억 해킹을 충당하기 위해 자체 자금을 보유했다고 밝혔다. $ 30억 달러의 도난 자산을 동결하는 것을 포함합니다."
     },
     {
-      "title": "Here's how big bitcoin traders responded after the Binance hack hit",
-      "description": "Your day-ahead look for Oct. 30, 2026",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
-      "pubDate": "Fri, 30 Oct 2026 11:51:26 +0000",
-      "tag": "btc",
-      "title_ko": "Binance 해킹 공격 이후 거대 비트코인 거래자들의 반응은 다음과 같습니다.",
-      "desc_ko": "2026년 10월 30일을 하루 앞당길 수 있는 기회"
-    },
-    {
-      "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
-      "description": "On Ethereum, the attacker used a 2025 upgrade built to make ordinary wallets smarter, armed with 50 signatures from Binance's own wallet.",
-      "link": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
-      "pubDate": "Fri, 30 Oct 2026 11:35:16 +0000",
-      "tag": "btc",
-      "title_ko": "다음은 Ethereum 업그레이드가 Binance의 $ 60억 손실의 일부를 소모하는 데 도움이 된 방법입니다.",
-      "desc_ko": "이더리움에서 공격자는 바이낸스 지갑의 시그니처 50개로 무장한 일반 지갑을 더 스마트하게 만들기 위해 구축된 2025 업그레이드를 사용했습니다."
-    },
-    {
-      "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-      "description": "Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion.",
-      "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-      "pubDate": "Fri, 30 Oct 2026 11:09:24 +0000",
-      "tag": "btc",
-      "title_ko": "바이낸스 해킹이 비트코인을 전송함에 따라 암호화폐 청산이 $ 1.57 billion으로 증가하고 에테르가 낮아짐",
-      "desc_ko": "비트코인은 $ 6.3 billion Binance 해킹 후 $ 77,350 근처에서 거래되었으며, 암호화폐 선물 청산은 $ 1.57 billion으로 급증했습니다."
-    },
-    {
-      "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
-      "description": "Andrew Kang’s departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC.",
-      "link": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
-      "pubDate": "Fri, 30 Oct 2026 09:41:07 +0000",
-      "tag": "btc",
-      "title_ko": "전략 CFO 앤드류 강 (Andrew Kang) 사임, 사상 최대 영업이익 기록",
-      "desc_ko": "Andrew Kang의 출발은 Strategy가 848,517 BTC의 분기별 영업이익과 비트코인 보유액에서 $ 210억을 보고함에 따라 이루어집니다."
-    },
-    {
-      "title": "Live updates: Bitcoin falls below $77,000 as Binance exploit combines with tech woes",
-      "description": "The $6.3 billion Binance hack added to crypto jitters, while weak earnings outlooks and mounting concerns over AI spending pushed the Nasdaq down more than 2%.",
-      "link": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
-      "pubDate": "Fri, 30 Oct 2026 08:36:52 +0000",
-      "tag": "btc",
-      "title_ko": "실시간 업데이트: 바이낸스 익스플로잇이 기술적 어려움과 결합하면서 비트코인은 $ 77,000 아래로 떨어집니다",
-      "desc_ko": "$ 63억 달러의 바이낸스 해킹이 암호화폐 지터에 추가된 반면, 수익 전망이 약하고 AI 지출에 대한 우려가 커지면서 나스닥은 2% 이상 하락했습니다."
-    },
-    {
-      "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
-      "description": "The hacker dumped FUN and other smaller tokens into markets too small to absorb large selling, leading to price crashes.",
-      "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
-      "pubDate": "Fri, 30 Oct 2026 07:54:07 +0000",
-      "tag": "btc",
-      "title_ko": "바이낸스 해커가 잘 알려지지 않은 2017 토큰을 덤프하면 90% 가 다운됩니다.",
-      "desc_ko": "해커는 큰 판매를 흡수하기에는 너무 작은 시장에 재미와 다른 작은 토큰을 버려 가격 폭락을 초래했습니다."
-    },
-    {
-      "title": "The stock market&#x2019;s front-runners stumbled in October. Here&#x2019;s where the smart money is moving now.",
-      "description": "U.S. stocks saw a stronger reversal in fortunes in October, as worries about dwindling free cash flows and rising borrowing costs threw a wrench into the works of the artificial-intelligence trade.",
-      "link": "https://www.marketwatch.com/story/the-stock-markets-front-runners-stumbled-in-october-heres-where-the-smart-money-is-moving-now-f901472a?mod=mw_rss_topstories",
-      "pubDate": "Sat, 31 Oct 2026 13:01:00 GMT",
+      "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+      "description": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
+      "link": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
+      "pubDate": "Sat, 31 Oct 2026 17:26:00 GMT",
       "tag": "general",
-      "title_ko": "주식시장의 선두주자들은 10월에 비틀거렸다. 지금 스마트 머니가 움직이는 곳입니다.",
-      "desc_ko": "공짜 현금 흐름의 감소와 차입 비용의 증가에 대한 우려가 인공 지능 무역의 작품에 비틀 거렸기 때문에 미국 주식은 10 월에 더 강한 반전을 보였습니다."
+      "title_ko": "Medicare는 AI를 사용하여 환자 치료를 사전 승인했으며, 즉시 의료 서비스가 크게 감소했습니다.",
+      "desc_ko": "메디케어는 낭비적인 의료 지출을 목표로 사전 승인을 수행하기 위해 AI 사용을 테스트하고 있습니다."
     },
     {
-      "title": "If you really want to help your adult kids and grandkids, give them money while you&#x2019;re still alive",
-      "description": "How to manage &#x201c;giving while living&#x201d; without endangering your own retirement.",
-      "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-      "pubDate": "Sat, 31 Oct 2026 13:00:00 GMT",
+      "title": "80% of workers make this 401(k)  mistake when they retire",
+      "description": "Other tax repercussions crop up down the road because balances build up, and RMDs get complicated",
+      "link": "https://www.marketwatch.com/story/whats-the-first-thing-most-people-do-with-their-401-k-after-they-retire-nothing-8a606518?mod=mw_rss_topstories",
+      "pubDate": "Sat, 31 Oct 2026 16:46:00 GMT",
       "tag": "general",
-      "title_ko": "성인 자녀와 손주들을 정말로 돕고 싶다면, 살아있는 동안 그들에게 돈을 주십시오.",
-      "desc_ko": "자신의 은퇴를 위험에 빠뜨리지 않고 \"살아있는 동안 기부\" 를 관리하는 방법."
+      "title_ko": "80% 의 근로자가 은퇴 할 때이 401 (k) 실수를합니다.",
+      "desc_ko": "잔액이 쌓이고 RMD가 복잡해지기 때문에 다른 세금 파급 효과가 발생합니다."
     },
     {
-      "title": "This Halloween, are full-size candy bars a better deal than fun-sized ones?",
-      "description": "Several TikTokers influencers claim you can save money and be the coolest house on the block with bigger candy this year. Let&#x2019;s see how that adds up.",
-      "link": "https://www.marketwatch.com/story/this-halloween-are-king-sized-candy-bars-a-better-deal-than-fun-sized-ones-992da0d9?mod=mw_rss_topstories",
-      "pubDate": "Sat, 31 Oct 2026 12:37:00 GMT",
+      "title": "Want guaranteed income in retirement without an annuity? Try laddering I bonds.",
+      "description": "The new I-bond interest rate could be 5.5% or 5.4%, but that shouldn&#x2019;t change your strategy.",
+      "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
+      "pubDate": "Sat, 31 Oct 2026 16:02:00 GMT",
       "tag": "general",
-      "title_ko": "이번 할로윈에는 풀사이즈 캔디바가 재미있는 캔디바보다 더 좋은가요?",
-      "desc_ko": "여러 TikTokers 인플루언서들은 올해 더 큰 사탕으로 돈을 절약하고 블록에서 가장 멋진 집이 될 수 있다고 주장합니다. 그것이 어떻게 더해지는지 봅시다."
+      "title_ko": "퇴직 시 연금 없이 수입을 보장받고 싶으신가요? I 본드를 사다리타기 해보세요.",
+      "desc_ko": "새로운 I-채권 이자율은 5.5% 또는 5.4% 일 수 있지만 전략을 변경해서는 안 됩니다."
     },
     {
-      "title": "Nvidia&#x2019;s Megaspeed ties show potential blind spots in the U.S. effort to block China from accessing advanced chips",
-      "description": "Nvidia CEO Jensen Huang&#x2019;s business meetings are routine practice and existing U.S. export controls largely miss the cloud, experts say.",
-      "link": "https://www.marketwatch.com/story/nvidias-megaspeed-ties-show-potential-blind-spots-in-the-u-s-effort-to-block-china-from-accessing-advanced-chips-e75d541a?mod=mw_rss_topstories",
-      "pubDate": "Sat, 31 Oct 2026 12:30:00 GMT",
+      "title": "We&#x2019;re in our 70s. Should we pay off our 2.5% mortgage &#x2014; or put the money in a high-yield savings account?",
+      "description": "&#x201c;Let&#x2019;s say 10 years from now, when I&#x2019;m 84, we need a substantial amount of cash.&#x201d;",
+      "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+      "pubDate": "Sat, 31 Oct 2026 16:00:00 GMT",
       "tag": "general",
-      "title_ko": "엔비디아의 메가스피드 관계는 중국이 첨단 칩에 접근하는 것을 차단하려는 미국의 노력에 잠재적인 맹점을 보여줍니다.",
-      "desc_ko": "전문가들은 엔비디아 CEO 젠슨 황 (Jensen Huang) 의 비즈니스 미팅은 일상적인 관행이며 기존의 미국 수출 통제는 대부분 클라우드를 놓치고 있다고 말한다."
+      "title_ko": "우리는 70대입니다. 주택담보대출 2.5% 를 갚아야 할까요, 아니면 고수익 저축 계좌에 돈을 넣어야 할까요?",
+      "desc_ko": "“10년 후 84세가 되면 상당한 현금이 필요하다고 합시다.”"
     },
     {
-      "title": "These 10 megadonors have spent a total of $1 billion on the midterm elections",
-      "description": "They&#x2019;ve helped turn this year&#x2019;s midterms into &#x201c;the most expensive election cycle on record.&#x201d;",
-      "link": "https://www.marketwatch.com/story/these-10-megadonors-have-spent-a-total-of-1-billion-on-the-midterm-elections-0dc279cf?mod=mw_rss_topstories",
-      "pubDate": "Sat, 31 Oct 2026 12:00:00 GMT",
+      "title": "Our church has a $1.5 million bequest earning 3.75% in a savings account. Are we throwing money away?",
+      "description": "&#x201c;Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.&#x201d;",
+      "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+      "pubDate": "Sat, 31 Oct 2026 15:30:00 GMT",
       "tag": "general",
-      "title_ko": "이 10명의 메가돈은 중간 선거에 총 10억 달러 ($) 를 지출했습니다.",
-      "desc_ko": "그들은 올해의 중간고사를 \"기록상 가장 비싼 선거 주기\" 로 바꾸는 데 도움을 주었습니다."
+      "title_ko": "우리 교회는 저축 계좌로 3.75% 의 수익을 올리는 150만 달러 ($) 의 유증을 가지고 있습니다. 돈을 버리는 건가요?",
+      "desc_ko": "\"이 선물의 규모와 장기적인 특성을 감안할 때 자금이 신중하게 관리되도록 하고 싶습니다.\""
     },
     {
-      "title": "Grand Theft Callout: &#x2018;GTA 6&#x2019; fans are missing work on the game&#x2019;s release day because they &#x2018;don&#x2019;t want to wait&#x2019; anymore",
-      "description": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play &#x2018;Grand Theft Auto VI&#x2019; when it drops on Nov. 19",
-      "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
-      "pubDate": "Sat, 31 Oct 2026 04:30:00 GMT",
+      "title": "What gave this city its &#x2018;best place to retire&#x2019; crown? You can actually afford to live there.",
+      "description": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
+      "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+      "pubDate": "Sat, 31 Oct 2026 15:25:00 GMT",
       "tag": "general",
-      "title_ko": "Grand Theft Callout: ‘GTA 6’ 팬들이 더 이상 '기다리기 싫어서‘ 게임 출시일에 작업을 하지 못하고 있습니다.",
-      "desc_ko": "이 비디오 게임을 위해 13 년을 기다린 후, 근로자의 거의 5 분의 1은 11 월 19 일에 떨어지면 ‘Grand Theft Auto VI’ 를 플레이하기 위해 휴가를 계획하고 있습니다."
+      "title_ko": "이 도시가 ‘은퇴하기 가장 좋은 곳‘ 으로 선정된 이유는 무엇인가요? 그곳에서 살 여유가 있습니다.",
+      "desc_ko": "낮은 생활비, 높은 삶의 질, 은퇴자에게 유리한 세금."
     },
     {
-      "title": "Has the tech bubble burst? Why the Nasdaq&#x2019;s rough ride looks eerily like 2000.",
-      "description": "Friday&#x2019;s big plunge raises disturbing parallels with the top of the dot-com bubble",
-      "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 23:14:00 GMT",
+      "title": "My father has Alzheimer&#x2019;s and his caregiver is using his debit card for DoorDash. Do I intervene?",
+      "description": "&#x201c;I suspect the live-in caregiver is benefiting from my parent&#x2019;s generosity.&#x201d;",
+      "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+      "pubDate": "Sat, 31 Oct 2026 15:00:00 GMT",
       "tag": "general",
-      "title_ko": "기술 거품이 터졌나요? 왜 나스닥의 거친 주행이 2000년처럼 보이는지.",
-      "desc_ko": "금요일의 큰 급락은 닷컴 버블의 상단과 혼란스러운 평행을 높입니다."
+      "title_ko": "아버지는 알츠하이머 병을 앓고 있으며 간병인은 직불 카드를 DoorDash에 사용하고 있습니다. 내가 개입할까?",
+      "desc_ko": "\"나는 살아있는 간병인이 부모님의 관대함에서 이익을 얻고 있다고 생각합니다.\""
     },
     {
-      "title": "This cybersecurity stock will be the next to join the S&amp;P 500",
-      "description": "Okta is slated to join the index on Wednesday, replacing Kenvue.",
-      "link": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 22:20:00 GMT",
+      "title": "The S&amp;P 500 isn&#x2019;t the big winner you may think it is",
+      "description": "The index&#x2019;s weakness may surprise a generation of investors raised on the cult of &#x201c;stocks always go up.&#x201d;",
+      "link": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+      "pubDate": "Sat, 31 Oct 2026 14:54:00 GMT",
       "tag": "general",
-      "title_ko": "이 사이버 보안 주식은 S&amp;P 500에 합류하기 위한 다음 단계가 될 것입니다.",
-      "desc_ko": "Okta는 수요일에 Kenvue를 대신하여 지수에 합류할 예정입니다."
+      "title_ko": "S&amp;P 500은 여러분이 생각할 수 있는 큰 승자는 아닙니다.",
+      "desc_ko": "지수의 약세는 \"주식은 항상 오릅니다\" 라는 컬트에 자란 투자자 세대를 놀라게 할 수 있습니다."
     },
     {
-      "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
-      "description": "Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday",
-      "link": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 21:30:00 GMT",
+      "title": "Social Security&#x2019;s fate &#x2014; and your benefits &#x2014; are in the hands of the candidates elected this year",
+      "description": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator&#x2019;s term.",
+      "link": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
+      "pubDate": "Sat, 31 Oct 2026 14:35:00 GMT",
       "tag": "general",
-      "title_ko": "이란의 새로운 불안감에도 불구하고 금이 1년 만에 최저가로 급락한 이유",
-      "desc_ko": "화요일 미국 중간 선거 이후 새로운 중동 공격 가능성에 대한 불안에도 불구하고 안전 금은 1 년 만에 최저 가격으로 떨어졌습니다."
+      "title_ko": "사회 보장의 운명과 혜택은 올해 선출된 후보자의 손에 달려 있습니다.",
+      "desc_ko": "이 프로그램은 향후 6 년 동안 돈이 부족할 것으로 예상되며 이는 상원 의원의 임기와 동일한 시간입니다."
     },
     {
-      "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
-      "description": "More interest-rate hikes are needed to fight inflation, Fed officials say.",
-      "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 21:23:00 GMT",
+      "title": "&#x2018;He was heartbroken&#x2019;: My husband&#x2019;s kids abandoned him when he was dying. Was he right to leave everything to me?",
+      "description": "&#x201c;In the end, he left them a few sentimental mementos, some collectibles and old photographs.&#x201d;",
+      "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+      "pubDate": "Sat, 31 Oct 2026 14:26:00 GMT",
       "tag": "general",
-      "title_ko": "워시는 연방준비제도 (Fed) 가 더 적게 말하기를 원합니다. 두 공무원이 투명성을 높이기 위해 노력하고 있습니다.",
-      "desc_ko": "연준 관리들은 인플레이션에 맞서기 위해 더 많은 금리 인상이 필요하다고 말한다."
+      "title_ko": "‘마음이 아팠다’: 남편의 자식들은 죽어가던 그를 버렸다. 내게 모든 걸 맡기는 게 맞는 걸까?",
+      "desc_ko": "“결국 그는 그들에게 감성적인 기념품과 수집품, 오래된 사진을 남겼습니다.”"
     }
   ],
   "assets": {
