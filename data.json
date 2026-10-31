@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T06:44:35.409516+00:00",
+  "updated_at": "2026-10-31T13:06:55.497671+00:00",
   "news": [
     {
       "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here&apos;s their edge",
@@ -137,6 +137,33 @@
       "desc_ko": "관세청은 9월 무역 데이터를 수요일에 발표했습니다."
     },
     {
+      "title": "18 years in, what has Bitcoin truly done?",
+      "description": "The Bitcoin white paper achieved a lot of what Satoshi Nakamoto set out to accomplish, but the cultural impact it had may outweigh Bitcoin itself, writes CoinDesk's Nikhilesh De.",
+      "link": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
+      "pubDate": "Sat, 31 Oct 2026 13:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "18년 동안 비트코인은 진정으로 무엇을 해왔습니까?",
+      "desc_ko": "비트코인 백서는 사토시 나카모토 (Satoshi Nakamoto) 가 성취하고자 했던 많은 것을 달성했지만, 비트코인이 미치는 문화적 영향은 비트코인 자체를 능가할 수 있다고 코인데스크 (CoinDesk) 의 니킬레스 데 (Nikhilesh De) 는 말합니다."
+    },
+    {
+      "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
+      "description": "Next Technology Holding cited exchange security and quantum computing risks in authorizing sales or loans against its 5,833 BTC. It says none of the coins are held at Binance.",
+      "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
+      "pubDate": "Sat, 31 Oct 2026 12:49:47 +0000",
+      "tag": "btc",
+      "title_ko": "나스닥 상장 회사는 바이낸스 해킹과 양자 공포를 인용하여 $ 450,000,000의 비트코인을 판매할 수 있습니다.",
+      "desc_ko": "Next Technology Holding은 5,833 BTC에 대한 판매 또는 대출을 승인할 때 교환 보안 및 양자 컴퓨팅 위험을 언급했습니다. 바이낸스에서 보유한 코인은 하나도 없습니다."
+    },
+    {
+      "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
+      "description": "The Binance hack has revived debates about whether decentralization is the digital asset industry’s greatest security advantage or its biggest point of weakness.",
+      "link": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion",
+      "pubDate": "Sat, 31 Oct 2026 12:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "$ 63억 바이낸스 해킹 역설: 중앙 집중화는 해킹을 가능하게 만들었지만 $ 30억을 절약했습니다.",
+      "desc_ko": "바이낸스 해킹은 탈중앙화가 디지털 자산 산업의 가장 큰 보안 이점인지 아니면 가장 큰 약점인지에 대한 논쟁을 부활시켰습니다."
+    },
+    {
       "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
       "description": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX’s disclosed holdings. Blockchain investigators link the attack to North Korea.",
       "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
@@ -245,31 +272,49 @@
       "desc_ko": "해커는 큰 판매를 흡수하기에는 너무 작은 시장에 재미와 다른 작은 토큰을 버려 가격 폭락을 초래했습니다."
     },
     {
-      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-      "description": "Bets on rising prices accounted for nearly 84% of forced closures, with Binance handling almost half the total. A rebound has since started catching short sellers.",
-      "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
-      "pubDate": "Fri, 30 Oct 2026 06:22:00 +0000",
-      "tag": "btc",
-      "title_ko": "비트코인, 이더리움 및 XRP 매도로 $ 15억의 레버리지 암호화폐 베팅이 사라집니다",
-      "desc_ko": "가격 상승에 대한 베팅은 강제 폐쇄의 거의 84% 를 차지했으며, 바이낸스는 전체의 거의 절반을 처리했습니다. 이후 반등은 공매도를 잡기 시작했습니다."
+      "title": "The stock market&#x2019;s front-runners stumbled in October. Here&#x2019;s where the smart money is moving now.",
+      "description": "U.S. stocks saw a stronger reversal in fortunes in October, as worries about dwindling free cash flows and rising borrowing costs threw a wrench into the works of the artificial-intelligence trade.",
+      "link": "https://www.marketwatch.com/story/the-stock-markets-front-runners-stumbled-in-october-heres-where-the-smart-money-is-moving-now-f901472a?mod=mw_rss_topstories",
+      "pubDate": "Sat, 31 Oct 2026 13:01:00 GMT",
+      "tag": "general",
+      "title_ko": "주식시장의 선두주자들은 10월에 비틀거렸다. 지금 스마트 머니가 움직이는 곳입니다.",
+      "desc_ko": "공짜 현금 흐름의 감소와 차입 비용의 증가에 대한 우려가 인공 지능 무역의 작품에 비틀 거렸기 때문에 미국 주식은 10 월에 더 강한 반전을 보였습니다."
     },
     {
-      "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
-      "description": "A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected.",
-      "link": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
-      "pubDate": "Fri, 30 Oct 2026 05:45:27 +0000",
-      "tag": "btc",
-      "title_ko": "XRP 원장 개발자는 '제한된' 토큰을 보유할 수 있는 사람에 대한 규칙을 강화합니다",
-      "desc_ko": "일련의 수정사항을 통해 누가 네트워크에서 허가된 토큰을 보유할 수 있는지 확인할 수 있습니다. XRP 원장 재단은 영향을 받은 사용자가 없다고 말합니다."
+      "title": "If you really want to help your adult kids and grandkids, give them money while you&#x2019;re still alive",
+      "description": "How to manage &#x201c;giving while living&#x201d; without endangering your own retirement.",
+      "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+      "pubDate": "Sat, 31 Oct 2026 13:00:00 GMT",
+      "tag": "general",
+      "title_ko": "성인 자녀와 손주들을 정말로 돕고 싶다면, 살아있는 동안 그들에게 돈을 주십시오.",
+      "desc_ko": "자신의 은퇴를 위험에 빠뜨리지 않고 \"살아있는 동안 기부\" 를 관리하는 방법."
     },
     {
-      "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
-      "description": "CoinDCX has restricted new futures positions after Binance’s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer funds remain unaffected, the exchange said.",
-      "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
-      "pubDate": "Fri, 30 Oct 2026 05:43:07 +0000",
-      "tag": "btc",
-      "title_ko": "바이낸스는 선물 거래를 억제하면서 인도 최대의 암호화폐 거래소를 해킹합니다.",
-      "desc_ko": "CoinDCX는 Binance의 보안 사고로 주요 유동성 공급자가 중단된 후 새로운 선물 포지션을 제한했습니다. 거래소는 예금, 인출 및 고객 자금은 영향을 받지 않는다고 말했다."
+      "title": "This Halloween, are full-size candy bars a better deal than fun-sized ones?",
+      "description": "Several TikTokers influencers claim you can save money and be the coolest house on the block with bigger candy this year. Let&#x2019;s see how that adds up.",
+      "link": "https://www.marketwatch.com/story/this-halloween-are-king-sized-candy-bars-a-better-deal-than-fun-sized-ones-992da0d9?mod=mw_rss_topstories",
+      "pubDate": "Sat, 31 Oct 2026 12:37:00 GMT",
+      "tag": "general",
+      "title_ko": "이번 할로윈에는 풀사이즈 캔디바가 재미있는 캔디바보다 더 좋은가요?",
+      "desc_ko": "여러 TikTokers 인플루언서들은 올해 더 큰 사탕으로 돈을 절약하고 블록에서 가장 멋진 집이 될 수 있다고 주장합니다. 그것이 어떻게 더해지는지 봅시다."
+    },
+    {
+      "title": "Nvidia&#x2019;s Megaspeed ties show potential blind spots in the U.S. effort to block China from accessing advanced chips",
+      "description": "Nvidia CEO Jensen Huang&#x2019;s business meetings are routine practice and existing U.S. export controls largely miss the cloud, experts say.",
+      "link": "https://www.marketwatch.com/story/nvidias-megaspeed-ties-show-potential-blind-spots-in-the-u-s-effort-to-block-china-from-accessing-advanced-chips-e75d541a?mod=mw_rss_topstories",
+      "pubDate": "Sat, 31 Oct 2026 12:30:00 GMT",
+      "tag": "general",
+      "title_ko": "엔비디아의 메가스피드 관계는 중국이 첨단 칩에 접근하는 것을 차단하려는 미국의 노력에 잠재적인 맹점을 보여줍니다.",
+      "desc_ko": "전문가들은 엔비디아 CEO 젠슨 황 (Jensen Huang) 의 비즈니스 미팅은 일상적인 관행이며 기존의 미국 수출 통제는 대부분 클라우드를 놓치고 있다고 말한다."
+    },
+    {
+      "title": "These 10 megadonors have spent a total of $1 billion on the midterm elections",
+      "description": "They&#x2019;ve helped turn this year&#x2019;s midterms into &#x201c;the most expensive election cycle on record.&#x201d;",
+      "link": "https://www.marketwatch.com/story/these-10-megadonors-have-spent-a-total-of-1-billion-on-the-midterm-elections-0dc279cf?mod=mw_rss_topstories",
+      "pubDate": "Sat, 31 Oct 2026 12:00:00 GMT",
+      "tag": "general",
+      "title_ko": "이 10명의 메가돈은 중간 선거에 총 10억 달러 ($) 를 지출했습니다.",
+      "desc_ko": "그들은 올해의 중간고사를 \"기록상 가장 비싼 선거 주기\" 로 바꾸는 데 도움을 주었습니다."
     },
     {
       "title": "Grand Theft Callout: &#x2018;GTA 6&#x2019; fans are missing work on the game&#x2019;s release day because they &#x2018;don&#x2019;t want to wait&#x2019; anymore",
@@ -315,51 +360,6 @@
       "tag": "general",
       "title_ko": "워시는 연방준비제도 (Fed) 가 더 적게 말하기를 원합니다. 두 공무원이 투명성을 높이기 위해 노력하고 있습니다.",
       "desc_ko": "연준 관리들은 인플레이션에 맞서기 위해 더 많은 금리 인상이 필요하다고 말한다."
-    },
-    {
-      "title": "In a wild October for markets, these stocks were the biggest winners and losers",
-      "description": "Many Big Tech stocks were hit hard but the S&P 500 showed strength under the surface, with a majority of stocks showing gains for the month.",
-      "link": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 20:52:00 GMT",
-      "tag": "general",
-      "title_ko": "시장을 위한 와일드한 10월, 이 주식은 가장 큰 승자와 패자였습니다.",
-      "desc_ko": "많은 빅 테크 주식이 큰 타격을 입었지만 S&P 500은 표면적으로 강세를 보였으며, 대다수의 주식이 이달의 이익을 나타냈다."
-    },
-    {
-      "title": "Why Intel&#x2019;s stock saw its worst day in decades &#x2014; and a $140 billion wipeout",
-      "description": "Intel&#x2019;s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
-      "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 20:48:00 GMT",
-      "tag": "general",
-      "title_ko": "인텔의 주식이 수십 년 만에 최악의 날을 맞이한 이유 — 그리고 1,400억 달러 ($) 의 전멸",
-      "desc_ko": "인텔의 PC 사업은 메모리 칩 가격이 수요를 감소시키고 기업 IT 팀이 노트북에 대한 예산이 적어짐에 따라 압박을 받고 있습니다."
-    },
-    {
-      "title": "Reddit&#x2019;s stock logs its biggest one-day drop ever. It&#x2019;s not the last of the bad news, analysts say.",
-      "description": "",
-      "link": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 20:42:00 GMT",
-      "tag": "general",
-      "title_ko": "Reddit의 주식은 사상 최대의 하루 하락을 기록합니다. 분석가들은 이것이 나쁜 소식의 마지막은 아니라고 말합니다.",
-      "desc_ko": null
-    },
-    {
-      "title": "Microsoft is winning the cloud wars and becoming Wall Street&#x2019;s new golden child",
-      "description": "Various factors indicate that Microsoft is in a better financial position than its cloud rivals, analysts say.",
-      "link": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 20:29:00 GMT",
-      "tag": "general",
-      "title_ko": "Microsoft는 클라우드 전쟁에서 승리하고 월스트리트의 새로운 황금 자녀가되고 있습니다.",
-      "desc_ko": "분석가들은 다양한 요인이 Microsoft가 클라우드 라이벌보다 더 나은 재무 상태에 있음을 나타냅니다."
-    },
-    {
-      "title": "AMD&#x2019;s stock slides after Intel earnings reveal two big issues",
-      "description": "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD may be suffering from the same problems.",
-      "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 20:28:00 GMT",
-      "tag": "general",
-      "title_ko": "Intel 수입 이후 AMD의 주가 슬라이드에는 두 가지 큰 문제가 드러납니다.",
-      "desc_ko": "인텔은 충분한 AI 서버 칩을 만들기 위해 고군분투하고 있으며 약한 PC 시장을 다루고 있습니다. 투자자들은 AMD가 동일한 문제로 고통받을 수 있는 정도를 곧 알게 될 것입니다."
     }
   ],
   "assets": {
