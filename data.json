@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T09:43:23.570648+00:00",
+  "updated_at": "2026-11-01T16:25:35.963698+00:00",
   "news": [
     {
       "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here&apos;s their edge",
@@ -137,6 +137,51 @@
       "desc_ko": "관세청은 9월 무역 데이터를 수요일에 발표했습니다."
     },
     {
+      "title": "The key races to watch for the 2026 election",
+      "description": "While crypto isn't a major issue in the 2026 election, the industry will be shaped by who takes office in January. Here are the main races CoinDesk is tracking.",
+      "link": "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election",
+      "pubDate": "Sun, 01 Nov 2026 15:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "2026년 선거를 지켜봐야 할 핵심 레이스",
+      "desc_ko": "2026년 선거에서 암호화폐가 큰 이슈는 아니지만, 업계는 1월에 누가 취임할 것인가에 따라 결정될 것입니다. 다음은 CoinDesk가 추적하고 있는 주요 레이스입니다."
+    },
+    {
+      "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
+      "description": "Providers are betting trading, lending and staking revenue can cover rewards and turn card users into profitable customers.",
+      "link": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
+      "pubDate": "Sun, 01 Nov 2026 15:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "암호화 카드 신생 기업은 큰 보상으로 충성도를 사기 위해 손실을 키우고 있습니다",
+      "desc_ko": "제공자는 거래, 대출 및 스테이킹 수익을 베팅하여 보상을 충당하고 카드 사용자를 수익성 있는 고객으로 전환할 수 있습니다."
+    },
+    {
+      "title": "Crypto PACs made big Republican push in final weeks before November 3 election",
+      "description": "Even as polling and online wagers put Democrats at a high chance to claim greater power in Congress, the industry's high-profile support has gone the other direction.",
+      "link": "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election",
+      "pubDate": "Sun, 01 Nov 2026 14:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "Crypto PAC는 11 월 3 일 선거를 앞두고 마지막 몇 주 동안 공화당을 크게 밀어 붙였습니다.",
+      "desc_ko": "여론 조사와 온라인 베팅으로 인해 민주당이 의회에서 더 큰 권력을 차지할 확률이 높음에도 불구하고 업계의 높은 지지율은 다른 방향으로 나아갔습니다."
+    },
+    {
+      "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
+      "description": "The industry's $63 million question revolves around whether its political adversary in Ohio rides the Trump backlash back into the Senate.",
+      "link": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year",
+      "pubDate": "Sun, 01 Nov 2026 13:00:00 +0000",
+      "tag": "btc",
+      "title_ko": "셰로드 브라운 (Sherrod Brown) 의 오하이오 엣지 (Ohio edge) 가 내년 암호화폐 시장을 위협하고 있다.",
+      "desc_ko": "업계의 $ 63,000,000 질문은 오하이오의 정치적 적대자가 트럼프의 반발을 타고 상원으로 돌아가는지 여부를 중심으로 돌아갑니다."
+    },
+    {
+      "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+      "description": "Binance reopens customer withdrawals following a record $6.3 billion exploit. Bitcoin leads the first phase.",
+      "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+      "pubDate": "Sun, 01 Nov 2026 10:35:42 +0000",
+      "tag": "btc",
+      "title_ko": "바이낸스는 $ 6.3 billion 해킹 후 비트코인으로 시작하는 단계에서 암호화폐 인출을 엽니다",
+      "desc_ko": "Binance는 기록적인 $ 63억 착취에 따라 고객 인출을 재개합니다. 비트코인은 첫 번째 단계를 리드합니다."
+    },
+    {
       "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
       "description": "While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing.",
       "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
@@ -227,49 +272,40 @@
       "desc_ko": "Next Technology Holding은 5,833 BTC에 대한 판매 또는 대출을 승인할 때 교환 보안 및 양자 컴퓨팅 위험을 언급했습니다. 바이낸스에서 보유한 코인은 하나도 없습니다."
     },
     {
-      "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
-      "description": "The Binance hack has revived debates about whether decentralization is the digital asset industry’s greatest security advantage or its biggest point of weakness.",
-      "link": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion",
-      "pubDate": "Sat, 31 Oct 2026 12:00:00 +0000",
-      "tag": "btc",
-      "title_ko": "$ 63억 바이낸스 해킹 역설: 중앙 집중화는 해킹을 가능하게 만들었지만 $ 30억을 절약했습니다.",
-      "desc_ko": "바이낸스 해킹은 탈중앙화가 디지털 자산 산업의 가장 큰 보안 이점인지 아니면 가장 큰 약점인지에 대한 논쟁을 부활시켰습니다."
+      "title": "Apple&#x2019;s new earnings era begins at a critical time for Big Tech",
+      "description": "A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus is managing inflated memory prices and a tougher backdrop for consumer spending.",
+      "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+      "pubDate": "Sun, 01 Nov 2026 15:00:00 GMT",
+      "tag": "general",
+      "title_ko": "Apple의 새로운 수익 시대는 빅 테크의 중요한 시기에 시작됩니다.",
+      "desc_ko": "애플의 희귀한 월요일 수익 보고서를 통해 투자자들은 존 테르누스 신임 CEO가 어떻게 부풀려진 메모리 가격을 관리하고 있는지, 그리고 소비자 지출의 배경을 엿볼 수 있습니다."
     },
     {
-      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
-      "description": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX’s disclosed holdings. Blockchain investigators link the attack to North Korea.",
-      "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
-      "pubDate": "Sat, 31 Oct 2026 05:01:32 +0000",
-      "tag": "btc",
-      "title_ko": "바이낸스에서 도난당한 비트코인은 테슬라의 보유고를 상회하며 엘살바도르 준비금의 두 배가 넘습니다.",
-      "desc_ko": "18,270 BTC의 가치는 약 14억 $ 이며 SpaceX의 공개 보유 코인 442개 내에서 제공됩니다. 블록체인 조사관은 이 공격을 북한과 연결합니다."
+      "title": "This is the biggest threat to the AI-powered bull market",
+      "description": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
+      "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
+      "pubDate": "Sun, 01 Nov 2026 14:00:00 GMT",
+      "tag": "general",
+      "title_ko": "이는 AI 기반의 황소 시장에 대한 가장 큰 위협입니다.",
+      "desc_ko": "블록버스터 수익 성장은 2026년 주식 시장에 더 큰 힘을 불어넣었습니다. 2027년에는 그 엔진이 멈출 수도 있습니다."
     },
     {
-      "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
-      "description": "Anxiety about the AI boom has sent the Nasdaq 100 slumping by about 10% in just three weeks since hitting a record high on October 6, including a 4.5% drop on Friday.",
-      "link": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
-      "pubDate": "Sat, 31 Oct 2026 00:48:56 +0000",
-      "tag": "btc",
-      "title_ko": "OpenAI는 AI 불안감 속에서 자금 조달 및 평가 목표를 삭감한다고 보고했습니다.",
-      "desc_ko": "AI 호황에 대한 불안감은 10월 6일 금요일 4.5% 하락을 포함해 사상 최고치를 기록한 이후 3주 만에 나스닥 100을 약 10% 하락시켰습니다."
+      "title": "America is doing better than you think. Your algorithm is just hiding it.",
+      "description": "The bottom half of Americans has more than doubled its net worth since 2019. You wouldn&#x2019;t know it from scrolling social media.",
+      "link": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
+      "pubDate": "Sun, 01 Nov 2026 13:00:00 GMT",
+      "tag": "general",
+      "title_ko": "미국은 당신이 생각하는 것보다 더 잘하고 있습니다. 당신의 알고리즘은 단지 그것을 숨기고 있습니다.",
+      "desc_ko": "미국인의 하반기는 2019 년 이후 순자산이 두 배 이상 증가했습니다. 소셜 미디어를 스크롤하면 알 수 없습니다."
     },
     {
-      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
-      "description": "Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question whether smaller victims would get the same protection.",
-      "link": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
-      "pubDate": "Fri, 30 Oct 2026 19:55:00 +0000",
-      "tag": "btc",
-      "title_ko": "바이낸스 해킹 자산 동결로 분열된 전문가, 복구는 또 다른 문제라고 경고",
-      "desc_ko": "테더, 서클 등은 도난당한 암호화폐로 수십억 달러를 차단하기 위해 몇 시간 만에 움직였지만, 법률 전문가들은 더 작은 피해자가 동일한 보호를 받을 수 있을지에 대해 의문을 제기합니다."
-    },
-    {
-      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-      "description": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday.",
-      "link": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
-      "pubDate": "Fri, 30 Oct 2026 16:31:17 +0000",
-      "tag": "btc",
-      "title_ko": "Binance는 $ 6.3 billion exploit에서 더 넓은 침해를 발견하고 일요일 철수 재시작을 목표로합니다.",
-      "desc_ko": "리처드 텡 CEO는 해커들이 증거를 지우고 보안 검사를 우회했다고 말했다. 바이낸스는 월요일에 준비금 증명을 발표할 계획입니다."
+      "title": "Who really wins under Trump&#x2019;s economy? Coastal liberal elites who hate him.",
+      "description": "In other words, not the people Republicans likely intended.",
+      "link": "https://www.marketwatch.com/story/who-really-wins-under-trumps-economy-coastal-liberal-elites-who-hate-him-d74c63cb?mod=mw_rss_topstories",
+      "pubDate": "Sun, 01 Nov 2026 13:00:00 GMT",
+      "tag": "general",
+      "title_ko": "트럼프의 경제에서 과연 누가 이길까요? 그를 증오하는 해안가 자유주의 엘리트들.",
+      "desc_ko": "다시 말해, 공화당이 의도한 것은 아닙니다."
     },
     {
       "title": "My abusive ex-husband promised $20,000 for our kids&#x2019; education. Now he refuses to pay. Is he legally obligated?",
@@ -324,42 +360,6 @@
       "tag": "general",
       "title_ko": "콜라용 커튼인가요? 소셜 시큐리티를 절약하는 것은 생활비 조정을 변경하는 것을 의미할 수 있습니다.",
       "desc_ko": "몇 가지 제안은 퇴직자가 인플레이션 보호를 받는 방식을 변경하는 것을 고려합니다. 비용은 다음과 같습니다."
-    },
-    {
-      "title": "Caregivers are now spending more than $11,000 a year out of pocket&#x2014;up 60% in five years",
-      "description": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
-      "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
-      "pubDate": "Sat, 31 Oct 2026 18:10:00 GMT",
-      "tag": "general",
-      "title_ko": "간병인은 이제 5 년 동안 주머니에서 연간 $ 11,000 이상을 지출하고 있습니다.",
-      "desc_ko": "AARP 연구는 가족의 재정적 희생과 장기적 영향을 보여줍니다."
-    },
-    {
-      "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
-      "description": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
-      "link": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
-      "pubDate": "Sat, 31 Oct 2026 17:26:00 GMT",
-      "tag": "general",
-      "title_ko": "Medicare는 AI를 사용하여 환자 치료를 사전 승인했으며, 즉시 의료 서비스가 크게 감소했습니다.",
-      "desc_ko": "메디케어는 낭비적인 의료 지출을 목표로 사전 승인을 수행하기 위해 AI 사용을 테스트하고 있습니다."
-    },
-    {
-      "title": "80% of workers make this 401(k)  mistake when they retire",
-      "description": "Other tax repercussions crop up down the road because balances build up, and RMDs get complicated",
-      "link": "https://www.marketwatch.com/story/whats-the-first-thing-most-people-do-with-their-401-k-after-they-retire-nothing-8a606518?mod=mw_rss_topstories",
-      "pubDate": "Sat, 31 Oct 2026 16:46:00 GMT",
-      "tag": "general",
-      "title_ko": "80% 의 근로자가 은퇴 할 때이 401 (k) 실수를합니다.",
-      "desc_ko": "잔액이 쌓이고 RMD가 복잡해지기 때문에 다른 세금 파급 효과가 발생합니다."
-    },
-    {
-      "title": "Want guaranteed income in retirement without an annuity? Try laddering I bonds.",
-      "description": "The new I-bond interest rate could be 5.5% or 5.4%, but that shouldn&#x2019;t change your strategy.",
-      "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
-      "pubDate": "Sat, 31 Oct 2026 16:02:00 GMT",
-      "tag": "general",
-      "title_ko": "퇴직 시 연금 없이 수입을 보장받고 싶으신가요? I 본드를 사다리타기 해보세요.",
-      "desc_ko": "새로운 I-채권 이자율은 5.5% 또는 5.4% 일 수 있지만 전략을 변경해서는 안 됩니다."
     }
   ],
   "assets": {
@@ -2000,12 +2000,12 @@
         1326.81005859375,
         1340.3399658203125,
         1337.97998046875,
-        1335.0999755859375
+        1333.43994140625
       ],
-      "last": 1335.0999755859375,
-      "chg_pct": -0.21525022233916496,
-      "rsi14": 45.64652150183669,
-      "ma20": 1334.3424926757812
+      "last": 1333.43994140625,
+      "chg_pct": -0.3393204030533727,
+      "rsi14": 44.58475536057272,
+      "ma20": 1334.2594909667969
     },
     "jpy": {
       "live": true,
