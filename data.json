@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-07T13:41:34.885702+00:00",
+  "updated_at": "2026-11-07T18:19:02.009152+00:00",
   "news": [
+    {
+      "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+      "description": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
+      "link": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+      "pubDate": "Sat, 07 Nov 2026 16:02:33 GMT",
+      "tag": "ndx",
+      "title_ko": "의회의 새로운 메이크업을 앞두고 헬스케어 주식의 예후가 불확실한 이유",
+      "desc_ko": "민주당이 의회를 장악할 준비를 하면서 헬스케어 주식은 모멘텀을 찾는 데 어려움을 겪을 수 있습니다."
+    },
+    {
+      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+      "description": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+      "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+      "pubDate": "Sat, 07 Nov 2026 15:23:46 GMT",
+      "tag": "ndx",
+      "title_ko": "버크셔 해서웨이 (Berkshire Hathaway) 는 3분기 수익이 감소함에 따라 매수세가 두 배 이상 증가했습니다.",
+      "desc_ko": "버크셔 해서웨이 (Berkshire Hathaway) 는 토요일에 영업 및 전체 이익이 타격을 입으면서 3분기 동안 주식 환매를 가속화했다고 밝혔다."
+    },
     {
       "title": "Americans are on a &apos;treadmill of high inflation&apos; and more rate hikes are likely, Fed&apos;s Daly says",
       "description": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
@@ -119,22 +137,22 @@
       "desc_ko": "알베르토 무살렘 (Alberto Musalem) 연방준비제도이사회 (Federal Reserve President) 와 로리 로건 (Lorie Logan) 연방준비제도이사회 (Federal Reserve President) 의 발언은 연준 (Fed) 의 지도자들이 다음에 어떤 일이 벌어질"
     },
     {
-      "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
-      "description": "Coinbase posted better-than-expected earnings in the third quarter, largely due to a recovery in the cryptocurrency market.",
-      "link": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
-      "pubDate": "Thu, 29 Oct 2026 21:38:16 GMT",
-      "tag": "ndx",
-      "title_ko": "3분기 코인베이스 당기순이익 66% 급증, 비트코인 투자이익 수혜",
-      "desc_ko": "코인베이스는 3분기에 예상보다 더 나은 수익을 기록했는데, 이는 주로 암호화폐 시장의 회복으로 인한 것입니다."
+      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "description": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
+      "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+      "pubDate": "Sat, 07 Nov 2026 17:36:46 +0000",
+      "tag": "btc",
+      "title_ko": "미국 재무부가 $ 160억 이상의 불법적 흐름으로 추정되는 암호화폐 거래소 MEXC를 차단하기 위해 움직입니다.",
+      "desc_ko": "재무부는 이란에 대한 캠페인의 일환으로 이 움직임을 청구했지만, 이 명령은 러시아 불법 금융에서 MEXC의 역할에 달려있다."
     },
     {
-      "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
-      "description": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
-      "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-      "pubDate": "Fri, 30 Oct 2026 20:18:49 GMT",
-      "tag": "ndx",
-      "title_ko": "일부 Polymarket 사용자 자금이 해커에 의해 도난당했습니다. 문제를 영국 당국에 교환하십시오.",
-      "desc_ko": "정전은 플랫폼이 미국 중간 선거 기간 동안 거래가 증가할 것으로 예상되기 며칠 전에 발생합니다."
+      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "description": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.",
+      "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+      "pubDate": "Sat, 07 Nov 2026 16:51:00 +0000",
+      "tag": "btc",
+      "title_ko": "Gnosis Pay 유출로 카드 번호, 집 주소 및 연결된 암호화폐 지갑 노출",
+      "desc_ko": "한 사용자는 노출된 데이터가 자신의 계정과 연결된 모든 암호화폐 지갑에 집 주소와 카드 번호를 연결하여 표적 사기의 위험을 높였다고 말했습니다."
     },
     {
       "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
@@ -254,112 +272,94 @@
       "desc_ko": "회사는 미국 고객과의 활동을 완전히 준수하는 미국 \"선물 수수료 상인\" 을 설립하려고 노력하고 있다고 밝혔지만, 시기는 불확실합니다."
     },
     {
-      "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
-      "description": "Anyone trying to move vulnerable bitcoin would have to put up matching collateral, giving prepared owners a chance to take both.",
-      "link": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
-      "pubDate": "Fri, 06 Nov 2026 01:30:00 +0000",
-      "tag": "btc",
-      "title_ko": "비트코인 개발자는 양자 도둑이 자신의 BTC를 잃게 만들기 위해 ‘지뢰’ 를 제안합니다",
-      "desc_ko": "취약한 비트코인을 옮기려는 사람은 매칭 담보를 올려야 하며, 준비된 소유자에게 두 가지를 모두 가져갈 기회를 주어야 합니다."
-    },
-    {
-      "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
-      "description": "The new DOJ task force will aid the recently designated U.S. \"SI Force\" by warding off bad actors backed by other nations, criminal groups or corporate fraud.",
-      "link": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
-      "pubDate": "Thu, 05 Nov 2026 18:59:45 +0000",
-      "tag": "btc",
-      "title_ko": "미국 법무부가 외국의 AI 위협을 방어하기 위해 힘을 모으고 있다.",
-      "desc_ko": "새로운 법무부 태스크포스는 다른 국가, 범죄 집단 또는 기업 사기의 지원을 받는 나쁜 행위자를 막아 최근 지정된 미국 \"SI Force\" 를 지원할 것입니다."
-    },
-    {
-      "title": "The AI trade is now counting on Anthropic&#x2019;s IPO &#x2014; but it couldn&#x2019;t be happening at a worse time",
-      "description": "The ongoing tech selloff is leading investors to wonder if Anthropic will delay its IPO or list at a discount.",
-      "link": "https://www.marketwatch.com/story/the-ai-trade-is-now-counting-on-anthropics-ipo-but-it-couldnt-be-happening-at-a-worse-time-8bd0f1c4?mod=mw_rss_topstories",
-      "pubDate": "Sat, 07 Nov 2026 13:30:00 GMT",
+      "title": "Democrats&#x2019; big election win revives a difficult Social Security question: Who pays?",
+      "description": "There are many ideas for saving Social Security. All of them will hurt.",
+      "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+      "pubDate": "Sat, 07 Nov 2026 17:43:00 GMT",
       "tag": "general",
-      "title_ko": "AI 거래는 이제 Anthropic의 IPO에 의존하고 있지만 더 나쁜 시기에 일어날 수는 없습니다.",
-      "desc_ko": "지속적인 기술 매각으로 인해 투자자들은 Anthropic이 IPO 또는 상장을 할인된 가격으로 연기할지 궁금해하고 있습니다."
+      "title_ko": "민주당의 큰 선거 승리는 어려운 사회 보장 질문을 되살립니다: 누가 지불합니까?",
+      "desc_ko": "소셜 시큐리티를 절약하기 위한 많은 아이디어가 있습니다. 모두 아프겠지."
     },
     {
-      "title": "&#x2018;I have no financial safety net&#x2019;: I&#x2019;m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-      "description": "&#x201c;Sometimes I wonder whether wealthier Americans should trade places with people like me.&#x201d;",
-      "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-      "pubDate": "Fri, 06 Nov 2026 21:45:00 GMT",
+      "title": "I&#x2019;m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+      "description": "Math may be cold and unemotional &#x2014; but finances are not.",
+      "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+      "pubDate": "Sat, 07 Nov 2026 17:33:00 GMT",
       "tag": "general",
-      "title_ko": "‘나는 재정적 안전망이 없다’: 나는 66 세이며, 사회 보장에 의존하고 $ 500의 저축을하고 있습니다. 나는 어떤 희망을 가지고 있는가?",
-      "desc_ko": "\"때로는 부유한 미국인들이 나와 같은 사람들과 장소를 교환해야 하는지 궁금합니다.\""
+      "title_ko": "저는 65세이며 560만 달러 ($) 이상의 가치가 있습니다. $ 200,000의 캠핑카를 살 수 있나요?",
+      "desc_ko": "수학은 차갑고 감정적이지 않을 수 있지만 재정적 문제는 그렇지 않습니다."
     },
     {
-      "title": "Elon Musk opens the door for a big SpaceX acquisition",
-      "description": "The rocket and satellite-internet company is looking to challenge telecom giants.",
-      "link": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
-      "pubDate": "Fri, 06 Nov 2026 21:45:00 GMT",
+      "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what&#x2019;s making them richer.",
+      "description": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
+      "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
+      "pubDate": "Sat, 07 Nov 2026 17:04:00 GMT",
       "tag": "general",
-      "title_ko": "일론 머스크 (Elon Musk) 가 대형 SpaceX 인수를 위한 문을 엽니다.",
-      "desc_ko": "로켓 및 위성 인터넷 회사는 통신 거대 기업에 도전하고자 합니다."
-    },
-    {
-      "title": "Data centers run on debt. That was a problem for bonds this year &#x2014; and it&#x2019;s only going to get worse.",
-      "description": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won&#x2019;t get any better with Democrats in control of Congress.",
-      "link": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
-      "pubDate": "Fri, 06 Nov 2026 21:37:00 GMT",
-      "tag": "general",
-      "title_ko": "데이터 센터는 부채로 운영됩니다. 그것은 올해 채권에 대한 문제였습니다 — 그리고 그것은 더 나빠질 것입니다.",
-      "desc_ko": "올해 AI 부채 발행은 투자자 포트폴리오를 압도했고, 실적 관점에서 실망했다. 민주당이 의회를 장악하면 자금 조달이 더 나아지지 않을 것입니다."
-    },
-    {
-      "title": "Nvidia, AMD and other chip stocks rebound &#x2014; but is relief from the &#x2018;violent&#x2019; selloff only temporary?",
-      "description": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade&#x2019;s favor.",
-      "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-      "pubDate": "Fri, 06 Nov 2026 21:24:00 GMT",
-      "tag": "general",
-      "title_ko": "엔비디아, AMD 및 기타 칩 주가가 반등하지만 ‘폭력적인‘ 매도에서 벗어난 것은 일시적입니까?",
-      "desc_ko": "분석가들은 AI 거래에 유리한 몇 가지 새로운 요인이 있지만 앞으로의 변동성에 대해 경고합니다."
-    },
-    {
-      "title": "&#x2018;It seems bizarre&#x2019;: We&#x2019;re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "description": "&#x201c;Our basic living expenses are covered by $110,000 in annual pensions and Social Security.&#x201d;",
-      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "pubDate": "Fri, 06 Nov 2026 21:15:00 GMT",
-      "tag": "general",
-      "title_ko": "‘기괴한 것 같습니다’: 우리는 80년대에 전통적인 IRA에서 $ 95만 달러를 받았습니다. 어드바이저가 Roth 전환을 추진하는 이유는 무엇인가요?",
-      "desc_ko": "\"우리의 기본 생활비는 연간 연금과 사회 보장에서 $ 110,000로 충당됩니다.\""
+      "title_ko": "가장 부유한 10% 의 미국인들이 다른 사람들보다 앞서고 있습니다. 이것이 그들을 더 부유하게 만드는 것입니다.",
+      "desc_ko": "가장 부유한 10% 의 순자산은 3년 전보다 $ 800,000 더 큽니다."
     },
     {
       "title": "&#x2018;It feels like he&#x2019;s quietly building a separate life&#x2019;: My husband inherited $500,000, but he refuses to spend it on our home",
       "description": "&#x201c;Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.&#x201d;",
       "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "pubDate": "Fri, 06 Nov 2026 21:15:00 GMT",
+      "pubDate": "Sat, 07 Nov 2026 17:01:00 GMT",
       "tag": "general",
       "title_ko": "‘별개의 삶을 조용히 짓고 있는 것 같은 느낌’: 남편은 $ 500,000를 상속받았지만, 남편은 우리 집에서 그 돈을 쓰기를 거부합니다.",
       "desc_ko": "\"저희 주방은 1999년부터 시작되었으며, 오븐은 특정 방식으로 문을 두드려야만 작동합니다.\""
     },
     {
-      "title": "Micron&#x2019;s stock is dirt cheap &#x2014;&#xa0;and that&#x2019;s igniting a fierce online debate",
-      "description": "Valuation purists see a ridiculously inexpensive stock, but some semiconductor investors say Micron&#x2019;s earnings power won&#x2019;t hold up.",
-      "link": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
-      "pubDate": "Fri, 06 Nov 2026 20:58:00 GMT",
+      "title": "The S&amp;P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+      "description": "The large-cap index is nowhere near as diversified as you think.",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+      "pubDate": "Sat, 07 Nov 2026 16:40:00 GMT",
       "tag": "general",
-      "title_ko": "마이크론의 주식은 흙이 싸다 — 그리고 그것은 치열한 온라인 논쟁에 불을 붙이고 있다",
-      "desc_ko": "밸류에이션 순수주의자들은 터무니없이 저렴한 주식을 보지만, 일부 반도체 투자자들은 마이크론의 수익력이 견디지 못할 것이라고 말합니다."
+      "title_ko": "S&amp;P 500은 AI에 위험하게 노출될 수 있습니다. 다음은 몇 가지 간단한 대안입니다.",
+      "desc_ko": "대문자 지수는 생각만큼 다양하지 않습니다."
+    },
+    {
+      "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
+      "description": "The tax brackets at the heart of Americans&#x2019; income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation&#x2019;s rekindled presence.",
+      "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
+      "pubDate": "Sat, 07 Nov 2026 16:30:00 GMT",
+      "tag": "general",
+      "title_ko": "2027년 세금 괄호가 열렸습니다. 표준 공제액과 소금세 감면액이 어떻게 되는지 알아보세요.",
+      "desc_ko": "미국 소득세 계산서의 핵심인 세금 괄호는 올해에 비해 2027년에 더 가파른 수준으로 조정될 것이며, 인플레이션의 재연된 존재를 강조할 것입니다."
+    },
+    {
+      "title": "I attend free meals hosted by people promoting annuities. I&#x2019;ve no intention of buying any. Should I stop going?",
+      "description": "&#x201c;Salespeople typically push annuities, Medicare plans and estate-planning services.&#x201d;",
+      "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
+      "pubDate": "Sat, 07 Nov 2026 16:30:00 GMT",
+      "tag": "general",
+      "title_ko": "나는 연금을 홍보하는 사람들이 주최하는 무료 식사에 참석합니다. 나는 어떤 것도 살 생각이 없다. 그만 가볼까?",
+      "desc_ko": "\"영업 사원은 일반적으로 연금, 메디케어 플랜 및 상속 계획 서비스를 추진합니다.\""
     },
     {
       "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
       "description": "&#x201c;My brother had no job and needed a place to live.&#x201d;",
       "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "pubDate": "Fri, 06 Nov 2026 20:15:00 GMT",
+      "pubDate": "Sat, 07 Nov 2026 16:00:00 GMT",
       "tag": "general",
       "title_ko": "93세의 아버지는 11시에 유언장을 바꾸었고, 동생은 $ 500,000의 재산을 모두 남겼습니다. 도전해도 될까요?",
       "desc_ko": "“오빠는 일자리가 없었고 살 곳이 필요했어요.”"
     },
     {
-      "title": "Cybertruck&#x2019;s run comes to an end as Musk kills off pricey pet project",
-      "description": "The Cybertruck failed to catch on with car buyers due to high prices and some notable recalls.",
-      "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
-      "pubDate": "Fri, 06 Nov 2026 18:54:00 GMT",
+      "title": "You follow the rules for smart stock trading. But are they the right rules?",
+      "description": "Apply the wisdom of investment pros to develop your own consistent methodology.",
+      "link": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
+      "pubDate": "Sat, 07 Nov 2026 16:00:00 GMT",
       "tag": "general",
-      "title_ko": "머스크가 값비싼 애완동물 프로젝트를 없애면서 사이버트럭의 운영은 끝이 난다.",
-      "desc_ko": "Cybertruck은 높은 가격과 주목할만한 리콜로 인해 자동차 구매자를 따라 잡지 못했습니다."
+      "title_ko": "스마트 주식 거래에 대한 규칙을 따릅니다. 하지만 이것이 올바른 규칙일까요?",
+      "desc_ko": "투자 전문가의 지혜를 적용하여 자신만의 일관된 방법론을 개발하십시오."
+    },
+    {
+      "title": "You&#x2019;re fired! But you can keep the laptop and insurance. And here&#x2019;s $10,000.",
+      "description": "Some tech companies are giving more generous severance packages, but here&#x2019;s what to keep in mind.",
+      "link": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
+      "pubDate": "Sat, 07 Nov 2026 15:44:00 GMT",
+      "tag": "general",
+      "title_ko": "당신은 해고되었습니다! 하지만 노트북과 보험을 유지할 수 있습니다. 그리고 여기 $ 10,000이 있습니다.",
+      "desc_ko": "일부 기술 회사는 더 관대한 퇴직금 패키지를 제공하고 있지만, 여기에 유의해야 할 사항이 있습니다."
     }
   ],
   "assets": {
