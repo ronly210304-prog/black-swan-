@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T18:19:02.009152+00:00",
+  "updated_at": "2026-11-07T22:09:35.286365+00:00",
   "news": [
     {
       "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
@@ -137,6 +137,15 @@
       "desc_ko": "알베르토 무살렘 (Alberto Musalem) 연방준비제도이사회 (Federal Reserve President) 와 로리 로건 (Lorie Logan) 연방준비제도이사회 (Federal Reserve President) 의 발언은 연준 (Fed) 의 지도자들이 다음에 어떤 일이 벌어질"
     },
     {
+      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "description": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices.",
+      "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+      "pubDate": "Sat, 07 Nov 2026 19:13:16 +0000",
+      "tag": "btc",
+      "title_ko": "일부 유럽 국가의 바이낸스 사용자는 연말까지 계정이 폐쇄되고 수수료가 부과되기 전에 암호화폐를 가져오라고 말했습니다.",
+      "desc_ko": "해당 계정은 12월 31일에 해지될 예정입니다. 스페인, 프랑스, 폴란드의 유저도 비슷한 신고를 받았다고 합니다."
+    },
+    {
       "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
       "description": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
       "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
@@ -263,13 +272,40 @@
       "desc_ko": "NU7은 블록 사이의 목표 시간을 25초로 단축하고, 개인 결제를 찾기 위해 작업 지갑이 수행해야 하는 작업을 줄이며, 향후 채굴자를 위해 수수료를 별도로 책정합니다."
     },
     {
-      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
-      "description": "The company said it's trying to establish a U.S. \"futures commission merchant\" with full compliance for activity with U.S. clients, though the timing is uncertain.",
-      "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
-      "pubDate": "Fri, 06 Nov 2026 02:24:23 +0000",
-      "tag": "btc",
-      "title_ko": "국내 선물 플랫폼으로 미국 규제 고개를 끄덕이려는 하이퍼 유동성 국채 회사",
-      "desc_ko": "회사는 미국 고객과의 활동을 완전히 준수하는 미국 \"선물 수수료 상인\" 을 설립하려고 노력하고 있다고 밝혔지만, 시기는 불확실합니다."
+      "title": "This retired professor has reinvented himself &#x2014; as a Taylor Swift scholar",
+      "description": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he&#x2019;s a successful podcaster at 72.",
+      "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "pubDate": "Sat, 07 Nov 2026 20:48:00 GMT",
+      "tag": "general",
+      "title_ko": "이 은퇴한 교수는 테일러 스위프트 학자로서 자신을 재창조했습니다.",
+      "desc_ko": "그의 조카는 그의 은퇴를 설득하여 테일러 스위프트의 가사를 분석했습니다. 이제 그는 72세의 팟캐스터로 성공했습니다."
+    },
+    {
+      "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
+      "description": "&#x201c;I haven&#x2019;t committed to the strategy yet and would appreciate some independent perspectives.&#x201d;",
+      "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+      "pubDate": "Sat, 07 Nov 2026 20:36:00 GMT",
+      "tag": "general",
+      "title_ko": "내 조언자를 두 번째로 추측: 이 시장에서 연금이 올바른 움직임입니까?",
+      "desc_ko": "\"저는 아직 이 전략에 전념하지 않았으며 독립적인 관점을 가져주시면 감사하겠습니다.\""
+    },
+    {
+      "title": "Here are the 2027 capital-gains tax rates for each income level",
+      "description": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial information.",
+      "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+      "pubDate": "Sat, 07 Nov 2026 19:48:00 GMT",
+      "tag": "general",
+      "title_ko": "다음은 각 소득 수준에 대한 2027년 자본 이득 세율입니다.",
+      "desc_ko": "내년에 얼마나 많은 세금을 자본이득세로 납부하시겠습니까? 미 국세청 (IRS) 이 방금 중요한 정보를 공개했습니다."
+    },
+    {
+      "title": "Medicare prescription drug costs will jump 50% in 2027.&#xa0;Doing nothing could cost you.",
+      "description": "Don&#x2019;t sit on the sidelines during open enrollment.",
+      "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+      "pubDate": "Sat, 07 Nov 2026 19:20:00 GMT",
+      "tag": "general",
+      "title_ko": "메디케어 처방약 비용은 2027년에 50% 급증할 것입니다. 아무것도 하지 않으면 대가를 치르게 됩니다.",
+      "desc_ko": "공개 등록 중에 옆자리에 앉지 마십시오."
     },
     {
       "title": "Democrats&#x2019; big election win revives a difficult Social Security question: Who pays?",
@@ -324,42 +360,6 @@
       "tag": "general",
       "title_ko": "2027년 세금 괄호가 열렸습니다. 표준 공제액과 소금세 감면액이 어떻게 되는지 알아보세요.",
       "desc_ko": "미국 소득세 계산서의 핵심인 세금 괄호는 올해에 비해 2027년에 더 가파른 수준으로 조정될 것이며, 인플레이션의 재연된 존재를 강조할 것입니다."
-    },
-    {
-      "title": "I attend free meals hosted by people promoting annuities. I&#x2019;ve no intention of buying any. Should I stop going?",
-      "description": "&#x201c;Salespeople typically push annuities, Medicare plans and estate-planning services.&#x201d;",
-      "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
-      "pubDate": "Sat, 07 Nov 2026 16:30:00 GMT",
-      "tag": "general",
-      "title_ko": "나는 연금을 홍보하는 사람들이 주최하는 무료 식사에 참석합니다. 나는 어떤 것도 살 생각이 없다. 그만 가볼까?",
-      "desc_ko": "\"영업 사원은 일반적으로 연금, 메디케어 플랜 및 상속 계획 서비스를 추진합니다.\""
-    },
-    {
-      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "description": "&#x201c;My brother had no job and needed a place to live.&#x201d;",
-      "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "pubDate": "Sat, 07 Nov 2026 16:00:00 GMT",
-      "tag": "general",
-      "title_ko": "93세의 아버지는 11시에 유언장을 바꾸었고, 동생은 $ 500,000의 재산을 모두 남겼습니다. 도전해도 될까요?",
-      "desc_ko": "“오빠는 일자리가 없었고 살 곳이 필요했어요.”"
-    },
-    {
-      "title": "You follow the rules for smart stock trading. But are they the right rules?",
-      "description": "Apply the wisdom of investment pros to develop your own consistent methodology.",
-      "link": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
-      "pubDate": "Sat, 07 Nov 2026 16:00:00 GMT",
-      "tag": "general",
-      "title_ko": "스마트 주식 거래에 대한 규칙을 따릅니다. 하지만 이것이 올바른 규칙일까요?",
-      "desc_ko": "투자 전문가의 지혜를 적용하여 자신만의 일관된 방법론을 개발하십시오."
-    },
-    {
-      "title": "You&#x2019;re fired! But you can keep the laptop and insurance. And here&#x2019;s $10,000.",
-      "description": "Some tech companies are giving more generous severance packages, but here&#x2019;s what to keep in mind.",
-      "link": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
-      "pubDate": "Sat, 07 Nov 2026 15:44:00 GMT",
-      "tag": "general",
-      "title_ko": "당신은 해고되었습니다! 하지만 노트북과 보험을 유지할 수 있습니다. 그리고 여기 $ 10,000이 있습니다.",
-      "desc_ko": "일부 기술 회사는 더 관대한 퇴직금 패키지를 제공하고 있지만, 여기에 유의해야 할 사항이 있습니다."
     }
   ],
   "assets": {
