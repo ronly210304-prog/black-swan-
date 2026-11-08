@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T07:40:48.279120+00:00",
+  "updated_at": "2026-11-08T14:32:02.597977+00:00",
   "news": [
     {
       "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
@@ -137,6 +137,15 @@
       "desc_ko": "알베르토 무살렘 (Alberto Musalem) 연방준비제도이사회 (Federal Reserve President) 와 로리 로건 (Lorie Logan) 연방준비제도이사회 (Federal Reserve President) 의 발언은 연준 (Fed) 의 지도자들이 다음에 어떤 일이 벌어질"
     },
     {
+      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+      "description": "A Finnish startup has 30 bitcoin mining systems working as central heating, and at today’s prices each one earns slightly more than the electricity it burns.",
+      "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
+      "pubDate": "Sun, 08 Nov 2026 12:55:59 +0000",
+      "tag": "btc",
+      "title_ko": "이 핀란드 숙소는 비트코인 채굴자로부터 무료로 열을 공급받습니다 (BTC가 $ 70,000 이상인 경우).",
+      "desc_ko": "핀란드의 한 스타트업은 중앙 난방으로 작동하는 30개의 비트코인 채굴 시스템을 보유하고 있으며, 오늘날의 가격으로 각 시스템은 연소하는 전기보다 약간 더 많은 수익을 올리고 있습니다."
+    },
+    {
       "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
       "description": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices.",
       "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
@@ -263,13 +272,31 @@
       "desc_ko": "암호화 벤처는 거버넌스를 강화하기 위해 USD1 스테이블코인 준비금에서 수수료를 사용하여 토큰 구매에 자금을 지원할 수 있습니다."
     },
     {
-      "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
-      "description": "NU7 cuts the target time between blocks to 25 seconds, reduces the work wallets must do to find private payments and sets aside fees for future miners.",
-      "link": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
-      "pubDate": "Fri, 06 Nov 2026 05:14:48 +0000",
-      "tag": "btc",
-      "title_ko": "Zcash의 랜드마크 NU7 업그레이드가 적용되어 비공개 결제 속도 향상",
-      "desc_ko": "NU7은 블록 사이의 목표 시간을 25초로 단축하고, 개인 결제를 찾기 위해 작업 지갑이 수행해야 하는 작업을 줄이며, 향후 채굴자를 위해 수수료를 별도로 책정합니다."
+      "title": "&#x2018;We&#x2019;re losing to cottage cheese&#x2019;: The protein-maxxing craze is hurting cream-cheese sales",
+      "description": "U.S. cottage-cheese sales have more than doubled from levels seen in 2021.",
+      "link": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
+      "pubDate": "Sun, 08 Nov 2026 14:13:00 GMT",
+      "tag": "general",
+      "title_ko": "‘우리는 코티지 치즈에 지고 있습니다’: 단백질 맥싱 열풍이 크림 치즈 판매를 해치고 있습니다.",
+      "desc_ko": "미국 코티지 치즈 판매량은 2021년에 비해 두 배 이상 증가했습니다."
+    },
+    {
+      "title": "Stocks are moving in sync again for the first time in a while. There&#x2019;s just one problem.",
+      "description": "An increasingly divided U.S. equity market is enjoying a rare moment of unity. Unfortunately, it has coincided with the biggest selloff in more than a year.",
+      "link": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
+      "pubDate": "Sun, 08 Nov 2026 14:00:00 GMT",
+      "tag": "general",
+      "title_ko": "잠시 후 처음으로 주식이 다시 동기화됩니다. 단 한 가지 문제가 있습니다.",
+      "desc_ko": "갈수록 분열되는 미국 주식 시장은 드문 단합의 순간을 즐기고 있습니다. 안타깝게도 1년 만에 가장 큰 매도세를 기록했습니다."
+    },
+    {
+      "title": "This market signal called the tech selloff. Now it&#x2019;s sending another warning.",
+      "description": "Correlations between individual stocks recently hit a record low, and a reversion to the mean may not be a good thing for the market.",
+      "link": "https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories",
+      "pubDate": "Sun, 08 Nov 2026 12:00:00 GMT",
+      "tag": "general",
+      "title_ko": "이 시장 신호를 기술 매도라고 합니다. 이제 또 다른 경고가 전송됩니다.",
+      "desc_ko": "개별 주식 간의 상관관계는 최근 사상 최저치를 기록했으며, 평균으로의 전환은 시장에 좋지 않을 수 있습니다."
     },
     {
       "title": "This retired professor has reinvented himself &#x2014; as a Taylor Swift scholar",
@@ -333,33 +360,6 @@
       "tag": "general",
       "title_ko": "가장 부유한 10% 의 미국인들이 다른 사람들보다 앞서고 있습니다. 이것이 그들을 더 부유하게 만드는 것입니다.",
       "desc_ko": "가장 부유한 10% 의 순자산은 3년 전보다 $ 800,000 더 큽니다."
-    },
-    {
-      "title": "&#x2018;It feels like he&#x2019;s quietly building a separate life&#x2019;: My husband inherited $500,000, but he refuses to spend it on our home",
-      "description": "&#x201c;Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.&#x201d;",
-      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "pubDate": "Sat, 07 Nov 2026 17:01:00 GMT",
-      "tag": "general",
-      "title_ko": "‘별개의 삶을 조용히 짓고 있는 것 같은 느낌’: 남편은 $ 500,000를 상속받았지만, 남편은 우리 집에서 그 돈을 쓰기를 거부합니다.",
-      "desc_ko": "\"저희 주방은 1999년부터 시작되었으며, 오븐은 특정 방식으로 문을 두드려야만 작동합니다.\""
-    },
-    {
-      "title": "The S&amp;P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-      "description": "The large-cap index is nowhere near as diversified as you think.",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-      "pubDate": "Sat, 07 Nov 2026 16:40:00 GMT",
-      "tag": "general",
-      "title_ko": "S&amp;P 500은 AI에 위험하게 노출될 수 있습니다. 다음은 몇 가지 간단한 대안입니다.",
-      "desc_ko": "대문자 지수는 생각만큼 다양하지 않습니다."
-    },
-    {
-      "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
-      "description": "The tax brackets at the heart of Americans&#x2019; income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation&#x2019;s rekindled presence.",
-      "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
-      "pubDate": "Sat, 07 Nov 2026 16:30:00 GMT",
-      "tag": "general",
-      "title_ko": "2027년 세금 괄호가 열렸습니다. 표준 공제액과 소금세 감면액이 어떻게 되는지 알아보세요.",
-      "desc_ko": "미국 소득세 계산서의 핵심인 세금 괄호는 올해에 비해 2027년에 더 가파른 수준으로 조정될 것이며, 인플레이션의 재연된 존재를 강조할 것입니다."
     }
   ],
   "assets": {
