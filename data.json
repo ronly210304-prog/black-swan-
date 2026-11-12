@@ -1,13 +1,22 @@
 {
-  "updated_at": "2026-11-12T07:54:10.908426+00:00",
+  "updated_at": "2026-11-12T16:29:37.302052+00:00",
   "news": [
+    {
+      "title": "Oil prices mixed after Trump says no Iran deal needed: &apos;We&apos;ve got their Strait&apos;",
+      "description": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
+      "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "pubDate": "Thu, 12 Nov 2026 15:08:45 GMT",
+      "tag": "ndx",
+      "title_ko": "트럼프 대통령이 '이란과의 협상은 필요 없다. 호르무즈 해협은 이미 우리가 장악하고 있다'고 발언한 후 유가 혼조세",
+      "desc_ko": "도널드 트럼프 대통령의 최근 발언으로 미국과 이란 간 전쟁이 끝날 기미가 보이지 않는다는 우려가 제기된 후, 목요일 유가는 혼조세를 보였습니다."
+    },
     {
       "title": "China&apos;s Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
       "description": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
       "link": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
       "pubDate": "Thu, 12 Nov 2026 07:28:48 GMT",
       "tag": "ndx",
-      "title_ko": "Nvidia CEO 사건으로 주목받는 중국 국가안보부",
+      "title_ko": "엔비디아 CEO 사건으로 주목받는 중국 국가안보부",
       "desc_ko": "엔비디아의 젠슨 황 CEO가 중국 국가안보부(MSS)의 스파이로 추정되는 여성과 불륜 관계를 맺었다는 소식이 전해지면서 중국 국가안보부가 주목을 받고 있다."
     },
     {
@@ -16,8 +25,8 @@
       "link": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html",
       "pubDate": "Wed, 11 Nov 2026 19:16:23 GMT",
       "tag": "ndx",
-      "title_ko": "임상시험 및 의약품 승인과 연계된 예측 시장이 입법자들의 분노를 불러일으키다",
-      "desc_ko": "앤젤라 올스브룩스 상원의원과 론 와이든 상원의원은 보건복지부가 시장에서 발생하는 위험을 완화하기 위해 어떤 조치를 취했는지 묻고 있습니다."
+      "title_ko": "임상시험 및 의약품 승인과 연계된 예측 시장이 입법자들의 분노를 불러일으킴",
+      "desc_ko": "앤젤라 올스브룩스 상원의원과 론 와이든 상원의원은 보건복지부가 마켓플레이스에서 발생하는 위험을 완화하기 위해 어떤 조치를 취했는지 질문하고 있습니다."
     },
     {
       "title": "Fed&apos;s Goolsbee calls inflation report &apos;borderline disturbing&apos; as central bank weighs more hikes",
@@ -25,8 +34,8 @@
       "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
       "pubDate": "Wed, 11 Nov 2026 16:49:02 GMT",
       "tag": "ndx",
-      "title_ko": "연준의 굴스비 이사, 인플레이션 보고서를 '우려스러운 수준'이라고 평가하며 중앙은행의 추가 금리 인상 가능성 시사",
-      "desc_ko": "10월 소비자물가지수가 예상치를 웃돌면서 연방준비제도(Fed) 관계자들의 우려가 커지고 있다."
+      "title_ko": "연준의 굴스비 위원, 인플레이션 보고서를 '우려스러운 수준'이라고 평가하며 중앙은행의 추가 금리 인상 가능성 시사",
+      "desc_ko": "10월 소비자물가지수가 예상치를 웃돌면서 연방준비제도 관계자들의 우려가 커지고 있습니다."
     },
     {
       "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
@@ -35,7 +44,7 @@
       "pubDate": "Wed, 11 Nov 2026 07:47:54 GMT",
       "tag": "ndx",
       "title_ko": "알리바바, 엔비디아 칩 경쟁사인 T-Head 상장 계획 발표",
-      "desc_ko": "알리바바는 이미 9월 11일에 T-Head의 홍콩 증권거래소 상장을 비공개로 신청했다고 밝혔습니다."
+      "desc_ko": "알리바바는 이미 9월 11일에 T-Head의 홍콩 증권거래소 상장을 비공개로 신청했다고 밝혔다."
     },
     {
       "title": "U.S. gas prices fall below $4 for the first time since July",
@@ -53,7 +62,7 @@
       "pubDate": "Tue, 10 Nov 2026 13:00:01 GMT",
       "tag": "ndx",
       "title_ko": "Polymarket, 연간 수익이 18억 달러를 넘어섰다고 밝혀",
-      "desc_ko": "미국 거래소의 성장에 힘입어, 이 예측 시장 플랫폼의 현재 연간 예상 매출액은 18억 달러입니다."
+      "desc_ko": "미국 거래소의 성장에 힘입어, 이 예측 시장 플랫폼의 현재 연간 예상 매출액은 18억 달러에 달합니다."
     },
     {
       "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
@@ -61,7 +70,7 @@
       "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
       "pubDate": "Tue, 10 Nov 2026 17:13:44 GMT",
       "tag": "ndx",
-      "title_ko": "월러 연준 이사, 12월 금리 인상 가능성 언급하며 0.5%포인트 인상 가능성도 열어둬",
+      "title_ko": "월러 연준 이사, 12월 금리 인상 가능성 언급하며 0.5%p 인상 가능성도 열어둬",
       "desc_ko": "이 정책 입안자는 12월 금리 인상에 \"기울고 있다\"며 인플레이션 지표에 따라 0.5%포인트 인상을 지지할 수 있다고 밝혔습니다."
     },
     {
@@ -70,8 +79,8 @@
       "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
       "pubDate": "Mon, 09 Nov 2026 18:46:01 GMT",
       "tag": "ndx",
-      "title_ko": "Nvidia 조사 후 예측 시장에서 Jensen Huang의 퇴임 가능성은 낮음",
-      "desc_ko": "예측 시장의 트레이더들은 엔비디아 CEO가 가까운 시일 내에 사임할 가능성을 비교적 낮게 평가하고 있습니다."
+      "title_ko": "Nvidia 조사 후 예측 시장에서 Jensen Huang의 퇴사 가능성은 낮음",
+      "desc_ko": "예측 시장의 트레이더들은 엔비디아 CEO가 가까운 시일 내에 퇴임할 가능성을 비교적 낮게 평가하고 있습니다."
     },
     {
       "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
@@ -79,8 +88,8 @@
       "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
       "pubDate": "Mon, 09 Nov 2026 18:14:47 GMT",
       "tag": "ndx",
-      "title_ko": "골드만삭스 CEO 솔로몬, 시장 불안에도 불구하고 AI 자금 조달이 여전히 강력하다고 밝혀",
-      "desc_ko": "골드만삭스의 데이비드 솔로몬 CEO는 AI 주식의 조정과 데이터 센터를 둘러싼 정치적 불확실성에도 불구하고 AI 인프라에 대한 투자자들의 수요가 여전히 강력하다고 말합니다."
+      "title_ko": "골드만삭스 CEO 솔로몬, 시장 불안에도 불구하고 AI 금융은 여전히 탄탄하다고 밝혀",
+      "desc_ko": "골드만삭스의 데이비드 솔로몬 CEO는 AI 주식의 조정과 데이터 센터를 둘러싼 정치적 불확실성에도 불구하고 AI 인프라에 대한 투자자들의 수요가 여전히 강하다고 말합니다."
     },
     {
       "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
@@ -97,8 +106,8 @@
       "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
       "pubDate": "Sat, 07 Nov 2026 15:23:46 GMT",
       "tag": "ndx",
-      "title_ko": "버크셔 해서웨이, 실적 하락 속 3분기 자사주 매입 2배 이상 증가",
-      "desc_ko": "버크셔 해서웨이는 지난 11일(토) 영업이익과 전체 이익이 타격을 받음에 따라 3분기 자사주 매입을 가속화했다고 밝혔다."
+      "title_ko": "버크셔 해서웨이, 실적 감소에도 불구하고 3분기 자사주 매입 2배 이상 증가",
+      "desc_ko": "버크셔 해서웨이는 지난 11일, 영업이익과 전체 이익이 타격을 입으면서 3분기 동안 자사주 매입을 가속화했다고 밝혔다."
     },
     {
       "title": "Americans are on a &apos;treadmill of high inflation&apos; and more rate hikes are likely, Fed&apos;s Daly says",
@@ -106,8 +115,8 @@
       "link": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
       "pubDate": "Fri, 06 Nov 2026 19:05:00 GMT",
       "tag": "ndx",
-      "title_ko": "미 연준의 댈리 총재, \"미국인들은 '고물가 쳇바퀴'에 갇혀 있으며 추가 금리 인상이 예상된다\"고 밝힘",
-      "desc_ko": "샌프란시스코 연방준비은행의 메리 데일리 총재는 금요일 발표된 고용 보고서를 \"미국 근로자들에게 좋은 소식\"이라고 평가했지만, 인플레이션이 가계 재정에 미치는 압력에 대해서는 우려를 표명했습니다."
+      "title_ko": "미 연준의 댈리 총재는 미국인들이 '높은 인플레이션의 쳇바퀴'를 돌고 있으며 추가 금리 인상이 유력하다고 말합니다.",
+      "desc_ko": "샌프란시스코 연방준비은행의 메리 데일리 총재는 금요일 발표된 고용 보고서를 \"미국 노동자들에게 좋은 소식\"이라고 평가했지만, 인플레이션이 가계 재정에 미치는 압력에 대해서는 우려를 표명했습니다."
     },
     {
       "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
@@ -115,7 +124,7 @@
       "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
       "pubDate": "Fri, 06 Nov 2026 17:09:53 GMT",
       "tag": "ndx",
-      "title_ko": "CoreWeave 채권 수익률이 16%를 넘어서면서 AI ‘신용카드’ 비용이 높아지고 있습니다.",
+      "title_ko": "CoreWeave 채권 수익률이 16%를 넘어서면서 AI ‘신용카드’가 점점 더 비싸지고 있습니다.",
       "desc_ko": "Coreweave의 가파른 수익률은 투자자들이 데이터 센터의 둔화에 대해 우려하고 있음을 반영하여 AI 부채 시장의 긴장감을 보여줍니다. 다음은 무엇일까요?"
     },
     {
@@ -125,16 +134,133 @@
       "pubDate": "Fri, 06 Nov 2026 19:52:46 GMT",
       "tag": "ndx",
       "title_ko": "외부 단체들이 의회 민주당 의원들에게 트럼프보다 기업 이익에 초점을 맞출 것을 촉구",
-      "desc_ko": "민주당에 자문을 제공하는 단체와 전략가들은 민주당이 도널드 트럼프 대통령이 아닌 기업의 이익에 대해 조사 도구를 사용하도록 경고하고 있습니다."
+      "desc_ko": "민주당에 자문을 제공하는 단체와 전략가들은 민주당이 도널드 트럼프 대통령이 아닌 기업의 이익에 대해 조사 수단을 사용하도록 경고하고 있다."
     },
     {
-      "title": "Nasdaq drops into correction territory — here’s what typically happens next",
-      "description": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
-      "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-      "pubDate": "Fri, 06 Nov 2026 20:42:28 GMT",
-      "tag": "ndx",
-      "title_ko": "나스닥이 조정 국면에 진입했습니다. 일반적으로 그 다음에는 어떤 일이 일어날까요?",
-      "desc_ko": "나스닥이 조정 국면에 접어들면서 그간의 회복 이력이 주목받고 있습니다. 과거의 사례를 살펴보겠습니다."
+      "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+      "description": "The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stellar and Arc.",
+      "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+      "pubDate": "Thu, 12 Nov 2026 15:45:48 +0000",
+      "tag": "btc",
+      "title_ko": "DTCC, 월스트리트 토큰화 계획에 솔라나 추가, 2027년 출시 목표",
+      "desc_ko": "증권 인프라 대기업인 이 회사는 내년 로드맵을 스텔라(Stellar)와 아크(Arc)를 넘어 확장하면서 토큰화된 주식, ETF 및 미국 국채를 솔라나에 도입할 계획입니다."
+    },
+    {
+      "title": "Crypto for Advisors: The blockchain built to run financial markets",
+      "description": "",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
+      "pubDate": "Thu, 12 Nov 2026 15:34:29 +0000",
+      "tag": "btc",
+      "title_ko": "자문가를 위한 암호화폐: 금융 시장을 운영하기 위해 구축된 블록체인",
+      "desc_ko": null
+    },
+    {
+      "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
+      "description": "OSL offers a yield on USDGO only to professional investors, but Jupiter said its market lets other holders earn onchain at rates set by borrower demand.",
+      "link": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
+      "pubDate": "Thu, 12 Nov 2026 14:45:00 +0000",
+      "tag": "btc",
+      "title_ko": "Jupiter, Anchorage가 지원하는 USDGO를 10억 달러 규모의 Solana 대출 플랫폼에 추가",
+      "desc_ko": "OSL은 전문 투자자에게만 USDGO에 대한 수익률을 제공하지만, Jupiter는 자사 마켓에서 다른 보유자들이 차용자 수요에 따라 결정되는 금리로 온체인에서 수익을 올릴 수 있다고 밝혔습니다."
+    },
+    {
+      "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
+      "description": "The best thing industry leaders can do is to invest the time to ensure this country’s policymakers can experience the technology they’re regulating up close, writes Allie Page, executive director of American Innovation Project.",
+      "link": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
+      "pubDate": "Thu, 12 Nov 2026 14:24:51 +0000",
+      "tag": "btc",
+      "title_ko": "다음 의회는 AI와 신흥 기술에 대한 규정을 제정할 것입니다. 의원들은 먼저 해당 기술을 사용해 봐야 합니다.",
+      "desc_ko": "American Innovation Project의 전무 이사인 앨리 페이지(Allie Page)는 업계 리더들이 할 수 있는 최선의 일은 이 나라의 정책 입안자들이 규제하는 기술을 직접 경험할 수 있도록 시간을 투자하는 것이라고 말합니다."
+    },
+    {
+      "title": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
+      "description": "CFO Colette Kress takes over as interim CEO after Huang steps down immediately as president, chief executive and board member, as shares tumble.",
+      "link": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
+      "pubDate": "Thu, 12 Nov 2026 13:57:53 +0000",
+      "tag": "btc",
+      "title_ko": "Nvidia CEO 황이 공동 창립하고 30년 동안 이끌었던 회사에서 사임. 주가 폭락",
+      "desc_ko": "주가가 폭락하면서 황 사장이 사장, 최고경영자(CEO), 이사직에서 즉시 사임한 후 CFO 콜레트 크레스가 임시 CEO를 맡게 되었습니다."
+    },
+    {
+      "title": "Bitcoin weakness erases September's bullish signal",
+      "description": "Your day-ahead look for Nov. 12, 2026",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
+      "pubDate": "Thu, 12 Nov 2026 12:15:00 +0000",
+      "tag": "btc",
+      "title_ko": "비트코인 약세로 9월의 강세 신호가 사라졌습니다.",
+      "desc_ko": "2026년 11월 12일 내일 날씨 전망"
+    },
+    {
+      "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
+      "description": "The Series B funding round, led by Octagon Partners valued the London-based company at more than $100 million.",
+      "link": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
+      "pubDate": "Thu, 12 Nov 2026 12:04:42 +0000",
+      "tag": "btc",
+      "title_ko": "영국 은행 Griffin, 스테이블코인 결제 사업 확장을 위해 2천만 달러 조달",
+      "desc_ko": "옥타곤 파트너스(Octagon Partners)가 주도한 시리즈 B 투자 라운드에서 런던에 본사를 둔 이 회사의 가치는 1억 달러 이상으로 평가되었습니다."
+    },
+    {
+      "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+      "description": "Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves.",
+      "link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
+      "pubDate": "Thu, 12 Nov 2026 11:43:41 +0000",
+      "tag": "btc",
+      "title_ko": "이더리움 연구원들이 2027년 양자 방어 기술 개발을 목표로 더 빠른 블록을 포기합니다.",
+      "desc_ko": "Ethlabs는 지갑 소유자가 여전히 서명 방법을 직접 변경해야 하더라도 내년을 목표로 양자 내성 계정을 도입하고자 합니다."
+    },
+    {
+      "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
+      "description": "Bitcoin slips 0.7% as Nvidia falls on reports its board may oust CEO Jensen Huang, while U.S. spot bitcoin ETFs lose another $299.9 million.",
+      "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
+      "pubDate": "Thu, 12 Nov 2026 11:30:00 +0000",
+      "tag": "btc",
+      "title_ko": "ETF 자금 유출이 5일째에 접어들면서 비트코인이 엔비디아와 함께 하락세",
+      "desc_ko": "엔비디아가 이사회가 CEO 젠슨 황을 해임할 수 있다는 보도로 인해 하락하고, 미국 현물 비트코인 ETF가 2억 9,990만 달러를 추가로 손실하면서 비트코인이 0.7% 하락했습니다."
+    },
+    {
+      "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
+      "description": "More than half of those affected were contractors, a source told Reuters. The cuts follow investor pressure on founder Shayne Coplan.",
+      "link": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
+      "pubDate": "Thu, 12 Nov 2026 10:42:06 +0000",
+      "tag": "btc",
+      "title_ko": "Kalshi가 급성장하는 가운데 투자자들의 압박으로 Polymarket이 인력을 감축하다",
+      "desc_ko": "로이터 통신에 따르면, 이번 감축의 영향을 받은 인력 중 절반 이상이 계약직이었다고 합니다. 이번 감원은 투자자들이 창업자인 셰인 코플란에게 가한 압력에 따른 것입니다."
+    },
+    {
+      "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
+      "description": "The Japanese brokerage has held talks with potential buyers, including Marex, as its European business posts more losses.",
+      "link": "https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg",
+      "pubDate": "Thu, 12 Nov 2026 10:32:35 +0000",
+      "tag": "btc",
+      "title_ko": "유럽 내 손실이 4분기 연속 발생하자 노무라가 레이저 디지털 매각을 고려하고 있습니다.",
+      "desc_ko": "이 일본 증권사는 유럽 사업 부문이 더 많은 손실을 기록함에 따라 Marex를 포함한 잠재적 인수자들과 협상을 진행해 왔다."
+    },
+    {
+      "title": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
+      "description": "The Enforcement Directorate alleged illegal cross-border flows that violated India's foreign exchange laws.",
+      "link": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
+      "pubDate": "Thu, 12 Nov 2026 10:10:48 +0000",
+      "tag": "btc",
+      "title_ko": "인도의 금융 범죄 감시 기관, 불법적인 국경 간 거래 혐의로 암호화폐 거래소 CoinDCX 및 Delta에 대한 단속 실시",
+      "desc_ko": "집행국은 인도의 외환법을 위반하는 불법적인 국경 간 자금 흐름이 있었다고 주장했습니다."
+    },
+    {
+      "title": "Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
+      "description": "The Fed continued amping up its hawkishness on Thursday; meanwhile, existing home sales fell to their weakest level in 16 years.",
+      "link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
+      "pubDate": "Thu, 12 Nov 2026 09:15:04 +0000",
+      "tag": "btc",
+      "title_ko": "실시간 업데이트: 엔비디아의 황 회장이 사임하고 금리가 급등하면서 비트코인이 72,000달러 아래로 하락",
+      "desc_ko": "연준은 목요일에도 매파적 성향을 강화했습니다. 한편, 기존 주택 판매량은 16년 만에 최저 수준으로 하락했습니다."
+    },
+    {
+      "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
+      "description": "The sale follows the Winklevoss-founded crypto exchange’s retreat from several overseas markets as it restructures its business.",
+      "link": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
+      "pubDate": "Thu, 12 Nov 2026 09:07:00 +0000",
+      "tag": "btc",
+      "title_ko": "제미니, 영국 및 유럽 사업을 스테이블코인 결제사 KAST에 1천만 달러 미만으로 매각",
+      "desc_ko": "이번 매각은 윙클보스가 설립한 암호화폐 거래소가 사업을 재구성하면서 여러 해외 시장에서 철수한 데 따른 것입니다."
     },
     {
       "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
@@ -142,224 +268,98 @@
       "link": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
       "pubDate": "Thu, 12 Nov 2026 07:41:18 +0000",
       "tag": "btc",
-      "title_ko": "채굴 장비 매출이 96% 감소함에 따라 카나안이 자사주 매입을 위해 더 많은 비트코인을 매도할 수 있음",
-      "desc_ko": "Avalon 제조업체는 2천만 달러 규모의 자사주 매수 프로그램을 시작했으며, 9월 말 기준 비트코인 보유량의 대부분은 담보로 제공되거나 정기 예치 상품에 예치되었습니다."
-    },
-    {
-      "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
-      "description": "MSCI’s decision to exclude Strategy from its equity indices could hamper the company’s ability to buy more bitcoin, according to some analysts.",
-      "link": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
-      "pubDate": "Thu, 12 Nov 2026 07:00:37 +0000",
-      "tag": "btc",
-      "title_ko": "MSCI가 Strategy를 지수에서 제외하며, 이로 인해 비트코인 매수 메커니즘에 타격을 줄 수 있습니다.",
-      "desc_ko": "일부 애널리스트에 따르면, MSCI가 Strategy를 주식 지수에서 제외하기로 한 결정은 해당 회사가 더 많은 비트코인을 매수할 수 있는 능력을 저해할 수 있다고 합니다."
-    },
-    {
-      "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
-      "description": "The proposal would remove more than half of Zcash Community Grants' ZEC holdings from circulation and redirect its future block rewards into a new development and legal-defense fund.",
-      "link": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
-      "pubDate": "Thu, 12 Nov 2026 05:49:44 +0000",
-      "tag": "btc",
-      "title_ko": "Zcash 보유자, 보조금 기금에서 5천만 달러 상당의 ZEC 5만 개 인출에 대해 투표 예정",
-      "desc_ko": "이 제안은 Zcash 커뮤니티 보조금의 ZEC 보유량 중 절반 이상을 유통에서 제외하고 향후 블록 보상을 새로운 개발 및 법률 방어 기금으로 전환하는 것을 골자로 합니다."
-    },
-    {
-      "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
-      "description": "The flaw was fixed in October 2025 and kept quiet until Tuesday. It came out alongside a high-severity bug that could stop a miner from producing blocks until someone restarted it.",
-      "link": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
-      "pubDate": "Thu, 12 Nov 2026 05:22:31 +0000",
-      "tag": "btc",
-      "title_ko": "Bitcoin Core, Tor에서 수천 개의 노드가 낯선 사람을 신뢰하게 만든 버그 공개",
-      "desc_ko": "이 취약점은 2025년 10월에 수정되었으며 화요일까지 공개되지 않았습니다. 이 취약점은 누군가가 마이너를 다시 시작할 때까지 마이너가 블록을 생성하지 못하게 할 수 있는 심각도가 높은 버그와 함께 발견되었습니다."
-    },
-    {
-      "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
-      "description": "Lending support among the ledger’s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched.",
-      "link": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
-      "pubDate": "Thu, 12 Nov 2026 05:18:43 +0000",
-      "tag": "btc",
-      "title_ko": "Ripple의 은행 대출 시스템, XRP 원장에 출시 예정",
-      "desc_ko": "원장의 35개 검증인 중 대출을 지지하는 검증인의 수는 10월 중순 이후 19개에서 22개로 증가했으며, 어떤 검증인이 전환했는지 보여주는 공개 추적기는 없습니다."
-    },
-    {
-      "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
-      "description": "Nvidia perps are down 7% on Hyperliquid as traders react to reports that CEO Jensen Huang may be removed. Bitcoin continues to trade in a familiar price range.",
-      "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
-      "pubDate": "Thu, 12 Nov 2026 04:03:47 +0000",
-      "tag": "btc",
-      "title_ko": "Nvidia CEO 젠슨 황의 해임설로 Nvidia 무기한 계약(Perp)이 7% 하락",
-      "desc_ko": "젠슨 황(Jensen Huang) CEO가 해임될 수 있다는 보도에 트레이더들이 반응하면서 하이퍼리퀴드(Hyperliquid)에서 엔비디아(Nvidia) 무기한 선물(perps)이 7% 하락했습니다. 비트코인은 여전히 익숙한 가격대에서 거래되고 있습니다."
-    },
-    {
-      "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
-      "description": "Institutions weighing DeFi lending tend to ask which markets are safest. Mike Hathaway and Joseph Quintilian of Ajna argue the better question is who can change a loan’s terms after the money is lent, and why a fully backed stablecoin offers no protection against a token vote or a faulty price feed.",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
-      "pubDate": "Wed, 11 Nov 2026 16:00:45 +0000",
-      "tag": "btc",
-      "title_ko": "암호화폐 롱 & 숏: GENIUS 법안의 보증은 DeFi 대출에 적용되지 않습니다",
-      "desc_ko": "DeFi 대출을 고려하는 기관들은 어떤 시장이 가장 안전한지 궁금해하는 경향이 있습니다. Ajna의 마이크 해서웨이(Mike Hathaway)와 조셉 퀸틸리안(Joseph Quintilian)은 더 나은 질문은 자금이 대출된 후 대출 조건을 변경할 수 있는 주체가 누구인지, 그리고 완전 담보 스테이블코인이 토큰 투표나 잘못된 가격 피드로부터 보호를 제공하지 않는 이유는 무엇인지라고 주장합니다."
-    },
-    {
-      "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
-      "description": "After initial issuer pushback, the blockchain venue is set to start trading on Nov. 23 and said will list over 70 assets, including Strategy’s common and preferred shares and 59 of Direxion's ETFs.",
-      "link": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
-      "pubDate": "Wed, 11 Nov 2026 13:00:00 +0000",
-      "tag": "btc",
-      "title_ko": "OKXICE, 이번 달 Strategy, Coinbase, Circle과 함께 토큰화된 주식 거래 시작 예정",
-      "desc_ko": "발행사가 처음에 반발한 후, 블록체인 거래소는 11월 23일에 거래를 시작할 예정이며 Strategy의 보통주 및 우선주와 Direxion의 ETF 59개를 포함한 70개 이상의 자산을 상장할 것이라고 밝혔습니다."
-    },
-    {
-      "title": "Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about",
-      "description": "The firm’s flagship Spiko Amundi Overnight Swap Fund (SAFO) held $2.39 billion in assets under management as of late last month.",
-      "link": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about",
-      "pubDate": "Wed, 11 Nov 2026 12:57:36 +0000",
-      "tag": "btc",
-      "title_ko": "아마 들어본 적이 없을 세계 최대의 토큰화 펀드인 Spiko를 만나보세요.",
-      "desc_ko": "이 회사의 대표 펀드인 Spiko Amundi Overnight Swap Fund(SAFO)는 지난달 말 기준 운용 자산이 23억 9,000만 달러에 달했습니다."
-    },
-    {
-      "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
-      "description": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin continues to test its 200-day moving average.",
-      "link": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
-      "pubDate": "Wed, 11 Nov 2026 12:21:24 +0000",
-      "tag": "btc",
-      "title_ko": "라이브 뉴스: CoreWeave, Nvidia가 AI 반등을 주도하는 가운데 비트코인은 여전히 압박을 받고 있습니다.",
-      "desc_ko": "DRAM ETF는 8% 급등하고 반도체 주가는 4% 이상 상승한 반면, 비트코인은 200일 이동평균선을 계속 테스트하고 있습니다."
-    },
-    {
-      "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
-      "description": "Your day-ahead look for Nov. 11, 2026",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
-      "pubDate": "Wed, 11 Nov 2026 12:19:30 +0000",
-      "tag": "btc",
-      "title_ko": "ETF 매도가 둔화되면서 비트코인은 높은 소비자물가지수(CPI)에도 거의 흔들리지 않음",
-      "desc_ko": "2026년 11월 11일 내일의 날씨"
-    },
-    {
-      "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
-      "description": "Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquidations jumped.",
-      "link": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
-      "pubDate": "Wed, 11 Nov 2026 11:37:04 +0000",
-      "tag": "btc",
-      "title_ko": "ETF 유출이 4일째 이어지면서 비트코인은 주가 반등에서 소외됨",
-      "desc_ko": "화요일에 발표된 높은 인플레이션 수치로 인해 미국 금리 인상 가능성이 약 90%로 높아지면서 비트코인은 74,000달러 부근에서 안정세를 유지했습니다. ETF 자금 유출이 4일째 이어졌고 청산이 급증했습니다."
-    },
-    {
-      "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
-      "description": "Payward says xStocks holds over $1.1 billion. Each token is backed by a share but gives no ownership of the underlying company.",
-      "link": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
-      "pubDate": "Wed, 11 Nov 2026 10:51:34 +0000",
-      "tag": "btc",
-      "title_ko": "Kraken의 xStocks, 자산이 11억 달러를 초과하며 영국 및 EU 주식 200종목 추가",
-      "desc_ko": "Payward는 xStocks가 11억 달러 이상을 보유하고 있다고 밝혔습니다. 각 토큰은 주식으로 뒷받침되지만, 기초가 되는 회사의 소유권을 부여하지는 않습니다."
-    },
-    {
-      "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
-      "description": "CoreWeave’s revenue surge lifted AI infrastructure stocks and Nasdaq futures, while bitcoin was little changed over 24 hours.",
-      "link": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
-      "pubDate": "Wed, 11 Nov 2026 10:45:49 +0000",
-      "tag": "btc",
-      "title_ko": "CoreWeave의 실적이 AI 전망을 부활시키고 Anthropic이 IPO 가치를 높일 것이라고 밝히면서 비트코인이 74,000달러 아래에 머물렀습니다.",
-      "desc_ko": "CoreWeave의 매출 급증으로 AI 인프라 주식과 나스닥 선물은 상승했지만, 비트코인은 24시간 동안 거의 변동이 없었습니다."
-    },
-    {
-      "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
-      "description": "U.S. Senator Elizabeth Warren argued the administration is not doing enough about staff insider trading, questioning whether CFTC enforcement action was sufficient.",
-      "link": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
-      "pubDate": "Tue, 10 Nov 2026 20:36:33 +0000",
-      "tag": "btc",
-      "title_ko": "워런: 텔레프롬프터의 트럼프 베팅이 반복되는 것을 방지하기 위해 백악관은 어떤 조치를 취하고 있나요?",
-      "desc_ko": "미국 상원의원 엘리자베스 워런은 행정부가 내부자 거래와 관련하여 충분한 조치를 취하지 않고 있으며, CFTC의 집행 조치가 충분했는지 의문을 제기했다."
-    },
-    {
-      "title": "Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom in jeopardy.",
-      "description": "Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals across the supply chain. What happens if he&#x2019;s gone?",
-      "link": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
-      "pubDate": "Thu, 12 Nov 2026 07:30:00 GMT",
-      "tag": "general",
-      "title_ko": "젠슨 황은 엔비디아를 거대한 기업으로 키웠습니다. 그의 스캔들로 인해 AI 붐 전체가 위태로워졌습니다.",
-      "desc_ko": "황은 공급망 전반에 걸쳐 첨단 칩과 창의적인 금융 거래로 자신의 회사와 AI 생태계에 동력을 불어넣었습니다. 그가 떠나면 어떻게 될까요?"
-    },
-    {
-      "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
-      "description": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
-      "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
-      "pubDate": "Thu, 12 Nov 2026 04:41:00 GMT",
-      "tag": "general",
-      "title_ko": "나스닥 선물 하락, 엔비디아 장 마감 후 8% 하락, 보고서에 따르면 이사회가 황 CEO를 해임할 수 있음",
-      "desc_ko": "엔비디아 주식이 장 마감 후 매도세를 보이며 나스닥 100 지수에 하락 압력을 가하고 다른 반도체 제조업체들의 주가도 하락하면서 수요일 저녁 주식 선물은 하락세를 보였습니다."
-    },
-    {
-      "title": "&#x2018;The thought of living to 100 terrifies me&#x2019;: Is Social Security a giant Ponzi scheme?",
-      "description": "There is already a demographic &#x2018;run&#x2019; on Social Security.",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "pubDate": "Thu, 12 Nov 2026 03:15:00 GMT",
-      "tag": "general",
-      "title_ko": "‘100세까지 살 것이라는 생각에 공포를 느낍니다’: 사회보장제도는 거대한 폰지 사기일까요?",
-      "desc_ko": "이미 사회보장제도에 대한 인구학적 '압박'이 존재한다."
-    },
-    {
-      "title": "Here&#x2019;s how Bernie Sanders wants to keep Social Security solvent &#x2018;for generations&#x2019;",
-      "description": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
-      "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-      "pubDate": "Thu, 12 Nov 2026 03:10:00 GMT",
-      "tag": "general",
-      "title_ko": "버니 샌더스가 '여러 세대 동안' 사회보장제도의 재정 건전성을 유지하고자 하는 방법은 다음과 같습니다.",
-      "desc_ko": "버몬트주 상원의원은 과세 한도를 없애 부유층이 더 많은 세금을 내도록 하는 것을 목표로 하고 있습니다."
-    },
-    {
-      "title": "Nvidia&#x2019;s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-      "description": "Nvidia&#x2019;s board of directors reportedly met late Wednesday to determine the CEO&#x2019;s fate.",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
-      "pubDate": "Thu, 12 Nov 2026 02:52:00 GMT",
-      "tag": "general",
-      "title_ko": "Nvidia의 이사회가 CEO 젠슨 황을 해임할 준비를 하고 있다는 소식에 Nvidia 주가가 하락했습니다.",
-      "desc_ko": "엔비디아 이사회는 지난 수요일 늦게 CEO의 거취를 결정하기 위해 회의를 가진 것으로 알려졌다."
+      "title_ko": "채굴 장비 매출이 96% 감소함에 따라 Canaan이 자사주 매입을 위해 더 많은 비트코인을 매각할 수 있음",
+      "desc_ko": "Avalon 제조업체는 2천만 달러 규모의 자사주 매수 프로그램을 시작했으며, 9월 말 기준 비트코인 보유량의 대부분은 담보로 제공되거나 정기 예금 상품에 예치되었습니다."
     },
     {
       "title": "&#x2018;I&#x2019;m sick of flying&#x2019;: I paid for priority boarding, but the overhead bins were full. Was I duped?",
       "description": "&#x201c;Maybe next time I&#x2019;ll try the other approach: I&#x2019;ll board whenever I feel like it and drop my suitcase in the first open slot I see.&#x201d;",
       "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "pubDate": "Thu, 12 Nov 2026 02:45:00 GMT",
+      "pubDate": "Thu, 12 Nov 2026 16:15:00 GMT",
       "tag": "general",
-      "title_ko": "‘비행기 타는 게 지긋지긋해요’: 우선 탑승권을 구매했는데, 기내 수하물 보관함이 가득 차 있었습니다. 속은 걸까요?",
-      "desc_ko": "“다음번에는 다른 방법을 써볼까 봐요. 기분이 내킬 때마다 탑승해서 보이는 첫 번째 빈 자리에 캐리어를 놓는 거죠.”"
+      "title_ko": "‘비행기 타는 게 지긋지긋해요’: 우선 탑승권을 구매했는데, 기내 수하물칸이 꽉 차 있었습니다. 속은 걸까요?",
+      "desc_ko": "“다음번에는 다른 방법을 써볼까 봐요. 기분이 내키는 대로 탑승해서 보이는 첫 번째 빈 자리에 캐리어를 놓는 거죠.”"
     },
     {
-      "title": "I&#x2019;m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
-      "description": "&#x201c;I have a net worth of $2.3 million and my only debt is a 15-year mortgage.&#x201d;",
-      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-      "pubDate": "Thu, 12 Nov 2026 02:31:00 GMT",
+      "title": "Medicare at age 50? What &#x2018;Medicare for more&#x2019; could mean for American workers.",
+      "description": "It&#x2019;s not &#x201c;Medicare for All,&#x201d; but a new bill would lower the Medicare age to 50, expanding coverage for 60 million adults",
+      "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
+      "pubDate": "Thu, 12 Nov 2026 16:00:00 GMT",
       "tag": "general",
-      "title_ko": "저는 63세이며, 50만 달러짜리 집의 옥상 테라스에 9만 5,000달러를 투자하려고 합니다. 제가 과한 걸까요?",
-      "desc_ko": "\"저는 순자산이 230만 달러이고, 유일한 부채는 15년 만기 주택담보대출입니다.\""
+      "title_ko": "만 50세에 메디케어 혜택을 받을 수 있나요? '더 많은 사람들을 위한 메디케어'가 미국 근로자들에게 의미할 수 있는 것.",
+      "desc_ko": "'모두를 위한 메디케어'는 아니지만, 새로운 법안이 메디케어 가입 연령을 50세로 낮춰 6천만 명의 성인에게 보험 혜택을 확대할 예정입니다."
     },
     {
-      "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
-      "description": "The government may have lost a month of inflation data, but don&#x2019;t expect your credit card&#x2019;s annual percentage rate to decline because of it.",
-      "link": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
-      "pubDate": "Wed, 11 Nov 2026 23:30:00 GMT",
+      "title": "Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.",
+      "description": "&#x2018;There&#x2019;s no question that Congress is going to push for a complete ban on the sale of advanced semiconductors into China,&#x2019; says a former U.S. ambassador to Beijing",
+      "link": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
+      "pubDate": "Thu, 12 Nov 2026 15:55:00 GMT",
       "tag": "general",
-      "title_ko": "연말연시 신용카드 청구액이 늘어나고 있습니다. 부담을 덜기 위해 할 수 있는 일.",
-      "desc_ko": "정부가 한 달 치의 인플레이션 데이터를 잃었을지 모르지만, 그 때문에 신용카드의 연이율이 하락할 것으로 기대하지는 마세요."
+      "title_ko": "Nvidia는 워싱턴 로비에 그 어느 때보다 많은 비용을 지출하고 있습니다. 그렇다고 해서 의회가 지금 중국 반도체 판매를 제한하는 것을 막을 수는 없을 것입니다.",
+      "desc_ko": "한 전직 주중 미국 대사는 \"의회가 첨단 반도체의 중국 판매를 전면 금지하도록 압박할 것임은 의심의 여지가 없다\"고 말합니다."
     },
     {
-      "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
-      "description": "CoreWeave&#x2019;s improved AI economics and its vow to show some discipline around debt are sparking a broad rally across the chip sector.",
-      "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
-      "pubDate": "Wed, 11 Nov 2026 22:05:00 GMT",
+      "title": "Home sales plummet to lowest level since &#x2018;Great Recession&#x2019; as prices hit all-time high",
+      "description": "Home sales fell in October to a 16-year low as buyers bolted from the housing market in the face of 7% mortgage rates.",
+      "link": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories",
+      "pubDate": "Thu, 12 Nov 2026 15:52:00 GMT",
       "tag": "general",
-      "title_ko": "CoreWeave가 Micron, Lumentum 및 기타 AI 관련 기업에 큰 힘을 실어주었습니다.",
-      "desc_ko": "CoreWeave의 개선된 AI 경제성과 부채에 대한 규율을 보여주겠다는 약속은 반도체 부문 전반에 걸쳐 광범위한 랠리를 불러일으키고 있습니다."
+      "title_ko": "주택 가격이 사상 최고치를 기록하면서 주택 판매량이 '대침체' 이후 최저 수준으로 급락했습니다.",
+      "desc_ko": "10월 주택 판매량은 7%의 모기지 금리에 직면한 구매자들이 주택 시장에서 이탈하면서 16년 만에 최저치를 기록했습니다."
     },
     {
-      "title": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
-      "description": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their &#x201c;slot-like payoff&#x201d; raises risks.",
-      "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
-      "pubDate": "Wed, 11 Nov 2026 21:55:00 GMT",
+      "title": "What really happens during Medicare counseling",
+      "description": "Open enrollment can bring unexpected challenges for seniors.",
+      "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+      "pubDate": "Thu, 12 Nov 2026 15:40:00 GMT",
       "tag": "general",
-      "title_ko": "트레이딩 카드 팩 개봉은 20억 달러 규모의 시장으로 성장했습니다. 새로운 앱들이 이 시장에서 수익을 올리려고 합니다.",
-      "desc_ko": "팩 개봉 앱이 사람들이 카드를 사고파는 방식을 바꾸고 있습니다. 하지만 애널리스트들은 이러한 앱의 '슬롯 머신 같은 보상'이 위험을 높인다고 말합니다."
+      "title_ko": "메디케어 상담 중에 실제로 일어나는 일",
+      "desc_ko": "가입 기간이 시작되면 고령자에게 예상치 못한 어려움이 발생할 수 있습니다."
+    },
+    {
+      "title": "&#x2018;The thought of living to 100 terrifies me&#x2019;: Is Social Security a giant Ponzi scheme?",
+      "description": "There is already a demographic &#x2018;run&#x2019; on Social Security.",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "pubDate": "Thu, 12 Nov 2026 15:30:00 GMT",
+      "tag": "general",
+      "title_ko": "‘100세까지 살 것이라는 생각에 공포를 느낍니다’: 국민연금은 거대한 폰지 사기일까요?",
+      "desc_ko": "이미 사회보장제도에 대한 인구학적 '급증'이 일어나고 있습니다."
+    },
+    {
+      "title": "&#x2018;He calls my plans a fantasy&#x2019;: My husband says we can&#x2019;t afford our $200,000-a-year dream retirement. I think he&#x2019;s cheap.",
+      "description": "&#x201c;We have $2 million saved in our retirement accounts and a house worth $1.3 million.&#x201d;",
+      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "pubDate": "Thu, 12 Nov 2026 15:26:00 GMT",
+      "tag": "general",
+      "title_ko": "'남편은 제 계획을 환상이라고 부릅니다': 남편은 우리가 연간 $200,000의 꿈의 은퇴 생활을 감당할 수 없다고 말합니다. 저는 그가 인색하다고 생각합니다.",
+      "desc_ko": "\"저희는 은퇴 계좌에 2백만 달러를 저축해 두었고, 130만 달러 상당의 주택을 보유하고 있습니다.\""
+    },
+    {
+      "title": "Here&#x2019;s what Megaspeed, the company at the forefront of the Nvidia scandal, is now saying",
+      "description": "The Singaporean company Megaspeed, which stands at the center of the scandal engulfing Nvidia, on Thursday issued its first public statement since the scandal erupted.",
+      "link": "https://www.marketwatch.com/story/heres-what-megaspeed-the-company-at-the-forefront-of-the-nvidia-scandal-is-now-saying-b73f8d0b?mod=mw_rss_topstories",
+      "pubDate": "Thu, 12 Nov 2026 15:23:00 GMT",
+      "tag": "general",
+      "title_ko": "Nvidia 스캔들의 중심에 있는 회사인 Megaspeed가 현재 밝히는 내용은 다음과 같습니다.",
+      "desc_ko": "엔비디아를 둘러싼 스캔들의 중심에 있는 싱가포르 기업 메가스피드가 스캔들이 터진 이후 처음으로 지난 14일 공개 성명을 발표했습니다."
+    },
+    {
+      "title": "These home buyers bought their first house with help from their employer. &#x2018;Why not jump at the chance?&#x2019;",
+      "description": "The rise in home-buying help from employers &#x201c;speaks volumes about how difficult buying a home has become, even for people with steady jobs.&#x201d;",
+      "link": "https://www.marketwatch.com/story/need-money-for-a-down-payment-more-employers-are-offering-to-help-59c57da3?mod=mw_rss_topstories",
+      "pubDate": "Thu, 12 Nov 2026 15:13:00 GMT",
+      "tag": "general",
+      "title_ko": "이 주택 구매자들은 고용주의 도움을 받아 첫 주택을 매입했습니다. ‘이 기회를 놓칠 이유가 있을까요?’",
+      "desc_ko": "고용주가 주택 구매 지원을 늘리는 것은 \"안정적인 직장을 가진 사람들에게조차 주택 구매가 얼마나 어려워졌는지 잘 보여줍니다.\""
+    },
+    {
+      "title": "Jensen Huang built Nvidia into a behemoth. His resignation puts the entire AI boom in jeopardy.",
+      "description": "Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals across the supply chain. What will happen now that&#x2019;s he gone?",
+      "link": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
+      "pubDate": "Thu, 12 Nov 2026 14:49:00 GMT",
+      "tag": "general",
+      "title_ko": "젠슨 황은 엔비디아를 거대한 기업으로 키워냈습니다. 그의 사임은 AI 붐 전체를 위태롭게 합니다.",
+      "desc_ko": "황은 첨단 칩과 공급망 전반에 걸친 창의적인 금융 거래로 자신의 회사와 AI 생태계에 활력을 불어넣었습니다. 그가 떠난 지금, 무슨 일이 일어날까요?"
     }
   ],
   "assets": {
@@ -375,7 +375,6 @@
     "ndx": {
       "live": true,
       "closes": [
-        29347.26953125,
         29220.060546875,
         29440.3203125,
         29118.240234375,
@@ -474,12 +473,13 @@
         26989.990234375,
         27907.630859375,
         27740.7890625,
-        28374.25
+        28374.25,
+        28476.1171875
       ],
-      "last": 28374.25,
-      "chg_pct": 2.283500069420565,
-      "rsi14": 45.954732021795664,
-      "ma20": 28732.8298828125
+      "last": 28476.1171875,
+      "chg_pct": 0.3590127932896905,
+      "rsi14": 46.86867838993621,
+      "ma20": 28659.85576171875
     },
     "es": {
       "live": true,
@@ -583,12 +583,12 @@
         7574.25,
         7544.25,
         7640.5,
-        7602.75
+        7670.5
       ],
-      "last": 7602.75,
-      "chg_pct": -0.4940776127216805,
-      "rsi14": 47.20146463347836,
-      "ma20": 7651.0625
+      "last": 7670.5,
+      "chg_pct": 0.3926444604410706,
+      "rsi14": 50.586544794171246,
+      "ma20": 7654.45
     },
     "nq": {
       "live": true,
@@ -692,12 +692,12 @@
         28014.5,
         27835.25,
         28473.25,
-        28174.75
+        28629.0
       ],
-      "last": 28174.75,
-      "chg_pct": -1.0483524009377223,
-      "rsi14": 43.377422631114804,
-      "ma20": 28785.7875
+      "last": 28629.0,
+      "chg_pct": 0.5470046447103861,
+      "rsi14": 46.93260233936392,
+      "ma20": 28808.5
     },
     "gold": {
       "live": true,
@@ -801,12 +801,12 @@
         4114.5,
         4030.199951171875,
         4000.5,
-        3962.199951171875
+        3879.800048828125
       ],
-      "last": 3962.199951171875,
-      "chg_pct": -0.9573815480096238,
-      "rsi14": 39.93717214900044,
-      "ma20": 4053.789990234375
+      "last": 3879.800048828125,
+      "chg_pct": -3.0171216390919886,
+      "rsi14": 35.57592811822434,
+      "ma20": 4049.6699951171877
     },
     "wti": {
       "live": true,
@@ -910,12 +910,12 @@
         86.8499984741211,
         86.04000091552734,
         86.52999877929688,
-        86.81999969482422
+        86.70999908447266
       ],
-      "last": 86.81999969482422,
-      "chg_pct": 0.3351449435091512,
-      "rsi14": 38.35816009063788,
-      "ma20": 96.27850036621093
+      "last": 86.70999908447266,
+      "chg_pct": 0.2080206953832155,
+      "rsi14": 38.140652189235425,
+      "ma20": 96.27300033569335
     },
     "zn": {
       "live": true,
@@ -1019,12 +1019,12 @@
         107.0625,
         106.25,
         106.03125,
-        106.09375
+        105.625
       ],
-      "last": 106.09375,
-      "chg_pct": 0.05894488653109342,
-      "rsi14": 49.141455381186184,
-      "ma20": 106.2296875
+      "last": 105.625,
+      "chg_pct": -0.38314176245210724,
+      "rsi14": 43.91671426764681,
+      "ma20": 106.20625
     },
     "dxy": {
       "live": true,
@@ -1128,17 +1128,16 @@
         101.6500015258789,
         102.2300033569336,
         102.91000366210938,
-        102.97000122070312
+        103.13400268554688
       ],
-      "last": 102.97000122070312,
-      "chg_pct": 0.058300997433391996,
-      "rsi14": 63.21820020133454,
-      "ma20": 101.99400100708007
+      "last": 103.13400268554688,
+      "chg_pct": 0.21766496498529872,
+      "rsi14": 64.57038292633732,
+      "ma20": 102.00220108032227
     },
     "vix": {
       "live": true,
       "closes": [
-        18.6299991607666,
         18.889999389648438,
         18.40999984741211,
         17.649999618530273,
@@ -1237,16 +1236,18 @@
         25.639999389648438,
         19.920000076293945,
         19.459999084472656,
-        17.489999771118164
+        17.489999771118164,
+        17.459999084472656
       ],
-      "last": 17.489999771118164,
-      "chg_pct": -10.123326855273985,
-      "rsi14": 47.55266238337437,
-      "ma20": 19.303999996185304
+      "last": 17.459999084472656,
+      "chg_pct": -0.17153051479765583,
+      "rsi14": 47.50087528672822,
+      "ma20": 19.3539999961853
     },
     "hsi": {
       "live": true,
       "closes": [
+        23768.51953125,
         23336.279296875,
         23412.1796875,
         23076.91015625,
@@ -1345,17 +1346,17 @@
         24481.859375,
         24448.94921875,
         24557.0390625,
-        24315.919921875,
-        23985.529296875
+        24315.919921875
       ],
-      "last": 23985.529296875,
-      "chg_pct": -1.3587420342784367,
-      "rsi14": 49.22880512824042,
-      "ma20": 23741.1654296875
+      "last": 24315.919921875,
+      "chg_pct": -0.9818738326364546,
+      "rsi14": 54.53588936112505,
+      "ma20": 23757.5974609375
     },
     "n225": {
       "live": true,
       "closes": [
+        69404.5,
         69902.25,
         71053.4921875,
         71250.0625,
@@ -1454,17 +1455,17 @@
         57434.76953125,
         58775.5,
         60459.578125,
-        61248.58984375,
-        60819.359375
+        61248.58984375
       ],
-      "last": 60819.359375,
-      "chg_pct": -0.7008005732785046,
-      "rsi14": 41.629585321932844,
-      "ma20": 62570.628515625
+      "last": 61248.58984375,
+      "chg_pct": 1.305023526824353,
+      "rsi14": 42.88463385303826,
+      "ma20": 62916.875
     },
     "kospi": {
       "live": true,
       "closes": [
+        8864.240234375,
         9063.83984375,
         9052.419921875,
         9114.5498046875,
@@ -1563,17 +1564,17 @@
         5059.68994140625,
         5018.85009765625,
         5239.1298828125,
-        5375.35986328125,
-        5342.72998046875
+        5375.35986328125
       ],
-      "last": 5342.72998046875,
-      "chg_pct": -0.6070269459611943,
-      "rsi14": 39.94617183380742,
-      "ma20": 5560.420483398438
+      "last": 5375.35986328125,
+      "chg_pct": 2.600240565053872,
+      "rsi14": 40.55070945914846,
+      "ma20": 5570.9949951171875
     },
     "sse": {
       "live": true,
       "closes": [
+        4091.89208984375,
         4108.076171875,
         4090.48095703125,
         4163.09716796875,
@@ -1672,18 +1673,16 @@
         3649.177001953125,
         3660.7919921875,
         3663.722900390625,
-        3680.64306640625,
-        3655.82958984375
+        3680.64306640625
       ],
-      "last": 3655.82958984375,
-      "chg_pct": -0.6741614471931852,
-      "rsi14": 42.24035389958274,
-      "ma20": 3672.711083984375
+      "last": 3680.64306640625,
+      "chg_pct": 0.4618298511009382,
+      "rsi14": 45.22829951987005,
+      "ma20": 3675.293408203125
     },
     "dax": {
       "live": true,
       "closes": [
-        24994.830078125,
         24671.220703125,
         24626.890625,
         24995.810546875,
@@ -1782,17 +1781,17 @@
         25820.359375,
         26267.189453125,
         26347.44921875,
-        26662.76953125
+        26662.76953125,
+        26804.91015625
       ],
-      "last": 26662.76953125,
-      "chg_pct": 1.1967773801632542,
-      "rsi14": 63.487545077603244,
-      "ma20": 25804.87666015625
+      "last": 26804.91015625,
+      "chg_pct": 0.5331052531261038,
+      "rsi14": 65.09273295407394,
+      "ma20": 25875.9912109375
     },
     "ftse": {
       "live": true,
       "closes": [
-        10461.599609375,
         10529.900390625,
         10508.0,
         10484.2001953125,
@@ -1891,12 +1890,13 @@
         10673.900390625,
         10782.900390625,
         10751.599609375,
-        10835.5
+        10835.5,
+        10862.5302734375
       ],
-      "last": 10835.5,
-      "chg_pct": 0.7803526328476922,
-      "rsi14": 56.36506976561235,
-      "ma20": 10752.20009765625
+      "last": 10862.5302734375,
+      "chg_pct": 0.2494603242812976,
+      "rsi14": 57.680883732033315,
+      "ma20": 10753.306591796874
     },
     "krw": {
       "live": true,
@@ -2000,12 +2000,12 @@
         1362.699951171875,
         1343.8399658203125,
         1341.9100341796875,
-        1332.93994140625
+        1334.4300537109375
       ],
-      "last": 1332.93994140625,
-      "chg_pct": -0.668457090636552,
-      "rsi14": 45.04393648287889,
-      "ma20": 1336.1294921875
+      "last": 1334.4300537109375,
+      "chg_pct": -0.5574129619891044,
+      "rsi14": 45.70713904695146,
+      "ma20": 1336.2039978027344
     },
     "jpy": {
       "live": true,
@@ -2109,12 +2109,12 @@
         158.29200744628906,
         157.98300170898438,
         158.7050018310547,
-        159.77200317382812
+        159.9550018310547
       ],
-      "last": 159.77200317382812,
-      "chg_pct": 0.6723174004996303,
-      "rsi14": 63.339560753496905,
-      "ma20": 158.0011001586914
+      "last": 159.9550018310547,
+      "chg_pct": 0.7876248294497077,
+      "rsi14": 64.27813836517625,
+      "ma20": 158.01025009155273
     },
     "copper": {
       "live": true,
@@ -2218,12 +2218,12 @@
         6.328499794006348,
         6.2195000648498535,
         6.274499893188477,
-        6.2195000648498535
+        6.193999767303467
       ],
-      "last": 6.2195000648498535,
-      "chg_pct": -0.8765611486953759,
-      "rsi14": 39.24787719815038,
-      "ma20": 6.433100008964539
+      "last": 6.193999767303467,
+      "chg_pct": -1.282972782777473,
+      "rsi14": 38.32592244426672,
+      "ma20": 6.431824994087219
     },
     "natgas": {
       "live": true,
@@ -2327,12 +2327,12 @@
         3.2179999351501465,
         3.2960000038146973,
         3.2149999141693115,
-        3.246999979019165
+        3.2720000743865967
       ],
-      "last": 3.246999979019165,
-      "chg_pct": 0.9953364138151668,
-      "rsi14": 61.55755111966586,
-      "ma20": 2.9479999899864198
+      "last": 3.2720000743865967,
+      "chg_pct": 1.7729443775743554,
+      "rsi14": 62.43415787743646,
+      "ma20": 2.9492499947547914
     },
     "silver": {
       "live": true,
@@ -2436,17 +2436,16 @@
         52.56399917602539,
         51.10100173950195,
         51.88100051879883,
-        51.19499969482422
+        50.17499923706055
       ],
-      "last": 51.19499969482422,
-      "chg_pct": -1.3222582778179852,
-      "rsi14": 38.248623669932556,
-      "ma20": 53.19610042572022
+      "last": 50.17499923706055,
+      "chg_pct": -3.288296803605628,
+      "rsi14": 35.824204079747545,
+      "ma20": 53.14510040283203
     },
     "qqq": {
       "live": true,
       "closes": [
-        713.6500244140625,
         710.6199951171875,
         716.3800048828125,
         706.52001953125,
@@ -2545,17 +2544,17 @@
         656.0999755859375,
         679.3499755859375,
         674.760009765625,
-        690.3800048828125
+        690.3800048828125,
+        692.7999877929688
       ],
-      "last": 690.3800048828125,
-      "chg_pct": 2.3148963914759917,
-      "rsi14": 46.06094922672109,
-      "ma20": 698.9355010986328
+      "last": 692.7999877929688,
+      "chg_pct": 0.35052911339270704,
+      "rsi14": 46.93883275338129,
+      "ma20": 697.1755004882813
     },
     "irx": {
       "live": true,
       "closes": [
-        3.690000057220459,
         3.690000057220459,
         3.680000066757202,
         3.6630001068115234,
@@ -2654,17 +2653,17 @@
         4.0,
         4.034999847412109,
         4.114999771118164,
-        4.114999771118164
+        4.114999771118164,
+        4.115000247955322
       ],
-      "last": 4.114999771118164,
-      "chg_pct": 0.0,
-      "rsi14": 65.68688148782591,
-      "ma20": 4.037249970436096
+      "last": 4.115000247955322,
+      "chg_pct": 1.1587780916778875e-05,
+      "rsi14": 65.68680149228656,
+      "ma20": 4.038599991798401
     },
     "fvx": {
       "live": true,
       "closes": [
-        4.261000156402588,
         4.176000118255615,
         4.163000106811523,
         4.130000114440918,
@@ -2763,17 +2762,17 @@
         4.6479997634887695,
         4.658999919891357,
         4.807000160217285,
-        4.827000141143799
+        4.827000141143799,
+        4.914999961853027
       ],
-      "last": 4.827000141143799,
-      "chg_pct": 0.41605950197450453,
-      "rsi14": 52.1514838783505,
-      "ma20": 4.796900010108947
+      "last": 4.914999961853027,
+      "chg_pct": 1.8230747490381511,
+      "rsi14": 57.93938356118531,
+      "ma20": 4.797699999809265
     },
     "tnx": {
       "live": true,
       "closes": [
-        4.493000030517578,
         4.4019999504089355,
         4.392000198364258,
         4.372000217437744,
@@ -2872,17 +2871,17 @@
         4.859000205993652,
         4.863999843597412,
         4.982999801635742,
-        4.998000144958496
+        4.998000144958496,
+        5.067999839782715
       ],
-      "last": 4.998000144958496,
-      "chg_pct": 0.3010303816955768,
-      "rsi14": 50.141901346504156,
-      "ma20": 4.987500023841858
+      "last": 5.067999839782715,
+      "chg_pct": 1.4005540775109369,
+      "rsi14": 55.55067756145546,
+      "ma20": 4.9864500045776365
     },
     "tyx": {
       "live": true,
       "closes": [
-        4.940000057220459,
         4.855999946594238,
         4.857999801635742,
         4.863999843597412,
@@ -2981,17 +2980,18 @@
         5.260000228881836,
         5.25600004196167,
         5.349999904632568,
-        5.355999946594238
+        5.355999946594238,
+        5.406000137329102
       ],
-      "last": 5.355999946594238,
-      "chg_pct": 0.1121503190397159,
-      "rsi14": 49.574579323763984,
-      "ma20": 5.337800025939941
+      "last": 5.406000137329102,
+      "chg_pct": 0.9335360573828477,
+      "rsi14": 54.49021248148246,
+      "ma20": 5.336650037765503
     }
   },
   "bias": {
-    "score": -0.5,
-    "label": "숏 유리",
+    "score": -0.25,
+    "label": "중립/혼조",
     "used": [
       "ndx",
       "es",
@@ -3002,57 +3002,57 @@
   "sectors": {
     "xlk": {
       "name": "기술",
-      "chg_pct": 3.2265684862244512,
+      "chg_pct": 0.17205956108490725,
       "source": "yahoo"
     },
     "xlf": {
       "name": "금융",
-      "chg_pct": 0.5832906969423653,
+      "chg_pct": 0.02558313043694386,
       "source": "yahoo"
     },
     "xle": {
       "name": "에너지",
-      "chg_pct": 1.8646517673742262,
+      "chg_pct": 1.3413323388753897,
       "source": "yahoo"
     },
     "xlv": {
       "name": "헬스케어",
-      "chg_pct": 0.03705636574560284,
+      "chg_pct": -0.010587072127033236,
       "source": "yahoo"
     },
     "xly": {
       "name": "임의소비재",
-      "chg_pct": -0.04957057949236449,
+      "chg_pct": 0.1446425777731311,
       "source": "yahoo"
     },
     "xlp": {
       "name": "필수소비재",
-      "chg_pct": 0.46138435084856166,
+      "chg_pct": -0.043732408384275216,
       "source": "yahoo"
     },
     "xli": {
       "name": "산업재",
-      "chg_pct": 1.3275680376245411,
+      "chg_pct": 0.07311224139177433,
       "source": "yahoo"
     },
     "xlb": {
       "name": "소재",
-      "chg_pct": 0.32166885250871385,
+      "chg_pct": -0.4715201769927422,
       "source": "yahoo"
     },
     "xlu": {
       "name": "유틸리티",
-      "chg_pct": 0.20580872062659086,
+      "chg_pct": 0.42218478909041846,
       "source": "yahoo"
     },
     "xlre": {
       "name": "부동산",
-      "chg_pct": 0.022427817681779986,
+      "chg_pct": -0.22426210760012766,
       "source": "yahoo"
     },
     "xlc": {
       "name": "커뮤니케이션",
-      "chg_pct": 0.7795066084248027,
+      "chg_pct": -0.06445644181192081,
       "source": "yahoo"
     }
   },
@@ -3060,348 +3060,348 @@
     "AAPL": {
       "name": "AAPL",
       "market": "US",
-      "chg_pct": 2.04298152640601,
-      "vol_ratio": 0.716673992431753,
-      "volume": 34284700
+      "chg_pct": 0.6748569759391431,
+      "vol_ratio": 0.24271427657813385,
+      "volume": 11468086
     },
     "MSFT": {
       "name": "MSFT",
       "market": "US",
-      "chg_pct": -2.2563524772437513,
-      "vol_ratio": 1.1300705312684607,
-      "volume": 28990100
+      "chg_pct": 1.3998627812860658,
+      "vol_ratio": 0.27659996673205095,
+      "volume": 7135845
     },
     "NVDA": {
       "name": "NVDA",
       "market": "US",
-      "chg_pct": 2.8657684619467627,
-      "vol_ratio": 2.124228882228048,
-      "volume": 313417400
+      "chg_pct": -4.984739893105035,
+      "vol_ratio": 3.127020391880939,
+      "volume": 483925059
     },
     "GOOGL": {
       "name": "GOOGL",
       "market": "US",
-      "chg_pct": 2.1121884686076093,
-      "vol_ratio": 0.6692990769181174,
-      "volume": 25668800
+      "chg_pct": 1.608617926593502,
+      "vol_ratio": 0.3967745209496673,
+      "volume": 14998208
     },
     "AMZN": {
       "name": "AMZN",
       "market": "US",
-      "chg_pct": -1.7351429741857358,
-      "vol_ratio": 0.7822540438588679,
-      "volume": 37649400
+      "chg_pct": 1.2585848957200523,
+      "vol_ratio": 0.3146252502403794,
+      "volume": 14999358
     },
     "META": {
       "name": "META",
       "market": "US",
-      "chg_pct": -1.967600809018651,
-      "vol_ratio": 0.6382267704077268,
-      "volume": 15533900
+      "chg_pct": -0.569368287074607,
+      "vol_ratio": 0.158928141492314,
+      "volume": 3807333
     },
     "TSLA": {
       "name": "TSLA",
       "market": "US",
-      "chg_pct": 2.912211699969248,
-      "vol_ratio": 0.7115214055849417,
-      "volume": 27735900
+      "chg_pct": 0.38378876626106956,
+      "vol_ratio": 0.25056757185674566,
+      "volume": 9644896
     },
     "AVGO": {
       "name": "AVGO",
       "market": "US",
-      "chg_pct": 3.9881889861496087,
-      "vol_ratio": 1.3489112252792494,
-      "volume": 33293600
+      "chg_pct": 6.2853816982401876,
+      "vol_ratio": 0.9298799275855602,
+      "volume": 23299310
     },
     "COST": {
       "name": "COST",
       "market": "US",
-      "chg_pct": 2.0138040415080734,
-      "vol_ratio": 0.9494897988525027,
-      "volume": 2251400
+      "chg_pct": 0.6564866767133937,
+      "vol_ratio": 0.30969785232950675,
+      "volume": 732733
     },
     "NFLX": {
       "name": "NFLX",
       "market": "US",
-      "chg_pct": 2.023399664805931,
-      "vol_ratio": 0.6514726637495555,
-      "volume": 29441400
+      "chg_pct": -1.3617948912846758,
+      "vol_ratio": 0.22143085886328268,
+      "volume": 9855281
     },
     "AMD": {
       "name": "AMD",
       "market": "US",
-      "chg_pct": 7.315463759244685,
-      "vol_ratio": 1.5126348932549873,
-      "volume": 44707100
+      "chg_pct": 6.296633274877649,
+      "vol_ratio": 1.0892151069842295,
+      "volume": 32910123
     },
     "ADBE": {
       "name": "ADBE",
       "market": "US",
-      "chg_pct": 0.3802320096650602,
-      "vol_ratio": 0.9961331077369895,
-      "volume": 4097100
+      "chg_pct": 0.20833127292591253,
+      "vol_ratio": 0.20136283187711984,
+      "volume": 828067
     },
     "PEP": {
       "name": "PEP",
       "market": "US",
-      "chg_pct": 0.22979028594955708,
-      "vol_ratio": 1.0636910867947986,
-      "volume": 10359800
+      "chg_pct": -0.32304872169215876,
+      "vol_ratio": 0.23498133806767088,
+      "volume": 2294934
     },
     "CSCO": {
       "name": "CSCO",
       "market": "US",
-      "chg_pct": 2.659195690041219,
-      "vol_ratio": 1.029247710198621,
-      "volume": 19093200
+      "chg_pct": 0.8187742464780493,
+      "vol_ratio": 0.23052685909788034,
+      "volume": 4281858
     },
     "INTC": {
       "name": "INTC",
       "market": "US",
-      "chg_pct": 7.517630916201281,
-      "vol_ratio": 0.9274736569307909,
-      "volume": 131878900
+      "chg_pct": -0.6,
+      "vol_ratio": 0.2864632480071272,
+      "volume": 40604205
     },
     "QCOM": {
       "name": "QCOM",
       "market": "US",
-      "chg_pct": 1.7518634047755006,
-      "vol_ratio": 1.065951996951415,
-      "volume": 14342200
+      "chg_pct": 2.882707213430845,
+      "vol_ratio": 0.23854387520605874,
+      "volume": 3218770
     },
     "TXN": {
       "name": "TXN",
       "market": "US",
-      "chg_pct": 3.091311355165541,
-      "vol_ratio": 0.8701200612274043,
-      "volume": 7865300
+      "chg_pct": 1.7139529390395096,
+      "vol_ratio": 0.21826650155637412,
+      "volume": 1961841
     },
     "AMAT": {
       "name": "AMAT",
       "market": "US",
-      "chg_pct": 6.053200511867597,
-      "vol_ratio": 0.8728134055905392,
-      "volume": 7376400
+      "chg_pct": -0.31891750806678926,
+      "vol_ratio": 0.2806566882974453,
+      "volume": 2358795
     },
     "INTU": {
       "name": "INTU",
       "market": "US",
-      "chg_pct": 0.6462261165709803,
-      "vol_ratio": 0.8266804311238553,
-      "volume": 2569800
+      "chg_pct": 0.052531131241612204,
+      "vol_ratio": 0.13334642079525355,
+      "volume": 411394
     },
     "BKNG": {
       "name": "BKNG",
       "market": "US",
-      "chg_pct": 0.5965165388665592,
-      "vol_ratio": 0.677127702369445,
-      "volume": 5279300
+      "chg_pct": 2.4187003542922856,
+      "vol_ratio": 0.1700180368508303,
+      "volume": 1306956
     },
     "005930.KS": {
       "name": "삼성전자",
       "market": "KR",
-      "chg_pct": 0.9708737864077669,
-      "vol_ratio": 1.2277312836732492,
-      "volume": 23896271
+      "chg_pct": 3.569632981397687,
+      "vol_ratio": 0.8280429844199518,
+      "volume": 16238236
     },
     "000660.KS": {
       "name": "SK하이닉스",
       "market": "KR",
-      "chg_pct": -1.8010963194988252,
-      "vol_ratio": 1.284354851852513,
-      "volume": 5158202
+      "chg_pct": 5.363036303630363,
+      "vol_ratio": 0.8512217729713285,
+      "volume": 3440919
     },
     "373220.KS": {
       "name": "LG에너지솔루션",
       "market": "KR",
-      "chg_pct": -1.7883755588673622,
-      "vol_ratio": 0.6583695396083207,
-      "volume": 325122
+      "chg_pct": 1.5128593040847202,
+      "vol_ratio": 0.48821183985439215,
+      "volume": 246580
     },
     "207940.KS": {
       "name": "삼성바이오로직스",
       "market": "KR",
-      "chg_pct": 1.3286713286713288,
-      "vol_ratio": 1.2107290660369483,
-      "volume": 101516
+      "chg_pct": -2.588555858310627,
+      "vol_ratio": 0.9630650773624825,
+      "volume": 80880
     },
     "005380.KS": {
       "name": "현대차",
       "market": "KR",
-      "chg_pct": -2.2018348623853212,
-      "vol_ratio": 1.478456104192211,
-      "volume": 866539
+      "chg_pct": -0.9090909090909091,
+      "vol_ratio": 0.6707442690774225,
+      "volume": 398840
     },
     "000270.KS": {
       "name": "기아",
       "market": "KR",
-      "chg_pct": -1.0570824524312896,
-      "vol_ratio": 1.310402660954785,
-      "volume": 1275452
+      "chg_pct": -1.5608740894901143,
+      "vol_ratio": 0.8177462482147869,
+      "volume": 802293
     },
     "035420.KS": {
       "name": "NAVER",
       "market": "KR",
-      "chg_pct": -6.433350488934638,
-      "vol_ratio": 2.3624227899090045,
-      "volume": 1830951
+      "chg_pct": 0.6735751295336788,
+      "vol_ratio": 1.5759802396531803,
+      "volume": 1191593
     },
     "035720.KS": {
       "name": "카카오",
       "market": "KR",
-      "chg_pct": -0.9375,
-      "vol_ratio": 1.353789832971896,
-      "volume": 2312593
+      "chg_pct": -0.15600624024961,
+      "vol_ratio": 0.9951053758820453,
+      "volume": 1700237
     },
     "068270.KS": {
       "name": "셀트리온",
       "market": "KR",
-      "chg_pct": 1.2077294685990339,
-      "vol_ratio": 0.8275080603438071,
-      "volume": 556194
+      "chg_pct": 1.9704433497536946,
+      "vol_ratio": 1.1150285639484596,
+      "volume": 745716
     },
     "005490.KS": {
       "name": "POSCO홀딩스",
       "market": "KR",
-      "chg_pct": -0.5424954792043399,
-      "vol_ratio": 1.2368282275895526,
-      "volume": 303163
+      "chg_pct": 2.029520295202952,
+      "vol_ratio": 0.6275428943814682,
+      "volume": 156351
     },
     "051910.KS": {
       "name": "LG화학",
       "market": "KR",
-      "chg_pct": -1.6293279022403258,
-      "vol_ratio": 1.0094038002127053,
-      "volume": 252711
+      "chg_pct": 3.1512605042016806,
+      "vol_ratio": 0.6414604150406064,
+      "volume": 163137
     },
     "006400.KS": {
       "name": "삼성SDI",
       "market": "KR",
-      "chg_pct": -1.1494252873563218,
-      "vol_ratio": 1.1419796707839431,
-      "volume": 873066
+      "chg_pct": 4.934210526315789,
+      "vol_ratio": 0.8235044101595916,
+      "volume": 634454
     },
     "028260.KS": {
       "name": "삼성물산",
       "market": "KR",
-      "chg_pct": 0.5300353356890459,
-      "vol_ratio": 1.0925481801093664,
-      "volume": 410555
+      "chg_pct": 1.4336917562724014,
+      "vol_ratio": 0.7034623175122781,
+      "volume": 267798
     },
     "105560.KS": {
       "name": "KB금융",
       "market": "KR",
-      "chg_pct": -0.9784735812133072,
-      "vol_ratio": 1.9260050894166556,
-      "volume": 1832506
+      "chg_pct": 0.3929273084479371,
+      "vol_ratio": 0.9592253313209187,
+      "volume": 914280
     },
     "055550.KS": {
       "name": "신한지주",
       "market": "KR",
-      "chg_pct": -0.8168028004667445,
-      "vol_ratio": 1.6061228103823193,
-      "volume": 1776077
+      "chg_pct": 0.23391812865497078,
+      "vol_ratio": 0.9454145430978869,
+      "volume": 1047942
     }
   },
   "heatmap": {
     "AAPL": {
       "name": "AAPL",
-      "chg_pct": 2.04298152640601,
+      "chg_pct": 0.6959497425790018,
       "source": "yahoo"
     },
     "MSFT": {
       "name": "MSFT",
-      "chg_pct": -2.2563524772437513,
+      "chg_pct": 1.4007997475812801,
       "source": "yahoo"
     },
     "NVDA": {
       "name": "NVDA",
-      "chg_pct": 2.8657684619467627,
+      "chg_pct": -4.97610615683766,
       "source": "yahoo"
     },
     "GOOGL": {
       "name": "GOOGL",
-      "chg_pct": 2.1121884686076093,
+      "chg_pct": 1.6155336494113315,
       "source": "yahoo"
     },
     "AMZN": {
       "name": "AMZN",
-      "chg_pct": -1.7351429741857358,
+      "chg_pct": 1.2773767610781144,
       "source": "yahoo"
     },
     "META": {
       "name": "META",
-      "chg_pct": -1.967600809018651,
+      "chg_pct": -0.569368287074607,
       "source": "yahoo"
     },
     "TSLA": {
       "name": "TSLA",
-      "chg_pct": 2.912211699969248,
+      "chg_pct": 0.34541145127545037,
       "source": "yahoo"
     },
     "AVGO": {
       "name": "AVGO",
-      "chg_pct": 3.9881889861496087,
+      "chg_pct": 6.2192228563770575,
       "source": "yahoo"
     },
     "COST": {
       "name": "COST",
-      "chg_pct": 2.0138040415080734,
+      "chg_pct": 0.6675195946530641,
       "source": "yahoo"
     },
     "NFLX": {
       "name": "NFLX",
-      "chg_pct": 2.023399664805931,
+      "chg_pct": -1.3557483538700854,
       "source": "yahoo"
     },
     "AMD": {
       "name": "AMD",
-      "chg_pct": 7.315463759244685,
+      "chg_pct": 6.260623748580649,
       "source": "yahoo"
     },
     "ADBE": {
       "name": "ADBE",
-      "chg_pct": 0.3802320096650602,
+      "chg_pct": 0.20833127292591253,
       "source": "yahoo"
     },
     "PEP": {
       "name": "PEP",
-      "chg_pct": 0.22979028594955708,
+      "chg_pct": -0.32652578347318617,
       "source": "yahoo"
     },
     "CSCO": {
       "name": "CSCO",
-      "chg_pct": 2.659195690041219,
+      "chg_pct": 0.7840421782238942,
       "source": "yahoo"
     },
     "INTC": {
       "name": "INTC",
-      "chg_pct": 7.517630916201281,
+      "chg_pct": -0.591998291015625,
       "source": "yahoo"
     },
     "QCOM": {
       "name": "QCOM",
-      "chg_pct": 1.7518634047755006,
+      "chg_pct": 2.8834417646097044,
       "source": "yahoo"
     },
     "TXN": {
       "name": "TXN",
-      "chg_pct": 3.091311355165541,
+      "chg_pct": 1.671990160614997,
       "source": "yahoo"
     },
     "AMAT": {
       "name": "AMAT",
-      "chg_pct": 6.053200511867597,
+      "chg_pct": -0.32018431048214885,
       "source": "yahoo"
     },
     "INTU": {
       "name": "INTU",
-      "chg_pct": 0.6462261165709803,
+      "chg_pct": 0.11089608597648587,
       "source": "yahoo"
     },
     "BKNG": {
       "name": "BKNG",
-      "chg_pct": 0.5965165388665592,
+      "chg_pct": 2.4155764028518245,
       "source": "yahoo"
     }
   },
@@ -3517,9 +3517,9 @@
       "label": "비농업고용(천명)"
     },
     "initial_claims": {
-      "date": "2026-10-31",
-      "value": 189000.0,
-      "prev": 195000.0,
+      "date": "2026-11-07",
+      "value": 200000.0,
+      "prev": 191000.0,
       "label": "신규실업수당청구(명)"
     },
     "consumer_sentiment": {
@@ -3624,45 +3624,57 @@
     }
   },
   "price_alerts": {
-    "vix": {
-      "name": "VIX",
-      "chg_pct": -10.123326855273985,
+    "gold": {
+      "name": "금",
+      "chg_pct": -3.0171216390919886,
       "category": "other",
+      "threshold": 3.0
+    },
+    "silver": {
+      "name": "은",
+      "chg_pct": -3.288296803605628,
+      "category": "other",
+      "threshold": 3.0
+    },
+    "NVDA": {
+      "name": "NVDA",
+      "chg_pct": -4.984739893105035,
+      "category": "stock",
       "threshold": 3.0
     },
     "AVGO": {
       "name": "AVGO",
-      "chg_pct": 3.9881889861496087,
+      "chg_pct": 6.2853816982401876,
       "category": "stock",
       "threshold": 3.0
     },
     "AMD": {
       "name": "AMD",
-      "chg_pct": 7.315463759244685,
+      "chg_pct": 6.296633274877649,
       "category": "stock",
       "threshold": 3.0
     },
-    "INTC": {
-      "name": "INTC",
-      "chg_pct": 7.517630916201281,
+    "005930.KS": {
+      "name": "삼성전자",
+      "chg_pct": 3.569632981397687,
       "category": "stock",
       "threshold": 3.0
     },
-    "TXN": {
-      "name": "TXN",
-      "chg_pct": 3.091311355165541,
+    "000660.KS": {
+      "name": "SK하이닉스",
+      "chg_pct": 5.363036303630363,
       "category": "stock",
       "threshold": 3.0
     },
-    "AMAT": {
-      "name": "AMAT",
-      "chg_pct": 6.053200511867597,
+    "051910.KS": {
+      "name": "LG화학",
+      "chg_pct": 3.1512605042016806,
       "category": "stock",
       "threshold": 3.0
     },
-    "035420.KS": {
-      "name": "NAVER",
-      "chg_pct": -6.433350488934638,
+    "006400.KS": {
+      "name": "삼성SDI",
+      "chg_pct": 4.934210526315789,
       "category": "stock",
       "threshold": 3.0
     }
