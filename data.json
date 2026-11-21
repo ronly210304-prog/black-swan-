@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-21T03:30:22.104482+00:00",
+  "updated_at": "2026-11-21T11:46:20.148352+00:00",
   "news": [
+    {
+      "title": "How China is using summits to expand its global influence",
+      "description": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
+      "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+      "pubDate": "Sat, 21 Nov 2026 06:00:02 GMT",
+      "tag": "ndx",
+      "title_ko": "중국이 정상회담을 통해 글로벌 영향력을 확대하는 방법",
+      "desc_ko": "시진핑 중국 국가주석이 또 한 번 세계적인 의미를 지닌 포토 세션을 조율하는 데 도움을 주었습니다."
+    },
     {
       "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
       "description": "Odds that the S&P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.",
@@ -16,8 +25,8 @@
       "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
       "pubDate": "Fri, 20 Nov 2026 21:10:48 GMT",
       "tag": "ndx",
-      "title_ko": "워시는 연준 관계자들이 발언을 자제하기를 바란다. 그런데 오히려 더 많이 이야기하고 있다.",
-      "desc_ko": "최근 연준 관계자들이 마이크 앞에 서는 일이 잦아진 반면, 연준 의장은 한발 물러서 있는 모습이다."
+      "title_ko": "워시는 연준 관계자들이 발언을 줄이기를 원한다. 그런데 오히려 더 많은 발언을 하고 있다.",
+      "desc_ko": "최근 연준 관계자들이 마이크 앞에 서는 일이 잦아진 반면, 연준 의장은 한발 물러서 있는 모습입니다."
     },
     {
       "title": "The bull market has a new problem. The &apos;smart money&apos; is selling",
@@ -34,7 +43,7 @@
       "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
       "pubDate": "Fri, 20 Nov 2026 13:29:50 GMT",
       "tag": "ndx",
-      "title_ko": "트럼프 대통령의 아시아 방문이 끝난 가운데, 미중 무역, 대만, 기술 분야의 갈등은 여전히 해결되지 않은 상태입니다.",
+      "title_ko": "트럼프 대통령의 아시아 방문이 끝난 지금도 미중 무역, 대만, 기술 분야의 긴장은 여전히 해소되지 않고 있음",
       "desc_ko": "분석가들은 이번 주 선전에서 열린 APEC 고위급 3자 회담 및 기타 회의에서 구체적인 성과가 거의 없었다고 지적한다."
     },
     {
@@ -44,7 +53,7 @@
       "pubDate": "Thu, 19 Nov 2026 09:02:00 GMT",
       "tag": "ndx",
       "title_ko": "트럼프, 우크라이나 전쟁이 중심이 된 가운데 푸틴과의 '훌륭한 관계'를 칭찬",
-      "desc_ko": "도널드 트럼프 미국 대통령은 14일 블라디미르 푸틴 러시아 대통령과 시진핑 중국 국가주석과 각각 개별 회담을 가졌다."
+      "desc_ko": "도널드 트럼프 미국 대통령은 지난 14일 블라디미르 푸틴 러시아 대통령과 시진핑 중국 국가주석과 각각 개별 회담을 가졌다."
     },
     {
       "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
@@ -52,8 +61,8 @@
       "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
       "pubDate": "Wed, 18 Nov 2026 19:41:59 GMT",
       "tag": "ndx",
-      "title_ko": "연준 관계자들, 추가 금리 인상 예상하며 AI가 인플레이션에 미치는 영향에 우려 표명",
-      "desc_ko": "연방준비제도(Fed)는 지난 10월 정책 회의록을 수요일에 공개했습니다. 이 회의에서 Fed는 기준 금리를 3.75%~4% 범위로 유지하기로 결정했습니다."
+      "title_ko": "연준 관계자들, 추가 금리 인상 예상하며 AI가 인플레이션에 미치는 영향 우려, 의사록에 드러나",
+      "desc_ko": "연방준비제도(Fed)는 지난 10월 정책 회의록을 수요일에 공개했습니다. 이 회의에서 연준은 기준 금리를 3.75%~4% 범위로 유지하기로 결정했습니다."
     },
     {
       "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
@@ -70,8 +79,8 @@
       "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
       "pubDate": "Wed, 18 Nov 2026 16:33:14 GMT",
       "tag": "ndx",
-      "title_ko": "기술적 장애로 인해 사람들이 공황 구매를 하고 있습니다. 미즈호에 따르면 코스트코가 수혜를 보고 있다고 합니다.",
-      "desc_ko": "기술적 장애가 긴급 생필품을 확보하기 위한 경쟁으로 이어지면서 쇼핑객들이 코스트코에서 더 많은 돈을 지출하고 있습니다."
+      "title_ko": "기술적 장애로 인해 사람들이 공황 매수를 하고 있습니다. 미즈호에 따르면 코스트코가 수혜를 보고 있다고 합니다.",
+      "desc_ko": "기술적 장애가 긴급 생필품을 구하기 위한 경쟁으로 이어지면서 쇼핑객들이 코스트코에서 더 많은 돈을 지출하고 있습니다."
     },
     {
       "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
@@ -79,8 +88,8 @@
       "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
       "pubDate": "Wed, 18 Nov 2026 15:13:39 GMT",
       "tag": "ndx",
-      "title_ko": "연준의 월러 위원은 중앙은행이 0.5%포인트 금리 인상으로 '사람들을 놀라게' 해야 할 수도 있다고 말했습니다.",
-      "desc_ko": "연준의 목표치인 2%를 상회하는 인플레이션이 지속되면서 중앙은행 관계자들은 더욱 공격적인 입장을 취하고 있습니다."
+      "title_ko": "연준의 월러 이사, 중앙은행이 0.5%포인트 금리 인상으로 '사람들을 놀라게' 해야 할 수도 있다고 언급",
+      "desc_ko": "연준의 목표치인 2%를 상회하는 인플레이션이 지속되면서 중앙은행 관계자들은 더욱 공격적인 입장을 취하고 있다."
     },
     {
       "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
@@ -88,7 +97,7 @@
       "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
       "pubDate": "Wed, 18 Nov 2026 08:29:35 GMT",
       "tag": "ndx",
-      "title_ko": "푸틴 대통령, 트럼프 대통령 및 시 주석과의 회담을 앞두고 EU가 산업을 잃고 경쟁에서 뒤처지고 있다고 발언",
+      "title_ko": "푸틴 대통령, 트럼프 대통령 및 시 주석과의 회담을 앞두고 EU가 산업 경쟁력을 잃고 뒤처지고 있다고 발언",
       "desc_ko": "푸틴 대통령은 이 연설을 통해 미국의 제재에도 불구하고 러시아의 경제적 회복력을 강조하고, APEC 회원국들이 러시아에서 누릴 수 있는 기회를 부각시켰다."
     },
     {
@@ -98,7 +107,7 @@
       "pubDate": "Wed, 18 Nov 2026 06:04:39 GMT",
       "tag": "ndx",
       "title_ko": "트럼프, 시진핑, 푸틴이 중국에서 만나는 가운데 주목해야 할 세 가지 사항",
-      "desc_ko": "도널드 트럼프 미국 대통령, 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령이 APEC 정상회의와 함께 선전에서 회담할 예정이다."
+      "desc_ko": "도널드 트럼프 미국 대통령, 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령이 APEC 정상회의와 함께 선전에서 회담을 가질 예정이다."
     },
     {
       "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
@@ -106,8 +115,8 @@
       "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
       "pubDate": "Wed, 18 Nov 2026 06:18:11 GMT",
       "tag": "ndx",
-      "title_ko": "JPMorgan은 인간이 개입하지 않는 AI 에이전트 거래를 추진하고 있습니다.",
-      "desc_ko": "JPMorgan과 현대카드는 금융 거래에 AI 에이전트의 사용을 확대하고자 합니다."
+      "title_ko": "JPMorgan, 인간의 개입 없이 이루어지는 AI 에이전트 거래 개발 중",
+      "desc_ko": "JPMorgan과 현대카드는 금융 거래에서 AI 에이전트의 사용을 확대하고자 합니다."
     },
     {
       "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
@@ -115,7 +124,7 @@
       "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
       "pubDate": "Tue, 17 Nov 2026 08:52:45 GMT",
       "tag": "ndx",
-      "title_ko": "엔비디아부터 애플까지 미국 기업들이 직면한 중국 관련 딜레마 심화",
+      "title_ko": "Nvidia부터 Apple까지 미국 기업들이 직면한 중국 관련 딜레마가 심화되고 있습니다.",
       "desc_ko": "미국과 중국 시장에서 활동하는 기업들에게는 이제 더 큰 위험이 도사리고 있습니다."
     },
     {
@@ -125,16 +134,34 @@
       "pubDate": "Mon, 16 Nov 2026 23:01:19 GMT",
       "tag": "ndx",
       "title_ko": "버크셔 해서웨이는 3분기에 델타 지분을 늘렸습니다. 또한 주요 은행 지분을 축소했습니다.",
-      "desc_ko": "버크셔 해서웨이는 3분기에 여러 주식 포지션을 추가하는 한편, 뱅크오브아메리카를 포함한 다른 포지션을 축소했다."
+      "desc_ko": "버크셔 해서웨이는 3분기에 여러 주식 포지션을 늘리는 한편, 뱅크오브아메리카를 포함한 다른 주식 포지션을 줄였습니다."
     },
     {
-      "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-      "description": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
-      "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-      "pubDate": "Mon, 16 Nov 2026 22:14:47 GMT",
-      "tag": "ndx",
-      "title_ko": "JP모건 체이스, 일시적인 소프트웨어 버그로 인해 소비자 금융 서비스에 차질이 발생했다고 밝혀",
-      "desc_ko": "CNBC의 이몬 자버스(Eamon Javers)는 악의적인 행위자가 개입된 징후가 없으며, 버그가 여러 은행에 동시에 영향을 미쳤다는 징후도 없다고 보도했습니다."
+      "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+      "description": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block’s Spiral that uses AI agents to examine bitcoin code.",
+      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+      "pubDate": "Sat, 21 Nov 2026 06:16:42 +0000",
+      "tag": "btc",
+      "title_ko": "하나의 ID를 50,000번 반복하면 비트코인 노드가 정지될 수 있습니다. AI가 버그를 발견했습니다.",
+      "desc_ko": "Bitcoin Core는 금요일에 AI 에이전트를 사용하여 비트코인 코드를 검사하는 Block의 Spiral 소속 오픈 소스 스캐너인 Loupe가 발견한 버그에 대한 수정 사항을 배포했습니다."
+    },
+    {
+      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+      "description": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness.",
+      "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+      "pubDate": "Sat, 21 Nov 2026 05:59:19 +0000",
+      "tag": "btc",
+      "title_ko": "장기 투자 포지션이 청산되고 ETF 자산이 10억 달러 아래로 하락하면서 XRP가 10% 하락했습니다.",
+      "desc_ko": "토큰은 토요일의 암호화폐 매도세 동안 이전 11월 저점을 하회했으며, 롱 포지션이 대부분의 XRP 청산에 해당하고 기술적 지표는 추가 약세를 보였습니다."
+    },
+    {
+      "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+      "description": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000.",
+      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+      "pubDate": "Sat, 21 Nov 2026 04:10:07 +0000",
+      "tag": "btc",
+      "title_ko": "비트코인이 2년 만에 처음으로 57,000달러 아래로 하락했으며, 비트코인만 그런 것이 아닙니다.",
+      "desc_ko": "BTC 매도가 토요일에 심화되면서 가격이 2년 만에 최저치인 $57,000 이하로 하락했습니다."
     },
     {
       "title": "Kalshi races to get ahead of New York order that could shut down exchange",
@@ -142,7 +169,7 @@
       "link": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
       "pubDate": "Fri, 20 Nov 2026 22:51:14 +0000",
       "tag": "btc",
-      "title_ko": "칼시(Kalshi), 거래소 폐쇄 가능성을 초래할 뉴욕 명령에 앞서 나가기 위해 서두름",
+      "title_ko": "칼시, 거래소 폐쇄 가능성을 내포한 뉴욕 명령에 앞서기 위해 서두름",
       "desc_ko": "미국의 예측 시장 기업이 뉴욕 법원에 새로운 소송 패소로 인한 계류 중인 접근 금지 명령에 반대할 기회를 달라고 요청했습니다."
     },
     {
@@ -151,8 +178,8 @@
       "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
       "pubDate": "Fri, 20 Nov 2026 22:05:31 +0000",
       "tag": "btc",
-      "title_ko": "Fairmint, SEC 실험에 따라 Canton, 이더리움에서 토큰화된 주식 거래소 계획",
-      "desc_ko": "이 회사는 토큰화된 거래에 대한 기관의 5년 \"혁신 면제\"에 따라 블록체인 기반 주식 시장 구축에 참여한 가장 최근의 기업입니다."
+      "title_ko": "Fairmint, SEC 실험에 따라 Canton, 이더리움 기반 토큰화 주식 거래소 계획",
+      "desc_ko": "이 회사는 토큰화된 거래에 대한 기관의 5년 \"혁신 면제\"에 따라 블록체인 기반 주식 시장 구축에 참여하는 가장 최근의 기업입니다."
     },
     {
       "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
@@ -160,7 +187,7 @@
       "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
       "pubDate": "Fri, 20 Nov 2026 18:13:52 +0000",
       "tag": "btc",
-      "title_ko": "현금 수요가 급증하면서 새로운 약세장 저점이 다시 형성됨에 따라 비트코인이 59,000달러 아래로 하락했습니다.",
+      "title_ko": "현금 수요 증가로 인해 새로운 약세장 저점이 다시 형성되면서 비트코인이 $59,000 아래로 하락했습니다.",
       "desc_ko": "델피 디지털(Delphi Digital)의 전략가가 연준이 상황을 악화시킬 수 있다고 경고하고 STS 디지털(STS Digital)이 현금을 안전 자산으로 보고 있는 가운데, 비트코인이 여름 최저가인 57,700달러에 근접하고 있습니다."
     },
     {
@@ -188,7 +215,7 @@
       "pubDate": "Fri, 20 Nov 2026 14:25:57 +0000",
       "tag": "btc",
       "title_ko": "미국 상원, 전쟁 및 사망에 대한 예측 시장 베팅을 금지하는 법안 통과",
-      "desc_ko": "이 법안은 이미 발생한 바와 같이 거래자들이 내부 정보를 통해 이익을 얻을 수 있다는 우려 속에서 전쟁, 암살 및 군사 작전에 대한 베팅을 금지할 것이다."
+      "desc_ko": "이 법안은 이미 발생한 바와 같이, 거래자들이 내부 정보를 통해 이익을 얻을 수 있다는 우려 속에서 전쟁, 암살 및 군사 작전에 대한 베팅을 금지할 것이다."
     },
     {
       "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
@@ -196,7 +223,7 @@
       "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
       "pubDate": "Fri, 20 Nov 2026 13:35:33 +0000",
       "tag": "btc",
-      "title_ko": "실시간 뉴스: 안트로픽이 나스닥 상장 후 하락세를 보이면서 비트코인이 59,000달러 아래로 하락하며 새로운 저점을 기록했습니다.",
+      "title_ko": "실시간 뉴스: 앤트로픽이 나스닥 상장 후 하락세를 보이면서 비트코인이 59,000달러 아래로 새로운 저점을 기록했습니다.",
       "desc_ko": "미국의 기술주 매도가 아시아로 확산되면서 블랙록의 비트코인 ETF에서 사상 최대인 5억 4,110만 달러의 자금 유출이 발생했고, 이에 따라 한국의 코스피 지수가 5% 이상 하락했습니다."
     },
     {
@@ -205,8 +232,8 @@
       "link": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
       "pubDate": "Fri, 20 Nov 2026 13:30:22 +0000",
       "tag": "btc",
-      "title_ko": "연구자들이 지갑 키를 공개하자 몇 초 만에 비트코인 봇이 공격을 가했습니다.",
-      "desc_ko": "리에주 대학교(University of Liège)의 연구원들은 의도적으로 취약한 비트코인 주소에 몇 달러를 입금하고 몇 초 만에 경쟁하는 봇들이 돈을 차지하기 위해 경쟁하는 모습을 관찰했습니다."
+      "title_ko": "연구자들이 지갑 키를 공개하자 몇 초 만에 비트코인 봇이 달려들었습니다.",
+      "desc_ko": "리에주 대학교(University of Liège)의 연구원들은 의도적으로 취약한 비트코인 주소에 소액의 돈을 넣고 몇 초 만에 경쟁하는 봇들이 돈을 차지하기 위해 경쟁하는 모습을 관찰했습니다."
     },
     {
       "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
@@ -215,7 +242,7 @@
       "pubDate": "Fri, 20 Nov 2026 13:11:49 +0000",
       "tag": "btc",
       "title_ko": "ECB의 라가르드 총재, 유럽이 성장하는 토큰화 자산 시장에 대한 통제력을 상실할 수 있다고 경고",
-      "desc_ko": "유럽중앙은행(ECB) 총재는 EU의 새로운 블록체인 결제 시스템이 10억 유로(11억 달러) 규모의 디지털 채권 거래를 처리하면서 공통 규범을 촉구했습니다."
+      "desc_ko": "유럽중앙은행(ECB) 총재는 EU의 새로운 블록체인 결제 시스템이 10억 유로(11억 달러) 규모의 디지털 채권 거래를 처리함에 따라 공통 규범을 촉구했습니다."
     },
     {
       "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
@@ -233,7 +260,7 @@
       "pubDate": "Fri, 20 Nov 2026 11:42:02 +0000",
       "tag": "btc",
       "title_ko": "아시아 기술주 하락에 따라 비트코인 가격이 3일 연속 하락했습니다.",
-      "desc_ko": "블랙록의 현물 비트코인 ETF는 투자자들이 계속해서 이 섹터를 이탈하면서 2년 전 도입 이후 최대의 일일 유출액을 기록했습니다."
+      "desc_ko": "BlackRock의 현물 비트코인 ETF는 투자자들이 계속해서 이 섹터를 이탈하면서 2년 전 도입 이후 최대의 일일 유출액을 기록했습니다."
     },
     {
       "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
@@ -242,34 +269,7 @@
       "pubDate": "Fri, 20 Nov 2026 10:48:04 +0000",
       "tag": "btc",
       "title_ko": "코인베이스, 2027년 상반기 자체 예측 시장 계약 목표",
-      "desc_ko": "이 조치로 인해 코인베이스는 3분기에 연간 매출 2억 달러를 달성한 파트너사 칼시(Kalshi)에 대한 의존도를 낮출 수 있게 되었습니다."
-    },
-    {
-      "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
-      "description": "Hyperliquid and other onchain exchanges can offer derivatives to U.S. traders if they obtain the required licenses or work with a registered exchange, the CFTC chairman said.",
-      "link": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
-      "pubDate": "Fri, 20 Nov 2026 10:02:03 +0000",
-      "tag": "btc",
-      "title_ko": "CFTC, Hyperliquid 또는 기타 온체인 거래 플랫폼에 대한 특별 규정 없음",
-      "desc_ko": "CFTC 위원장은 Hyperliquid 및 기타 온체인 거래소가 필요한 라이선스를 취득하거나 등록된 거래소와 협력하는 경우 미국 거래자에게 파생 상품을 제공할 수 있다고 밝혔습니다."
-    },
-    {
-      "title": "Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares",
-      "description": "ARK Invest snapped up $90 million in Anthropic stock across six funds during the AI maker’s historic Nasdaq debut while offloading Nvidia shares amid leadership turmoil.",
-      "link": "https://www.coindesk.com/markets/2026/11/20/cathie-wood-s-ark-invest-piled-into-anthropic-ipo-buying-usd90-million-worth-of-shares",
-      "pubDate": "Fri, 20 Nov 2026 09:48:52 +0000",
-      "tag": "btc",
-      "title_ko": "캐시 우드의 아크 인베스트, 앤트로픽 IPO에 투자하며 9천만 달러 상당의 주식 매수",
-      "desc_ko": "ARK Invest는 AI 개발사인 Anthropic이 나스닥에 상장한 역사적인 시기에 6개 펀드를 통해 9억 달러 상당의 Anthropic 주식을 매입했으며, 경영진의 혼란 속에서 Nvidia 주식을 매도했습니다."
-    },
-    {
-      "title": "Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million",
-      "description": "The sell-off hit Wagyu’s XMR1 token, separate from Monero and Hyperliquid’s XMR futures market.",
-      "link": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
-      "pubDate": "Fri, 20 Nov 2026 08:04:40 +0000",
-      "tag": "btc",
-      "title_ko": "발행사와 연결된 지갑이 1,350만 달러를 매도하면서 랩드 모네로(Wrapped Monero) 토큰이 99% 하락했습니다.",
-      "desc_ko": "매도세는 모네로와 하이퍼리퀴드의 XMR 선물 시장과는 별개인 와규의 XMR1 토큰에 영향을 미쳤습니다."
+      "desc_ko": "이러한 조치는 3분기에 연간 매출 2억 달러를 달성한 Kalshi와의 파트너십에 대한 Coinbase의 의존도를 낮출 것입니다."
     },
     {
       "title": "Tech outages are rattling Americans so much that they&#x2019;re stockpiling cash and supplies",
@@ -277,8 +277,8 @@
       "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
       "pubDate": "Sat, 21 Nov 2026 03:20:00 GMT",
       "tag": "general",
-      "title_ko": "기술 서비스 중단이 미국인들을 너무나 불안하게 만들어 현금과 생필품을 비축하고 있습니다.",
-      "desc_ko": "세계 지도자들의 명확한 입장이 부족한 상황에서 일부 사람들은 최악의 상황에 대비하고 있습니다."
+      "title_ko": "기술 서비스 중단으로 미국인들이 현금과 생필품을 비축할 정도로 큰 불안감을 느끼고 있습니다.",
+      "desc_ko": "세계 지도자들의 명확한 입장 표명이 부족한 상황에서 일부 사람들은 최악의 상황에 대비하고 있습니다."
     },
     {
       "title": "Dow, S&amp;P 500 enter correction as Nasdaq suffers worst week since 2020",
@@ -295,7 +295,7 @@
       "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
       "pubDate": "Fri, 20 Nov 2026 22:44:00 GMT",
       "tag": "general",
-      "title_ko": "AI 거래에 대한 공포가 확산되면서 반도체 주식이 주간 2조 3천억 달러 하락",
+      "title_ko": "AI 거래에 대한 공포가 확산되면서 반도체 주가가 주간 2조 3천억 달러 하락",
       "desc_ko": "주요 반도체 지수가 25년 만에 최악의 주간 성과를 기록했습니다."
     },
     {
@@ -305,7 +305,7 @@
       "pubDate": "Fri, 20 Nov 2026 22:44:00 GMT",
       "tag": "general",
       "title_ko": "이번 주 기술주 폭락이 가속화되면서 이들 주식이 가장 큰 타격을 받았습니다.",
-      "desc_ko": "S&P 500 지수에 포함된 주식의 94%가 이번 주에 하락했으며, 그중 11개는 20% 이상 하락했습니다. 하지만 현재로서는 애널리스트들이 여전히 해당 주식을 매수하면 많은 수익을 올릴 수 있다고 생각하고 있습니다."
+      "desc_ko": "S&P 500 지수에 포함된 주식의 94%가 이번 주에 하락했으며, 그중 11개는 최소 20% 하락했습니다. 하지만 현재로서는 애널리스트들이 여전히 주식을 매수하면 많은 돈을 벌 수 있다고 생각합니다."
     },
     {
       "title": "Nvidia&#x2019;s stock clinches a stretch of weekly losses not seen since 2008",
@@ -314,7 +314,7 @@
       "pubDate": "Fri, 20 Nov 2026 21:58:00 GMT",
       "tag": "general",
       "title_ko": "Nvidia 주가, 2008년 이후 처음으로 주간 하락세 지속",
-      "desc_ko": "한 펀드 매니저는 지난 7거래일 동안 주가가 시가총액 1조 1,600억 달러를 잃었음에도 불구하고 지속적인 불확실성으로 인해 엔비디아가 추가 매도에 취약하다고 말합니다."
+      "desc_ko": "한 펀드 매니저는 지난 7거래일 동안 주가가 시가총액 1조 1,600억 달러를 하락했음에도 불구하고 지속적인 불확실성으로 인해 엔비디아가 추가 매도에 취약하다고 말합니다."
     },
     {
       "title": "Everyone&#x2019;s making money off &#x2018;GTA 6&#x2019; this week &#x2014; except investors in Take-Two&#x2019;s stock",
@@ -323,7 +323,7 @@
       "pubDate": "Fri, 20 Nov 2026 21:39:00 GMT",
       "tag": "general",
       "title_ko": "이번 주에는 Take-Two 주식 투자자를 제외한 모든 사람이 'GTA 6'로 돈을 벌고 있습니다.",
-      "desc_ko": "‘GTA 6’는 블록버스터 게임일 수 있지만, 투자자들은 이를 무시하고 있습니다."
+      "desc_ko": "‘Grand Theft Auto VI’는 블록버스터 게임일 수 있지만, 투자자들은 이를 무시하고 있습니다."
     },
     {
       "title": "The hidden catch in Anthropic&#x2019;s IPO: Billions of locked-up shares are waiting in the wings",
@@ -331,7 +331,7 @@
       "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
       "pubDate": "Fri, 20 Nov 2026 21:39:00 GMT",
       "tag": "general",
-      "title_ko": "앤트로픽의 IPO에 숨겨진 함정: 수십억 달러 규모의 매각 제한 주식이 대기 중",
+      "title_ko": "앤트로픽의 IPO에 숨겨진 함정: 수십억 달러 규모의 락업 주식이 대기 중",
       "desc_ko": "다가오는 공급 과잉 문제가 내년에 주가에 부담을 줄 수 있습니다."
     },
     {
@@ -340,8 +340,8 @@
       "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
       "pubDate": "Fri, 20 Nov 2026 21:36:00 GMT",
       "tag": "general",
-      "title_ko": "마이크론과 샌디스크의 주가는 저렴해 보일 수 있지만, 애널리스트들은 이것이 실제로 위험 신호라고 말합니다.",
-      "desc_ko": "애널리스트들에 따르면, 메모리 주식의 저렴한 가치 평가 배수는 역사적으로 최고 가격 수준과 연관되어 왔습니다."
+      "title_ko": "마이크론과 샌디스크의 주가는 저렴해 보일 수 있지만, 분석가들은 이것이 실제로 위험 신호라고 말합니다.",
+      "desc_ko": "애널리스트들에 따르면, 메모리 주식의 저렴한 가치 평가 배수는 역사적으로 최고 가격 수준과 연관이 있습니다."
     },
     {
       "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year&#x2019;s peak",
@@ -349,8 +349,8 @@
       "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
       "pubDate": "Fri, 20 Nov 2026 21:34:00 GMT",
       "tag": "general",
-      "title_ko": "추수감사절 여행객들이 감사할 만한 한 가지: 올해 최고가 대비 휘발유 가격이 75센트 하락",
-      "desc_ko": "추수감사절 여행을 준비하는 여행객들은 몇 달간 이어진 높은 연료 가격 이후 주유소에서 더 저렴한 휘발유 가격을 맞이하게 될 것입니다."
+      "title_ko": "추수감사절 여행객들이 감사할 만한 한 가지: 올해 최고가 대비 휘발유 가격이 75센트 하락했습니다.",
+      "desc_ko": "추수감사절 여행을 준비하는 여행객들은 몇 달간 이어진 높은 연료 가격 이후 주유소에서 더 저렴한 휘발유 가격을 만나게 될 것입니다."
     },
     {
       "title": "Anthropic&#x2019;s stock sees dramatic slide but manages to stay above its IPO price",
@@ -359,7 +359,7 @@
       "pubDate": "Fri, 20 Nov 2026 21:25:00 GMT",
       "tag": "general",
       "title_ko": "앤트로픽의 주가는 급격한 하락세를 보였지만 IPO 가격을 상회하는 수준을 유지했습니다.",
-      "desc_ko": "Anthropic이 상장가격을 유지하지 못하는 것은 \"나머지 기술 기업들에게도 좋지 않은 일\"로 여겨졌습니다."
+      "desc_ko": "Anthropic이 상장가격을 유지하지 못하는 것은 \"나머지 기술주에도 좋지 않은\" 것으로 여겨졌습니다."
     }
   ],
   "assets": {
@@ -474,12 +474,12 @@
         27001.779296875,
         27116.259765625,
         26517.05078125,
-        25028.982421875
+        25028.98046875
       ],
-      "last": 25028.982421875,
-      "chg_pct": -5.611741560744008,
-      "rsi14": 26.544922444612453,
-      "ma20": 27893.46162109375
+      "last": 25028.98046875,
+      "chg_pct": -5.611748926287847,
+      "rsi14": 26.544914978349524,
+      "ma20": 27893.4615234375
     },
     "es": {
       "live": true,
@@ -583,12 +583,12 @@
         7359.0,
         7340.5,
         7197.25,
-        6966.75
+        6935.0
       ],
-      "last": 6966.75,
-      "chg_pct": -3.202612108791553,
-      "rsi14": 25.11621951209571,
-      "ma20": 7528.0375
+      "last": 6935.0,
+      "chg_pct": -3.643752822258502,
+      "rsi14": 24.472460217964482,
+      "ma20": 7526.45
     },
     "nq": {
       "live": true,
@@ -692,12 +692,12 @@
         27075.5,
         27186.75,
         26600.25,
-        25291.0
+        25126.5
       ],
-      "last": 25291.0,
-      "chg_pct": -4.92194622230994,
-      "rsi14": 27.038199980964606,
-      "ma20": 28017.1
+      "last": 25126.5,
+      "chg_pct": -5.540361462768207,
+      "rsi14": 26.39941344319824,
+      "ma20": 28008.875
     },
     "gold": {
       "live": true,
@@ -801,12 +801,12 @@
         3864.199951171875,
         3741.89990234375,
         3685.5,
-        3539.0
+        3515.39990234375
       ],
-      "last": 3539.0,
-      "chg_pct": -3.9750373083706414,
-      "rsi14": 22.19369877522459,
-      "ma20": 3943.3349853515624
+      "last": 3515.39990234375,
+      "chg_pct": -4.615387265126849,
+      "rsi14": 21.57193369970038,
+      "ma20": 3942.15498046875
     },
     "wti": {
       "live": true,
@@ -910,12 +910,12 @@
         86.01000213623047,
         83.26000213623047,
         83.20999908447266,
-        83.62000274658203
+        83.9800033569336
       ],
-      "last": 83.62000274658203,
-      "chg_pct": 0.4927336457402791,
-      "rsi14": 35.98636659664251,
-      "ma20": 91.55600013732911
+      "last": 83.9800033569336,
+      "chg_pct": 0.9253746916632567,
+      "rsi14": 36.842379511895345,
+      "ma20": 91.57400016784668
     },
     "zn": {
       "live": true,
@@ -1019,12 +1019,12 @@
         105.609375,
         105.78125,
         105.875,
-        106.609375
+        106.84375
       ],
-      "last": 106.609375,
-      "chg_pct": 0.6936245572609209,
-      "rsi14": 57.39029928307004,
-      "ma20": 106.23828125
+      "last": 106.84375,
+      "chg_pct": 0.9149940968122785,
+      "rsi14": 59.53362496455902,
+      "ma20": 106.25
     },
     "dxy": {
       "live": true,
@@ -1128,17 +1128,16 @@
         103.48999786376953,
         103.86000061035156,
         103.9000015258789,
-        103.83999633789062
+        103.80999755859375
       ],
-      "last": 103.83999633789062,
-      "chg_pct": -0.057752826859521704,
-      "rsi14": 68.9987537053672,
-      "ma20": 102.56900100708008
+      "last": 103.80999755859375,
+      "chg_pct": -0.08662556878089987,
+      "rsi14": 68.43100039226783,
+      "ma20": 102.56750106811523
     },
     "vix": {
       "live": true,
       "closes": [
-        16.149999618530273,
         15.569999694824219,
         16.1299991607666,
         16.899999618530273,
@@ -1184,6 +1183,7 @@
         15.199999809265137,
         14.319999694824219,
         14.529999732971191,
+        15.300000190734863,
         15.720000267028809,
         16.459999084472656,
         17.84000015258789,
@@ -1241,7 +1241,7 @@
       ],
       "last": 35.88999938964844,
       "chg_pct": 26.195494780913446,
-      "rsi14": 71.66513105149082,
+      "rsi14": 71.67419923149104,
       "ma20": 21.698999881744385
     },
     "hsi": {
@@ -2218,12 +2218,12 @@
         5.97599983215332,
         5.6595001220703125,
         5.625,
-        5.465000152587891
+        5.4770002365112305
       ],
-      "last": 5.465000152587891,
-      "chg_pct": -2.8444417317708335,
-      "rsi14": 20.24423775566399,
-      "ma20": 6.2205249786376955
+      "last": 5.4770002365112305,
+      "chg_pct": -2.631106906467014,
+      "rsi14": 20.43087243063721,
+      "ma20": 6.221124982833862
     },
     "natgas": {
       "live": true,
@@ -2327,12 +2327,12 @@
         3.2079999446868896,
         3.371999979019165,
         3.2679998874664307,
-        3.7909998893737793
+        3.4110000133514404
       ],
-      "last": 3.7909998893737793,
-      "chg_pct": 16.003672580075047,
-      "rsi14": 70.16812069408408,
-      "ma20": 3.0840499639511108
+      "last": 3.4110000133514404,
+      "chg_pct": 4.375768996610122,
+      "rsi14": 61.78632546706659,
+      "ma20": 3.065049970149994
     },
     "silver": {
       "live": true,
@@ -2436,12 +2436,12 @@
         47.28799819946289,
         44.999000549316406,
         44.31800079345703,
-        41.08000183105469
+        41.03499984741211
       ],
-      "last": 41.08000183105469,
-      "chg_pct": -7.3062839126994,
-      "rsi14": 21.55566369431429,
-      "ma20": 49.93140048980713
+      "last": 41.03499984741211,
+      "chg_pct": -7.407827264919435,
+      "rsi14": 21.504141867112367,
+      "ma20": 49.929150390625
     },
     "qqq": {
       "live": true,
@@ -2763,12 +2763,12 @@
         4.900000095367432,
         4.883999824523926,
         4.866000175476074,
-        4.700999736785889
+        4.701000213623047
       ],
-      "last": 4.700999736785889,
-      "chg_pct": -3.3908843555280477,
-      "rsi14": 40.91145801276188,
-      "ma20": 4.797149991989135
+      "last": 4.701000213623047,
+      "chg_pct": -3.390874556162223,
+      "rsi14": 40.911483410681754,
+      "ma20": 4.797150015830994
     },
     "tnx": {
       "live": true,
@@ -2872,12 +2872,12 @@
         5.103000164031982,
         5.065999984741211,
         5.052000045776367,
-        4.911999702453613
+        4.9120001792907715
       ],
-      "last": 4.911999702453613,
-      "chg_pct": -2.7711865014688324,
-      "rsi14": 41.345158408873196,
-      "ma20": 4.9866999864578245
+      "last": 4.9120001792907715,
+      "chg_pct": -2.771177062887005,
+      "rsi14": 41.3451867736338,
+      "ma20": 4.986700010299683
     },
     "tyx": {
       "live": true,
@@ -3626,25 +3626,25 @@
   "price_alerts": {
     "ndx": {
       "name": "나스닥100",
-      "chg_pct": -5.611741560744008,
+      "chg_pct": -5.611748926287847,
       "category": "other",
       "threshold": 3.0
     },
     "es": {
       "name": "S&P500 선물",
-      "chg_pct": -3.202612108791553,
+      "chg_pct": -3.643752822258502,
       "category": "other",
       "threshold": 3.0
     },
     "nq": {
       "name": "나스닥 선물",
-      "chg_pct": -4.92194622230994,
+      "chg_pct": -5.540361462768207,
       "category": "other",
       "threshold": 3.0
     },
     "gold": {
       "name": "금",
-      "chg_pct": -3.9750373083706414,
+      "chg_pct": -4.615387265126849,
       "category": "other",
       "threshold": 3.0
     },
@@ -3668,13 +3668,13 @@
     },
     "natgas": {
       "name": "천연가스",
-      "chg_pct": 16.003672580075047,
+      "chg_pct": 4.375768996610122,
       "category": "other",
       "threshold": 3.0
     },
     "silver": {
       "name": "은",
-      "chg_pct": -7.3062839126994,
+      "chg_pct": -7.407827264919435,
       "category": "other",
       "threshold": 3.0
     },
@@ -3686,7 +3686,7 @@
     },
     "fvx": {
       "name": "FVX",
-      "chg_pct": -3.3908843555280477,
+      "chg_pct": -3.390874556162223,
       "category": "other",
       "threshold": 3.0
     },
